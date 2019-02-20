@@ -4,10 +4,11 @@ Per A&A SOP Guide 2019-02-02
 
 
 Table of Contents
-1. Purpose	                      1
-2. Scope                          1
-3. Authorization Prerequisites    1
-4. Assessment & Authorization (A&A) Requirements	2
+1. Purpose
+2. Scope
+3. Authorization Prerequisites
+4. Assessment & Authorization (A&A) Requirements
+
   4.1 Registration Requirements	3
     4.1.1 Application Registration	3
   4.2 Security Documentation Requirements	3
