@@ -2,11 +2,11 @@
 
 Per A&A SOP Guide 2019-02-02
 
-```
+
 Table of Contents
-1. Purpose	1
-2. Scope	1
-3. Authorization Prerequisites	1
+1. Purpose	                      1
+2. Scope                          1
+3. Authorization Prerequisites    1
 4. Assessment & Authorization (A&A) Requirements	2
   4.1 Registration Requirements	3
     4.1.1 Application Registration	3
@@ -40,6 +40,6 @@ Appendix C – Job Aid: Security Information	1
 Appendix D – Minor Applications Self-Assessment SOP	1
 Appendix E – A&A System/Facility DRP and ISCP Requirements	1
 Appendix F – Links/URLs/E-Mail Addresses	1
-'''
+
 
 
