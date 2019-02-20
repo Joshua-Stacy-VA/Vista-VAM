@@ -23,7 +23,7 @@ Table of Contents
     4.2.10 Interconnection Security Agreement (ISA)/Memorandum of Understanding (MOU)	8
     4.2.11 Secure Design Review	9
   4.3 Technical/Testing Requirements	10
-    4.3.1	Nessus Scan / [Discovery Scan (part of Nessus scan)]	10
+    4.3.1 Nessus Scan/[Discovery Scan (part of Nessus scan)]	10
       4.3.1.1	Database Scan	12
     4.3.2 Quality Code Review	12
   4.3.3 Secure Code Review	14
