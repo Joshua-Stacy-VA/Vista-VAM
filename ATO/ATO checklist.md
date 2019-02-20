@@ -150,8 +150,8 @@ Appendix E Acronyms 33
 CLOUD AUTHORIZATION CHECKLIST FOR DEPLOYMENTS WITHIN THE VAEC
 
 Authorization Prerequisites
-[] Information Security Officer (ISO) Designation and EPMO IA Security Analyst assigned
-[] Focused Integration Process Request (VIPR) Identification (ID) RiskVision Entry for Application or System
+-[] Information Security Officer (ISO) Designation and EPMO IA Security Analyst assigned
+-[] Focused Integration Process Request (VIPR) Identification (ID) RiskVision Entry for Application or System
 [] Application Registration
 [] Secure Design Review
 [] Privacy Threshold Analysis (PTA) / Privacy Impact Analysis (PIA)
