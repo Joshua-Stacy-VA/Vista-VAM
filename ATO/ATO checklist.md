@@ -46,7 +46,7 @@ Appendix E – A&A System/Facility DRP and ISCP Requirements	1
 Appendix F – Links/URLs/E-Mail Addresses	1
 ```
 
-Appendix A – FedRAMP/Cloud – VA Requirements 
+# Appendix A – FedRAMP/Cloud – VA Requirements 
 
 FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process
 
@@ -67,3 +67,19 @@ Note: A contract must be in place before requesting a RiskVision entry of the Fe
 5.	ISO will map the CSP authorization documentation artifacts to the VA ATO documentation requirements in RiskVision.  Then review and assess the CSP’s 3PAO FedRAMP authorized SSP using the NIST/CAG-20 scoresheet provided by OIS.  All documents will be uploaded to the Documents tab in RiskVision.
 
 6.	CSP authorization package in RiskVision will then be advanced to OIS and Certification Authority (CA) for review.  Additionally, VA determines if the CSP system appropriately addresses any and all necessary VA and Department of Homeland Security (DHS) Trusted Internet Connection (TIC) requirements (e.g., all external systems, including cloud solutions, hosted from facilities or data centers outside of the VA network and boundary must comply with DHS TIC requirements and VA’s external connection agreements) before progressing to the VA CISO and Designated Accrediting Authority (DAA) for agency ATO consideration. 
+
+
+## Cloud-Based VA Application / Workload / Third-Party System ATO Process
+
+The Cloud/FedRAMP cloud-based VA Application / Workload / Third-Party System ATO process consists of the following steps:
+
+1.	Coordinate with the RVWG to request a RiskVision entry of the cloud-based VA Application / Workload / Third-Party System.  Reference section 2 (Authorization Prerequisites) for action steps.
+
+2.	System Owner and ISO will complete the CSP/VA Application / Workload / Third-Party System questionnaire within RiskVision to define the system acronym, security categorization, operational status, system type, etc.
+
+3.	Customer Responsibilities Security Plan provided by the CSP ISO will be completed by the System Owner.  This set of security controls is documented in the FedRAMP authorized CSP Customer Responsibilities Matrix.  The security plan controls have been mapped to VA 6500 requirements.  
+
+4.	ISO will review the completed Customer Responsibilities Security Plan for proper implementation details and uploads to the Documents tab in RiskVision.
+The cloud-based VA Application / Workload / Third-Party System in RiskVision will then be advanced to OIS and Certification Authority (CA) for review before progressing to the VA CISO and Designated Accrediting Authority (DAA) for agency ATO consideration.
+
+
