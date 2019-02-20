@@ -1,6 +1,6 @@
 # ATO Checklist
 
-Per A&A SOP Guide 2019-02-02
+## A&A SOP Guide 2019-02-02
 
 ```
 Table of Contents
@@ -46,7 +46,7 @@ Appendix E – A&A System/Facility DRP and ISCP Requirements	1
 Appendix F – Links/URLs/E-Mail Addresses	1
 ```
 
-# Appendix A – FedRAMP/Cloud – VA Requirements 
+### Appendix A – FedRAMP/Cloud – VA Requirements 
 
 FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process
 
@@ -69,7 +69,7 @@ Note: A contract must be in place before requesting a RiskVision entry of the Fe
 6.	CSP authorization package in RiskVision will then be advanced to OIS and Certification Authority (CA) for review.  Additionally, VA determines if the CSP system appropriately addresses any and all necessary VA and Department of Homeland Security (DHS) Trusted Internet Connection (TIC) requirements (e.g., all external systems, including cloud solutions, hosted from facilities or data centers outside of the VA network and boundary must comply with DHS TIC requirements and VA’s external connection agreements) before progressing to the VA CISO and Designated Accrediting Authority (DAA) for agency ATO consideration. 
 
 
-## Cloud-Based VA Application / Workload / Third-Party System ATO Process
+### Cloud-Based VA Application / Workload / Third-Party System ATO Process
 
 The Cloud/FedRAMP cloud-based VA Application / Workload / Third-Party System ATO process consists of the following steps:
 
@@ -101,5 +101,46 @@ VA employees and contract staff working for the VA are prohibited from sending V
 o	 	If the VA AO refuses reciprocity of the other agency ATO, a memo will be developed and sent to the VA project staff for notification.
 
 
+## ATO Cloud Process 2018-11
 
+```
+VA Cloud Authority to Operate Process Summary  5
+1	Background 5
+2	Purpose 6
+3	Scope 7
+4	VA Cloud ATO Process – VA Cloud-Leveraged System8
+5	Authorization Prerequisites9
+5.1	Information Security Officer (ISO) Designation 9
+5.2	Veteran – Focused Integration Process Request (VIPR) Identification (ID)  10
+5.3	RiskVision Entry for Application or System  10
+5.4	Application Registration  10
+5.5	Secure Design Review  11
+5.6	Privacy Threshold Analysis (PTA) / Privacy Impact Analysis (PIA)  11
+6	Assessment & Authorization (A&A) Requirements 12
+6.1	Security Documentation  12
+6.1.1	System Security Plan (SSP) 12
+6.1.2	Incident Response Plan (IRP) 13
+6.1.3	Disaster Recovery Plan (DRP13
+6.1.4	Information Security Contingency Plan (ISCP14
+6.1.5	Privacy Threshold Analysis (PTA) / Privacy Impact Assessment (PIA) 14
+6.1.6	Interconnection Security Agreement (ISA) / Memorandum of Understanding (MOU) 15
+6.1.7	Configuration Management Plan (CMP15
+6.1.8	Signatory Authority 16
+6.1.9	Control Implementation Evidence 16
+6.1.10	Risk Assessment (RA) 17
+6.2	Scanning and Testing 17
+6.2.1	Nessus Scan 17
+6.2.2	Database Scan 18
+6.2.3	Verification & Validation (V&V) Quality Code Review19
+6.2.4	Secure Code Review 20
+6.2.5	Penetration Test / Web Application Security Assessment (WASA) 20
+6.2.6	Security Compliance Configuration Data (SCCD) 21
+6.3	Plan of Action and Milestone (POA&M) Remediation  22
+6.4	Authorizing Official System Brief (AOSB)  22
+Appendix A Cloud ATO Checklist23
+APPENDIX B VA Cloud ATO Report and Dashboard (Sample Mockup) 24
+Appendix C System Owner Policy Mandated Responsibilities 25
+Appendix D References and Supporting Documentation 32
+Appendix E Acronyms 33
+```
 
