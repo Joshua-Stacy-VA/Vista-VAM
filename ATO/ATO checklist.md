@@ -36,7 +36,7 @@ Table of Contents
     4.3.7 Control Implementation Evidence	19
     4.3.8 Enterprise Discovery Scan	19
 
-4.4	Closing	20
+  4.4	Closing	20
 
 Appendix A – FedRAMP/Cloud – VA Requirements	1
 Appendix B – Authorization Requirements Quick Reference Guide	1
