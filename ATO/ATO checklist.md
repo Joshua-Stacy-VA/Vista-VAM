@@ -2,20 +2,20 @@
 
 Per A&A SOP Guide 2019-02-02
 
->Table of Contents
->1.	Purpose	1
->2.	Scope	1
->3.	Authorization Prerequisites	1
->4.	Assessment & Authorization (A&A) Requirements	2
->4.1	Registration Requirements	3
->4.1.1	Application Registration	3
->4.2	Security Documentation Requirements	3
->4.2.1	System Security Plan (SSP)	4
->4.2.2	Minor Application Self-Assessment	4
->4.2.3	Signatory Authority	4
->4.2.4	Risk Assessment (RA)	5
->4.2.5	Configuration Management Plan (CMP)	5
->4.2.6	Incident Response Plan (IRP)	6
+> Table of Contents
+> 1.	Purpose	1
+> 2.	Scope	1
+> 3.	Authorization Prerequisites	1
+> 4.	Assessment & Authorization (A&A) Requirements	2
+> 4.1	Registration Requirements	3
+> 4.1.1	Application Registration	3
+> 4.2	Security Documentation Requirements	3
+> 4.2.1	System Security Plan (SSP)	4
+> 4.2.2	Minor Application Self-Assessment	4
+> 4.2.3	Signatory Authority	4
+> 4.2.4	Risk Assessment (RA)	5
+> 4.2.5	Configuration Management Plan (CMP)	5
+> 4.2.6	Incident Response Plan (IRP)	6
 >4.2.7	Information Security Contingency Plan (ISCP)	6
 >4.2.8	Disaster Recovery Plan (DRP)	7
 >4.2.9	Privacy Impact Assessment (PIA)	7
