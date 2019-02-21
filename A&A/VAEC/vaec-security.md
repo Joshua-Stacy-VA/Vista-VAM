@@ -18,8 +18,13 @@ The ECSO team, working with VA cybersecurity groups such as the Office of Inform
 
 __VAEC Application On-Boarding Form__ - Provides a quick description of your new or to-be-migrated application. Filled out by the project manager, it is designed to help VA and ECSO cybersecurity staff quickly understand your cloud-leveraged systems and its requirements.  When complete, this form should be sent to ecsoinfo@va.gov.
 
-__Cloud ATO Process__ - Explains how to get a VA ATO for a cloud-leveraged system. This document doesn't replace existing VA ATO process documentation but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_Application_Onboarding_Form.pdf
+
+__Cloud ATO Process__ - Explains how to get a VA ATO for a cloud-leveraged system. *__This document doesn't replace existing VA ATO process documentation*__ but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
 Pre-Submission Checklist
+
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/ATO%20Cloud%20Security%20Process_Nov_19_2018_v2.0%20(004)%20signed.pdf
+
 
 __Cloud Authority to Operate (ATO) Checklist__ - Cloud authorization checklist for deployments within the VAEC
 Customer Responsibility Matrix (CRM) - Building on the concept of the shared responsibility model, the CRM identifies who is responsible for which NIST security control.  This responsibility will shift based on the service model used: SaaS, PaaS or IaaS.
