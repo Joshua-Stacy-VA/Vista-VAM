@@ -92,8 +92,7 @@ Revision Date | Summary of Changes |Version |Author
 | April 2018 | Removed links in Appendix F that are no longer active | 3.17 | OCS |
 | May 2018 | Updated inactive links | 3.18 | OCS |
 | May 2018 | Added clarification in section 3 and section 4 that authorization packages must be progressed to ÒCA Provide Certification RecommendationÓ in workflow 45 days prior to ATO decision consideration deadline | 3.19 | OCS |
-| May 2018 | Updated contact information from CertificationPMO@va.gov (CPO) to vaoisisrmrmf@va.gov (ISRM)
-Removed OBC references  | 3.20 | OCS |
+| May 2018 | Updated contact information from CertificationPMO@va.gov (CPO) to vaoisisrmrmf@va.gov (ISRM); Removed OBC references  | 3.20 | OCS |
 | May 2018 | Updated Security Configuration Compliance Data section; Updated IRP section; Added link for RiskVision Checklist in section 3; Changed NSOC to CSOC | 3.21 | OCS |
 | June 2018 |  Added Mobile Application Security Assessment (MASA) to Section 4.3.4 Penetration Test/Application Assessment | 3.22 | OCS |
 | August 2018 | Replaced IEM with IBM BigFix; dated Security Configuration Compliance Data (section 4.3.5) with IBM BigFix requirement | 3.23 | OIS |
