@@ -12,14 +12,16 @@ Typical Shared Responsibility Model
 
 ATO-Typical Shared Responsibility Model.jpg 
 
-Getting Thru the Cloud ATO Process Quickly
+## Getting Thru the Cloud ATO Process Quickly
 
 The ECSO team, working with VA cybersecurity groups such as the Office of Information Security (OIS), has developed three documents to help your project team go through the ATO process quickly:
 
-VAEC Application On-Boarding Form - Provides a quick description of your new or to-be-migrated application. Filled out by the project manager, it is designed to help VA and ECSO cybersecurity staff quickly understand your cloud-leveraged systems and its requirements.  When complete, this form should be sent to ecsoinfo@va.gov.
-Cloud ATO Process - Explains how to get a VA ATO for a cloud-leveraged system. This document doesn't replace existing VA ATO process documentation but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
+__VAEC Application On-Boarding Form__ - Provides a quick description of your new or to-be-migrated application. Filled out by the project manager, it is designed to help VA and ECSO cybersecurity staff quickly understand your cloud-leveraged systems and its requirements.  When complete, this form should be sent to ecsoinfo@va.gov.
+
+__Cloud ATO Process__ - Explains how to get a VA ATO for a cloud-leveraged system. This document doesn't replace existing VA ATO process documentation but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
 Pre-Submission Checklist
-Cloud Authority to Operate (ATO) Checklist - Cloud authorization checklist for deployments within the VAEC
+
+__Cloud Authority to Operate (ATO) Checklist__ - Cloud authorization checklist for deployments within the VAEC
 Customer Responsibility Matrix (CRM) - Building on the concept of the shared responsibility model, the CRM identifies who is responsible for which NIST security control.  This responsibility will shift based on the service model used: SaaS, PaaS or IaaS.
 The following templates include the VAEC information and can be used as a basis for your documents:
 
