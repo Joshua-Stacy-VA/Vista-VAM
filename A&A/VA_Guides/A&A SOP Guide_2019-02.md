@@ -46,12 +46,6 @@ Appendix F Ð Links/URLs/E-Mail Addresses	1
 ```
 
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-
 ### Document Revision History
 Revision Date | Summary of Changes |Version |Author
 | --- | --- | --- | --- |
@@ -89,7 +83,7 @@ Revision Date | Summary of Changes |Version |Author
 | April 2017 | Updated section 4.3.6 (SCA) | 3.8 | OCS |
 | April 2017 | Added Scope statement | 3.9 | OCS |
 | May 2017 | Updated section 4.2.11 Secure Design Review; Updated the TOC to show the DB scan section 4.3.1.1  | 3.10 | OCS |
-| June 2017 | Updated section 4.1.1; included COTS products registration requirement. Added a new section 4.3.2: Quality Code Review | 3.11 | OCS |
+| June 2017 | Updated section 4.1.1; included COTS products registration requirement. Added a new section 4.3.2: Quality Code Review |3.11 | OCS |
 | July 2017 | Updated links to request technical scans under section 4.3  | 3.12 | OCS |
 | October 2017 | Added a note to Section 4; Added more details on findings remediation timeline.   | 3.13 | OCS |
 | December 2017 | Changed title to Authorization Requirements SOP Guide;  Replaced ÒAccreditationÓ with ÒAuthorizationÓ throughout the document;  Added link for Nessus scan requests in section 4.3.1 Step 2. | 3.14 | OCS |
