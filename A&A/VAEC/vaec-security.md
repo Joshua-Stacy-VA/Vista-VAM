@@ -20,25 +20,50 @@ __VAEC Application On-Boarding Form__ - Provides a quick description of your new
 
 Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_Application_Onboarding_Form.pdf
 
-__Cloud ATO Process__ - Explains how to get a VA ATO for a cloud-leveraged system. *__This document doesn't replace existing VA ATO process documentation*__ but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
-Pre-Submission Checklist
+__Cloud ATO Process__ - Explains how to get a VA ATO for a cloud-leveraged system. *This document doesn't replace existing VA ATO process documentation* but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
 
 Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/ATO%20Cloud%20Security%20Process_Nov_19_2018_v2.0%20(004)%20signed.pdf
 
 
-__Cloud Authority to Operate (ATO) Checklist__ - Cloud authorization checklist for deployments within the VAEC
-Customer Responsibility Matrix (CRM) - Building on the concept of the shared responsibility model, the CRM identifies who is responsible for which NIST security control.  This responsibility will shift based on the service model used: SaaS, PaaS or IaaS.
+* Pre-Submission Checklist
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/Pre-Submission%20Checklist.pdf
+
+* Cloud Authority to Operate (ATO) Checklist - Cloud authorization checklist for deployments within the VAEC
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/ATO%20Checklist.pdf
+
+
+
+__Customer Responsibility Matrix (CRM)__ - Building on the concept of the shared responsibility model, the CRM identifies who is responsible for which NIST security control.  This responsibility will shift based on the service model used: SaaS, PaaS or IaaS.
+
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_CRM_APPROVED_6FEB2019.xlsx
+
 The following templates include the VAEC information and can be used as a basis for your documents:
 
 AWS Incident Response Plan Associate Template
+Link:https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/9_VAEC_AWS_IRP_11302018%20Associate%20Template.docx
+
 AWS Disaster Recovery Plan Associate Template  
-AWS Configuration Management Plan Associate Template  
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC%20AWS%20-%20DRP%2011252018%20Associate%20Template.docx
+
+AWS Configuration Management Plan Associate Template
+Link:https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_AWS_CMP_v2.0_11252018%20associate%20template.docx
+
+
 AWS Information System Contingency Plan Associate Template
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_AWS_ISCP_1125018%20Associate%20template.docx
+
+
 Azure Incident Response Plan Associate Template  
 Azure Disaster Recovery Plan Associate Template   
 Azure Configuration Management Plan Associate Template  
 Azure Information System Contingency Plan Associate Template  
+
+
 The VAEC Security team can run UNOFFICIAL pre-ATO Nessus scans for your environment to aid in assessing your security posture. Download the following documents:
 
-Instructions for submitting a scan request  
-Template for Nessus scan  
+Instructions for submitting a scan request
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/APPLICATION%20information%20for%20Nessus%20scan%20-%20template.xlsx
+
+Template for Nessus scan
+Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/Information%20required%20to%20run%20Nessus%20scan%20on%20applications%20in%20the%20VAEC%20V2.docx
+
