@@ -5,7 +5,7 @@ Authorization Requirements
 Standard Operating Procedures
 Version 3.31
 FEBRUARY 4, 2019
-
+```
 
 Table of Contents
 1.	Purpose	1
@@ -37,13 +37,13 @@ Table of Contents
 4.3.7 Control Implementation Evidence	19
 4.3.8 Enterprise Discovery Scan	19
 4.4	Closing	20
-Appendix A Ð FedRAMP/Cloud Ð VA Requirements	1
-Appendix B Ð Authorization Requirements Quick Reference Guide	1
-Appendix C Ð Job Aid: Security Information	1
-Appendix D Ð Minor Applications Self-Assessment SOP	1
-Appendix E Ð A&A System/Facility DRP and ISCP Requirements	1
-Appendix F Ð Links/URLs/E-Mail Addresses	1
-```
+Appendix A FedRAMP/Cloud VA Requirements	1
+Appendix B Authorization Requirements Quick Reference Guide	1
+Appendix C Job Aid: Security Information	1
+Appendix D Minor Applications Self-Assessment SOP	1
+Appendix E A&A System/Facility DRP and ISCP Requirements	1
+Appendix F Links/URLs/E-Mail Addresses	1
+
 
 
  
@@ -70,9 +70,11 @@ b)  The RVWG will include the Application/System for discussion on the weekly me
 c)  Once RVWG approves the Application/System for a RiskVision entry, the System Owner or delegate will be notified by OIS via e-mail from the GRC Service Desk (vaGRCservicedesk@va.gov) stating access to the applicable instance of RiskVision: 
 o  National Release GRC Instance: https://vaww.grc.va.gov/spc/index.jsp 
 o  Enterprise Operations GRC Instance: https://vaww.eogrc.va.gov/spc/index.jsp
+
 3. Once the applicable parties have access to RiskVision and the system resides in the tool, the System Owner or delegate shall contact their ISO to review the authorization requirements and determine if certain requirements are not applicable based on the type of system in question.
 The applicable system POCs must have their authorization package completed, uploaded to RiskVision, and progressed to ÒCA Provide Certification RecommendationÓ in the workflow no less than 45 calendar days prior to the date they want their authorization decision to be made.  
-4. Assessment & Authorization (A&A) Requirements
+
+# 4. Assessment & Authorization (A&A) Requirements
 The VA A&A requirements include technical/testing, security documentation, and security control compliance requirements. Details about the various requirements are in the following sections. Authorization packages must be completed, uploaded to RiskVision, and progressed to ÒCA Provide Certification RecommendationÓ in the workflow no less than forty-five (45) calendar days prior to the ATO decision consideration deadline. If a required security control is not implemented, the project team must create a POA&M/Finding in RiskVision to keep track of the remediation effort. 
 
 Note: Only completed, required A&A security artifacts including the technical scan results and remediation strategies should be uploaded to Documents tab within RiskVision. Documents tab is not the place to upload evidence.    
