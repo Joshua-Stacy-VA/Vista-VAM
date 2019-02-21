@@ -88,8 +88,7 @@ Revision Date | Summary of Changes |Version |Author
 | October 2017 | Added a note to Section 4; Added more details on findings remediation timeline.   | 3.13 | OCS |
 | December 2017 | Changed title to Authorization Requirements SOP Guide;  Replaced ÒAccreditationÓ with ÒAuthorizationÓ throughout the document;  Added link for Nessus scan requests in section 4.3.1 Step 2. | 3.14 | OCS |
 | January 2018 | Updated Security Configuration Compliance Data (SCCD) guidance in section 4.3.5, Appendix B, and Appendix F; Updated verbiage in Section 4.3 requiring SOs/Delegates to upload an explanation for any technical requirement thatÕs considered not applicable | 3.15 | OCS |
-| March 2018 | Updated verbiage in section 3.3 indicating SO or delegate should work with ISO to review authorization requirements
-Added link for new Major Change Notification Form requirement under section 4 | 3.16 | OCS |
+| March 2018 | Updated verbiage in section 3.3 indicating SO or delegate should work with ISO to review authorization requirements; Added link for new Major Change Notification Form requirement under section 4 | 3.16 | OCS |
 | April 2018 | Removed links in Appendix F that are no longer active | 3.17 | OCS |
 | May 2018 | Updated inactive links | 3.18 | OCS |
 | May 2018 | Added clarification in section 3 and section 4 that authorization packages must be progressed to ÒCA Provide Certification RecommendationÓ in workflow 45 days prior to ATO decision consideration deadline | 3.19 | OCS |
