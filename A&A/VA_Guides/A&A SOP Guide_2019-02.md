@@ -47,7 +47,7 @@ Appendix F Ð Links/URLs/E-Mail Addresses	1
 
 Document Revision History
 Revision Date | Summary of Changes |Version |Author
----|---|---|---|
+| --- | --- | --- | --- |
 January 2014 | Initial version of SOP |1.0 | OCS
 April 2014 |Updates made to Nessus Scan, Secure Code Review, and Security Configuration Compliance Data Requirements| 1.1 | OCS
 June 2014 | Added Security Information Job Aid to Appendix C of SOP | 1.2 | OCS
