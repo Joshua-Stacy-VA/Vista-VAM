@@ -1,13 +1,12 @@
 
-```
-OFFICE OF INFORMATION SECURITY
+**OFFICE OF INFORMATION SECURITY
 Authorization Requirements 
 Standard Operating Procedures
 Version 3.31
-FEBRUARY 4, 2019
-```
+FEBRUARY 4, 2019**
 
-Table of Contents
+# Table of Contents
+```
 1.	Purpose	1
 2.	Scope	1
 3.	Authorization Prerequisites	1
