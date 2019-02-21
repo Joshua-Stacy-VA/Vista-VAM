@@ -54,7 +54,7 @@ RiskVision guidance documentation can be found on the Office of Information Secu
 This is a living document based on current federal and VA security policies, standards and guidance, and is subject to change.
 
 # 2. Scope
-These procedures apply to systems that are required to obtain an Authority to Operate (ATO).Ê It does not apply to sandbox environments, non-VA networks, or development networks not otherwise connected to the VA network.Ê Those environments will be excluded from the procedures identified in this SOP.Ê They will not be entered into GRC and thus any documentation to include POAMs would not be loaded into GRC and GRC would not be the appropriate tracking mechanisms for deficiencies. 
+These procedures apply to systems that are required to obtain an Authority to Operate (ATO). It does not apply to sandbox environments, non-VA networks, or development networks not otherwise connected to the VA network. Those environments will be excluded from the procedures identified in this SOP. They will not be entered into GRC and thus any documentation to include POAMs would not be loaded into GRC and GRC would not be the appropriate tracking mechanisms for deficiencies. 
 
 # 3. Authorization Prerequisites
 The following steps need to be followed once a system is identified as needing a VA authorization decision:
@@ -79,9 +79,23 @@ The VA A&A requirements include technical/testing, security documentation, and s
 Note: Only completed, required A&A security artifacts including the technical scan results and remediation strategies should be uploaded to Documents tab within RiskVision. Documents tab is not the place to upload evidence.    
 
 All systems currently in the GRC tool that are moving to the VA Enterprise Cloud (VAEC) environment MUST go to the RVWG and a new entry be made to create the new ATO package.
+
 If a system undergoes a significant (major) change (as defined below) after an ATO determination is made, it is required to re-complete the A&A requirements, including updating all security documentation to reflect the change. Additionally, the Major Change Notification Form, which can be found here, must be completed and included with the Authorization package that must be uploaded to RiskVision, and progressed to ÒCA Provide Certification RecommendationÓ in the workflow no less than forty-five (45) calendar days prior to the ATO decision consideration deadline.
 
-Significant Change Definition: Per the current draft VA Handbook 6500.3, Assessment, Authorization, And Continuous Monitoring of VA Information Systems, the definition of Ôsignificant change is as follows:Ê A significant (major) change to an information system or environment of operation is a change that is likely to affect the security state of the information system.Ê Significant changes to an information system may include, but are not limited to, for example:Ê (i) installation of a new or upgraded operating system, middleware component, or application; (ii) modifications to system ports, protocols, or services; (iii) installation of a new or upgraded hardware platform; (iv) modifications to cryptographic modules or services; or (v) modifications to security controls.Ê Examples of significant changes to the environment of operation may include, but are not limited to, for example:Ê (i) moving to a new facility; (ii) adding new core missions or business functions; (iii) acquiring specific and credible threat information that the organization is being targeted by a threat source; or (iv) establishing new/modified laws, policies, or regulations.ÊSource:Ê SP 800-37 Rev 1 [VA Adopted].
+__Significant Change Definition:__ Per the current draft VA Handbook 6500.3, Assessment, Authorization, And Continuous Monitoring of VA Information Systems, the definition of significant change is as follows: A significant (major) change to an information system or environment of operation is a change that is likely to affect the security state of the information system. Significant changes to an information system may include, but are not limited to, for example: 
+(i) installation of a new or upgraded operating system, middleware component, or application; 
+(ii) modifications to system ports, protocols, or services; 
+(iii) installation of a new or upgraded hardware platform; 
+(iv) modifications to cryptographic modules or services; or 
+(v) modifications to security controls. 
+
+Examples of significant changes to the environment of operation may include, but are not limited to, for example: 
+(i) moving to a new facility; 
+(ii) adding new core missions or business functions; 
+(iii) acquiring specific and credible threat information that the organization is being targeted by a threat source; or 
+(iv) establishing new/modified laws, policies, or regulations.
+
+Source: SP 800-37 Rev 1 [VA Adopted].
 
 ## 4.1 Registration Requirements
 The following section provides details on each of the registration requirements including a description of the requirements and the parties/OIS organization(s) that will assist in the completion of the requirements.  
@@ -93,7 +107,7 @@ For detailed instructions on the registration process, reference the VA Software
 
 Note: Application registration is required before either a Secure Code Review Validation or a Penetration Test / Application Assessment can be scheduled for all applications subject to secure code review authorization requirements. Also note that Software as a Service (SaaS) should follow COTS registration procedures.
 
-Continuous Monitoring Requirement Ð Application registration is required when requested by OIS and/or CSOC.
+Continuous Monitoring Requirement: Application registration is required when requested by OIS and/or CSOC.
 
 ## 4.2 Security Documentation Requirements
 The following section provides details on each of the required security artifacts including the document requirements, references, and the parties/OIS organization(s) that can provide additional guidance for each artifact.  
@@ -181,9 +195,9 @@ o OIS Cyber Security Portal
 * Once completed and tested, the System Owner or designee uploads the signed IRP into RiskVision.
 * Each site is responsible for developing local level procedures incorporating VA-CSOC areas of responsibility.
 * The Incident Response Plan must meet the following standards in creation:
-o ÊInformation Access and Privacy Program 
-o ÊNIST Special Publication 800-61 - Computer Security Incident Handling Guide 
-o ÊVA Handbook 6500.3, Certification and Authorization of Federal Information Systems
+o Information Access and Privacy Program 
+o NIST Special Publication 800-61 - Computer Security Incident Handling Guide 
+o VA Handbook 6500.3, Certification and Authorization of Federal Information Systems
 Continuous Monitoring Requirement Ð The IRP must be tested and updated on an annual basis or when a significant change in the system or a major change in the data occurs.
 
 ### 4.2.7 Information Security Contingency Plan (ISCP)
@@ -217,7 +231,7 @@ Continuous Monitoring Requirement Ð The DRP must be tested and updated on an an
 
 ### 4.2.9 Privacy Impact Assessment (PIA)
 PIA guidance is provided below:
-Ê
+
 * A complete PIA must have:
 o A previously completed Privacy Threshold Analysis (PTA).
 o Been completed using the most up-to-date Privacy Services approved template for both the PTA and PIA. The PTA template can be found at http://vaww.oprm.va.gov/privacy/pta.aspx and PIA template can be found at http://vaww.oprm.va.gov/privacy/pia.aspx.
@@ -225,7 +239,7 @@ o Been completed in coordination with the VA Privacy Services Office.
 o Been signed by the System Owner, Privacy Officer, and ISO. 
 o Been re-submitted whenever there are significant (major) changes to the system or within 3 years.
 * Authority is found in E-Government Act of 2002, OMB Circular 03-22, VA Directive 6502, VA Directive 6508, and VA Handbook 6508.1.
-* Additional guidance for completion of the PIA/PTA can be provided by the Privacy Services Office.Ê Any questions may be sent to PIASupport@va.gov. 
+* Additional guidance for completion of the PIA/PTA can be provided by the Privacy Services Office. Any questions may be sent to PIASupport@va.gov. 
 
 PIA Completion Steps: 
 
@@ -257,19 +271,20 @@ ISA/MOU completion steps:
 8. The finalized document should also be added to the existing A&A artifacts in RiskVision. 
 
 Continuous Monitoring Requirement Ð The ISA/MOU Review Sheet must be completed on an annual basis. If there is a significant change, which impacts the architecture, please contact the Health Information Security Division at vafsshisd@va.gov to determine if an update to the ISA/MOU is necessary.
-4.2.11 ÊÊ Secure Design Review
+
+### 4.2.11  Secure Design Review
 Secure Design Review (Application Threat Modeling) guidance is provided below:
 
-*ÊÊÊÊÊÊ Secure Design Review guidance is found in VA Secure Design Review SOP.
-*ÊÊÊÊÊÊ Additional guidance for performing Secure Design Review are posted on the VA Software Assurance (SwA) Program Office Resource Site
-*ÊÊÊÊÊÊ All required diagrams and analysis of potential threats to include all applicable technologies/libraries utilized by the custom application.
-*ÊÊÊÊÊÊ All potential threats must be analyzed. A finding will need to be created in RiskVision for every potential threat that is not analyzed.
+* Secure Design Review guidance is found in VA Secure Design Review SOP.
+* Additional guidance for performing Secure Design Review are posted on the VA Software Assurance (SwA) Program Office Resource Site
+* All required diagrams and analysis of potential threats to include all applicable technologies/libraries utilized by the custom application.
+* ll potential threats must be analyzed. A finding will need to be created in RiskVision for every potential threat that is not analyzed.
 Secure Design Review completion steps:
 
-1.ÊÊ The steps to request the development of an initial threat model to analyze can be found here.
-2.ÊÊ ÊMust meet the following standards in performing this activity:
-*ÊÊÊÊÊÊ VA Secure Design Review SOP
-3.ÊÊ The ISO, System Owner or delegate/System Steward uploads the analyzed threat model to the Documents tab in RiskVision.
+1. The steps to request the development of an initial threat model to analyze can be found here.
+2. Must meet the following standards in performing this activity:
+* A Secure Design Review SOP
+3. e ISO, System Owner or delegate/System Steward uploads the analyzed threat model to the Documents tab in RiskVision.
 
 Continuous Monitoring Requirement Ð The Secure Design Review must be updated on an annual basis or when a significant change in the system or a major change in the application architecture occurs.
 
@@ -290,7 +305,7 @@ The following steps must be performed to meet the Nessus Scan requirement (if th
 1. If the system receives a monthly predictive Nessus vulnerability scan from CSOC and the IP addresses that make up the system are all Windows based then please provide the IP Ranges to the ISRM at vaoisisrmrmf@va.gov, so the applicable Nessus data can be provided in TVM within RiskVision, then proceed to Step 3.
 a) If the system receives a monthly predictive Nessus vulnerability scan from CSOC, and the IP addresses that make up the system are not all Windows based, then proceed step 2, as all necessary Operating System information will not be captured in the predictive scans from CSOC that are filtered into TVM. 
 b) If the IP addresses that make up a system are outside of the VA network (Managed Services) and/or the system does not currently receive a monthly predictive Nessus vulnerability scan from CSOC, then proceed to Step 2.
-2. System Owner or delegate can request a Nessus scan using this link.Ê Once the request is completed, ISRM will work with CSOC to determine if a separate supplemental vulnerability scan shall be conducted or authentication information for the non-Windows devices be added to the existing monthly predictive scan.Ê If a separate supplemental scan is decided on by ISRM/CSOC, upload the results to the Documents tab within RiskVision when results are sent to you orÊif its decided that the authentication information can be added for the non-Windows devices to the monthly predictive scans conducted by CSOC then please provide the IP Ranges to vaoisisrmrmf@va.gov, so the applicable Nessus data can be provided in TVM within RiskVision. 
+2. System Owner or delegate can request a Nessus scan using this link. Once the request is completed, ISRM will work with CSOC to determine if a separate supplemental vulnerability scan shall be conducted or authentication information for the non-Windows devices be added to the existing monthly predictive scan. If a separate supplemental scan is decided on by ISRM/CSOC, upload the results to the Documents tab within RiskVision when results are sent to you or if its decided that the authentication information can be added for the non-Windows devices to the monthly predictive scans conducted by CSOC then please provide the IP Ranges to vaoisisrmrmf@va.gov, so the applicable Nessus data can be provided in TVM within RiskVision. 
 a) Note:  CSOC must conduct an independent Nessus Scan for all VA owned systems and Managed Services. CSOC has visibility into Enterprise Operations (EO) systems and has the ability to perform Nessus scans in coordination with system personnel if needed. External systems / Managed Services must have a recent CSOC Nessus scan conducted either via remote connection or by utilizing CSOC staff on-site to perform scans, when necessary. 
 3. Once the system's Nessus Scan data is accurately shown in TVM within RiskVision, System Owner or delegate follows these steps:
 a) Browse to Information Central Analytics and Metrics Platforms (ICAMP) and use the Remediation Effort Entry Form (REEF) to document your manual remediation effort. For each deficiency identified from the scan, the System Owner or delegate creates a response within REEF for mitigating the deficiencies and / or provides evidence that the deficiencies have been mitigated.  Also, include the scheduled completion date and status of each deficiency within REEF.  
@@ -309,20 +324,20 @@ Continuous Monitoring Requirement Ð CSOC conducts predictive Nessus vulnerabili
 Both HQ and EO systems must request a database scan if the project hosts a database to store and process information. A database scan must be conducted at least on an annual basis. In order to maintain the authorization decision for the system, any findings must be remediated within the approved timelines for the severity of the findings, and a POA&M must be created in RiskVision to keep track of the remediation effort. Database scans can be requested by visiting this link. The database scanning team can also be reached at VANSOCDBScans@va.gov for more information. If a database scan is not applicable, upload a word document to the Documents tab within RiskVision explaining why a database scan is not applicable.
 
 ### 4.3.2 Quality Code Review
-Quality code reviews of custom developed VA applications using the approved VA static code analysis tool should be conducted to identify code quality issues within VA applications.Ê Applications written in languages that are not supported, such as MUMPS, shall be targeted for manual review of testing with other applicable tools; notify the VA Software Assurance (SwA) Program Office if this is the case at: OISSwASupportGroup@va.gov. If a Quality Code Review is not applicable, upload a word document to the Documents tab within RiskVision explaining why a Quality Code Review is not applicable.
+Quality code reviews of custom developed VA applications using the approved VA static code analysis tool should be conducted to identify code quality issues within VA application Applications written in languages that are not supported, such as MUMPS, shall be targeted for manual review of testing with other applicable tools; notify the VA Software Assurance (SwA) Program Office if this is the case at: OISSwASupportGroup@va.gov. If a Quality Code Review is not applicable, upload a word document to the Documents tab within RiskVision explaining why a Quality Code Review is not applicable.
 For detailed instructions on the code reviews process, reference the VA Quality Code Review SOP and guidance materials, which are posted on the VA SwA Program Office Resource Site. An overview of the quality code review instructions are provided below. 
 Verification & Validation (V&V) Quality Code Reviews
 V&V quality code reviews are conducted during the development or maintenance of a VA application by the VA Application Development team. Close cooperation between OIS and the Office of Information Technology (OIT), including supporting contractors, is critical to achieving quality code review objectives and increasing the level of confidence that software developed for use at the VA robust and maintainable. The goals of performing quality code reviews includes making sure that unpredictable behavior due to poor code quality is minimized and that V&Vs performed by VA software developers are done correctly and consistently, according to minimum standards prescribed by the VA. 
 
 The following steps must be performed to meet the V&V quality code review requirement: 
-1.ÊÊ VA Application Developers open a NSD ticket [(855) NSD-HELP] to request VA static code analysis tools in order to perform scans according to the procedures in the VA Quality Code Review SOP and guidance materials.
-2.ÊÊ VA Application Developers scan their own application source code. 
-3.ÊÊ VA Application Developers open a NSD ticket [(855) NSD-HELP] to request validation of a final V&V quality code review.
-4.ÊÊ VA Application Developers deliver the scan results to the VA SwA Program Office at: OISSwASupportGroup@va.gov for review, work with the VA SwA Program Office to schedule the validation, and coordinate with them to resolve any issues identified during validation.
-a)ÊÊÊThe scan results are reviewed to ensure that minimum VA standards have been met. The VA SwA Program Office determines whether additional analysis is needed, and works with the VA Application Developers to ensure that they understand how to meet the standards required. 
-5.ÊÊ System Owner or delegate uploads full test results to the Documents tab in RiskVision.
-6.ÊÊ For each deficiency identified from the V&V quality code review, System Owner or delegate creates a response for mitigating the deficiencies and/or provides evidence that the deficiencies have been mitigated. Also, include the scheduled completion date and status of each deficiency. Information should be provided in Excel or Word format; refer to the OIS preferred template located on the OIS Portal at A&A Home Documents. System Owner or delegate uploads the aforementioned document to the Documents tab in RiskVision. 
-7.ÊÊÊ System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the V&V quality code review to serve as a reminder to resolve the deficiencies.
+1.VA Application Developers open a NSD ticket [(855) NSD-HELP] to request VA static code analysis tools in order to perform scans according to the procedures in the VA Quality Code Review SOP and guidance materials.
+2.VA Application Developers scan their own application source code. 
+3.VA Application Developers open a NSD ticket [(855) NSD-HELP] to request validation of a final V&V quality code review.
+4.VA Application Developers deliver the scan results to the VA SwA Program Office at: OISSwASupportGroup@va.gov for review, work with the VA SwA Program Office to schedule the validation, and coordinate with them to resolve any issues identified during validation.
+a)The scan results are reviewed to ensure that minimum VA standards have been met. The VA SwA Program Office determines whether additional analysis is needed, and works with the VA Application Developers to ensure that they understand how to meet the standards required. 
+5.System Owner or delegate uploads full test results to the Documents tab in RiskVision.
+6.For each deficiency identified from the V&V quality code review, System Owner or delegate creates a response for mitigating the deficiencies and/or provides evidence that the deficiencies have been mitigated. Also, include the scheduled completion date and status of each deficiency. Information should be provided in Excel or Word format; refer to the OIS preferred template located on the OIS Portal at A&A Home Documents. System Owner or delegate uploads the aforementioned document to the Documents tab in RiskVision. 
+7.System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the V&V quality code review to serve as a reminder to resolve the deficiencies.
 Note:  See also the SwA Blog for future related A&A requirement announcements.
 Continuous Monitoring Requirement Ð A V&V Quality Code Review is required annually once the application is in sustainment OR upon discovery that the application has already been deployed to production and has not gone through the process, e.g. older applications in sustainment OR upon every major release OR when requested by OIS and/or CSOC.
 
@@ -502,7 +517,7 @@ If the system's Nessus Scan data is not currently displayed in TVM within RiskVi
 * TVM guidance material located on the OIS portal at Training and Brown Bag Materials 
 
 ### Quality Code Review
-* Quality code reviews of custom developed VA applications using the approved VA static code analysis tool should be conducted to identify code quality issues within VA applications.Ê 
+* Quality code reviews of custom developed VA applications using the approved VA static code analysis tool should be conducted to identify code quality issues within VA applications. 
 * Applications written in languages that are not supported, such as MUMPS, shall be targeted for manual review of testing with other applicable tools; notify the VA Software Assurance (SwA) Program Office if this is the case at: OISSwASupportGroup@va.gov.
 
 ### V&V Quality Code Reviews
@@ -688,7 +703,7 @@ Security Documentation Requirements
 * System Owner or delegate re-submits the PIA as a PDF file with the signatures of the System Owner, Privacy Officer, ISO, and any other relevant stakeholders to PIASupport@va.gov. 
 * System Owner or delegate uploads the PIA to RiskVision under Entity Details: Documents tab.
 * Authority is found in E-Government Act of 2002, OMB Circular 03-22, VA Directive 6502, VA Directive 6508, and VA Handbook 6508.1
-* Additional guidance for completion of the PIA/PTA can be provided by the Privacy Services Office.Ê Any questions may be sent to PIASupport@va.gov
+* Additional guidance for completion of the PIA/PTA can be provided by the Privacy Services Office. Any questions may be sent to PIASupport@va.gov
 
 ### Interconnection Security Agreement (ISA)/ Memorandum of Understanding (MOU) 
 * An ISA/MOU must be provided for all external interconnections.
@@ -726,7 +741,7 @@ Independent third-party Assessment & Authorization (A&A) reviews are conducted t
 * Technical security tests (penetration tests, vulnerability scans, discovery scans, and security configuration compliance scans) conducted by the VA-CSOC.
 * Verification and Validation (V&V) Secure Code Reviews conducted by VA Application Developers.
 * OIS third-party assessments of all system security documentation, on-site assessment results, technical testing results, secure code review results, and configuration files provided by the system personnel.
-All VA systems were assessed in August 2013 during the deployment of RiskVision. If a package lacked information but the security posture was acceptable, the Authorizing Official could issue an ATO with Conditions, thereby allowing the system to store, process, or transmit VA data, while the remaining security information is provided by the System Owner.  Under no circumstances, has any VA system been allowed to operate minus a review of the security authorization package required by NIST. It is important to note the NIST affords Federal Departments and Agencies latitude throughout the authorization process to make balanced decisions that are based on security risk and the business needs of the Department.Ê It is incorrect to state that VA systems were not assessed consistent with NIST standards and were allowed to operate devoid of a security posture determination.
+All VA systems were assessed in August 2013 during the deployment of RiskVision. If a package lacked information but the security posture was acceptable, the Authorizing Official could issue an ATO with Conditions, thereby allowing the system to store, process, or transmit VA data, while the remaining security information is provided by the System Owner.  Under no circumstances, has any VA system been allowed to operate minus a review of the security authorization package required by NIST. It is important to note the NIST affords Federal Departments and Agencies latitude throughout the authorization process to make balanced decisions that are based on security risk and the business needs of the Department. It is incorrect to state that VA systems were not assessed consistent with NIST standards and were allowed to operate devoid of a security posture determination.
 
 VA authorization requirements can be conducted and met using remote capabilities. Therefore, on-site SCAs conducted by ERM are only conducted on a sub-set of VA systems annually.  This is also in part due to lack of resources, funding, and time required to travel to VA and Managed Service sites. The schedule for system SCAs is determined by ERM in coordination with OIS based on available resources, budget, and system SCA needs.
 
@@ -779,9 +794,9 @@ Reference 1: Authorization Requirements Standard Operating Procedure (SOP) / Gui
 Reference 2: TVM Training
 
 ## 6. NIST SP 800-53 Rev 3 to Rev 4 Transition
-OIS Risk Based Decision (RBD) 53, Implementation of NIST 800-53 Revision 4 is in place acknowledging that VA has not issued updated policy guidance that adds the new Revision 4 requirements.Ê However, OMB guidance (M-04-14) provides Departments with the flexibility and latitude in applying and implementing NIST's guidelines.Ê VA will apply the NIST Rev 4 guidance to all new system implementations and also when systems undergo upgrades.Ê This is standard practice throughout the government for several years and accepted by OIGs at other Departments. It is not practical or cost effective to immediately update all systems within one year, each time NIST updates its systems security guidelines. The new Revision 4 adds 200 new additional system security controls or enhancements for federal systems.ÊÊ For VA legacy systems in operation and not due for upgrades, VA will consider using RBDs regarding whether it is cost effective to implement out of cycle upgrades to address new NIST systems security guidance.
+OIS Risk Based Decision (RBD) 53, Implementation of NIST 800-53 Revision 4 is in place acknowledging that VA has not issued updated policy guidance that adds the new Revision 4 requirements. However, OMB guidance (M-04-14) provides Departments with the flexibility and latitude in applying and implementing NIST's guidelines. VA will apply the NIST Rev 4 guidance to all new system implementations and also when systems undergo upgrades. This is standard practice throughout the government for several years and accepted by OIGs at other Departments. It is not practical or cost effective to immediately update all systems within one year, each time NIST updates its systems security guidelines. The new Revision 4 adds 200 new additional system security controls or enhancements for federal systems. For VA legacy systems in operation and not due for upgrades, VA will consider using RBDs regarding whether it is cost effective to implement out of cycle upgrades to address new NIST systems security guidance.
 
-The updated VA Handbook 6500 reflecting NIST Revision 4 has been drafted and is currently going through the concurrence process, and is expected for release prior to the end of the 2014 fiscal year.Ê OIS is taking action to expedite the policy coordination and issuance process to make it timelier for future policy updates.Ê An RBD or POA&M/Finding will be developed for legacy systems that are not due for upgrades, to assess whether the systems development life cycle process will support the implementation of new, additional controls.Ê 
+The updated VA Handbook 6500 reflecting NIST Revision 4 has been drafted and is currently going through the concurrence process, and is expected for release prior to the end of the 2014 fiscal year. OIS is taking action to expedite the policy coordination and issuance process to make it timelier for future policy updates. An RBD or POA&M/Finding will be developed for legacy systems that are not due for upgrades, to assess whether the systems development life cycle process will support the implementation of new, additional controls. 
 
 RiskVision will be capable of performing assessments based on Revision 4 content by June 30, 2014, with new assessments being conducted consistent with Revision 4 by the end of the 1st Quarter of FY15.
 
@@ -909,19 +924,20 @@ Region1
 ¥ Region 1 - RCSnet Assessing
 ¥ Region 1 GSS Assessing
 ¥ Region 1 Infrastructure Assessing
-¥ Region 1 VistA AssessingÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ ÊÊÊÊÊÊÊÊÊÊÊÊÊÊ
+¥ Region 1 VistA Assessing
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 Region2
 ¥ Region 2 GSS Assessing
 ¥ Region 2 Infrastructure Assessing
-¥ Region 2 VistA Assessing ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ
+¥ Region 2 VistA Assessing 
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 Region3
 ¥ Region 3 GSS Assessing
 ¥ Region 3 Infrastructure Assessing
-¥ Region 3 VistA Assessing                                                       ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ
+¥ Region 3 VistA Assessing                                                       
+
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 Region4
@@ -952,10 +968,10 @@ Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 Facilities
 ¥ Facility. LAN.ISCP 
-¥ Facility. PBX.ISCPÊ(May only apply to certain facilities with wired PBX) 
+¥ Facility. PBX.ISCP(May only apply to certain facilities with wired PBX) 
 ¥ Facility. Major application (May only apply to facility that house and manage the MA)
 
-Ê¥Facility.DRP
+¥Facility.DRP
 Each facility must have a DRP plan
 ISCP plan expected for LAN and as applicable PBX and or MA
 Region Other
