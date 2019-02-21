@@ -1,12 +1,5 @@
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
 OFFICE OF INFORMATION SECURITY
 Authorization Requirements 
 Standard Operating Procedures
@@ -49,7 +42,7 @@ Appendix C Job Aid: Security Information	1
 Appendix D Minor Applications Self-Assessment SOP	1
 Appendix E A&A System/Facility DRP and ISCP Requirements	1
 Appendix F Links/URLs/E-Mail Addresses	1
-"""
+```
 
 
  
