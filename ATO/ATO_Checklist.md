@@ -33,9 +33,10 @@ Scanning and Testing (RMF Step 4) – Request as soon as possible after CRISP co
 
 ### Checklist Table
 
-done | task | assigned | due
-|---|---|---|---|
-| - [ ] | task | assigned | due |
+due/done | task | assigned |
+|---|---|---|
+|---|---|---|
+|---|---|---|
 
 
 
