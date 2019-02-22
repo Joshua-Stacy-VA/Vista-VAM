@@ -16,11 +16,13 @@ ATO-Typical Shared Responsibility Model.jpg
 
 The ECSO team, working with VA cybersecurity groups such as the Office of Information Security (OIS), has developed three documents to help your project team go through the ATO process quickly:
 
-__VAEC Application On-Boarding Form__ - Provides a quick description of your new or to-be-migrated application. Filled out by the project manager, it is designed to help VA and ECSO cybersecurity staff quickly understand your cloud-leveraged systems and its requirements.  When complete, this form should be sent to ecsoinfo@va.gov.
+### VAEC Application On-Boarding Form
+Provides a quick description of your new or to-be-migrated application. Filled out by the project manager, it is designed to help VA and ECSO cybersecurity staff quickly understand your cloud-leveraged systems and its requirements.  When complete, this form should be sent to ecsoinfo@va.gov.
 
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_Application_Onboarding_Form.pdf
 
-__Cloud ATO Process__ - Explains how to get a VA ATO for a cloud-leveraged system. *This document doesn't replace existing VA ATO process documentation* but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
+### Cloud ATO Process
+Explains how to get a VA ATO for a cloud-leveraged system. *This document doesn't replace existing VA ATO process documentation* but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
 
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/Cloud_ATO_Process_2018-11-09.pdf
 
@@ -32,7 +34,8 @@ https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_G
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/Cloud_ATO_Checklist.pdf
 
 
-__Customer Responsibility Matrix (CRM)__ - Building on the concept of the shared responsibility model, the CRM identifies who is responsible for which NIST security control.  This responsibility will shift based on the service model used: SaaS, PaaS or IaaS.
+### Customer Responsibility Matrix (CRM)
+Building on the concept of the shared responsibility model, the CRM identifies who is responsible for which NIST security control.  This responsibility will shift based on the service model used: SaaS, PaaS or IaaS.
 
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_CRM_2019-02-06.xlsx
 
@@ -51,12 +54,7 @@ AWS Information System Contingency Plan (ISCP) Template
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_AWS_ISCP_Template_2018-11-25.docx
 
 
-Azure Incident Response Plan Associate Template  
-Azure Disaster Recovery Plan Associate Template   
-Azure Configuration Management Plan Associate Template  
-Azure Information System Contingency Plan Associate Template  
-
-
+### Nessus scans
 The VAEC Security team can run UNOFFICIAL pre-ATO Nessus scans for your environment to aid in assessing your security posture. Download the following documents:
 
 Instructions for submitting a scan request
