@@ -6,6 +6,18 @@
 CLOUD AUTHORIZATION CHECKLIST FOR DEPLOYMENTS WITHIN THE VAEC
 
 Prerequisites
+due/done | task | assigned |
+| due | task | assigned|
+| due | task | assigned|
+| due | task | assigned|
+| due | task | assigned|
+| due | task | assigned|
+| due | task | assigned|
+
+
+
+
+Prerequisites
 - [ ] Information Security Officer (ISO) Designation and EPMO IA Security Analyst assigned
 - [ ] Veteran Integration Process Request (VIPR) Identification (ID) RiskVision Entry for Application or System
 - [ ] Application Registration
