@@ -1,4 +1,4 @@
-# Securing Veteran Data in the Cloud
+# VAEC ATO: Securing Veteran Data in the Cloud
 
 Reference: 
 https://vaww.portal.va.gov/sites/ECS/Pages/Cybersecurity-in-the-VAEC.aspx
@@ -18,35 +18,34 @@ The ECSO team, working with VA cybersecurity groups such as the Office of Inform
 
 __VAEC Application On-Boarding Form__ - Provides a quick description of your new or to-be-migrated application. Filled out by the project manager, it is designed to help VA and ECSO cybersecurity staff quickly understand your cloud-leveraged systems and its requirements.  When complete, this form should be sent to ecsoinfo@va.gov.
 
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_Application_Onboarding_Form.pdf
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_Application_Onboarding_Form.pdf
 
 __Cloud ATO Process__ - Explains how to get a VA ATO for a cloud-leveraged system. *This document doesn't replace existing VA ATO process documentation* but is meant to supplement it by explaining how the ATO process works with a cloud-leveraged system. 
 
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/ATO%20Cloud%20Security%20Process_Nov_19_2018_v2.0%20(004)%20signed.pdf
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/Cloud_ATO_Process_2018-11-09.pdf
 
 
 * Pre-Submission Checklist
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/Pre-Submission%20Checklist.pdf
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/Cloud_ATO_Checklist-FULL.pdf
 
 * Cloud Authority to Operate (ATO) Checklist - Cloud authorization checklist for deployments within the VAEC
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/ATO%20Checklist.pdf
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/Cloud_ATO_Checklist.pdf
 
 
 
 __Customer Responsibility Matrix (CRM)__ - Building on the concept of the shared responsibility model, the CRM identifies who is responsible for which NIST security control.  This responsibility will shift based on the service model used: SaaS, PaaS or IaaS.
 
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_CRM_APPROVED_6FEB2019.xlsx
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_CRM_2019-02-06.xlsx
 
 The following templates include the VAEC information and can be used as a basis for your documents:
 
-AWS Incident Response Plan Associate Template
-Link:https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/9_VAEC_AWS_IRP_11302018%20Associate%20Template.docx
+AWS Incident Response Plan (IRP) Template
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_AWS_IRP_Template_2018-11-30.docx
 
-AWS Disaster Recovery Plan Associate Template  
+AWS Disaster Recovery Plan (DRP) Template  
 Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC%20AWS%20-%20DRP%2011252018%20Associate%20Template.docx
 
-AWS Configuration Management Plan Associate Template
-Link:https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_AWS_CMP_v2.0_11252018%20associate%20template.docx
+AWS Configuration Management Plan (CMP) Template
 
 
 AWS Information System Contingency Plan Associate Template
