@@ -7,43 +7,102 @@ Version 3.31
 FEBRUARY 4, 2019**
 
 Table of Contents
-1.	Purpose	1
-2.	Scope	1
-3.	Authorization Prerequisites	1
-4.	Assessment & Authorization (A&A) Requirements	2
-4.1	Registration Requirements	3
-4.1.1	Application Registration	3
-4.2	Security Documentation Requirements	3
-4.2.1	System Security Plan (SSP)	4
-4.2.2	Minor Application Self-Assessment	4
-4.2.3	Signatory Authority	4
-4.2.4	Risk Assessment (RA)	5
-4.2.5	Configuration Management Plan (CMP)	5
-4.2.6	Incident Response Plan (IRP)	6
-4.2.7	Information Security Contingency Plan (ISCP)	6
-4.2.8	Disaster Recovery Plan (DRP)	7
-4.2.9	Privacy Impact Assessment (PIA)	7
-4.2.10	Interconnection Security Agreement (ISA)/Memorandum of Understanding (MOU)	8
-4.2.11	Secure Design Review	9
-4.3	Technical/Testing Requirements	10
-4.3.1	Nessus Scan / [Discovery Scan (part of Nessus scan)]	10
-4.3.1.1	Database Scan	12
-4.3.2 Quality Code Review	12
-4.3.3	Secure Code Review	14
-4.3.4	Penetration Test / Application Assessment	15
-4.3.5	Security Configuration Compliance Data	16
-4.3.6	Security Control Assessment (SCA)	18
-4.3.7 Control Implementation Evidence	19
-4.3.8 Enterprise Discovery Scan	19
-4.4	Closing	20
-Appendix A FedRAMP/Cloud VA Requirements	1
-Appendix B Authorization Requirements Quick Reference Guide	1
-Appendix C Job Aid: Security Information	1
-Appendix D Minor Applications Self-Assessment SOP	1
-Appendix E A&A System/Facility DRP and ISCP Requirements	1
-Appendix F Links/URLs/E-Mail Addresses	1
+1.	Purpose
+2.	Scope
+3.	Authorization Prerequisites
+4.	Assessment & Authorization (A&A) Requirements
+4.1	Registration Requirements
+4.1.1	Application Registration
+4.2	Security Documentation Requirement
+4.2.1	System Security Plan (SSP)
+4.2.2	Minor Application Self-Assessment
+4.2.3	Signatory Authority
+4.2.4	Risk Assessment (RA)
+4.2.5	Configuration Management Plan (CMP)
+4.2.6	Incident Response Plan (IRP)
+4.2.7	Information Security Contingency Plan (ISCP)
+4.2.8	Disaster Recovery Plan (DRP)
+4.2.9	Privacy Impact Assessment (PIA)
+4.2.10	Interconnection Security Agreement (ISA)/Memorandum of Understanding (MOU)
+4.2.11	Secure Design Review
+4.3	Technical/Testing Requirements
+4.3.1	Nessus Scan / [Discovery Scan (part of Nessus scan)]
+4.3.1.1	Database Scan
+4.3.2 Quality Code Review
+4.3.3	Secure Code Review
+4.3.4	Penetration Test / Application Assessment
+4.3.5	Security Configuration Compliance Data
+4.3.6	Security Control Assessment (SCA)
+4.3.7 Control Implementation Evidence
+4.3.8 Enterprise Discovery Scan
+4.4	Closing
+Appendix A FedRAMP/Cloud VA Requirements
+Appendix B Authorization Requirements Quick Reference Guide
+Appendix C Job Aid: Security Information
+Appendix D Minor Applications Self-Assessment SOP
+Appendix E A&A System/Facility DRP and ISCP Requirements
+Appendix F Links/URLs/E-Mail Addresses
 ```
 
+
+### Document Revision History
+Revision Date | Summary of Changes |Version |Author
+| --- | --- | --- | --- |
+| January 2014 | Initial version of SOP |1.0 | OCS |
+| April 2014 |Updates made to Nessus Scan, Secure Code Review, and Security Configuration Compliance Data Requirements| 1.1 | OCS |
+| June 2014 | Added Security Information Job Aid to Appendix C of SOP | 1.2 | OCS |
+| October 2014 | Implemented reference, methodology and terminology changes; and removed the IV&V Secure Code review requirement | 1.3 | OCS |
+| March 2015 | Added section 3.1.6 Control Implementation Evidence | 1.4 | OCS |
+| April 2015 | Updated section 3.1.3 Continuous Monitoring Requirement | 1.5 | OCS |
+| July 2015 | Updated section 3.2.10 to include references to guidance materials on the RBD process | 1.6 | OCS |
+| August 2015 | Added Appendix A: Cloud/FedRAMP Reciprocity ATO Process | 1.7 | OCS |
+| August 2015 | Updated new compliance scan ÔReportÕ request process location | 1.8 | OCS |
+| September 2015 | Updated the IRP, ISCP, and DRP sections by removing ISCPA tool references | 1.9 | OCS |
+| October 2015 | Updated the IRP, ISCP, and DRP sections with minor changes. | 2.0 | OCS |
+| October 2015 | Updated SOP to add in Section 3.1, Registration Requirements |2.0 | OCS |
+| November 2015 | Added Appendix D Ð A&A System/Facility DRP and ISCP Requirements. Updated the ISCP and DRP sections based on new OBC guidelines. | 2.0 | OCS |
+| December 2015 | Updated SCA section and added location for ISA/MOU latest templates | 2.1 | OCS |
+| December 2015 | Re-Added Section 3.1, Registration Requirements which was removed accidently | 2.2 | OCS |
+| January 2016 | Updated section 3.3.5 (IRP). OBC is not responsible for IRPs. Removed OBC references from IRP section. | 2.3 | OCS |
+| May 2016 | Added VASI reference to Section 3.1.1 Application Registration | 2.4 | OCS |
+| June 2016 | Replaced http://go.va.gov/xxx links with functional links  | 2.5 | OCS |
+| June 2016 | Edits throughout the document and integrated cloud-based VA applications and cloud-based third-party systems requirements | 2.6 | OIS |
+| July 2016 | Added Appendix E, NSOC Scanning Questionnaire information, and POA&M Management Guide reference; removed broken link from SCCD section | 2.7 | OCS |
+| September 2016 | Updated Code Review Continuous Monitoring requirements | 2.8 | OCS |
+| October 2016 | Added Minor Application Self-Assessment SOP  | 2.9 | OCS |
+| December 2016 | Added DB scan requirement for HQ systems | 3.0 | OCS |
+| January 2017 | Added section 3.2.11: Secure Design Review; removed RBD section | 3.1 | OCS | 
+| January 2017 | Updated CMP and IRP sections; also updated the POA&M Management Guide link. | 3.2 | OCS |
+| February 2017 | Updated the DB scan requirement and Security Configuration Compliance Data requirement sections | 3.3 | OCS |
+| February 2017 | Removed R6 VAKN/CDN Assessing reference from Appendix E | 3.3 | OCS |
+| March 2017 | Updated Section 3: Security Packages submission 45 days prior to ATO expiration date; updated Appendix A: Added new section - Other Federal Agency (Non-FedRAMP) ATO Acceptance | 3.4 | OCS |
+| March 2017 |  Added note to Appendix A and added ISO and SO assignment requirement | 3.5 | OCS |
+| March 2017 | Added NEWT/REEF Reporting to section 3.3.1 | 3.6 | OCS |
+| April 2017 | Updated section 4.2.10 (ISA/MOU)  | 3.7 | OCS |
+| April 2017 | Updated section 4.3.6 (SCA) | 3.8 | OCS |
+| April 2017 | Added Scope statement | 3.9 | OCS |
+| May 2017 | Updated section 4.2.11 Secure Design Review; Updated the TOC to show the DB scan section 4.3.1.1  | 3.10 | OCS |
+| June 2017 | Updated section 4.1.1; included COTS products registration requirement. Added a new section 4.3.2: Quality Code Review |3.11 | OCS |
+| July 2017 | Updated links to request technical scans under section 4.3  | 3.12 | OCS |
+| October 2017 | Added a note to Section 4; Added more details on findings remediation timeline.   | 3.13 | OCS |
+| December 2017 | Changed title to Authorization Requirements SOP Guide;  Replaced ÒAccreditationÓ with ÒAuthorizationÓ throughout the document;  Added link for Nessus scan requests in section 4.3.1 Step 2. | 3.14 | OCS |
+| January 2018 | Updated Security Configuration Compliance Data (SCCD) guidance in section 4.3.5, Appendix B, and Appendix F; Updated verbiage in Section 4.3 requiring SOs/Delegates to upload an explanation for any technical requirement that's considered not applicable | 3.15 | OCS |
+| March 2018 | Updated verbiage in section 3.3 indicating SO or delegate should work with ISO to review authorization requirements; Added link for new Major Change Notification Form requirement under section 4 | 3.16 | OCS |
+| April 2018 | Removed links in Appendix F that are no longer active | 3.17 | OCS |
+| May 2018 | Updated inactive links | 3.18 | OCS |
+| May 2018 | Added clarification in section 3 and section 4 that authorization packages must be progressed to CA Provide Certification Recommendation in workflow 45 days prior to ATO decision consideration deadline | 3.19 | OCS |
+| May 2018 | Updated contact information from CertificationPMO@va.gov (CPO) to vaoisisrmrmf@va.gov (ISRM); Removed OBC references  | 3.20 | OCS |
+| May 2018 | Updated Security Configuration Compliance Data section; Updated IRP section; Added link for RiskVision Checklist in section 3; Changed NSOC to CSOC | 3.21 | OCS |
+| June 2018 |  Added Mobile Application Security Assessment (MASA) to Section 4.3.4 Penetration Test/Application Assessment | 3.22 | OCS |
+| August 2018 | Replaced IEM with IBM BigFix; dated Security Configuration Compliance Data (section 4.3.5) with IBM BigFix requirement | 3.23 | OIS |
+| August 2018 | Added requirement in Section 4 for all systems moving to the VAEC environment; Where applicable, replaced OCS with OIS | 3.24 |  OIS |
+| August 2018 | Updated ISCP (section 4.2.7) and DRP (section 4.2.8) | 3.25 | OIS |
+| September 2018 | Updated Security Configuration Compliance Data section (section 4.3.5) | 3.26 | OIS |
+| September 2018 | Updated PIA section (section 4.2.9) | 3.27 | OIS |
+| November 2018 | Added VA Enterprise Cloud for VAEC acronym; Replaced NEWT with Information Central Analytics and Metrics Platforms (ICAMP); Updated requirements for Internet facing applications in section 4.3.4 Penetration Test/Application Assessment | 3.28 | OIS
+| January 2019 | Added SCCD percentage requirement for full ATO; Minor edits/grammatical corrections | 3.29 | OIS |
+| January 2019 | Added Enterprise Discovery Scan (EDS) requirement to Technical/Testing Requirements (section 4.3.8) | 3.30 | OIS |
+| February 2019 | Clarified VAEC based systems receive quarterly EDS (section 4.3.8) | 3.31 | OIS |
 
  
 # 1. Purpose
@@ -457,11 +516,15 @@ o Full ATO: An authorization decision allowing a system to operate and fall into
 * Denial of ATO (DATO) 
 o An authorization decision allowing the authority to halt an existing operational or new system because unacceptable security risks exist.
 
-Appendix A Ð FedRAMP/Cloud Ð VA Requirements 
-FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process
-Federal Risk and Authorization Management Program (FedRAMP) is designed to assist agencies in meeting FISMA requirements for cloud systems.  CSPs must meet FedRAMP in order to do business with US government agencies as part of the ÒCloud first policyÓ.  FedRAMP is designed as a Òdo once, use manyÓ framework to create efficiency in government procurement of cloud services.  As part of the program, CSPs pursuing FedRAMP are required to be independently assessed by a Third Party Assessment Organization (3PAO).  Per the ÒAcceptance of FEDRAMP Authorization MemoÓ issued on August 11, 2015 by the Deputy Assistant Secretary for Information Security, Òexisting Federal Risk and Authorization Management Program (FedRAMP) authorizations for certified FedRAMP Cloud Service Provider cloud systems should be evaluated, and reused when possible, to reduce the overall time required to grant an authorization and begin using a cloud service.Ó.
+# Appendix A:  FedRAMP/Cloud VA Requirements 
+
+## FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process
+Federal Risk and Authorization Management Program (FedRAMP) is designed to assist agencies in meeting FISMA requirements for cloud systems.  CSPs must meet FedRAMP in order to do business with US government agencies as part of the Cloud first policy.  FedRAMP is designed as a "do once, use many" framework to create efficiency in government procurement of cloud services.  As part of the program, CSPs pursuing FedRAMP are required to be independently assessed by a Third Party Assessment Organization (3PAO).  *Per the Acceptance of FEDRAMP Authorization Memo* issued on August 11, 2015 by the Deputy Assistant Secretary for Information Security, existing Federal Risk and Authorization Management Program (FedRAMP) authorizations for certified FedRAMP Cloud Service Provider cloud systems should be evaluated, and reused when possible, to reduce the overall time required to grant an authorization and begin using a cloud service.
+
+Note: A contract must be in place before requesting a RiskVision entry of the FedRAMP Cloud Service Provider. In the absence of a contract, RVWG will not entertain any such request.
+
 The Cloud/FedRAMP Reciprocity ATO process consists of the following steps:
-Note: A contract must be in place before requesting a RiskVision entry of the FedRAMP Cloud Service Provider. In the absence of a contract, RVWG will not entertain any such request.  
+
 1. Designate an ISO and System Owner to the project.
 2. Coordinate with the RVWG to request a RiskVision entry of the FedRAMP Cloud Service Provider.  Reference section 2 (Authorization Prerequisites) for action steps.
 3. System Owner and ISO will complete the CSP system questionnaire within RiskVision to define the system acronym, security categorization, operational status, system type, cloud computing service model [Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), Software-as-a-Service (SaaS), etc.], and cloud service type (private, public, hybrid).
@@ -469,16 +532,26 @@ Note: A contract must be in place before requesting a RiskVision entry of the Fe
 5. ISO will map the CSP authorization documentation artifacts to the VA ATO documentation requirements in RiskVision.  Then review and assess the CSP's 3PAO FedRAMP authorized SSP using the NIST/CAG-20 scoresheet provided by OIS.  All documents will be uploaded to the Documents tab in RiskVision.
 6. CSP authorization package in RiskVision will then be advanced to OIS and Certification Authority (CA) for review.  Additionally, VA determines if the CSP system appropriately addresses any and all necessary VA and Department of Homeland Security (DHS) Trusted Internet Connection (TIC) requirements (e.g., all external systems, including cloud solutions, hosted from facilities or data centers outside of the VA network and boundary must comply with DHS TIC requirements and VA's external connection agreements) before progressing to the VA CISO and Designated Accrediting Authority (DAA) for agency ATO consideration. 
 
-Cloud-Based VA Application / Workload / Third-Party System ATO Process
+
+## Cloud-Based VA Application / Workload / Third-Party System ATO Process
+
 The Cloud/FedRAMP cloud-based VA Application / Workload / Third-Party System ATO process consists of the following steps:
+
 1. Coordinate with the RVWG to request a RiskVision entry of the cloud-based VA Application / Workload / Third-Party System.  Reference section 2 (Authorization Prerequisites) for action steps.
 2. System Owner and ISO will complete the CSP/VA Application / Workload / Third-Party System questionnaire within RiskVision to define the system acronym, security categorization, operational status, system type, etc.
 3. Customer Responsibilities Security Plan provided by the CSP ISO will be completed by the System Owner.  This set of security controls is documented in the FedRAMP authorized CSP Customer Responsibilities Matrix.  The security plan controls have been mapped to VA 6500 requirements.  
 4. ISO will review the completed Customer Responsibilities Security Plan for proper implementation details and uploads to the Documents tab in RiskVision.
+
 The cloud-based VA Application / Workload / Third-Party System in RiskVision will then be advanced to OIS and Certification Authority (CA) for review before progressing to the VA CISO and Designated Accrediting Authority (DAA) for agency ATO consideration.
-Other Federal Agency (Non-FedRAMP) ATO Acceptance
-The cybersecurity requirements for VA information systems will be managed through the Risk Management Framework (RMF) consistent with the principals established in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37.  Reciprocal acceptance of other federal agency system authorizations will be implemented to the maximum extent possible.  Refusals must be timely, documented, and reported to the responsible VA Authorizing Official.  
+
+
+
+## Other Federal Agency (Non-FedRAMP) ATO Acceptance
+
+The cybersecurity requirements for VA information systems will be managed through the Risk Management Framework (RMF) consistent with the principals established in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37.  Reciprocal acceptance of other federal agency system authorizations will be implemented to the maximum extent possible.  Refusals must be timely, documented, and reported to the responsible VA Authorizing Official.
+
 VA employees and contract staff working for the VA are prohibited from sending VA data outside the VA Network without an Authority to Operate signed by the VA Authorizing Official.
+
 1. Any project seeking to use another federal agency ATO must contact the vaoisisrmrmf@va.gov to initiate the process.
 2. A review of the other agency ATO process will be initiated to ensure it meets VA requirements for NIST 800-53 implementation; ATO package review is allowed; and POAM management and tracking is in place.  In the event the other agency will not share the entire A&A package, negotiations will ensue between VA and the other agency to obtain an agreed upon subset of the required documentation.
 3. Once an agreement/understanding is in place to review the other agency package, an entry in RiskVision will be created using the VA 6500.3 Contractor/FedRAMP program.
@@ -489,7 +562,7 @@ o  	If the VA AO refuses reciprocity of the other agency ATO, a memo will be dev
 
 
 
-# Appendix B Ð Authorization Requirements Quick Reference Guide
+# Appendix B: Authorization Requirements Quick Reference Guide
 Authorization Requirements
 Requirement
 Roles / Responsibilities
@@ -588,6 +661,7 @@ System: https://dashboard.tic.va.gov/s/28Y/
 When running the compliance reports please select the applicable information system (Note: Both boundary data and compliance data are updated nightly). 
 
 For systems with IP address ranges external to the VA or for systems without the IBM BigFix agent installed yet: The IBM BigFix agent must be installed to receive SCCD. For systems that used to have CSOC provide SCCD, IBM BigFix is outside the scope of the CSOC vulnerability scanning team and CSOC no longer provides SCCD. The System Owner or delegate must ensure the following steps are completed in order to obtain SCCD from IBM BigFix.
+
 * The system must be defined in RiskVision.
 * The IP addresses/IP address range of all hosts (servers/workstations) that make up the system must be captured in RiskVision. The System Owner or delegate contacts ISRM at vaoisisrmrmf@va.gov to ensure the IP addresses or system names that make up their system(s) are appropriately tagged or accounted for in RiskVision.
 * The hosts must have the IBM BigFix agent installed. If the system owner or delegate has issues installing the IBM BigFix agent, then a ticket can be opened with the OIS EV Support team (OISEVSupportGroup@va.gov) to get it installed and functioning properly. Details of the system (FISMA boundary name/hostnames/IP addresses/system admin contact information) need to be included with the ticket request. 
@@ -611,7 +685,6 @@ Security Documentation Requirements
 * System Steward completes the assessments in RiskVision and develops findings and responses in the Findings tab for controls not in place.
 * ISO validates information added by the System Steward in RiskVision. 
 * The ISO, System Owner or delegate/System Steward exports the SSP from RiskVision and uploads the document to the Documents tab in RiskVision.
-
 * NIST SP 800-18 and VA Handbook 6500.3
 * Additional guidance for completion of the SSP can be provided by OIS
 
@@ -624,7 +697,6 @@ Security Documentation Requirements
 
 ### Signatory Authority
 * The Signatory Authority must be signed and dated by the appropriate parties.
-
 * System Owner or delegate completes the Signatory Authority using the template provided at A&A Home Documents and uploads the Signatory Authority to RiskVision under Entity Details: Documents tab. 
 * NIST SP 800-18
 * Additional guidance for completion of the Signatory Authority can be provided by OIS 
@@ -634,7 +706,6 @@ Security Documentation Requirements
 * System Steward completes the assessments in RiskVision.
 * ISO validates information added by the System Steward in RiskVision.
 * The ISO, System Owner or delegate/System Steward exports the RA from RiskVision and uploads the document to the Documents tab in RiskVision.
-
 * NIST SP 800-30
 * Additional guidance for completion of the RA can be provided by the Office of Risk Management and Incident Reporting (RMIR)/OIS
 
@@ -643,7 +714,6 @@ Security Documentation Requirements
 * The CMP should include infrastructure devices and baseline configurations (e.g., switches, routers, firewalls).
 * The CMP should include a configuration file for each operating system(s), database(s), application(s), and network device(s) to validate compliance with baseline configuration.
 * System Owner or delegate completes the CMP using the template provided at A&A Home Documents and uploads the CMP as evidence to RiskVision under Entity Details: Documents tab.
-
 * NIST SP 800-70 and VA Handbook 6500
 * Additional guidance for completion of the CMP can be provided by OIS
 
@@ -719,7 +789,7 @@ Security Documentation Requirements
 * Additional guidance can be provided by the Health Information Security Division at vafsshisd@va.gov or the OIT ERM CRISP Team at Sharon.mcallister@va.gov
 
 
-# Appendix C Ð Job Aid: Security Information
+# Appendix C: Job Aid: Security Information
 
 Job Aid
 
@@ -741,24 +811,28 @@ Independent third-party Assessment & Authorization (A&A) reviews are conducted t
 * Technical security tests (penetration tests, vulnerability scans, discovery scans, and security configuration compliance scans) conducted by the VA-CSOC.
 * Verification and Validation (V&V) Secure Code Reviews conducted by VA Application Developers.
 * OIS third-party assessments of all system security documentation, on-site assessment results, technical testing results, secure code review results, and configuration files provided by the system personnel.
+
 All VA systems were assessed in August 2013 during the deployment of RiskVision. If a package lacked information but the security posture was acceptable, the Authorizing Official could issue an ATO with Conditions, thereby allowing the system to store, process, or transmit VA data, while the remaining security information is provided by the System Owner.  Under no circumstances, has any VA system been allowed to operate minus a review of the security authorization package required by NIST. It is important to note the NIST affords Federal Departments and Agencies latitude throughout the authorization process to make balanced decisions that are based on security risk and the business needs of the Department. It is incorrect to state that VA systems were not assessed consistent with NIST standards and were allowed to operate devoid of a security posture determination.
 
 VA authorization requirements can be conducted and met using remote capabilities. Therefore, on-site SCAs conducted by ERM are only conducted on a sub-set of VA systems annually.  This is also in part due to lack of resources, funding, and time required to travel to VA and Managed Service sites. The schedule for system SCAs is determined by ERM in coordination with OIS based on available resources, budget, and system SCA needs.
 
 All VA systems are required, and were required upon the issuance of new authorization boundaries, to address the VA Authorization requirements in accordance with the Authorization Requirements SOP / Guide and VA Handbook 6500. 
 
-Reference 1: Authorization Requirements Standard Operating Procedure (SOP) / Guide Ð A&A Home Documents 
+Reference 1: Authorization Requirements Standard Operating Procedure (SOP) / Guide: A&A Home Documents 
 
-Reference 2: ERM SCA Results are uploaded to RiskVision under the respective system as well as at the following location Ð SCA Assessment Results
+Reference 2: ERM SCA Results are uploaded to RiskVision under the respective system as well as at the following location SCA Assessment Results
 
 Reference 3: DAS Expectation Memo: Authorization Requirements Expectations (March 19, 2014)
 
 ## 3. VA Authorization Boundaries
 The authorization boundaries were changed in the summer of 2013 to meet OIS strategic goals, improve accountability, better define common controls, and align with actual operational and managerial practices.  The system boundaries for the three major systems cover the entire Region; there are no facility-level boundaries although there are facility-level controls, and RiskVision maps each known IP address to the system that contains it. System security documentation was updated / re-created to reflect the new authorization boundaries in August 2013 and assessed as a part of the OIS third-party assessments.  If the security documentation lacked information but the security posture of the system was acceptable (according to technical testing results, other security artifacts, etc.), the Authorizing Official could issue an ATO with Conditions thereby allowing the system to store, process, or transmit VA data, while the remaining security information was provided by the System Owner. Any SSPs that are incomplete and do not appropriately reflect the authorization boundaries are required to be updated as a condition of the authorization process. In all cases, any gaps in the documentation are thoroughly assessed to determine their impact on the authorization decision.
+
 The system boundaries have been reviewed and approved by the Certification Authority and the Authorizing Official (AO).  The three primary systems / authorization boundaries are as follows:
+
 * VistA - Composed of VistA Mumps environment and its applications, and user data stored in ÔdatÕ files.  This system boundary will not contain IP addresses or operating systems only the Major Application.
 * GSS - Composed of desktops, laptops, file/print servers, COTS and other applications including operating systems.  IP addresses are used to define this boundary.
 * Infrastructure - Composed of local area networking equipment that connects the other two including, routers, switches, firewalls, load balancers, wireless access points. IP addresses are used to define this boundary.
+
 The authorization boundaries are based on NIST 800-18 and summarized in the System Security Plan (SSP) while RiskVision contains a more thorough definition of the boundaries; down to the IP address level. All established IP addresses in VA are assigned to a system boundary and RiskVision contains a list of these IP assignments. Maintaining a current list of IP addresses in the SSP is impractical due to the frequency of IP address changes.   Therefore, the SSP boundary description is a high-level depiction while RiskVision's boundary description includes components down to the device level. 
 
 Note: Facility-level staff are no longer System Owners.  Any questions concerning system boundaries should be referred to the Regional System Owner if facility staff are unable to provide a detailed answer.
@@ -773,7 +847,7 @@ POA&Ms in SMART dated back as early as 2005.  With the implementation of RiskVis
 
 Reference 1: CRISP FOCUS SharePoint
 
-Reference 2: Executive Decision Memorandum Ð FISMA Challenge Recommendations
+Reference 2: Executive Decision Memorandum: FISMA Challenge Recommendations
 
 ## 5. Vulnerability Integration into Authorization Decision Process
 In accordance with the Authorization Requirements Standard Operating Procedure (SOP) / Guide, OIS assesses vulnerabilities identified through the following tests / scans provided in RiskVision by system personnel prior to T/ATO issuance:
@@ -790,7 +864,7 @@ The results of OIS assessments are provided in the T/ATO recommendation that is 
 Importing Scan Data into RiskVision
 RiskVision imports Nessus scan data from CSOC via the Threat & Vulnerability Manager (TVM). Nessus scan data was imported and made available to the field on April 1, 2014.  TVM training was provided to the field on March 26 and 27, 2014.  
 
-Reference 1: Authorization Requirements Standard Operating Procedure (SOP) / Guide Ð A&A Home Documents
+Reference 1: Authorization Requirements Standard Operating Procedure (SOP) / Guide A&A Home Documents
 Reference 2: TVM Training
 
 ## 6. NIST SP 800-53 Rev 3 to Rev 4 Transition
@@ -801,7 +875,7 @@ The updated VA Handbook 6500 reflecting NIST Revision 4 has been drafted and is 
 RiskVision will be capable of performing assessments based on Revision 4 content by June 30, 2014, with new assessments being conducted consistent with Revision 4 by the end of the 1st Quarter of FY15.
 
  
-# Appendix D Ð Minor Applications Self-Assessment SOP
+# Appendix D: Minor Applications Self-Assessment SOP
 Purpose
 The purpose of this Standard Operating Procedure (SOP) is to provide guidelines for the Security Authorization process of Minor Application(s) that are listed under a General Support System (GSS) or Major Application (MA). The SOP establishes procedures for incorporating the Minor Application Security Controls Summary document into the local site's Compliance Report for the parent GSS or Major Application to ensure the security and integrity of the VA's information systems are maintained. In general, a Minor Application is an application that is not a standalone application, or is a component of a MA or GSS, and receives much of its security from the parent application or system. 
 
@@ -841,16 +915,7 @@ Monitoring
 The ISO will store all records developed throughout this process in the Documents repository within RiskVision of the MA or GSS which supports this Minor Application. Additionally, the ISO conducts audits and/or actions as directed by Continuous Readiness Information Security Program (CRISP) action items and any additional mandated VA policy or guidance.
 
 
-
-
-
-
-
-
-
-
-
-Definitions
+# Definitions
 Authorization: The official management decision given by a senior agency official to authorize operation of an information system and to explicitly accept the risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals, based on the implementation of an agreed-upon set of security controls.
 Authorizing Official: Official with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals.
 Business Requirements Document (BRD): The Business Requirements Document (BRD) is authored by the business community for the purpose of capturing and describing the business needs of the customer/business owner. The BRD provides insight into the AS IS and TO BE business area, identifying stakeholders and profiling primary and secondary user communities. This document identifies what capabilities the stakeholders and the target users need and why these needs exist, providing a focused overview of the request requirements, constraints, and Information Technology (IT) options to be considered. This document does not state the development methodology.
@@ -915,11 +980,13 @@ System Security Plan: Formal document that provides an overview of the security 
 
 
 
-# Appendix E Ð A&A System/Facility DRP and ISCP Requirements
+# Appendix E: A&A System/Facility DRP and ISCP Requirements
+
 Boundary
 Plans
 DRP
 Comments
+
 Region1
 ¥ Region 1 - RCSnet Assessing
 ¥ Region 1 GSS Assessing
@@ -927,32 +994,36 @@ Region1
 ¥ Region 1 VistA Assessing
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
+
 Region2
 ¥ Region 2 GSS Assessing
 ¥ Region 2 Infrastructure Assessing
 ¥ Region 2 VistA Assessing 
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
+
 Region3
 ¥ Region 3 GSS Assessing
 ¥ Region 3 Infrastructure Assessing
 ¥ Region 3 VistA Assessing                                                       
-
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
+
 Region4
 ¥ Region 4 Infrastructure Assessing
 ¥ Region 4 VistA Assessing
 ¥ Region 4 - Electronic Computer Access Request (eCAR) Assessing
-¥ Philadelphia Ð BHIE Assessing    
+¥ Philadelphia BHIE Assessing    
 
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
+
 Region5
 ¥ Region 5 GSS Assessing
 ¥ Region 5 Infrastructure Assessing    
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
+
 Region6
 ¥ Region 6 GSS Assessing
 ¥ Region 6 Infrastructure Assessing
@@ -962,7 +1033,7 @@ Region6
 ¥ Region 6 - WRAP Assessing
 ¥ Region 6 - CIRTS Assessing
 ¥ Region 6 - OSCR Assessing
-¥ Region 6 Ð VHALWD Assessing  
+¥ Region 6 VHALWD Assessing  
 
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
@@ -974,6 +1045,7 @@ Facilities
 ¥Facility.DRP
 Each facility must have a DRP plan
 ISCP plan expected for LAN and as applicable PBX and or MA
+
 Region Other
 Each GRC Assessing entity must have an ISCP plan
 Each GRC Assessing entity must have a DRP plan
@@ -985,7 +1057,7 @@ ISCP plan expected for each assessing entity as identified in GRC
 
 
 
-# Appendix F Ð Links/URLs/E-Mail Addresses
+# Appendix F Links/URLs/E-Mail Addresses
 Links & URLs
 Short Links
 Full Address
@@ -1102,6 +1174,8 @@ VA SwA Program Office Resource
 
 https://wiki.mobilehealth.va.gov/display/OISSWA/OIS+Software+Assurance
 
+
+
 ### E-Mail Addresses
 Name
 E-Mail
@@ -1124,64 +1198,3 @@ VARiskVisionWG@va.gov
 VA Software Assurance (SwA) Program Office
 OISSwASupportGroup@va.gov
 
-
-
-
-### Document Revision History
-Revision Date | Summary of Changes |Version |Author
-| --- | --- | --- | --- |
-| January 2014 | Initial version of SOP |1.0 | OCS |
-| April 2014 |Updates made to Nessus Scan, Secure Code Review, and Security Configuration Compliance Data Requirements| 1.1 | OCS |
-| June 2014 | Added Security Information Job Aid to Appendix C of SOP | 1.2 | OCS |
-| October 2014 | Implemented reference, methodology and terminology changes; and removed the IV&V Secure Code review requirement | 1.3 | OCS |
-| March 2015 | Added section 3.1.6 Control Implementation Evidence | 1.4 | OCS |
-| April 2015 | Updated section 3.1.3 Continuous Monitoring Requirement | 1.5 | OCS |
-| July 2015 | Updated section 3.2.10 to include references to guidance materials on the RBD process | 1.6 | OCS |
-| August 2015 | Added Appendix A: Cloud/FedRAMP Reciprocity ATO Process | 1.7 | OCS |
-| August 2015 | Updated new compliance scan ÔReportÕ request process location | 1.8 | OCS |
-| September 2015 | Updated the IRP, ISCP, and DRP sections by removing ISCPA tool references | 1.9 | OCS |
-| October 2015 | Updated the IRP, ISCP, and DRP sections with minor changes. | 2.0 | OCS |
-| October 2015 | Updated SOP to add in Section 3.1, Registration Requirements |2.0 | OCS |
-| November 2015 | Added Appendix D Ð A&A System/Facility DRP and ISCP Requirements. Updated the ISCP and DRP sections based on new OBC guidelines. | 2.0 | OCS |
-| December 2015 | Updated SCA section and added location for ISA/MOU latest templates | 2.1 | OCS |
-| December 2015 | Re-Added Section 3.1, Registration Requirements which was removed accidently | 2.2 | OCS |
-| January 2016 | Updated section 3.3.5 (IRP). OBC is not responsible for IRPs. Removed OBC references from IRP section. | 2.3 | OCS |
-| May 2016 | Added VASI reference to Section 3.1.1 Application Registration | 2.4 | OCS |
-| June 2016 | Replaced http://go.va.gov/xxx links with functional links  | 2.5 | OCS |
-| June 2016 | Edits throughout the document and integrated cloud-based VA applications and cloud-based third-party systems requirements | 2.6 | OIS |
-| July 2016 | Added Appendix E, NSOC Scanning Questionnaire information, and POA&M Management Guide reference; removed broken link from SCCD section | 2.7 | OCS |
-| September 2016 | Updated Code Review Continuous Monitoring requirements | 2.8 | OCS |
-| October 2016 | Added Minor Application Self-Assessment SOP  | 2.9 | OCS |
-| December 2016 | Added DB scan requirement for HQ systems | 3.0 | OCS |
-| January 2017 | Added section 3.2.11: Secure Design Review; removed RBD section | 3.1 | OCS | 
-| January 2017 | Updated CMP and IRP sections; also updated the POA&M Management Guide link. | 3.2 | OCS |
-| February 2017 | Updated the DB scan requirement and Security Configuration Compliance Data requirement sections | 3.3 | OCS |
-| February 2017 | Removed R6 VAKN/CDN Assessing reference from Appendix E | 3.3 | OCS |
-| March 2017 | Updated Section 3: Security Packages submission 45 days prior to ATO expiration date; updated Appendix A: Added new section - Other Federal Agency (Non-FedRAMP) ATO Acceptance | 3.4 | OCS |
-| March 2017 |  Added note to Appendix A and added ISO and SO assignment requirement | 3.5 | OCS |
-| March 2017 | Added NEWT/REEF Reporting to section 3.3.1 | 3.6 | OCS |
-| April 2017 | Updated section 4.2.10 (ISA/MOU)  | 3.7 | OCS |
-| April 2017 | Updated section 4.3.6 (SCA) | 3.8 | OCS |
-| April 2017 | Added Scope statement | 3.9 | OCS |
-| May 2017 | Updated section 4.2.11 Secure Design Review; Updated the TOC to show the DB scan section 4.3.1.1  | 3.10 | OCS |
-| June 2017 | Updated section 4.1.1; included COTS products registration requirement. Added a new section 4.3.2: Quality Code Review |3.11 | OCS |
-| July 2017 | Updated links to request technical scans under section 4.3  | 3.12 | OCS |
-| October 2017 | Added a note to Section 4; Added more details on findings remediation timeline.   | 3.13 | OCS |
-| December 2017 | Changed title to Authorization Requirements SOP Guide;  Replaced ÒAccreditationÓ with ÒAuthorizationÓ throughout the document;  Added link for Nessus scan requests in section 4.3.1 Step 2. | 3.14 | OCS |
-| January 2018 | Updated Security Configuration Compliance Data (SCCD) guidance in section 4.3.5, Appendix B, and Appendix F; Updated verbiage in Section 4.3 requiring SOs/Delegates to upload an explanation for any technical requirement that's considered not applicable | 3.15 | OCS |
-| March 2018 | Updated verbiage in section 3.3 indicating SO or delegate should work with ISO to review authorization requirements; Added link for new Major Change Notification Form requirement under section 4 | 3.16 | OCS |
-| April 2018 | Removed links in Appendix F that are no longer active | 3.17 | OCS |
-| May 2018 | Updated inactive links | 3.18 | OCS |
-| May 2018 | Added clarification in section 3 and section 4 that authorization packages must be progressed to ÒCA Provide Certification RecommendationÓ in workflow 45 days prior to ATO decision consideration deadline | 3.19 | OCS |
-| May 2018 | Updated contact information from CertificationPMO@va.gov (CPO) to vaoisisrmrmf@va.gov (ISRM); Removed OBC references  | 3.20 | OCS |
-| May 2018 | Updated Security Configuration Compliance Data section; Updated IRP section; Added link for RiskVision Checklist in section 3; Changed NSOC to CSOC | 3.21 | OCS |
-| June 2018 |  Added Mobile Application Security Assessment (MASA) to Section 4.3.4 Penetration Test/Application Assessment | 3.22 | OCS |
-| August 2018 | Replaced IEM with IBM BigFix; dated Security Configuration Compliance Data (section 4.3.5) with IBM BigFix requirement | 3.23 | OIS |
-| August 2018 | Added requirement in Section 4 for all systems moving to the VAEC environment; Where applicable, replaced OCS with OIS | 3.24 |  OIS |
-| August 2018 | Updated ISCP (section 4.2.7) and DRP (section 4.2.8) | 3.25 | OIS |
-| September 2018 | Updated Security Configuration Compliance Data section (section 4.3.5) | 3.26 | OIS |
-| September 2018 | Updated PIA section (section 4.2.9) | 3.27 | OIS |
-| November 2018 | Added VA Enterprise Cloud for VAEC acronym; Replaced NEWT with Information Central Analytics and Metrics Platforms (ICAMP); Updated requirements for Internet facing applications in section 4.3.4 Penetration Test/Application Assessment | 3.28 | OIS
-| January 2019 | Added SCCD percentage requirement for full ATO; Minor edits/grammatical corrections | 3.29 | OIS |
-| January 2019 | Added Enterprise Discovery Scan (EDS) requirement to Technical/Testing Requirements (section 4.3.8) | 3.30 | OIS |
-| February 2019 | Clarified VAEC based systems receive quarterly EDS (section 4.3.8) | 3.31 | OIS |
