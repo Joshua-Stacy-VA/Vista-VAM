@@ -1,5 +1,44 @@
 # Authority to Operate (ATO) Checklist
 
+
+### Cloud ATO Checklist
+
+CLOUD AUTHORIZATION CHECKLIST FOR DEPLOYMENTS WITHIN THE VAEC
+
+Prerequisites
+- [ ] Information Security Officer (ISO) Designation and EPMO IA Security Analyst assigned
+- [ ] Veteran Integration Process Request (VIPR) Identification (ID) RiskVision Entry for Application or System
+- [ ] Application Registration
+- [ ] Secure Design Review
+- [ ] Privacy Threshold Analysis (PTA) / Privacy Impact Analysis (PIA)
+
+Assessment & Authorization (A&A) Requirements
+- [ ] Security Documentation (RMF Step 3)
+- [ ] System Security Plan (SSP) Incident Response Plan (IRP) Disaster Recovery Plan (DRP)
+- [ ] Information Security Contingency Plan (ISCP)
+- [ ] Interconnection Security Agreement (ISA) / Memorandum of Understanding (MOU) – (if required)
+- [ ] Configuration Management Plan (CMP) Signatory Authority
+- [ ] Control Implementation Evidence
+- [ ] Risk Assessment (RA) (RMF Step 4)
+
+Scanning and Testing (RMF Step 4) – Request as soon as possible after CRISP compliance
+- [ ] Nessus Scan
+- [ ] Database Scan (if required)
+- [ ] Verification & Validation (V&V) Quality Code Review
+- [ ] Secure Code Review
+- [ ] Penetration Test / Web Application Security Assessment (WASA) Security Compliance Configuration Data (SCCD)
+- [ ] Plan of Action and Milestone (POA&M) Remediation Authorizing Official System Brief (AOSB) Authorization Package Submission
+- [ ] Authorization to Operate (ATO) Issuance (RMF Step 5) Continuous Monitoring (RMF Step 6)
+
+
+### Checklist Table
+
+done | task | assigned | due
+|---|---|---|---|
+| - [ ] | task | assigned | due |
+
+
+
 ## A&A SOP Guide 2019-02-02
 
 ```
@@ -144,32 +183,3 @@ Appendix D References and Supporting Documentation 32
 Appendix E Acronyms 33
 ```
 
-
-### Appendix A Cloud ATO Checklist
-
-CLOUD AUTHORIZATION CHECKLIST FOR DEPLOYMENTS WITHIN THE VAEC
-
-Authorization Prerequisites
-- [ ] Information Security Officer (ISO) Designation and EPMO IA Security Analyst assigned
-- [ ] Focused Integration Process Request (VIPR) Identification (ID) RiskVision Entry for Application or System
-- [ ] Application Registration
-- [ ] Secure Design Review
-- [ ] Privacy Threshold Analysis (PTA) / Privacy Impact Analysis (PIA)
-
-Assessment & Authorization (A&A) Requirements
-- [ ] Security Documentation (RMF Step 3)
-- [ ] System Security Plan (SSP) Incident Response Plan (IRP) Disaster Recovery Plan (DRP)
-- [ ] Information Security Contingency Plan (ISCP)
-- [ ] Interconnection Security Agreement (ISA) / Memorandum of Understanding (MOU) – (if required)
-- [ ] Configuration Management Plan (CMP) Signatory Authority
-- [ ] Control Implementation Evidence
-- [ ] Risk Assessment (RA) (RMF Step 4)
-
-Scanning and Testing (RMF Step 4) – Request as soon as possible after CRISP compliance
-- [ ] Nessus Scan
-- [ ] Database Scan (if required)
-- [ ] Verification & Validation (V&V) Quality Code Review
-- [ ] Secure Code Review
-- [ ] Penetration Test / Web Application Security Assessment (WASA) Security Compliance Configuration Data (SCCD)
-- [ ] Plan of Action and Milestone (POA&M) Remediation Authorizing Official System Brief (AOSB) Authorization Package Submission
-- [ ] Authorization to Operate (ATO) Issuance (RMF Step 5) Continuous Monitoring (RMF Step 6)
