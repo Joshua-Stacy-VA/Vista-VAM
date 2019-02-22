@@ -1,4 +1,4 @@
-# A&A Checklist
+# Authority to Operate (ATO) Checklist
 
 ## A&A SOP Guide 2019-02-02
 
