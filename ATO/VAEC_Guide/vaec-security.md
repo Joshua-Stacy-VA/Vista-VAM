@@ -32,7 +32,6 @@ https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_G
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/Cloud_ATO_Checklist.pdf
 
 
-
 __Customer Responsibility Matrix (CRM)__ - Building on the concept of the shared responsibility model, the CRM identifies who is responsible for which NIST security control.  This responsibility will shift based on the service model used: SaaS, PaaS or IaaS.
 
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_CRM_2019-02-06.xlsx
@@ -43,13 +42,13 @@ AWS Incident Response Plan (IRP) Template
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_AWS_IRP_Template_2018-11-30.docx
 
 AWS Disaster Recovery Plan (DRP) Template  
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC%20AWS%20-%20DRP%2011252018%20Associate%20Template.docx
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_AWS_DRP_Template_2018-11-25.docx
 
 AWS Configuration Management Plan (CMP) Template
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_AWS_CMP_Template_2018-11-25.docx
 
-
-AWS Information System Contingency Plan Associate Template
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/VAEC_AWS_ISCP_1125018%20Associate%20template.docx
+AWS Information System Contingency Plan (ISCP) Template
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/VAEC_AWS_ISCP_Template_2018-11-25.docx
 
 
 Azure Incident Response Plan Associate Template  
@@ -61,8 +60,8 @@ Azure Information System Contingency Plan Associate Template
 The VAEC Security team can run UNOFFICIAL pre-ATO Nessus scans for your environment to aid in assessing your security posture. Download the following documents:
 
 Instructions for submitting a scan request
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/APPLICATION%20information%20for%20Nessus%20scan%20-%20template.xlsx
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/Nessus_Scan-Application-template.xlsx
 
 Template for Nessus scan
-Link: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/A%26A/VAEC/vaec-documents/Information%20required%20to%20run%20Nessus%20scan%20on%20applications%20in%20the%20VAEC%20V2.docx
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VAEC_Guide/source/Nessus_scan-Information_required_to_run_in_VAEC.docx
 
