@@ -7,10 +7,10 @@ CLOUD AUTHORIZATION CHECKLIST FOR DEPLOYMENTS WITHIN THE VAEC
 
 Prerequisites
 
-| due(done) | task | assigned |
-|---|---|---|
-| due(done) | task | assigned |
-| due(done) | task | assigned |
+| due(done) | task | description | assigned|
+|---|---|---|---|
+| due(done) | task | description | assigned|
+| due(done) | task | description | assigned|
 
 
 
