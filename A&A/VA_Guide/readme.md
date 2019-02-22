@@ -1,2 +1,0 @@
-# VA A&A Guidelines
-
