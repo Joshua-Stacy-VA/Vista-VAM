@@ -1,4 +1,4 @@
-# VA Authorization Requirements SOP
+# VA Authority to Operate (ATO) Requirements
 
 ```
 OFFICE OF INFORMATION SECURITY
