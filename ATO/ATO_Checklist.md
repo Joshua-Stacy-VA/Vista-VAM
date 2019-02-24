@@ -1,7 +1,7 @@
 # Authority to Operate (ATO) Checklist
 
 
-### FedRAMP/Cloud VA Application  ATO Process
+### FedRAMP/Cloud VA Application ATO Process
 
 CLOUD AUTHORIZATION CHECKLIST FOR DEPLOYMENTS WITHIN THE VAEC
 
@@ -35,7 +35,7 @@ Note: A contract must be in place before requesting a RiskVision entry of the Fe
 6.	CSP authorization package in RiskVision will then be advanced to OIS and Certification Authority (CA) for review.  Additionally, VA determines if the CSP system appropriately addresses any and all necessary VA and Department of Homeland Security (DHS) Trusted Internet Connection (TIC) requirements (e.g., all external systems, including cloud solutions, hosted from facilities or data centers outside of the VA network and boundary must comply with DHS TIC requirements and VA’s external connection agreements) before progressing to the VA CISO and Designated Accrediting Authority (DAA) for agency ATO consideration. 
 
 
-### Cloud-Based VA Application / Workload / Third-Party System ATO Process
+### Cloud-Based VA Application / Third-Party System ATO Process
 
 The Cloud/FedRAMP cloud-based VA Application / Workload / Third-Party System ATO process consists of the following steps:
 
@@ -77,40 +77,40 @@ Table of Contents
 3. Authorization Prerequisites
 4. Assessment & Authorization (A&A) Requirements
 
-  4.1 Registration Requirements	3
-    4.1.1 Application Registration	3
+  4.1 Registration Requirements
+    4.1.1 Application Registration
     
-  4.2 Security Documentation Requirements	3
-    4.2.1 System Security Plan (SSP)	4
-    4.2.2 Minor Application Self-Assessment	4
-    4.2.3 Signatory Authority	4
-    4.2.4 Risk Assessment (RA)	5
-    4.2.5 Configuration Management Plan (CMP)	5
-    4.2.6 Incident Response Plan (IRP)	6
-    4.2.7 Information Security Contingency Plan (ISCP)	6
-    4.2.8 Disaster Recovery Plan (DRP)	7
-    4.2.9 Privacy Impact Assessment (PIA)	7
-    4.2.10 Interconnection Security Agreement (ISA)/Memorandum of Understanding (MOU)	8
-    4.2.11 Secure Design Review	9
+  4.2 Security Documentation Requirements
+    4.2.1 System Security Plan (SSP)
+    4.2.2 Minor Application Self-Assessment
+    4.2.3 Signatory Authority
+    4.2.4 Risk Assessment (RA)
+    4.2.5 Configuration Management Plan (CMP)
+    4.2.6 Incident Response Plan (IRP)
+    4.2.7 Information Security Contingency Plan (ISCP)
+    4.2.8 Disaster Recovery Plan (DRP)
+    4.2.9 Privacy Impact Assessment (PIA)
+    4.2.10 Interconnection Security Agreement (ISA)/Memorandum of Understanding (MOU)
+    4.2.11 Secure Design Review
   
-  4.3 Technical/Testing Requirements	10
-    4.3.1 Nessus Scan/[Discovery Scan (part of Nessus scan)]	10
-      4.3.1.1	Database Scan	12
-    4.3.2 Quality Code Review	12
-    4.3.3 Secure Code Review	14
-    4.3.4 Penetration Test / Application Assessment	15
-    4.3.5 Security Configuration Compliance Data	16
-    4.3.6 Security Control Assessment (SCA)	18
-    4.3.7 Control Implementation Evidence	19
-    4.3.8 Enterprise Discovery Scan	19
+  4.3 Technical/Testing Requirements
+    4.3.1 Nessus Scan/[Discovery Scan (part of Nessus scan)]
+      4.3.1.1	Database Scan
+    4.3.2 Quality Code Review
+    4.3.3 Secure Code Review
+    4.3.4 Penetration Test / Application Assessment
+    4.3.5 Security Configuration Compliance Data
+    4.3.6 Security Control Assessment (SCA)
+    4.3.7 Control Implementation Evidence
+    4.3.8 Enterprise Discovery Scan
 
   4.4	Closing	20
 
-Appendix A – FedRAMP/Cloud – VA Requirements	1
-Appendix B – Authorization Requirements Quick Reference Guide	1
-Appendix C – Job Aid: Security Information	1
-Appendix D – Minor Applications Self-Assessment SOP	1
-Appendix E – A&A System/Facility DRP and ISCP Requirements	1
-Appendix F – Links/URLs/E-Mail Addresses	1
+Appendix A – FedRAMP/Cloud – VA Requirements
+Appendix B – Authorization Requirements Quick Reference Guide
+Appendix C – Job Aid: Security Information
+Appendix D – Minor Applications Self-Assessment SOP
+Appendix E – A&A System/Facility DRP and ISCP Requirements
+Appendix F – Links/URLs/E-Mail Addresses
 ```
 
