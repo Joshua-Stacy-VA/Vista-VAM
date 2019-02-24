@@ -1,7 +1,4 @@
-# Authority to Operate (ATO) Requirements
-
-
-### FedRAMP/Cloud VA Application ATO Process
+# FedRAMP/Cloud VA Application ATO Process
 
 CLOUD AUTHORIZATION CHECKLIST FOR DEPLOYMENTS WITHIN THE VAEC
 
