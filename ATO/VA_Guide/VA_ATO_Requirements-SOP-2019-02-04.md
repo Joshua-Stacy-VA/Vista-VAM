@@ -45,67 +45,6 @@ Appendix E A&A System/Facility DRP and ISCP Requirements
 Appendix F Links/URLs/E-Mail Addresses
 ```
 
-
-### Document Revision History
-Revision Date | Summary of Changes |Version |Author
-| --- | --- | --- | --- |
-| January 2014 | Initial version of SOP |1.0 | OCS |
-| April 2014 |Updates made to Nessus Scan, Secure Code Review, and Security Configuration Compliance Data Requirements| 1.1 | OCS |
-| June 2014 | Added Security Information Job Aid to Appendix C of SOP | 1.2 | OCS |
-| October 2014 | Implemented reference, methodology and terminology changes; and removed the IV&V Secure Code review requirement | 1.3 | OCS |
-| March 2015 | Added section 3.1.6 Control Implementation Evidence | 1.4 | OCS |
-| April 2015 | Updated section 3.1.3 Continuous Monitoring Requirement | 1.5 | OCS |
-| July 2015 | Updated section 3.2.10 to include references to guidance materials on the RBD process | 1.6 | OCS |
-| August 2015 | Added Appendix A: Cloud/FedRAMP Reciprocity ATO Process | 1.7 | OCS |
-| August 2015 | Updated new compliance scan ÔReportÕ request process location | 1.8 | OCS |
-| September 2015 | Updated the IRP, ISCP, and DRP sections by removing ISCPA tool references | 1.9 | OCS |
-| October 2015 | Updated the IRP, ISCP, and DRP sections with minor changes. | 2.0 | OCS |
-| October 2015 | Updated SOP to add in Section 3.1, Registration Requirements |2.0 | OCS |
-| November 2015 | Added Appendix D Ð A&A System/Facility DRP and ISCP Requirements. Updated the ISCP and DRP sections based on new OBC guidelines. | 2.0 | OCS |
-| December 2015 | Updated SCA section and added location for ISA/MOU latest templates | 2.1 | OCS |
-| December 2015 | Re-Added Section 3.1, Registration Requirements which was removed accidently | 2.2 | OCS |
-| January 2016 | Updated section 3.3.5 (IRP). OBC is not responsible for IRPs. Removed OBC references from IRP section. | 2.3 | OCS |
-| May 2016 | Added VASI reference to Section 3.1.1 Application Registration | 2.4 | OCS |
-| June 2016 | Replaced http://go.va.gov/xxx links with functional links  | 2.5 | OCS |
-| June 2016 | Edits throughout the document and integrated cloud-based VA applications and cloud-based third-party systems requirements | 2.6 | OIS |
-| July 2016 | Added Appendix E, NSOC Scanning Questionnaire information, and POA&M Management Guide reference; removed broken link from SCCD section | 2.7 | OCS |
-| September 2016 | Updated Code Review Continuous Monitoring requirements | 2.8 | OCS |
-| October 2016 | Added Minor Application Self-Assessment SOP  | 2.9 | OCS |
-| December 2016 | Added DB scan requirement for HQ systems | 3.0 | OCS |
-| January 2017 | Added section 3.2.11: Secure Design Review; removed RBD section | 3.1 | OCS | 
-| January 2017 | Updated CMP and IRP sections; also updated the POA&M Management Guide link. | 3.2 | OCS |
-| February 2017 | Updated the DB scan requirement and Security Configuration Compliance Data requirement sections | 3.3 | OCS |
-| February 2017 | Removed R6 VAKN/CDN Assessing reference from Appendix E | 3.3 | OCS |
-| March 2017 | Updated Section 3: Security Packages submission 45 days prior to ATO expiration date; updated Appendix A: Added new section - Other Federal Agency (Non-FedRAMP) ATO Acceptance | 3.4 | OCS |
-| March 2017 |  Added note to Appendix A and added ISO and SO assignment requirement | 3.5 | OCS |
-| March 2017 | Added NEWT/REEF Reporting to section 3.3.1 | 3.6 | OCS |
-| April 2017 | Updated section 4.2.10 (ISA/MOU)  | 3.7 | OCS |
-| April 2017 | Updated section 4.3.6 (SCA) | 3.8 | OCS |
-| April 2017 | Added Scope statement | 3.9 | OCS |
-| May 2017 | Updated section 4.2.11 Secure Design Review; Updated the TOC to show the DB scan section 4.3.1.1  | 3.10 | OCS |
-| June 2017 | Updated section 4.1.1; included COTS products registration requirement. Added a new section 4.3.2: Quality Code Review |3.11 | OCS |
-| July 2017 | Updated links to request technical scans under section 4.3  | 3.12 | OCS |
-| October 2017 | Added a note to Section 4; Added more details on findings remediation timeline.   | 3.13 | OCS |
-| December 2017 | Changed title to Authorization Requirements SOP Guide;  Replaced ÒAccreditationÓ with ÒAuthorizationÓ throughout the document;  Added link for Nessus scan requests in section 4.3.1 Step 2. | 3.14 | OCS |
-| January 2018 | Updated Security Configuration Compliance Data (SCCD) guidance in section 4.3.5, Appendix B, and Appendix F; Updated verbiage in Section 4.3 requiring SOs/Delegates to upload an explanation for any technical requirement that's considered not applicable | 3.15 | OCS |
-| March 2018 | Updated verbiage in section 3.3 indicating SO or delegate should work with ISO to review authorization requirements; Added link for new Major Change Notification Form requirement under section 4 | 3.16 | OCS |
-| April 2018 | Removed links in Appendix F that are no longer active | 3.17 | OCS |
-| May 2018 | Updated inactive links | 3.18 | OCS |
-| May 2018 | Added clarification in section 3 and section 4 that authorization packages must be progressed to CA Provide Certification Recommendation in workflow 45 days prior to ATO decision consideration deadline | 3.19 | OCS |
-| May 2018 | Updated contact information from CertificationPMO@va.gov (CPO) to vaoisisrmrmf@va.gov (ISRM); Removed OBC references  | 3.20 | OCS |
-| May 2018 | Updated Security Configuration Compliance Data section; Updated IRP section; Added link for RiskVision Checklist in section 3; Changed NSOC to CSOC | 3.21 | OCS |
-| June 2018 |  Added Mobile Application Security Assessment (MASA) to Section 4.3.4 Penetration Test/Application Assessment | 3.22 | OCS |
-| August 2018 | Replaced IEM with IBM BigFix; dated Security Configuration Compliance Data (section 4.3.5) with IBM BigFix requirement | 3.23 | OIS |
-| August 2018 | Added requirement in Section 4 for all systems moving to the VAEC environment; Where applicable, replaced OCS with OIS | 3.24 |  OIS |
-| August 2018 | Updated ISCP (section 4.2.7) and DRP (section 4.2.8) | 3.25 | OIS |
-| September 2018 | Updated Security Configuration Compliance Data section (section 4.3.5) | 3.26 | OIS |
-| September 2018 | Updated PIA section (section 4.2.9) | 3.27 | OIS |
-| November 2018 | Added VA Enterprise Cloud for VAEC acronym; Replaced NEWT with Information Central Analytics and Metrics Platforms (ICAMP); Updated requirements for Internet facing applications in section 4.3.4 Penetration Test/Application Assessment | 3.28 | OIS
-| January 2019 | Added SCCD percentage requirement for full ATO; Minor edits/grammatical corrections | 3.29 | OIS |
-| January 2019 | Added Enterprise Discovery Scan (EDS) requirement to Technical/Testing Requirements (section 4.3.8) | 3.30 | OIS |
-| February 2019 | Clarified VAEC based systems receive quarterly EDS (section 4.3.8) | 3.31 | OIS |
-
- 
 # 1. Purpose
 To obtain and maintain a VA Authority-to-Operate (ATO), the authorization requirements included within the contents of this document must be completed.  RiskVision, VA's's Governance, Risk and Compliance (GRC) tool is the authoritative management tool for the VA Assessment and Authorization (A&A) process and Risk Management Framework.  All systems will be assessed in RiskVision by an OIS representative [Certification Agent (CA)] for an authorization recommendation to be submitted to the OIS Chief Information Security Officer (CISO) and VA Chief Information Officer (CIO) [Authorizing Official] for final ATO consideration.  
 
@@ -119,22 +58,18 @@ These procedures apply to systems that are required to obtain an Authority to Op
 # 3. Authorization Prerequisites
 The following steps need to be followed once a system is identified as needing a VA authorization decision:
 
-1. Designate an ISO to the project.  If an ISO is not yet assigned, complete the following steps: 
-
+1. __Designate an ISO to the project.__  If an ISO is not yet assigned, complete the following steps:
  a) System Owner or delegate completes the Request For Information Security Officer Support Form and e-mail to VAFSSISORequests@va.gov. 
-
  b) The FSS ISO work group will coordinate an ISO assignment to help the project team assist with authorization requirements and participate with information security requirements throughout the System Development Life Cycle (SDLC).
 
-2. Create a RiskVision entry of the Application or System by completing the following steps:
-  a)  System Owner or delegate completes the RV System Inventory Checklist. Reach out to the ISO or the RiskVision Working Group (RVWG) VARiskVisionWG@va.gov with any questions regarding checklist completion.
-  
-  b)  The RVWG will include the Application/System for discussion on the weekly meeting agenda, scheduled Thursdays at 12:00pm EST.  During the meeting, RVWG can approve or deny the Application/System or request additional information before a decision.
-  
+2. __Create a RiskVision entry of the Application or System__ by completing the following steps:
+  a)  System Owner or delegate completes the RV __System Inventory Checklist.__ Reach out to the ISO or the RiskVision Working Group (RVWG) VARiskVisionWG@va.gov with any questions regarding checklist completion.   
+  b)  The RVWG will include the Application/System for discussion on the weekly meeting agenda, scheduled Thursdays at 12:00pm EST.  During the meeting, RVWG can approve or deny the Application/System or request additional information before a decision.  
   c)  Once RVWG approves the Application/System for a RiskVision entry, the System Owner or delegate will be notified by OIS via e-mail from the GRC Service Desk (vaGRCservicedesk@va.gov) stating access to the applicable instance of RiskVision: 
    o National Release GRC Instance: https://vaww.grc.va.gov/spc/index.jsp 
    o Enterprise Operations GRC Instance: https://vaww.eogrc.va.gov/spc/index.jsp
 
-3. Once the applicable parties have access to RiskVision and the system resides in the tool, the System Owner or delegate shall contact their ISO to review the authorization requirements and determine if certain requirements are not applicable based on the type of system in question.
+3. Once the applicable parties have access to RiskVision and the system resides in the tool, __the System Owner or delegate shall contact their ISO to review the authorization requirements and determine if certain requirements are not applicable__ based on the type of system in question.
 The applicable system POCs must have their authorization package completed, uploaded to RiskVision, and progressed to ÒCA Provide Certification RecommendationÓ in the workflow no less than 45 calendar days prior to the date they want their authorization decision to be made.  
 
 # 4. Assessment & Authorization (A&A) Requirements
@@ -1203,3 +1138,68 @@ VARiskVisionWG@va.gov
 VA Software Assurance (SwA) Program Office
 OISSwASupportGroup@va.gov
 
+
+
+
+
+
+### Document Revision History
+Revision Date | Summary of Changes |Version |Author
+| --- | --- | --- | --- |
+| January 2014 | Initial version of SOP |1.0 | OCS |
+| April 2014 |Updates made to Nessus Scan, Secure Code Review, and Security Configuration Compliance Data Requirements| 1.1 | OCS |
+| June 2014 | Added Security Information Job Aid to Appendix C of SOP | 1.2 | OCS |
+| October 2014 | Implemented reference, methodology and terminology changes; and removed the IV&V Secure Code review requirement | 1.3 | OCS |
+| March 2015 | Added section 3.1.6 Control Implementation Evidence | 1.4 | OCS |
+| April 2015 | Updated section 3.1.3 Continuous Monitoring Requirement | 1.5 | OCS |
+| July 2015 | Updated section 3.2.10 to include references to guidance materials on the RBD process | 1.6 | OCS |
+| August 2015 | Added Appendix A: Cloud/FedRAMP Reciprocity ATO Process | 1.7 | OCS |
+| August 2015 | Updated new compliance scan ÔReportÕ request process location | 1.8 | OCS |
+| September 2015 | Updated the IRP, ISCP, and DRP sections by removing ISCPA tool references | 1.9 | OCS |
+| October 2015 | Updated the IRP, ISCP, and DRP sections with minor changes. | 2.0 | OCS |
+| October 2015 | Updated SOP to add in Section 3.1, Registration Requirements |2.0 | OCS |
+| November 2015 | Added Appendix D Ð A&A System/Facility DRP and ISCP Requirements. Updated the ISCP and DRP sections based on new OBC guidelines. | 2.0 | OCS |
+| December 2015 | Updated SCA section and added location for ISA/MOU latest templates | 2.1 | OCS |
+| December 2015 | Re-Added Section 3.1, Registration Requirements which was removed accidently | 2.2 | OCS |
+| January 2016 | Updated section 3.3.5 (IRP). OBC is not responsible for IRPs. Removed OBC references from IRP section. | 2.3 | OCS |
+| May 2016 | Added VASI reference to Section 3.1.1 Application Registration | 2.4 | OCS |
+| June 2016 | Replaced http://go.va.gov/xxx links with functional links  | 2.5 | OCS |
+| June 2016 | Edits throughout the document and integrated cloud-based VA applications and cloud-based third-party systems requirements | 2.6 | OIS |
+| July 2016 | Added Appendix E, NSOC Scanning Questionnaire information, and POA&M Management Guide reference; removed broken link from SCCD section | 2.7 | OCS |
+| September 2016 | Updated Code Review Continuous Monitoring requirements | 2.8 | OCS |
+| October 2016 | Added Minor Application Self-Assessment SOP  | 2.9 | OCS |
+| December 2016 | Added DB scan requirement for HQ systems | 3.0 | OCS |
+| January 2017 | Added section 3.2.11: Secure Design Review; removed RBD section | 3.1 | OCS | 
+| January 2017 | Updated CMP and IRP sections; also updated the POA&M Management Guide link. | 3.2 | OCS |
+| February 2017 | Updated the DB scan requirement and Security Configuration Compliance Data requirement sections | 3.3 | OCS |
+| February 2017 | Removed R6 VAKN/CDN Assessing reference from Appendix E | 3.3 | OCS |
+| March 2017 | Updated Section 3: Security Packages submission 45 days prior to ATO expiration date; updated Appendix A: Added new section - Other Federal Agency (Non-FedRAMP) ATO Acceptance | 3.4 | OCS |
+| March 2017 |  Added note to Appendix A and added ISO and SO assignment requirement | 3.5 | OCS |
+| March 2017 | Added NEWT/REEF Reporting to section 3.3.1 | 3.6 | OCS |
+| April 2017 | Updated section 4.2.10 (ISA/MOU)  | 3.7 | OCS |
+| April 2017 | Updated section 4.3.6 (SCA) | 3.8 | OCS |
+| April 2017 | Added Scope statement | 3.9 | OCS |
+| May 2017 | Updated section 4.2.11 Secure Design Review; Updated the TOC to show the DB scan section 4.3.1.1  | 3.10 | OCS |
+| June 2017 | Updated section 4.1.1; included COTS products registration requirement. Added a new section 4.3.2: Quality Code Review |3.11 | OCS |
+| July 2017 | Updated links to request technical scans under section 4.3  | 3.12 | OCS |
+| October 2017 | Added a note to Section 4; Added more details on findings remediation timeline.   | 3.13 | OCS |
+| December 2017 | Changed title to Authorization Requirements SOP Guide;  Replaced ÒAccreditationÓ with ÒAuthorizationÓ throughout the document;  Added link for Nessus scan requests in section 4.3.1 Step 2. | 3.14 | OCS |
+| January 2018 | Updated Security Configuration Compliance Data (SCCD) guidance in section 4.3.5, Appendix B, and Appendix F; Updated verbiage in Section 4.3 requiring SOs/Delegates to upload an explanation for any technical requirement that's considered not applicable | 3.15 | OCS |
+| March 2018 | Updated verbiage in section 3.3 indicating SO or delegate should work with ISO to review authorization requirements; Added link for new Major Change Notification Form requirement under section 4 | 3.16 | OCS |
+| April 2018 | Removed links in Appendix F that are no longer active | 3.17 | OCS |
+| May 2018 | Updated inactive links | 3.18 | OCS |
+| May 2018 | Added clarification in section 3 and section 4 that authorization packages must be progressed to CA Provide Certification Recommendation in workflow 45 days prior to ATO decision consideration deadline | 3.19 | OCS |
+| May 2018 | Updated contact information from CertificationPMO@va.gov (CPO) to vaoisisrmrmf@va.gov (ISRM); Removed OBC references  | 3.20 | OCS |
+| May 2018 | Updated Security Configuration Compliance Data section; Updated IRP section; Added link for RiskVision Checklist in section 3; Changed NSOC to CSOC | 3.21 | OCS |
+| June 2018 |  Added Mobile Application Security Assessment (MASA) to Section 4.3.4 Penetration Test/Application Assessment | 3.22 | OCS |
+| August 2018 | Replaced IEM with IBM BigFix; dated Security Configuration Compliance Data (section 4.3.5) with IBM BigFix requirement | 3.23 | OIS |
+| August 2018 | Added requirement in Section 4 for all systems moving to the VAEC environment; Where applicable, replaced OCS with OIS | 3.24 |  OIS |
+| August 2018 | Updated ISCP (section 4.2.7) and DRP (section 4.2.8) | 3.25 | OIS |
+| September 2018 | Updated Security Configuration Compliance Data section (section 4.3.5) | 3.26 | OIS |
+| September 2018 | Updated PIA section (section 4.2.9) | 3.27 | OIS |
+| November 2018 | Added VA Enterprise Cloud for VAEC acronym; Replaced NEWT with Information Central Analytics and Metrics Platforms (ICAMP); Updated requirements for Internet facing applications in section 4.3.4 Penetration Test/Application Assessment | 3.28 | OIS
+| January 2019 | Added SCCD percentage requirement for full ATO; Minor edits/grammatical corrections | 3.29 | OIS |
+| January 2019 | Added Enterprise Discovery Scan (EDS) requirement to Technical/Testing Requirements (section 4.3.8) | 3.30 | OIS |
+| February 2019 | Clarified VAEC based systems receive quarterly EDS (section 4.3.8) | 3.31 | OIS |
+
+ 
