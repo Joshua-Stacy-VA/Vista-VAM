@@ -120,15 +120,19 @@ These procedures apply to systems that are required to obtain an Authority to Op
 The following steps need to be followed once a system is identified as needing a VA authorization decision:
 
 1. Designate an ISO to the project.  If an ISO is not yet assigned, complete the following steps: 
+
  a) System Owner or delegate completes the Request For Information Security Officer Support Form and e-mail to VAFSSISORequests@va.gov. 
+
  b) The FSS ISO work group will coordinate an ISO assignment to help the project team assist with authorization requirements and participate with information security requirements throughout the System Development Life Cycle (SDLC).
 
 2. Create a RiskVision entry of the Application or System by completing the following steps:
- a)  System Owner or delegate completes the RV System Inventory Checklist. Reach out to the ISO or the RiskVision Working Group (RVWG) VARiskVisionWG@va.gov with any questions regarding checklist completion.
- b)  The RVWG will include the Application/System for discussion on the weekly meeting agenda, scheduled Thursdays at 12:00pm EST.  During the meeting, RVWG can approve or deny the Application/System or request additional information before a decision.
+  a)  System Owner or delegate completes the RV System Inventory Checklist. Reach out to the ISO or the RiskVision Working Group (RVWG) VARiskVisionWG@va.gov with any questions regarding checklist completion.
+  
+  b)  The RVWG will include the Application/System for discussion on the weekly meeting agenda, scheduled Thursdays at 12:00pm EST.  During the meeting, RVWG can approve or deny the Application/System or request additional information before a decision.
+  
   c)  Once RVWG approves the Application/System for a RiskVision entry, the System Owner or delegate will be notified by OIS via e-mail from the GRC Service Desk (vaGRCservicedesk@va.gov) stating access to the applicable instance of RiskVision: 
- o National Release GRC Instance: https://vaww.grc.va.gov/spc/index.jsp 
- o Enterprise Operations GRC Instance: https://vaww.eogrc.va.gov/spc/index.jsp
+   o National Release GRC Instance: https://vaww.grc.va.gov/spc/index.jsp 
+   o Enterprise Operations GRC Instance: https://vaww.eogrc.va.gov/spc/index.jsp
 
 3. Once the applicable parties have access to RiskVision and the system resides in the tool, the System Owner or delegate shall contact their ISO to review the authorization requirements and determine if certain requirements are not applicable based on the type of system in question.
 The applicable system POCs must have their authorization package completed, uploaded to RiskVision, and progressed to ÒCA Provide Certification RecommendationÓ in the workflow no less than 45 calendar days prior to the date they want their authorization decision to be made.  
