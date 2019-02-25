@@ -63,8 +63,7 @@ The following steps need to be followed once a system is identified as needing a
  b) The FSS ISO work group will coordinate an ISO assignment to help the project team assist with authorization requirements and participate with information security requirements throughout the System Development Life Cycle (SDLC).
 
 2. __Create a RiskVision entry of the Application or System__ by completing the following steps:
-
-  a)  System Owner or delegate completes the RV __System Inventory Checklist.__ Reach out to the ISO or the RiskVision Working Group (RVWG) VARiskVisionWG@va.gov with any questions regarding checklist completion.
+  a)  System Owner or delegate completes the __RV System Inventory Checklist.__ Reach out to the ISO or the RiskVision Working Group (RVWG) VARiskVisionWG@va.gov with any questions regarding checklist completion.
   b)  The RVWG will include the Application/System for discussion on the weekly meeting agenda, scheduled Thursdays at 12:00pm EST.  During the meeting, RVWG can approve or deny the Application/System or request additional information before a decision.
    c)  Once RVWG approves the Application/System for a RiskVision entry, the System Owner or delegate will be notified by OIS via e-mail from the GRC Service Desk (vaGRCservicedesk@va.gov) stating access to the applicable instance of RiskVision: 
  
