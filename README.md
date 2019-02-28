@@ -5,5 +5,6 @@ Table of Deliverables
 
 |CLIN | Document |  Link |
 |---|---|---|
-|003 | Master Test Plan| [MTP](/Documents/Master_Test_Plan.md) |
-
+|03AA | Master Test Plan| [MTP](/Documents/Master_Test_Plan.md) |
+|02AA	|Security Vulnerability Report | --- |
+|03AB	| RPC Interface Test Suite | --- |
