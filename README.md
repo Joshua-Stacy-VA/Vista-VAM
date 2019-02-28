@@ -3,6 +3,7 @@ Project Management for VistA Adaptive Maintenance - VA Enterprise Cloud Security
 
 Table of Deliverables
 
-|CLIN | Deliverable (link) |
+|CLIN | Deliverable | Link |
 |---|---|
-|003 | Master Test Plan|
+|003 | Master Test Plan| MTP |
+
