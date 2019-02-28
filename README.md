@@ -5,6 +5,6 @@ Table of Deliverables
 
 |CLIN | Deliverable | Link |
 |---|---|---|
-|003 | Master Test Plan| [MTP](...blob/master/Documents/Master_Test_Plan.md) |
+|003 | Master Test Plan| [MTP](.../Documents/Master_Test_Plan.md) |
 
 https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/Documents/Master_Test_Plan.md
