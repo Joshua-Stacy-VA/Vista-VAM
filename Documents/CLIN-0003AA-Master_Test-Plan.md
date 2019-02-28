@@ -11,13 +11,13 @@ February 2019
 * Test Requirements
 * Data Management
 * Test Approach
-* Levels of Testing
-* Product Component (Unit) Testing
-* Component Integration Testing
-* Regression Testing
-* Smoke Testing
-* System Testing
-* Security Testing
+  * Levels of Testing
+  * Product Component (Unit) Testing
+  * Component Integration Testing
+  * Regression Testing
+  * Smoke Testing
+  * System Testing
+  * Security Testing
 * Test Management
 * AbleVets Delivery Pipeline:
 * Test Deliverables
