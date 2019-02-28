@@ -1,16 +1,10 @@
-## VistA Adaptive Maintenance VAEC Security (VAM2) Master Test Plan
+## VistA Adaptive Maintenance -  Master Test Plan
 
 Department of Veteran Affairs (VA)
 
 Version 1.0
 
 February 2019
-
-Revision History
- 
-Date	Version	Description	Author	   
-
-2/2019	1.0	Baselined document	AbleVets	 
 
 ```
 Table of Contents
