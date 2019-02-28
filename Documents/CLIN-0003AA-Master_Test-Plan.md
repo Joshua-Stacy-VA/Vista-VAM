@@ -107,14 +107,10 @@ __Closure Phase__: Creating the test report and communicating results to managem
 
 
 ### Delivery Pipeline:
-Code will initially be stored and tested in the public GIT, a version control system, integrated into the Build Pipeline and then installed in the AbleVets environment.
+All VAM code will be interfaced and integrated into the AbleVets Build Pipeline such that as new code is published on the Project Repository, it will automatically trigger the build and test sequence on the Build Pipleline.  
 
-Code will be tested in the AbleVets environment and then moved to the VA environment after testing is completed:
+Jenkins on-demand will be deployed to the test environments as well as Nexus via continuous integration of code. Based on the results, Jenkins will deploy the updated artifacts to Nexus, which will then be deployed to the Production environment.
 
-Jenkins on-demand will be deployed to the test environments as well as Nexus via continuous integration of code; automated testing will be executed for UAT.  Based on the results, Jenkins will deploy the updated artifacts to Nexus, which will then be deployed to the Production environment.
-
-VA UAT testers will develop test scripts:
-If needed, test cases used during manual testing can be delivered to UAT testers; they do not perform automated testing.
 
 ## Test Deliverables
 AbleVets will deliver the following test artifacts at the end of each release:
@@ -127,12 +123,11 @@ Table 2: Test Deliverables
 |0003AA	| Master Test Plan	|
 |0003AB	| RPC Interface Test Suite	|
 
-### Critical Testing Dependencies/Needs
-* Testing is dependent on the following:
-* Set-up Delivery Pipeline with the latest VistA and CPRS instance
-* Coordinate with the development team to identify Web-Client testing requirements 
+### Testing Dependencies
+Testing is dependent on the following:
+* Connection of Delivery Pipeline with the appropriate artifacts in the VAM Github Repository
 * Identify IOC test instance of VistA and CPRS 
-* Communication with IOC test team 
+* Communication with IOC test team
 
 ## Appendix A: Key Terms
 The following table provides definitions for terms relevant to this document.
