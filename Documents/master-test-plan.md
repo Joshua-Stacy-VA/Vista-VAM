@@ -1,4 +1,4 @@
-## VistA Adaptive Maintenance - Master Test Plan
+## VistA Adaptive Maintenance II - Master Test Plan
 
 Version 1.0
 
@@ -55,7 +55,8 @@ The overarching test objectives are:
 * Conduct testing on a continuous basis (at a minimum, weekly)
 * Illustrate how the test results will be validated
 * Associate the deliverable test artifacts to each test performed
-* Specific test goals are:
+
+Specific test goals are:
 * Craft an RPC Interface test suite for all 5500 VistA RPCs and their attributes
 * Establish a set of reusable test cases for subsequent system and User Acceptance Testing (UAT)
 * Validate the thoroughness of testing, based upon the number and percentage of the RPCs audited
@@ -70,49 +71,43 @@ __Data Management__
 The VAM2 test team is not required to create test data, however, it will be obtained from a VistA instance in the VA environment.  Once the Initial Operating Capability (IOC) test cases are defined, the VAM2 test team will determine the method for securing sensitive test data.
 
 ## Test Approach
-__Levels of Testing__
+__Levels of Testing__:
 VAM2 will execute the following types of testing:
 
-__Product Component (Unit) Testing__
+__Product Component (Unit) Testing__:
  	The development team will perform component testing in the local development 
  	environments; the developer will also execute unit testing via Jasmine.
 
-__Component Integration Testing__
+__Component Integration Testing__:
 The development team will perform component integration testing during Sprint testing cycles.  Testing is executed to ensure that the installation and user interface is operating as designed; in addition, the interaction between the integrated components will be verified.
 
-__Regression Testing__
+__Regression Testing__:
 After one or changes/fixes have been implemented, the application is re-tested to ensure that existing functionality still performs as expected. The development and test team will perform a full regression test after defects are fixed and/or new functionalities are implemented.
 
-__Smoke Testing__
+__Smoke Testing__:
 Smoke testing is the first test performed to ensure the core functionality is working and the test environment is stable enough to continue testing.  The VAM2 team will perform this testing after each build is installed.
 
-__System Testing__
+__System Testing__:
 System testing is performed on the integrated system to evaluate compliance with the requirements; this is established by executing functional and regression testing.  
 
-__User Functionality Testing__
-User Functionality testing (UFT) is executed as part of system testing; the test team will verify the front-end components and ensure the functionality of the application is working as designed.
-
-__User Acceptance Testing __
-User Acceptance Testing (UAT) is performed during IOC by the Client to certify the system is functioning per the requirements before going into production. With guidance from the VAM2 team, end-users will develop and execute test scripts, per their testing approach, to ensure requirements are met.
-
-__Security Testing__
+__Security Testing__:
 Security testing identifies and resolves vulnerabilities within the information system to prevent unauthorized users from accessing the system.  The AbleVets Security Assessment Team will perform this test, per the A&A Process.
 
 
 ## Test Management
 The VAM2 test team is responsible for managing the testing activities throughout the testing lifecycle to include:
 
-__Planning Phase__ - Creating the test plan, review and analyze requirements, allocating resources to ensure proper coverage for execution and completion of testing tasks throughout all phases, assisting in setting up the test environment, creating and updating the test schedule, and determining the functionality that will be tested
+__Planning Phase__: Creating the test plan, review and analyze requirements, allocating resources to ensure proper coverage for execution and completion of testing tasks throughout all phases, assisting in setting up the test environment, creating and updating the test schedule, and determining the functionality that will be tested
 
-__Design Phase__ – Creating test data, test cases (for manual testing), and test scripts (for automated testing)
+__Design Phase__: Creating test data, test cases (for manual testing), and test scripts (for automated testing)
 
-__Execution Phase__ – Executing test cases, documenting defects, reporting issues to developers, performing regression testing
+__Execution Phase__: Executing test cases, documenting defects, reporting issues to developers, performing regression testing
 
-__Closure Phase__ – Creating the test report and communicating results to management 
+__Closure Phase__: Creating the test report and communicating results to management 
 
 
-### AbleVets Delivery Pipeline:
-Code will initially be stored and tested in the public GIT, a version control system, integrated into the AbleVets Build Pipeline and then installed in the AbleVets environment.
+### Delivery Pipeline:
+Code will initially be stored and tested in the public GIT, a version control system, integrated into the Build Pipeline and then installed in the AbleVets environment.
 
 Code will be tested in the AbleVets environment and then moved to the VA environment after testing is completed:
 
@@ -126,14 +121,15 @@ AbleVets will deliver the following test artifacts at the end of each release:
 
 Table 2: Test Deliverables
  
-CLIN #	Test Deliverables	   
-0002AA	Security Vulnerability Report	   
-0003AA	Master Test Plan	   
-0003AB	RPC Interface Test Suite	 
+| CLIN #	| Test Deliverables	|
+|---|---|
+|0002AA	| Security Vulnerability Report	|
+|0003AA	| Master Test Plan	|
+|0003AB	| RPC Interface Test Suite	|
 
 ### Critical Testing Dependencies/Needs
 * Testing is dependent on the following:
-* Set-up AbleVets Delivery Pipeline with the latest VistA and CPRS instance
+* Set-up Delivery Pipeline with the latest VistA and CPRS instance
 * Coordinate with the development team to identify Web-Client testing requirements 
 * Identify IOC test instance of VistA and CPRS 
 * Communication with IOC test team 
