@@ -46,11 +46,11 @@ Purpose of the Test Plan Document
 
 This Master Test Plan summarizes the testing approach, key objectives, test tools, and test data output for the VistA Adaptive Maintenance VAEC Security (VAM2) project. The document introduces:
 
-Test Strategy:  The rules upon which testing will be based, and the process for establishing valid tests to output sound test data. The project’s test strategy will address the scheduling of test events, entry and exit criteria, and test data management.
+__Test Strategy:__  The rules upon which testing will be based, and the process for establishing valid tests to output sound test data. The project’s test strategy will address the scheduling of test events, entry and exit criteria, and test data management.
 
-Execution Strategy:  Describes how tests will be performed.
+__Execution Strategy:__  Describes how tests will be performed.
 
-Test Management Plan:  Details test design, execution, and the process for test event issue resolution.
+__Test Management Plan:__  Details test design, execution, and the process for test event issue resolution.
 
 ## Test Objectives
 Testing will validate and quantify all Remote Procedure Call (RP)C volumes and coverage to generate the necessary data for resource planning, and the optimization and scaling of RPC Interface monitoring for all VA Enterprise Cloud (VAEC)-hosted VistA systems as required in Section 5.6 (Release and Deployment Support) of the Project Work Statement (PWS).
@@ -74,48 +74,50 @@ The overarching test objectives are:
 
 ## Test Requirements
 
-Data Management
+__Data Management__
 The VAM2 test team is not required to create test data, however, it will be obtained from a VistA instance in the VA environment.  Once the Initial Operating Capability (IOC) test cases are defined, the VAM2 test team will determine the method for securing sensitive test data.
 
 ## Test Approach
-Levels of Testing
+__Levels of Testing__
 VAM2 will execute the following types of testing:
 
-Product Component (Unit) Testing
+__Product Component (Unit) Testing__
  	The development team will perform component testing in the local development 
  	environments; the developer will also execute unit testing via Jasmine.
 
-Component Integration Testing
+__Component Integration Testing__
 The development team will perform component integration testing during Sprint testing cycles.  Testing is executed to ensure that the installation and user interface is operating as designed; in addition, the interaction between the integrated components will be verified.
 
-Regression Testing
+__Regression Testing__
 After one or changes/fixes have been implemented, the application is re-tested to ensure that existing functionality still performs as expected. The development and test team will perform a full regression test after defects are fixed and/or new functionalities are implemented.
 
-Smoke Testing
+__Smoke Testing__
 Smoke testing is the first test performed to ensure the core functionality is working and the test environment is stable enough to continue testing.  The VAM2 team will perform this testing after each build is installed.
 
-System Testing
+__System Testing__
 System testing is performed on the integrated system to evaluate compliance with the requirements; this is established by executing functional and regression testing.  
 
-User Functionality Testing 
+__User Functionality Testing__
 User Functionality testing (UFT) is executed as part of system testing; the test team will verify the front-end components and ensure the functionality of the application is working as designed.
 
-User Acceptance Testing 
+__User Acceptance Testing __
 User Acceptance Testing (UAT) is performed during IOC by the Client to certify the system is functioning per the requirements before going into production. With guidance from the VAM2 team, end-users will develop and execute test scripts, per their testing approach, to ensure requirements are met.
 
-Security Testing
+__Security Testing__
 Security testing identifies and resolves vulnerabilities within the information system to prevent unauthorized users from accessing the system.  The AbleVets Security Assessment Team will perform this test, per the A&A Process.
+
 
 ## Test Management
 The VAM2 test team is responsible for managing the testing activities throughout the testing lifecycle to include:
 
-Planning Phase - Creating the test plan, review and analyze requirements, allocating resources to ensure proper coverage for execution and completion of testing tasks throughout all phases, assisting in setting up the test environment, creating and updating the test schedule, and determining the functionality that will be tested
+__Planning Phase__ - Creating the test plan, review and analyze requirements, allocating resources to ensure proper coverage for execution and completion of testing tasks throughout all phases, assisting in setting up the test environment, creating and updating the test schedule, and determining the functionality that will be tested
 
-Design Phase – Creating test data, test cases (for manual testing), and test scripts (for automated testing)
+__Design Phase__ – Creating test data, test cases (for manual testing), and test scripts (for automated testing)
 
-Execution Phase – Executing test cases, documenting defects, reporting issues to developers, performing regression testing
+__Execution Phase__ – Executing test cases, documenting defects, reporting issues to developers, performing regression testing
 
-Closure Phase – Creating the test report and communicating results to management 
+__Closure Phase__ – Creating the test report and communicating results to management 
+
 
 ### AbleVets Delivery Pipeline:
 Code will initially be stored and tested in the public GIT, a version control system, integrated into the AbleVets Build Pipeline and then installed in the AbleVets environment.
@@ -127,7 +129,7 @@ Jenkins on-demand will be deployed to the test environments as well as Nexus via
 VA UAT testers will develop test scripts:
 If needed, test cases used during manual testing can be delivered to UAT testers; they do not perform automated testing.
 
-Test Deliverables
+## Test Deliverables
 AbleVets will deliver the following test artifacts at the end of each release:
 
 Table 2: Test Deliverables
@@ -138,11 +140,11 @@ CLIN #	Test Deliverables
 0003AB	RPC Interface Test Suite	 
 
 ### Critical Testing Dependencies/Needs
-Testing is dependent on the following:
-Set-up AbleVets Delivery Pipeline with the latest VistA and CPRS instance
-Coordinate with the development team to identify Web-Client testing requirements 
-Identify IOC test instance of VistA and CPRS 
-Communication with IOC test team 
+* Testing is dependent on the following:
+* Set-up AbleVets Delivery Pipeline with the latest VistA and CPRS instance
+* Coordinate with the development team to identify Web-Client testing requirements 
+* Identify IOC test instance of VistA and CPRS 
+* Communication with IOC test team 
 
 ## Appendix A: Key Terms
 The following table provides definitions for terms relevant to this document.
