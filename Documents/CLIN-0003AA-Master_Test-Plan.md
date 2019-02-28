@@ -4,31 +4,27 @@ Version 1.0
 
 February 2019
 
-```
-Table of Contents
-Introduction
-Purpose of the Test Plan Document
-Test Objectives
-Test Requirements
-Data Management
-Test Approach
-Levels of Testing
-Product Component (Unit) Testing
-Component Integration Testing
-Regression Testing
-Smoke Testing
-System Testing
-Security Testing
-Test Management
-AbleVets Delivery Pipeline:
-Test Deliverables
-Testing Dependencies
- 
-List of Tables
-Table 2: Test Deliverables
-
-List of Figures
-```
+### Table of Contents
+* Introduction
+* Purpose of the Test Plan Document
+* Test Objectives
+* Test Requirements
+* Data Management
+* Test Approach
+* Levels of Testing
+* Product Component (Unit) Testing
+* Component Integration Testing
+* Regression Testing
+* Smoke Testing
+* System Testing
+* Security Testing
+* Test Management
+* AbleVets Delivery Pipeline:
+* Test Deliverables
+* Testing Dependencies
+* List of Tables
+  * Table 2: Test Deliverables
+* List of Figures
 
 
 ## Introduction
