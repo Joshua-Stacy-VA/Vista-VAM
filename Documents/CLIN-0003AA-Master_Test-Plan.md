@@ -6,7 +6,7 @@ February 2019
 
 ### Table of Contents
 * Introduction
-* Purpose of the Test Plan Document
+ * Purpose of the Test Plan Document
 * Test Objectives
 * Test Requirements
 * Data Management
