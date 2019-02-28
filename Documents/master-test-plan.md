@@ -1,6 +1,4 @@
-## VistA Adaptive Maintenance -  Master Test Plan
-
-Department of Veteran Affairs (VA)
+## VistA Adaptive Maintenance - Master Test Plan
 
 Version 1.0
 
