@@ -19,7 +19,7 @@ February 2019
   * System Testing
   * Security Testing
 * Test Management
-* AbleVets Delivery Pipeline:
+* Delivery Pipeline
 * Test Deliverables
 * Testing Dependencies
 * List of Tables
