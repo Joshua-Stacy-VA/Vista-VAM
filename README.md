@@ -2,7 +2,7 @@
 Project Management for VistA Adaptive Maintenance - VA Enterprise Cloud Security
 
 
-### PWS Deliverables
+### PWS: Project Management Deliverables
 
 |CLIN | Document |  Link |
 |---|---|---|
@@ -11,4 +11,6 @@ Project Management for VistA Adaptive Maintenance - VA Enterprise Cloud Security
 |03AB	| RPC Interface Test Suite | pending |
 
 
-### RiskVision Artifacts
+### A&A: RiskVision Documents
+|RV | Document |  Link |
+|---|---|---|
