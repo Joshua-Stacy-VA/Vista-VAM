@@ -21,5 +21,47 @@ Begay, Bobbi (BR ISSO) <Bobbi.Begay@va.gov>;
 Adejumo, Charles A. (ASM Research) <Charles.Adejumo@va.gov>; 
 Rohrbach, Jennifer <Jennifer.Rohrbach2@va.gov>; 
 Goode, Robert (VACO) <Robert.Goode@va.gov>;
-Owsley, Cheryl <Cheryl.Owsley@va.gov>
+Owsley, Cheryl <Cheryl.Owsley@va.gov>Jason A. Madaus
+
+CA - Certification Authority - 45 days to get through
+AO - Auhorizing Offial - last two stages
+ATO review meeting
+
+System Owner - Dick Rickard
+written consent to sign off as owner
+Bobbi and Joe - know EPMO well; know system owner change process
+
+System Steward:  
+
+Assessment
+1-2 System Information
+Operational status: not operational until after ATO
+   when go live:  October 2019  (currently states Feb 4, 2019)
+ 
+ vah05\vhabalrichara
+ 
+ 
+
+Jason A. Madaus
+Information Technology Specialist (INFOSEC)
+Office of Information Security
+Information Security Operations
+Information Security Risk Management
+Jason.Madaus@va.gov
+Office (608) 256-1901 x11305 
+GFE Mobile (630) 640-5079 
+
+
+Joseph Fourcade
+Lead Cybersecurity Analyst
+Enterprise Cloud Solutions Office (ECSO)
+Demand Management (Station 116)
+Department of Veterans Affair, Office of Information &Technology(OIT)
+7011 Hawks Nest Terrace, Riviera Beach, FL, 33407
+ Joseph.Fourcade@va.gov
+Cell: (561)344-7787
+
+System Stewards
+
+
 ```
