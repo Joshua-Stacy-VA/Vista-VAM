@@ -1,3 +1,22 @@
+                  Department of Veterans Affairs, Veteran Health Administration
+                      VistA Adaptive Maintenance (VAM) VAEC Security 
+                          Technical Kickoff Meeting Minutes
+
+
+Access Information 	https://meet.rtc.va.gov/nilesh.lal/9DDGL1CS
+
+844-376-0278, access code: 63568907 (East) 
+
+844-815-1331, access code: 63568907 (East)
+
+844-770-5400, access code: 63568907 (East)
+
+Facilitator	Nilesh Lal
+
+Scribe	Nilesh Lal
+
+
+
 ## VistA Adaptive Maintenance II - Technical KickOff Meeting Notes
 
 02/06/2019
