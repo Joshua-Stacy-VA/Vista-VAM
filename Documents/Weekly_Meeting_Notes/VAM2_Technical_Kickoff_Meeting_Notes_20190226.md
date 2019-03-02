@@ -1,1 +1,55 @@
+              Department of Veterans Affairs, Veteran Health Administration
+                  VistA Adaptive Maintenance (VAM) VAEC Security 
+                      Weekly Meeting Minutes
+Access Information https://meet.rtc.va.gov/nilesh.lal/9DDGL1CS
 
+844-376-0278, access code: 63568907 (East)
+
+844-815-1331, access code: 63568907 (East)
+
+844-770-5400, access code: 63568907 (East)
+
+Facilitator	Nilesh Lal
+
+Scribe	Nilesh Lal
+
+## VistA Adaptive Maintenance II - Weekly Meeting Notes
+
+02/19/2019
+
+### Agenda
+1.	Roll Call
+2.	Technical update from Conor Dowling and Mike Furoyama
+3.	Management update from Nilesh Lal
+4.	Action item review
+
+### Attendees 
+1.	Dr. Rafael Richards – VA Business Owner
+2.	Mr. Michael Weckesser – VA CS
+3.	Mr. Robert Goode – VA COR
+4.	Mr. Tom Spinelli – VA PM
+5.	Ms. Owsley Cheryl – VA PM
+6.	Mr. Joseph Fourcade – VAEC ISO
+7.	Christy Lentile – AbleVets Portfolio Director
+8.	Nilesh Lal – AbleVets PM
+9.	Tom Willcox - AbleVets CIO
+10.	Conor Dowling – Technical Architect Caregraf
+11.	Mike Furoyama – Technical Lead HRG
+12.	Adam Akamine - Developer HRG
+13.	Christie Rindle – Developer HRG
+
+### Key Points
+1.	Conor Dowling provided the details on the RPC definition and toolkit. For further details: https://github.com/vistadataproject/RPCDefinitionToolkit#rpc-definition-and-toolkit
+2.	Mike Furoyama provided the details on the RPC definition and toolkit. For further details: https://github.com/vistadataproject/RPCMonitor
+3.	Nilesh Lal provided the status update on the onboarding and A&A process . For further details: https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/Documents
+4.	An additional VA team member was noted on the call.  Ms. Cheryl will be working with Mr. Spinelli (VA PM).
+
+## Action Items
+
+| Item Number	| Action Items | Assigned To	| Due Date |
+|---|---|---|---|
+|1	|Setup the technical deep dive meeting after March 15th in Washington DC| Nilesh Lal| 03/08/2019 | 	   
+|2	|Update A&A details on Github| Nilesh Lal| 02/28/2019 | 
+|3	|Get signature on technical Kickoff from Dana| Michael W.| 02/28/2019 | 
+|4	|Setup meeting on 2/22/2019 with Mr. Joe to discuss A&A status| Nilesh Lal| 02/21/2019 | 	   
+|5	|Setup a separate meeting on the week of 2/25/2019 to discuss the release process with VAEC team| Nilesh Lal| 02/25/2019 | 
