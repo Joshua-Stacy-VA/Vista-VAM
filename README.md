@@ -6,7 +6,7 @@ Project Management for VistA Adaptive Maintenance - VA Enterprise Cloud Security
 
 |CLIN | Document |  Link |
 |---|---|---|
-|0001AC | Onboarding Status Report | Deliver to COR by email
+|0001AC | Onboarding Status Report | Deliver to COR by email on 2/27/2019
 |0003AA | Master Test Plan| [MTP](/Documents/Master_Test_Plan.md) |
 |0002AA	|Security Vulnerability Report | pending |
 |0003AB	| RPC Interface Test Suite | pending |
