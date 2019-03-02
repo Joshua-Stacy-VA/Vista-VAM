@@ -1,6 +1,7 @@
               Department of Veterans Affairs, Veteran Health Administration
                   VistA Adaptive Maintenance (VAM) VAEC Security 
                       Weekly Meeting Minutes
+                      
 Access Information https://meet.rtc.va.gov/nilesh.lal/9DDGL1CS
 
 844-376-0278, access code: 63568907 (East)
@@ -9,13 +10,13 @@ Access Information https://meet.rtc.va.gov/nilesh.lal/9DDGL1CS
 
 844-770-5400, access code: 63568907 (East)
 
-Facilitator	Nilesh Lal
+Facilitator: Conor Dowling
 
-Scribe	Nilesh Lal
+Scribe: Piyush Thesia
 
 ## VistA Adaptive Maintenance II - Weekly Meeting Notes
 
-02/19/2019
+02/26/2019
 
 ### Agenda
 1.	Roll Call
