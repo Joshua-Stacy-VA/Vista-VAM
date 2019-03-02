@@ -21,36 +21,24 @@ Scribe: Piyush Thesia
 ### Agenda
 1.	Roll Call
 2.	Technical update from Conor Dowling and Mike Furoyama
-3.	Management update from Nilesh Lal
-4.	Action item review
+3.	Action item review
 
 ### Attendees 
 1.	Dr. Rafael Richards – VA Business Owner
-2.	Mr. Michael Weckesser – VA CS
-3.	Mr. Robert Goode – VA COR
-4.	Mr. Tom Spinelli – VA PM
-5.	Ms. Owsley Cheryl – VA PM
-6.	Mr. Joseph Fourcade – VAEC ISO
-7.	Christy Lentile – AbleVets Portfolio Director
-8.	Nilesh Lal – AbleVets PM
-9.	Tom Willcox - AbleVets CIO
-10.	Conor Dowling – Technical Architect Caregraf
-11.	Mike Furoyama – Technical Lead HRG
-12.	Adam Akamine - Developer HRG
-13.	Christie Rindle – Developer HRG
+2.	Mr. Tom Spinelli – VA PM
+3.	Ms. Owsley Cheryl – VA PM
+4.	Mr. Joseph Fourcade – VAEC ISO
+5.	Conor Dowling – Technical Architect Caregraf
+6.	Mike Furoyama – Technical Lead HRG
+7.	Adam Akamine - Developer HRG
+8.	Christie Rindle – Developer HRG
 
 ### Key Points
-1.	Conor Dowling provided the details on the RPC definition and toolkit. For further details: https://github.com/vistadataproject/RPCDefinitionToolkit#rpc-definition-and-toolkit
-2.	Mike Furoyama provided the details on the RPC definition and toolkit. For further details: https://github.com/vistadataproject/RPCMonitor
-3.	Nilesh Lal provided the status update on the onboarding and A&A process . For further details: https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/Documents
-4.	An additional VA team member was noted on the call.  Ms. Cheryl will be working with Mr. Spinelli (VA PM).
+1.	Conor:   RPC Interface Definition D1 release is on track for March 1st
+2.	Mike:  S/W release is on track for March 15th
+3.	Dr Richards:  Talked to a representative of Cognisanti (sic) about Risk Vision and gaining access to it. The two organized to talk more after the call.
+4.	Dr. Richards: There’s a possibility of meeting in DC some time in March after the 15th s/w release.
 
 ## Action Items
-
-| Item Number	| Action Items | Assigned To	| Due Date |
-|---|---|---|---|
-|1	|Setup the technical deep dive meeting after March 15th in Washington DC| Nilesh Lal| 03/08/2019 | 	   
-|2	|Update A&A details on Github| Nilesh Lal| 02/28/2019 | 
-|3	|Get signature on technical Kickoff from Dana| Michael W.| 02/28/2019 | 
-|4	|Setup meeting on 2/22/2019 with Mr. Joe to discuss A&A status| Nilesh Lal| 02/21/2019 | 	   
-|5	|Setup a separate meeting on the week of 2/25/2019 to discuss the release process with VAEC team| Nilesh Lal| 02/25/2019 | 
+All Action Items are tracked in Github. 
+https://github.com/vistadataproject/VAM2ProjectManagement/issues
