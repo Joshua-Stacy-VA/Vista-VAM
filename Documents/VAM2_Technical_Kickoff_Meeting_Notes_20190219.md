@@ -13,42 +13,43 @@ Facilitator	Nilesh Lal
 
 Scribe	Nilesh Lal
 
-VistA Adaptive Maintenance II - Weekly Meeting Notes
+## VistA Adaptive Maintenance II - Weekly Meeting Notes
+
 02/19/2019
 
-Agenda
-Introductions
-Task Order Summary
-AbleVets Team Project Organization Chart
-Technical Timeline & Overarching Approach
-Deployment/Management Timeline & Overarching Approach
-Project Logistics
-Miscellaneous Discussion Areas
-Next Steps
-Attendees
-Dr. Rafael Richards – VA Business Owner
-Mr. Robert Goode – VA COR
-Mr. Tom Spinelli – VA PM
-Mr. Joseph Fourcade – VAEC ISO
-Jeff Miller – AbleVets Executive
-Avinay Vaswani - AbleVets Executive
-Greg Mutersbaugh – AbleVets Vice President Operation
-Christy Lentile – AbleVets Portfolio Director
-Nilesh Lal – AbleVets PM
-Matt Pavlak – AbleVets Contract Director
-Tom Willcox - AbleVets CIO
-John Fisher – VAEC Consultant Cognosante
-Susan Knause – Mircosoft Azzure Representative for Jeff Price
-Conor Dowling – Technical Architect Caregraf
-Brag Goo – Technical Architect HRG
-Renton Nip – HRG Executive
-Mike Furoyama – Technical Lead HRG
-Key Points
-A COR change was noted on the call. Mr. Goode will be replacing Mr. Spinelli as the COR, and Mr. Spinelli will serve as the overall VA Program Manager.
-Conor Dowling provided the details on the technical milestone depicted on the Technical Gantt chart. During the discussion Dr. Richards provided further details on the technical architecture.
-Nilesh Lal provided the details on the management milestone depicted on the Deployment/ATO Gantt chart.
-Action Items
-Item Number	Action Items	Assigned To	Due Date
-1	Setup the technical deep dive meeting during the week of February 18th	Nilesh Lal	02/12/2019
-2	Setup the recurring weekly meeting every Tuesday at 3 PM EST.	Nilesh Lal	02/08/2019
-3	Upload the presentation to Githuband system of record after signature from COR	Nilesh Lal	03/31/2019
+### Agenda
+1.	Roll Call
+2.	Technical update from Conor Dowling and Mike Furoyama
+3.	Management update from Nilesh Lal
+4.	Action item review
+
+### Attendees 
+1.	Dr. Rafael Richards – VA Business Owner
+2.	Mr. Michael Weckesser – VA CS
+3.	Mr. Robert Goode – VA COR
+4.	Mr. Tom Spinelli – VA PM
+5.	Ms. Owsley Cheryl – VA PM
+6.	Mr. Joseph Fourcade – VAEC ISO
+7.	Christy Lentile – AbleVets Portfolio Director
+8.	Nilesh Lal – AbleVets PM
+9.	Tom Willcox - AbleVets CIO
+10.	Conor Dowling – Technical Architect Caregraf
+11.	Mike Furoyama – Technical Lead HRG
+12.	Adam Akamine - Developer HRG
+13.	Christie Rindle – Developer HRG
+
+### Key Points
+1.	Conor Dowling provided the details on the RPC definition and toolkit. For further details: https://github.com/vistadataproject/RPCDefinitionToolkit#rpc-definition-and-toolkit
+2.	Mike Furoyama provided the details on the RPC definition and toolkit. For further details: https://github.com/vistadataproject/RPCMonitor
+3.	Nilesh Lal provided the status update on the onboarding and A&A process . For further details: https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/Documents
+4.	An additional VA team member was noted on the call.  Ms. Cheryl will be working with Mr. Spinelli (VA PM).
+
+## Action Items
+
+| Item Number	| Action Items | Assigned To	| Due Date |
+|---|---|---|---|
+|1	|Setup the technical deep dive meeting after March 15th in Washington DC| Nilesh Lal| 03/08/2019 | 	   
+|2	|Update A&A details on Github| Nilesh Lal| 02/28/2019 | 
+|3	|Get signature on technical Kickoff from Dana| Michael W.| 02/28/2019 | 
+|4	|Setup meeting on 2/22/2019 with Mr. Joe to discuss A&A status| Nilesh Lal| 02/21/2019 | 	   
+|5	|Setup a separate meeting on the week of 2/25/2019 to discuss the release process with VAEC team| Nilesh Lal| 02/25/2019 | 
