@@ -60,12 +60,15 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 # Weekly Progress Reports
 |Week #  | Date  | Report (link) | Key Discussion Points|
 |:---:|:---:|:---:|:---|
-| 01 |2019-02-19|  [vam-week-01](/Documents/weekly_meeting_minutes/vam-week-01-20190219.md) | Project Kickoff Meeting |
-| 02 |2019-02-26|  [vam-week-02](/Documents/weekly_meeting_minutes/vam-week-01-20190226.md) |   |
-| 03 |---|---|---|
-| 04 |---|---|---|
-| 05 |---|---|---|
-| 06 |---|---|---|
+| 01 |2019-02-19 |  [vam-week-01](/Documents/weekly_meeting_minutes/vam-week-01-20190219.md) | Project Kickoff Meeting |
+| 02 |2019-02-26 |  [vam-week-02](/Documents/weekly_meeting_minutes/vam-week-02-20190226.md) | AWS technical meeting planned  |
+| 03 |2019-02-26 |  [vam-week-03] | notes  |
+| 04 |2019-02-26 |  [vam-week-04] | notes  |
+| 05 |2019-02-26 |  [vam-week-05] | notes  |
+| 06 |2019-02-26 |  [vam-week-06] | notes  |
+| 07 |2019-02-26 |  [vam-week-07] | notes  |
+
+
 
 
 
