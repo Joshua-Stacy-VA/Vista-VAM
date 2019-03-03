@@ -7,7 +7,7 @@ Schedules, milestones, issue tracking, progress reports, documentation, dashboar
 # Project Management Dashboard
 Dashboard | Tasks/Docs | Done | %Done| Issues | Milestones|  Status |
 |:---:|:---:|:---:|:---:|---|---|---|
-[PWS Dashboard](#pws-progress)    | ? | ? | % | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) |   | ? |
+[PWS Dashboard](#pws-progress)    | ? | ? | % | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | ? |
 [ATO Dashboard](#ato-progress)    | ? | ? | % | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | ? |
 [IOC Dashboard](#ioc-progress)    | ? | ? | % | [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |   |  ? |
 [Weekly Reports](#weekly-progress-reports)  | 52 | 2 | 4% |  |  |  on track |
