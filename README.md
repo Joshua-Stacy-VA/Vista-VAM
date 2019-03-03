@@ -40,9 +40,9 @@ Documents, milestones, and deliverables schedule Product Work Statement (PWS) co
 
 
 ## Weekly Progress Reports
-Week #  | Date | Link | Accomplishment
-|:---:|:---:|:---:|:---|
-| 01 |2019-02-20|---|Kickoff meeting|
+Week #  | Date | Accomplishments | Link
+|:---:|:---:|:---|:---:|
+| 01 |2019-02-20| Kickoff meeting| link|
 | 02 |---|---|---|
 | 03 |---|---|---|
 | 04 |---|---|---|
