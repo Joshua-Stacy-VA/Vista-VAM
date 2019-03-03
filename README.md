@@ -8,21 +8,21 @@ VAM Project Managment Dashboards:
 
 
 
-### ATO Schedule
+### ATO Dashboard
 Documents, milestones, and deliverables schdedule for Authority to Operate (ATO) approval
 
 |RV | Document |  Link |
 |---|---|---|
 
 
-### IOC Schedule
+### IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
 
 |RV | Document |  Link |
 |---|---|---|
 
 
-### PWS Schedule
+### PWS Dashboard
 Documents, milestones, and deliverables schedule Product Work Statement (PWS) completion
 
 |CLIN or PWS Section | Status (date) | Document  | Link / Details |
