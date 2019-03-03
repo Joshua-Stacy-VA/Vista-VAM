@@ -11,7 +11,7 @@ Dashboard | Tasks/Docs | Completed | %Progress| Issues | Summary |
 
 
 [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
-[PWS Issues]
+[PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS)
 [IOC Issues]
 
 
