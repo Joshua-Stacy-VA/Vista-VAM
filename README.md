@@ -4,7 +4,7 @@ Schedules, milestones, issue tracking, progress reports, documentation, dashboar
 VAM Project Managment Dashboards:
 * [PWS Dashboard](#ato-dashboard)
 * [ATO Dashboard](#ioc-dashboard)
-* [IOC Dashboard](pws-dashboard)
+* [IOC Dashboard](#pws-dashboard)
 
 
 
