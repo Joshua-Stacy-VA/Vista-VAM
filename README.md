@@ -1,7 +1,7 @@
 # VAM2 Project Management
-Project Management for VistA Adaptive Maintenance - VA Enterprise Cloud Security. 
+Authoritative schedules, milestones, and progress reports for all Project Management activity supporting the VistA Adaptive Maintenance (VAM) Product Work Statement (PWS), with links to all Project Management deliverables and documents.  Major sub-tasks of VAM Project Management include managing all processes and documentation required for Authority to Operate (ATO)  and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).
 
-This provides a single authoritative dashboard of all Project Management activities, milestones, and accomplishments, with associated links to all deliverables and documents. Major milestones of the VAM  Product Work Statement (PWS)  are achieving (1) Authority to Operate (ATO)  and  (2) Initial Operating Capability (IOC) in the VA Enterprise Cloud (VAEC). 
+VAM Project Managment Dashboards:
 
 PWS Schedule
 ATO Schedule
