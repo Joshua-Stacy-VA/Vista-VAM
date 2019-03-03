@@ -11,17 +11,6 @@ Dashboard | Tasks/Docs | Completed | %Progress| Summary |
 
 
 
-## Weekly Reports
-Week #  | Date | Accomplishments | Link
-|:---:|:---:|:---|:---:|
-| 01 |2019-02-20| Kickoff meeting| link|
-| 02 |---|---|---|
-| 03 |---|---|---|
-| 04 |---|---|---|
-| 05 |---|---|---|
-| 06 |---|---|---|
-
-
 
 ## PWS Dashboard
 Documents, milestones, and deliverables schedule Product Work Statement (PWS) completion
@@ -34,6 +23,18 @@ Documents, milestones, and deliverables schedule Product Work Statement (PWS) co
 |0003AA | Due Q1 | Master Test Plan|  [MTP](/Documents/Master_Test_Plan.md) |
 |0002AA	| Due Q2 | Security Vulnerability Report |    |
 |0003AB	| Due Q2 | RPC Interface Test Suite |    |
+
+
+
+## Weekly Reports
+Week #  | Date | Accomplishments | Link
+|:---:|:---:|:---|:---:|
+| 01 |2019-02-20| Kickoff meeting| link|
+| 02 |---|---|---|
+| 03 |---|---|---|
+| 04 |---|---|---|
+| 05 |---|---|---|
+| 06 |---|---|---|
 
 
 ## ATO Dashboard
