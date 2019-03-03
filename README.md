@@ -1,5 +1,10 @@
 # VAM2 Project Management
-Project Management for VistA Adaptive Maintenance - VA Enterprise Cloud Security
+Project Management for VistA Adaptive Maintenance - VA Enterprise Cloud Security. The primary objectives of Project Managment are to assure all required documentation and processess are on schedule to successfully complete the Product Work Schedule (PWS).  Major milestones of the PWS are achieving (1) Authority to Operate (ATO)  and  (2) Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC). 
+
+PWS Schedule
+ATO Schedule
+IOC Schedule
+
 
 
 ### ATO Schedule
@@ -28,5 +33,11 @@ Documents, milestones, and deliverables schedule Product Work Statement (PWS) co
 |0002AA	| Due Q2 | Security Vulnerability Report |    |
 |0003AB	| Due Q2 | RPC Interface Test Suite |    |
 
+
+
+### Weekly Timeline and Reports
+Week #  | Date | Accomplishments
+|---|---|---|
+| 01 | Kickoff 
 
 
