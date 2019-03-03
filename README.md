@@ -2,7 +2,7 @@
 Schedules, milestones, issue tracking, progress reports, documentation, dashboards, and deliverables of all Project Management activity supporting the VistA Adaptive Maintenance (VAM) Product Work Statement (PWS).  Major responsibilities of VAM Project Management includes completing all processes and documentation required for Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud.
 
 ## Project Management Progress
-Dashboard | Tasks/Docs | Completed | %Progress| Summary |
+Dashboard | Tasks/Docs | Completed | %Progress| Issues | Next Steps |
 |:---:|:---:|:---:|:---:|:---|
 [PWS Dashboard](#ato-dashboard)    | ? | ? | % | need to complete task list |
 [ATO Dashboard](#ioc-dashboard)    | ? | ? | % | need to complete task list |
@@ -10,6 +10,7 @@ Dashboard | Tasks/Docs | Completed | %Progress| Summary |
 [Weekly Reports](#weekly-reports)  | 52 | 2 | 4% | on track |
 
 
+[ATO Issues](/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
 
 
 ## PWS Dashboard
