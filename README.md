@@ -3,7 +3,7 @@ Schedules, milestones, issue tracking, progress reports, documentation, dashboar
 
 Major responsibilities of VAM Project Management includes completing all processes and documentation required for Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud.
 
-# Dashboards
+## Dashboards
 * [PWS Dashboard](#ato-dashboard)
 * [ATO Dashboard](#ioc-dashboard)
 * [IOC Dashboard](#pws-dashboard)
@@ -12,21 +12,21 @@ Major responsibilities of VAM Project Management includes completing all process
 
 
 
-# ATO Dashboard
+## ATO Dashboard
 Documents, milestones, and deliverables schdedule for Authority to Operate (ATO) approval
 
 |RV | Document |  Link |
 |---|---|---|
 
 
-# IOC Dashboard
+## IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
 
 |RV | Document |  Link |
 |---|---|---|
 
 
-# PWS Dashboard
+## PWS Dashboard
 Documents, milestones, and deliverables schedule Product Work Statement (PWS) completion
 
 |CLIN or PWS Section | Status (date) | Document  | Link / Details |
@@ -39,19 +39,16 @@ Documents, milestones, and deliverables schedule Product Work Statement (PWS) co
 |0003AB	| Due Q2 | RPC Interface Test Suite |    |
 
 
-# Weekly Progress Reports
+## Weekly Progress Reports
 Week #  | Date | Link | Accomplishment
-|---|---|---|---|
-| 01 |---|---|---|
+|:---:|:---:|:---:|:---|
+| 01 |2019-02-20|---|Kickoff meeting|
 | 02 |---|---|---|
 | 03 |---|---|---|
 | 04 |---|---|---|
 | 05 |---|---|---|
 | 06 |---|---|---|
-| 07 |---|---|---|
-| 08 |---|---|---|
-| 09 |---|---|---|
-| 10 |---|---|---|
+
 
 
 
