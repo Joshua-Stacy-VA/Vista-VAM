@@ -1,11 +1,10 @@
 # VAM2 Project Management
-Authoritative schedules, milestones, and progress reports for all Project Management activity supporting the VistA Adaptive Maintenance (VAM) Product Work Statement (PWS), with links to all Project Management deliverables and documents.  Major sub-tasks of VAM Project Management include managing all processes and documentation required for Authority to Operate (ATO)  and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).
+Schedules, milestones, issue tracking, progress reports, documentation, and deliverables of all Project Management activity supporting  VistA Adaptive Maintenance (VAM).   Major responsibilities of VAM Project Management includes managing all processes and producing all documentation required for Authority to Operate (ATO)  and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).
 
 VAM Project Managment Dashboards:
-
-PWS Schedule
-ATO Schedule
-IOC Schedule
+* PWS Dashboard
+* ATO Dashboard
+* IOC Dashboard
 
 
 
