@@ -24,13 +24,13 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 * [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)
 
 
-|PWS/CLIN# | Date (due) | Document (link) | Notes |
+|PWS/CLIN# | Due | Status | Document (link) | Note |
 |---|---|---|---|
-|PWS 5.1.6 | 2019-02-06 | [Project KickOff Meeting Notes(/Documents/Technical_Kickoff_Meeting/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) |
-|0001AC | 2/27/19 |  Onboarding Status Report | Deliver to COR by email on 2/27/2019 |
-|0003AA | Q1 | [Master Test Plan](/Documents/Master_Test_Plan.md) |   |
-|0002AA	| Q2 | Security Vulnerability Report |    |
-|0003AB	| Q2 | RPC Interface Test Suite |    |
+|PWS 5.1.6 | 2019-02-06 | DONE | [Project KickOff Meeting Minutes](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) | Done |
+|0001AC | 2019-02-27| DUE | Onboarding Status Report to COR |
+|0003AA | Q1 | --- | [Master Test Plan](/Documents/Master_Test_Plan.md) | 
+|0002AA	| Q2 | --- | Security Vulnerability Report | 
+|0003AB	| Q2 | --- | RPC Interface Test Suite | 
 
 
 
