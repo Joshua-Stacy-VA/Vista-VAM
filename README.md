@@ -4,9 +4,9 @@ Schedules, milestones, issue tracking, progress reports, documentation, dashboar
 ## Project Management Progress
 Dashboard | Tasks/Docs | Completed | %Progress| Summary |
 |:---:|:---:|:---:|:---:|:---|
-[PWS Dashboard](#ato-dashboard)    | ? | ? | % | ? |
-[ATO Dashboard](#ioc-dashboard)    | ? | ? | % | ? |
-[IOC Dashboard](#pws-dashboard)    | ? | ? | % | ? |
+[PWS Dashboard](#ato-dashboard)    | ? | ? | % | need to complete task list |
+[ATO Dashboard](#ioc-dashboard)    | ? | ? | % | need to complete task list |
+[IOC Dashboard](#pws-dashboard)    | ? | ? | % | need to complete task list|
 [Weekly Reports](#weekly-reports)  | 52 | 2 | 4% | on track |
 
 
