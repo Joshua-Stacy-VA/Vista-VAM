@@ -9,6 +9,15 @@ Dashboard | Tasks/Docs | Completed | %Progress| Issues | Summary |
 [IOC Dashboard](#pws-dashboard)    | ? | ? | % | [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  | complete task list|
 [Weekly Reports](#weekly-reports)  | 52 | 2 | 4% |  |  on track |
 
+.
+
+.
+
+.
+
+.
+
+.
 
 
 ## PWS Dashboard
