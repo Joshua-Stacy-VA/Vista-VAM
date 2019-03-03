@@ -7,7 +7,7 @@ Dashboard | Tasks/Docs | Completed | %Progress| Summary |
 [PWS Dashboard](#ato-dashboard)    | ? | ? | % | ? |
 [ATO Dashboard](#ioc-dashboard)    | ? | ? | % | ? |
 [IOC Dashboard](#pws-dashboard)    | ? | ? | % | ? |
-[Weekly Reports](#weekly-reports)  | 52 | 2 | % | on track |
+[Weekly Reports](#weekly-reports)  | 52 | 2 | 4% | on track |
 
 
 
