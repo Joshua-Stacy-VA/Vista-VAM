@@ -4,18 +4,21 @@ Project Management for VistA Adaptive Maintenance - VA Enterprise Cloud Security
 
 ### ATO Schedule
 Documents, milestones, and deliverables schdedule for Authority to Operate (ATO) approval
+
 |RV | Document |  Link |
 |---|---|---|
 
 
 ### IOC Schedule
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
+
 |RV | Document |  Link |
 |---|---|---|
 
 
 ### PWS Schedule
 Documents, milestones, and deliverables schedule Product Work Statement (PWS) completion
+
 |CLIN or PWS Section | Status (date) | Document  | Link / Details |
 |---|---|---|---|
 |PWS 5.1.6 | Done | Technical Kickoff Meeting Presentation | [Technical KickOff Presentation](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_KickOff_Meeting_20190206.pdf) |
