@@ -30,6 +30,10 @@ Dashboard | Tasks/Docs | Completed | %Progress| Issues | Milestones|  Summary |
 ## PWS Dashboard
 Documents, milestones, and deliverables schedule Product Work Statement (PWS) completion
 
+* [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS)
+* [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)
+
+
 |CLIN or PWS Section | Status (date) | Document  | Link / Details |
 |---|---|---|---|
 |PWS 5.1.6 | Done | Technical Kickoff Meeting Presentation | [Technical KickOff Presentation](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_KickOff_Meeting_20190206.pdf) |
@@ -38,6 +42,23 @@ Documents, milestones, and deliverables schedule Product Work Statement (PWS) co
 |0003AA | Due Q1 | Master Test Plan|  [MTP](/Documents/Master_Test_Plan.md) |
 |0002AA	| Due Q2 | Security Vulnerability Report |    |
 |0003AB	| Due Q2 | RPC Interface Test Suite |    |
+
+
+## ATO Dashboard
+Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
+
+* [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
+* [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?
+
+|RV | Document |  Link |
+|---|---|---|
+
+
+## IOC Dashboard
+Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
+
+|RV | Document |  Link |
+|---|---|---|
 
 
 
@@ -50,20 +71,6 @@ Week #  | Date | Accomplishments | Link
 | 04 |---|---|---|
 | 05 |---|---|---|
 | 06 |---|---|---|
-
-
-## ATO Dashboard
-Documents, milestones, and deliverables schdedule for Authority to Operate (ATO) approval
-
-|RV | Document |  Link |
-|---|---|---|
-
-
-## IOC Dashboard
-Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
-
-|RV | Document |  Link |
-|---|---|---|
 
 
 
