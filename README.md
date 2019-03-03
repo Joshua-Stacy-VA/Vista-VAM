@@ -4,7 +4,7 @@ Schedules, milestones, issue tracking, progress reports, documentation, dashboar
 
 
 # Project Management Dashboard
-Dashboard | Tasks/Docs | Completed | %Progress| Issues | Milestones|  Summary |
+Dashboard | Tasks/Docs | Done | %Done| Issues | Milestones|  Summary |
 |:---:|:---:|:---:|:---:|---|---|---|
 [PWS Dashboard](#ato-dashboard)    | ? | ? | % | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) |   | complete task list |
 [ATO Dashboard](#ioc-dashboard)    | ? | ? | % | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | complete task list |
