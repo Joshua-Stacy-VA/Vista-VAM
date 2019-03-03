@@ -46,25 +46,6 @@ The Cloud/FedRAMP cloud-based VA Application / Workload / Third-Party System ATO
 The cloud-based VA Application / Workload / Third-Party System in RiskVision will then be advanced to OIS and Certification Authority (CA) for review before progressing to the VA CISO and Designated Accrediting Authority (DAA) for agency ATO consideration.
 
 
-## Other Federal Agency (Non-FedRAMP) ATO Acceptance
-
-The cybersecurity requirements for VA information systems will be managed through the Risk Management Framework (RMF) consistent with the principals established in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37.  Reciprocal acceptance of other federal agency system authorizations will be implemented to the maximum extent possible.  Refusals must be timely, documented, and reported to the responsible VA Authorizing Official.  
-
-VA employees and contract staff working for the VA are prohibited from sending VA data outside the VA Network without an Authority to Operate signed by the VA Authorizing Official.
-
-1.	Any project seeking to use another federal agency ATO must contact the vaoisisrmrmf@va.gov to initiate the process.
-
-2.	A review of the other agency ATO process will be initiated to ensure it meets VA requirements for NIST 800-53 implementation; ATO package review is allowed; and POAM management and tracking is in place.  In the event the other agency will not share the entire A&A package, negotiations will ensue between VA and the other agency to obtain an agreed upon subset of the required documentation.
-
-3.	Once an agreement/understanding is in place to review the other agency package, an entry in RiskVision will be created using the VA 6500.3 Contractor/FedRAMP program.
-
-4.	The other Federal Agency ATO memo, along with additional documentation, will be uploaded to the documents tab in RiskVision.  Additional documentation may include a list of open POAMs, required artifacts, Interconnection Security Agreements (ISA)/Memorandum of Understanding (MOU).
-5.	Questionnaires will be answered and any customer responsible controls, if necessary, will be completed and uploaded to the documents tab.
-6.	The workflow will be progressed to the VA Authorizing Official for review and approval.
-o	 	If the VA AO refuses reciprocity of the other agency ATO, a memo will be developed and sent to the VA project staff for notification.
-
-
-
 ## Authorization to Operate (ATO) Requirements - 2019-02-02
 
 ```
