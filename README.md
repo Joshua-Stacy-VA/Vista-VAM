@@ -28,66 +28,44 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 * [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)
 
 
-|CLIN or PWS # | Status (date) | Document  | Link / Details |
+|PWS/CLIN# | Date (due) | Document (link) | Notes |
 |---|---|---|---|
-|PWS 5.1.6 | Done | Technical Kickoff Meeting Presentation | [Technical KickOff Presentation](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_KickOff_Meeting_20190206.pdf) |
-|PWS 5.1.6 | Done | Technical Kickoff Meeting Notes |  [Technical KickOff Meeting Notes](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) |
-|0001AC | Due 2/27/19 |  Onboarding Status Report | Deliver to COR by email on 2/27/2019 |
-|0003AA | Due Q1 | Master Test Plan|  [MTP](/Documents/Master_Test_Plan.md) |
-|0002AA	| Due Q2 | Security Vulnerability Report |    |
-|0003AB	| Due Q2 | RPC Interface Test Suite |    |
+|PWS 5.1.6 | 2019-02-06 | [Project KickOff Meeting Notes] (/Documents/Technical_Kickoff_Meeting/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) |
+|0001AC | 2/27/19 |  Onboarding Status Report | Deliver to COR by email on 2/27/2019 |
+|0003AA | Q1 | [Master Test Plan](/Documents/Master_Test_Plan.md) |   |
+|0002AA	| Q2 | Security Vulnerability Report |    |
+|0003AB	| Q2 | RPC Interface Test Suite |    |
 
-.
 
-.
-
-.
 
 
 # ATO Progress
 Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 * [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
-* [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?
+* [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope) 
 
-|ATO | Issue |  Document/Deliverable | Note |
+
+|ATO# | Date (due) | Document (link) | Notes |
 |---|---|---|---|
 
-
-.
-
-.
-
-.
-
-.
 
 
 # IOC Progress
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
 
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
-* [IOC Milestones]
+* [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
 
-|IOC | Issue | Document / Deliverable| Note |
+|ATO# | Date (due) | Document (link) | Notes |
 |---|---|---|---|
-
-
-.
-
-.
-
-.
-
-.
-
 
 
 
 # Weekly Progress Reports
-Week #  | Date | Accomplishments | Link
+|Week #  | Date | Report (link) | Key Discussion Points |
 |:---:|:---:|:---|:---:|
-| 01 |2019-02-20| Kickoff meeting| link|
+| 01 |2019-02-20|  link | Kickoff meeting |
 | 02 |---|---|---|
 | 03 |---|---|---|
 | 04 |---|---|---|
