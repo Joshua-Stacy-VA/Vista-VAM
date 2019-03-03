@@ -1,10 +1,12 @@
-# VAM2 Project Management
-Schedules, milestones, issue tracking, progress reports, documentation, dashboards, and deliverables of all Project Management activity supporting the VistA Adaptive Maintenance (VAM) Product Work Statement (PWS).  Major responsibilities of VAM Project Management includes completing all processes and documentation required for Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud.
+# VAM Project Management
+Schedules, milestones, issue tracking, progress reports, documentation, dashboards, and deliverables of all Project Management activity supporting the VistA Adaptive Maintenance (VAM) Product Work Statement (PWS).  
+
+Major responsibilities of VAM Project Management includes completing all processes and documentation required for Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud.
 
 .
 
 
-## Project Management Dashboard
+# Project Management Dashboard
 Dashboard | Tasks/Docs | Completed | %Progress| Issues | Summary |
 |:---:|:---:|:---:|:---:|---|---|
 [PWS Dashboard](#ato-dashboard)    | ? | ? | % | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | complete task list |
