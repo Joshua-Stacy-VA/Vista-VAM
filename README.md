@@ -1,6 +1,11 @@
 # VAM Project Management
 Schedules, milestones, issue tracking, progress reports, documentation, dashboards, and deliverables of all Project Management (PM) activity supporting the VistA Adaptive Maintenance (VAM) Product Work Statement (PWS).   Major task include all processes and documentation required for Authority to Operate (ATO) and Initial Operating Capability (IOC) in the VA Enterprise Cloud.
 
+.
+
+.
+
+
 # Project Management Dashboard
 Dashboard | Tasks/Docs | Done | %Done| Issues | Milestones|  Status |
 |:---:|:---:|:---:|:---:|---|---|---|
