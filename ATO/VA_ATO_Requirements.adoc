@@ -1,4 +1,4 @@
-# VA Authority to Operate - SOP v3.31
+# VA Authority to Operate
 
 ```
 OFFICE OF INFORMATION SECURITY
