@@ -1,11 +1,10 @@
 # VAM Project Management Portal
 
-Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS).  This includes managing all documentation and processes required for Authority to Operate (ATO) and Initial Operating Capability (IOC) in the VA Enterprise Cloud.   
+Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS).  This includes managing all documentation and processes required for Authority to Operate (ATO) and Initial Operating Capability (IOC) in the VA Enterprise Cloud. The dashboard provides an authoritative overview of all project management tasks, issues, milestones, and deliverables, and the status of all deliverables.
+
 
 
 ### VAM Project Managment Dashboard
-The dashboard provides an authoritative overview of all project management tasks, issues, milestones, and deliverables, and the status of all deliverables.
-
 
 | Dashboard | Issues | Milestones|Tasks/Docs | Done | %Done| Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
