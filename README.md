@@ -7,12 +7,12 @@ Major responsibilities of VAM Project Management includes completing all process
 
 
 # Project Management Dashboard
-Dashboard | Tasks/Docs | Completed | %Progress| Issues | Summary |
+Dashboard | Tasks/Docs | Completed | %Progress| Issues | Milestones|  Summary |
 |:---:|:---:|:---:|:---:|---|---|
-[PWS Dashboard](#ato-dashboard)    | ? | ? | % | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | complete task list |
-[ATO Dashboard](#ioc-dashboard)    | ? | ? | % | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | complete task list |
-[IOC Dashboard](#pws-dashboard)    | ? | ? | % | [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  | complete task list|
-[Weekly Reports](#weekly-reports)  | 52 | 2 | 4% |  |  on track |
+[PWS Dashboard](#ato-dashboard)    | ? | ? | % | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) |   | complete task list |
+[ATO Dashboard](#ioc-dashboard)    | ? | ? | % | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) |   | complete task list |
+[IOC Dashboard](#pws-dashboard)    | ? | ? | % | [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |   |  complete task list|
+[Weekly Reports](#weekly-reports)  | 52 | 2 | 4% |  |  |  on track |
 
 .
 
