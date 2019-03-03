@@ -10,7 +10,7 @@ Dashboard | Tasks/Docs | Completed | %Progress| Issues | Summary |
 [Weekly Reports](#weekly-reports)  | 52 | 2 | 4% |  |  on track |
 
 
-[ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
+[ATO Issues](/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
 
 
 ## PWS Dashboard
