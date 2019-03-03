@@ -11,19 +11,16 @@ Major responsibilities of VAM Project Management includes completing all process
 
 
 
+## Weekly Progress Reports
+Week #  | Date | Accomplishments | Link
+|:---:|:---:|:---|:---:|
+| 01 |2019-02-20| Kickoff meeting| link|
+| 02 |---|---|---|
+| 03 |---|---|---|
+| 04 |---|---|---|
+| 05 |---|---|---|
+| 06 |---|---|---|
 
-## ATO Dashboard
-Documents, milestones, and deliverables schdedule for Authority to Operate (ATO) approval
-
-|RV | Document |  Link |
-|---|---|---|
-
-
-## IOC Dashboard
-Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
-
-|RV | Document |  Link |
-|---|---|---|
 
 
 ## PWS Dashboard
@@ -39,15 +36,18 @@ Documents, milestones, and deliverables schedule Product Work Statement (PWS) co
 |0003AB	| Due Q2 | RPC Interface Test Suite |    |
 
 
-## Weekly Progress Reports
-Week #  | Date | Accomplishments | Link
-|:---:|:---:|:---|:---:|
-| 01 |2019-02-20| Kickoff meeting| link|
-| 02 |---|---|---|
-| 03 |---|---|---|
-| 04 |---|---|---|
-| 05 |---|---|---|
-| 06 |---|---|---|
+## ATO Dashboard
+Documents, milestones, and deliverables schdedule for Authority to Operate (ATO) approval
+
+|RV | Document |  Link |
+|---|---|---|
+
+
+## IOC Dashboard
+Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
+
+|RV | Document |  Link |
+|---|---|---|
 
 
 
