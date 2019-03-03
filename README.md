@@ -21,7 +21,7 @@ Dashboard | Tasks/Docs | Done | %Done| Issues | Milestones|  Status |
 .
 
 
-### PWS Progress
+# PWS Progress
 Documents, milestones, and deliverables schedule for Product Work Statement (PWS)
 
 * [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS)
@@ -44,7 +44,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 .
 
 
-## ATO Progress
+# ATO Progress
 Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 * [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
@@ -63,7 +63,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 .
 
 
-## IOC Progress
+# IOC Progress
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
 
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
@@ -84,7 +84,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 
 
 
-## Weekly Progress Reports
+# Weekly Progress Reports
 Week #  | Date | Accomplishments | Link
 |:---:|:---:|:---|:---:|
 | 01 |2019-02-20| Kickoff meeting| link|
