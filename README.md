@@ -1,8 +1,10 @@
-# VAM Project Management
-Schedules, milestones, issue tracking, progress reports, documentation, dashboards, and deliverables of all Project Management (PM) activity supporting the VistA Adaptive Maintenance (VAM) Product Work Statement (PWS). This includes all processes and documentation required for Authority to Operate (ATO) and Initial Operating Capability (IOC) in the VA Enterprise Cloud.
+# VAM Project Management Portal
+
+Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS).  This includes managing all documentation and processes required for Authority to Operate (ATO) and Initial Operating Capability (IOC) in the VA Enterprise Cloud. The dashboard provides an authoritative overview of all project management tasks, issues, milestones, and deliverables, and the status of all deliverables.
 
 
-## Master Project Management Dashboard
+
+### VAM Project Managment Dashboard
 
 | Dashboard | Issues | Milestones|Tasks/Docs | Done | %Done| Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -10,6 +12,8 @@ Schedules, milestones, issue tracking, progress reports, documentation, dashboar
 [ATO Dashboard](#ato-progress)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | ? | ? | % | ? | 
 [IOC Dashboard](#ioc-progress)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  ? | ? | % | ? |
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 2 | 4% | on track  | 
+
+
 
 .
 
