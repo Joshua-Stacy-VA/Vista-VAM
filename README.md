@@ -1,7 +1,6 @@
 # VAM Project Management
 Schedules, milestones, issue tracking, progress reports, documentation, dashboards, and deliverables of all Project Management activity supporting the VistA Adaptive Maintenance (VAM) Product Work Statement (PWS).   Major tasks of VAM Project Management include completing all processes and documentation required for Authority to Operate (ATO) and Initial Operating Capability (IOC) in the VA Enterprise Cloud.
 
-.
 
 
 # Project Management Dashboard
@@ -14,17 +13,6 @@ Dashboard | Tasks/Docs | Completed | %Progress| Issues | Milestones|  Summary |
 
 
 
-
-
-.
-
-.
-
-.
-
-.
-
-
 ## PWS Dashboard
 Documents, milestones, and deliverables schedule Product Work Statement (PWS) completion
 
@@ -32,7 +20,7 @@ Documents, milestones, and deliverables schedule Product Work Statement (PWS) co
 * [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)
 
 
-|CLIN or PWS Section | Status (date) | Document  | Link / Details |
+|CLIN or PWS # | Status (date) | Document  | Link / Details |
 |---|---|---|---|
 |PWS 5.1.6 | Done | Technical Kickoff Meeting Presentation | [Technical KickOff Presentation](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_KickOff_Meeting_20190206.pdf) |
 |PWS 5.1.6 | Done | Technical Kickoff Meeting Notes |  [Technical KickOff Meeting Notes](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) |
@@ -48,15 +36,18 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 * [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?
 
-|RV | Document |  Link |
-|---|---|---|
+|ATO | Issue |  Document/Deliverable | Note |
+|---|---|---|---|
 
 
 ## IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
 
-|RV | Document |  Link |
-|---|---|---|
+* [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
+* [IOC Milestones]
+
+|IOC | Issue | Document / Deliverable| Note |
+|---|---|---|---|
 
 
 
