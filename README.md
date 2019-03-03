@@ -1,13 +1,5 @@
 # VAM Project Management
 
-Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS). 
-
-This includes managing all documentation and processes required for Authority to Operate (ATO) and Initial Operating Capability (IOC) in the VA Enterprise Cloud.   
-
-The following dashboard provides an authoritative overview of all project management tasks, issues, milestones, and deliverables, and the status of all deliverables.
-
-
-## Master Project Management Dashboard
 
 | Dashboard | Issues | Milestones|Tasks/Docs | Done | %Done| Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -15,6 +7,9 @@ The following dashboard provides an authoritative overview of all project manage
 [ATO Dashboard](#ato-progress)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | ? | ? | % | ? | 
 [IOC Dashboard](#ioc-progress)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  ? | ? | % | ? |
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 2 | 4% | on track  | 
+
+
+Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS).  This includes managing all documentation and processes required for Authority to Operate (ATO) and Initial Operating Capability (IOC) in the VA Enterprise Cloud.    The agove dashboard provides an authoritative overview of all project management tasks, issues, milestones, and deliverables, and the status of all deliverables.
 
 .
 
