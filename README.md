@@ -7,6 +7,8 @@ Major responsibilities of VAM Project Management includes completing all process
 * [PWS Dashboard](#ato-dashboard)
 * [ATO Dashboard](#ioc-dashboard)
 * [IOC Dashboard](#pws-dashboard)
+* [Weekly Progress Reports](#weekly-progress-reports)
+
 
 
 
@@ -37,8 +39,7 @@ Documents, milestones, and deliverables schedule Product Work Statement (PWS) co
 |0003AB	| Due Q2 | RPC Interface Test Suite |    |
 
 
-
-### Weekly Timeline and Reports
+# Weekly Progress Reports
 Week #  | Date | Accomplishments
 |---|---|---|
 | 01 | Kickoff 
