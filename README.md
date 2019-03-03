@@ -58,21 +58,14 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 
 
 # Weekly Progress Reports
-|Week #  | Date | Report (link) | Key Discussion Points |
-|:---:|:---:|:---|:---:|
-| 01 |2019-02-29|  [vam2-week-01](/Documents/weekly_meeting_minutes/vam2-week-01-20190219.md) | Kickoff meeting |
-| 02 |---|---|---|
+|Week #  | Date  | Report (link) | Key Discussion Points|
+|:---:|:---:|:---:|:---|
+| 01 |2019-02-19|  [vam-week-01](/Documents/weekly_meeting_minutes/vam-week-01-20190219.md) | Project Kickoff Meeting |
+| 02 |2019-02-26|  [vam-week-02](/Documents/weekly_meeting_minutes/vam-week-01-20190226.md) |   |
 | 03 |---|---|---|
 | 04 |---|---|---|
 | 05 |---|---|---|
 | 06 |---|---|---|
-
-
-
-
-
-
-
 
 
 
