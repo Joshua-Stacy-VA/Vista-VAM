@@ -4,51 +4,8 @@ Authorization Requirements
 Standard Operating Procedures
 Version 3.31
 FEBRUARY 4, 2019
-
-Table of Contents
-1. Purpose
-2. Scope
-3. Authorization Prerequisites
-4. Assessment & Authorization (A&A) Requirements
-
-  4.1 Registration Requirements
-    4.1.1 Application Registration
-    
-  4.2 Security Documentation (SD) Requirements
-    4.2.1 System Security Plan (SSP) - SD1
-    4.2.2 Minor Application Self-Assessment (MASA) - SD2
-    4.2.3 Signatory Authority (SA) - SD3
-    4.2.4 Risk Assessment (RA) - SD4
-    4.2.5 Configuration Management Plan (CMP) - SD5
-    4.2.6 Incident Response Plan (IRP) - SD6
-    4.2.7 Information Security Contingency Plan (ISCP) - SD7
-    4.2.8 Disaster Recovery Plan (DRP) - SD8
-    4.2.9 Privacy Impact Assessment (PIA) - SD9
-    4.2.10 Interconnection Security Agreement/Memorandum of Understanding (ISA/MOU) - SD10
-    4.2.11 Secure Design Review (SDR) - SD11
-  
-  4.3 Technical/Testing (TT) Requirements
-    4.3.1 Nessus Scan/Discovery Scan - TT1
-      4.3.1.1	Database Scan
-    4.3.2 Quality Code Review (QCR) - TT2
-    4.3.3 Secure Code Review (SCR) - TT3
-    4.3.4 Penetration Test / Application Assessment (PT/AA) - TT4
-    4.3.5 Security Configuration Compliance Data (SCCD) - TT5
-    4.3.6 Security Control Assessment (SCA) - TT6
-    4.3.7 Control Implementation Evidence (CIE) - TT7
-    4.3.8 Enterprise Discovery Scan (EDS) - TT8
-
-  4.4 Closing
-
-Appendix A – FedRAMP/Cloud – VA Requirements
-Appendix B – Authorization Requirements Quick Reference Guide
-Appendix C – Job Aid: Security Information
-Appendix D – Minor Applications Self-Assessment SOP
-Appendix E – A&A System/Facility DRP and ISCP Requirements
-Appendix F – Links/URLs/E-Mail Addresses
 ```
-
-# Linked Table of Contents
+# Table of Contents
 
 [1. Purpose](#1-purpose)
 
