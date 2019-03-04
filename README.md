@@ -5,7 +5,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 
 ### VAM Master Project Managment Dashboard
 
-| Dashboard | Issues | Milestones|Tasks/Docs | Done | %Done| Status |
+| Dashboard | Issues | Milestones|Tasks/Docs | Done | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
 [PWS Dashboard](#pws-dahsboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | ? | 2 | ?% | :large_orange_diamond: | 
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | ? | % | :red_circle: | 
