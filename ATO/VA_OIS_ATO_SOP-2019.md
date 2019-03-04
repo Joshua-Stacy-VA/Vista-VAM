@@ -5,7 +5,7 @@ Standard Operating Procedures
 Version 3.31
 FEBRUARY 4, 2019
 ```
-### VA OIS ATO Requirements - Standard Operating Procedures
+### VA OIS ATO SOP - 2019
 
 [1. Purpose](#1-purpose)
 
