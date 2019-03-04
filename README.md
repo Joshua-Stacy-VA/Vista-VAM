@@ -26,12 +26,8 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |PWS/CLIN# | Due | Status | Document (link) |
 |---|---|---|---|
 |PWS 5.1.6 | 2019-02-06 | DONE | [Project KickOff Meeting Minutes](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) |
-|0001AC | 2019-02-27| DUE | Onboarding Status Report to COR |
-|0003AA | Q1 | --- | [Master Test Plan](/Documents/Master_Test_Plan.md) | 
-|0002AA	| Q2 | --- | Security Vulnerability Report | 
-|0003AB	| Q2 | --- | RPC Interface Test Suite | 
-
-
+|1AC | 2019-02-27| DUE | Onboarding Status Report to COR |
+|3AA | Q1 | --- | [Master Test Plan](/Documents/Master_Test_Plan.md) | 
 
 
 
@@ -40,7 +36,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 * [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope) 
-* [Guide: VA ATO SOP](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#va-ois-ato-sop---2019)
+* [VA OIS ATO SOP](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#va-ois-ato-sop---2019): VA Office of Informatoin Security Requirements for Authorization to Operate (ATO) - v3.31 (Feb 4, 2019)
 
 |SOP# | Type | Short| Description | Status
 |:---:|----|---|:---|:---:|
