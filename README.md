@@ -42,31 +42,31 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope) 
 
 
-|SOP# | Task/Doc/Code| Description | Status
-|:------:|:---------|:--------|:------:|
-3.1	    | :person_with_blond_hair: ISO  | Information Security Officer Designation | ?
-3.2	    | RV Entry	        | RiskVistion System Inventory Checklist | ?
-4.1.1	  | App Reg	          | Application Registration |  ?
-4.2.1	  | :page_facing_up:  SSP	              | System Security Plan |  ?
-4.2.2	  | :page_facing_up:  MASA	            | Minor Application Self Assessment |  ?
-4.2.3	  | :page_facing_up:  SA	              | Signatory Authority |  ?
-4.2.4	  | :page_facing_up:  RA	              | Risk Assessment |  ?
-4.2.5	  | :page_facing_up:  CMP	              | Configuration Management Plan |  ?
-4.2.6	  | :page_facing_up: IRP	              | Incident Response Plan |  ?
-4.2.7	  | :page_facing_up: ISCP	            | Informaton Security Contingency Plan |  ?
-4.2.8	  | :page_facing_up: DRP	              | Disaster Recovery Plan |  ?
-4.2.9	  | :page_facing_up: PIA	              | Privacy Impact Assessment | ? 
-4.2.10	| :page_facing_up: ISA/MOU	          | Interconnection Security Agreeement / Memorandum of Understanding |  ?
-4.2.11	| :page_facing_up: SDR	              | Secure Design Review |  ?
-4.3.1	  | Nessus scan	      | Nessus scan |  ?
-4.3.1.1	| DB scan	          | Database scan |  ?
-4.3.2	  | QCR (V&V)	        | Quaility Code Review (Verification & Validation) |  ?
-4.3.3	  | SCR	              | Secure Code Review |  ?
-4.3.4	  | PT/AA	            | Penetration Test / Application Assessment |  ?
-4.3.5	  | SCCD	            | Security Configuration Compliance Data |  ?
-4.3.6	  | SCA	              | Security Control Assessment |  ?
-4.3.7	  | CIE	              | Control Implementation Evidence  ?| 
-4.3.8	  | EDS	              | Enterprise Discovery Scan |  ?
+|SOP# | Type | Short| Description | Status
+|:---:|----|---|:---|:---:|
+3.1	    | :person_with_blond_hair: | ISO  | Information Security Officer Designation | ?
+3.2	    | :clipboard: | RV Entry | RiskVistion System Inventory Checklist | ?
+4.1.1	  | :page_facing_up: | App Reg	 | Application Registration |  ?
+4.2.1	  | :page_facing_up: | SSP	| System Security Plan |  ?
+4.2.2	  | :page_facing_up: | MASA	| Minor Application Self Assessment |  ?
+4.2.3	  | :page_facing_up: | SA	  | Signatory Authority |  ?
+4.2.4	  | :page_facing_up: | RA	  | Risk Assessment |  ?
+4.2.5	  | :page_facing_up: | CMP	| Configuration Management Plan |  ?
+4.2.6	  | :page_facing_up: | IRP	| Incident Response Plan |  ?
+4.2.7	  | :page_facing_up: | ISCP	| Informaton Security Contingency Plan |  ?
+4.2.8	  | :page_facing_up: | DRP	| Disaster Recovery Plan |  ?
+4.2.9	  | :page_facing_up: | PIA	| Privacy Impact Assessment | ? 
+4.2.10	| :page_facing_up: | ISA/MOU | Interconnection Security Agreeement / Memorandum of Understanding |  ?
+4.2.11	| :page_facing_up: | SDR	| Secure Design Review |  ?
+4.3.1	  |  :cd: |Nessus scan | Nessus scan |  ?
+4.3.1.1	|  :cd:  | DB scan	| Database scan |  ?
+4.3.2	  |  :cd:  | QCR (V&V) | Quaility Code Review (Verification & Validation) |  ?
+4.3.3	  |  :cd:  | SCR	 | Secure Code Review |  ?
+4.3.4	  |  :cd:  | PT/AA | Penetration Test / Application Assessment |  ?
+4.3.5	  |  :cd:  | SCCD	| Security Configuration Compliance Data |  ?
+4.3.6	  |  :cd:  | SCA	| Security Control Assessment |  ?
+4.3.7	  |  :cd:  | CIE	| Control Implementation Evidence  ?| 
+4.3.8	  |  :cd:  | EDS | Enterprise Discovery Scan |  ?
 
 .
 
