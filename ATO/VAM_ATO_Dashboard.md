@@ -15,10 +15,10 @@ SECURITY DOCUMENTATION
 
 SOP     | Task    | Description | Abbriviate Name | Location |
 |--------|---------|--------|---------|--------|
-4.2.1	  | SSP	              | System Security Plan  | SD1             | Risk Vision and on github: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/VAM_System_Security_Plan_Updated.docx |
+4.2.1	  | SSP	              | System Security Plan  | SD1             | Risk Vision and on GitHub: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/VAM_System_Security_Plan_Updated.docx |
 4.2.2	  | MASA	            | Minor Application Self Assessment | SD2 | Not applicable, VAM2 is not a minor application, VAM2 requires  its own ATO   |
-4.2.3	  | SA	              | Signatory Authority | SD3               | Risk Vision and on github: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/SIGNATORY%20AUTHORITY_VAM.docx |
-4.2.4	  | RA	              | Risk Assessment | SD4                   | Risk Vision and on GitHub:  https://teams.microsoft.com/l/message/19:a80cfa49157242a799a3c71df12558d4@thread.skype/1551723987818?tenantId=af16bf88-a652-447e-8dd5-9dd06181c6bd&groupId=ae6569a5-77ff-4c2a-ab10-4290dee20d5f&parentMessageId=1551723987818&teamName=VAM%20VAEC%20Security&channelName=General&createdTime=1551723987818 |
+4.2.3	  | SA	              | Signatory Authority | SD3               | Risk Vision and on GitHub: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/SIGNATORY%20AUTHORITY_VAM.docx |
+4.2.4	  | RA	              | Risk Assessment | SD4                   | Risk Vision and on GitHub: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/VAM_Risk_Assessment.docx |
 4.2.5	  | CMP	              | Configuration Management Plan | SD5 | Risk Vision |
 4.2.6	  | IRP	              | Incident Response Plan | SD6 | Risk Vision |
 4.2.7	  | ISCP	            | Informaton Security Contingency Plan | SD7 | Risk Vision |
