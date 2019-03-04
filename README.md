@@ -24,7 +24,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 |SOP# | Type | Short| Description | RV Status
 |:---:|----|---|:---|:---:|
-3.1	    | :person_with_blond_hair: | ISO  | Information Security Officer Designation | ?
+[3.0](../ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	    | :person_with_blond_hair: | ISO  | Prerequisites | ?
 3.2	    | :clipboard: | RV Entry | RiskVistion System Inventory Checklist | ?
 4.1.1	  | :page_facing_up: | App Reg	 | Application Registration |  ?
 4.2.1	  | SD1  | SSP	| System Security Plan |  ?
