@@ -24,8 +24,8 @@ SOP     | Task    | Description | Abbriviate Name | Location |
 4.2.7	  | ISCP	            | Informaton Security Contingency Plan | SD7 | Risk Vision and on GitHub: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/VAM%20-%20ISCP_V1.2_9-6-18_Unsigned.docx |
 4.2.8	  | DRP	              | Disaster Recovery Plan | SD8 | Risk Vision andon GitHub: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/VAM_DRP_1.0_Unsigned.docx |
 4.2.9	  | PIA	              | Privacy Impact Assessment | SD9 | Risk Vision and on GitHub: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/FY18StandardPIA-VAM_ForSignature.docx |
-4.2.10	| ISA/MOU	          | Interconnection Security Agreeement / Memorandum of Understanding | SD10 | Risk Vision |
-4.2.11	| SDR	              | Secure Design Review | SD11 | Risk Vision |
+4.2.10	| ISA/MOU	          | Interconnection Security Agreement / Memorandum of Understanding | SD10 | Risk Vision and GitHub:  Need to Obtain the Document|
+4.2.11	| SDR	              | Secure Design Review | SD11 | Risk Vision and on GitHub: Need to Obtain the Document |
 
 TECHNICAL / TESTING
 
