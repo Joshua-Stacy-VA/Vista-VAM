@@ -3,7 +3,7 @@
 Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS), which includes achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud. The dashboard provides an authoritative, complete, up-to-date overview of the status of all tasks, issues, milestones, and deliverables.
 
 
-### VAM Master Project Managment Dashboard
+### VAM Master Project Managment Dashboard :bar_chart:
 
 | Dashboard | Issues | Milestones|Tasks/Docs | Done | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
