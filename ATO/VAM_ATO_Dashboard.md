@@ -13,19 +13,19 @@ SOP     | Task    | Description
 
 SECURITY DOCUMENTATION
 
-SOP     | Task    | Description
-|--------|---------|--------|
-4.2.1	  | SSP	              | System Security Plan
-4.2.2	  | MASA	            | Minor Application Self Assessment
-4.2.3	  | SA	              | Signatory Authority
-4.2.4	  | RA	              | Risk Assessment
-4.2.5	  | CMP	              | Configuration Management Plan
-4.2.6	  | IRP	              | Incident Response Plan
-4.2.7	  | ISCP	            | Informaton Security Contingency Plan
-4.2.8	  | DRP	              | Disaster Recovery Plan
-4.2.9	  | PIA	              | Privacy Impact Assessment
-4.2.10	| ISA/MOU	          | Interconnection Security Agreeement / Memorandum of Understanding
-4.2.11	| SDR	              | Secure Design Review
+SOP     | Task    | Description | Abbriviate Name | Location |
+|--------|---------|--------|---------|--------|
+4.2.1	  | SSP	              | System Security Plan  | SD1 | Risk Vision |
+4.2.2	  | MASA	            | Minor Application Self Assessment | SD2 | Risk Vision |
+4.2.3	  | SA	              | Signatory Authority | SD3 | Risk Vision |
+4.2.4	  | RA	              | Risk Assessment | SD4 | Risk Vision |
+4.2.5	  | CMP	              | Configuration Management Plan | SD5 | Risk Vision |
+4.2.6	  | IRP	              | Incident Response Plan | SD6 | Risk Vision |
+4.2.7	  | ISCP	            | Informaton Security Contingency Plan | SD7 | Risk Vision |
+4.2.8	  | DRP	              | Disaster Recovery Plan | SD8 | Risk Vision |
+4.2.9	  | PIA	              | Privacy Impact Assessment | SD9 | Risk Vision |
+4.2.10	| ISA/MOU	          | Interconnection Security Agreeement / Memorandum of Understanding | SD10 | Risk Vision |
+4.2.11	| SDR	              | Secure Design Review | SD11 | Risk Vision |
 
 TECHNICAL / TESTING
 
