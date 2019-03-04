@@ -62,7 +62,10 @@ Department of Veterans Affair, Office of Information &Technology(OIT)
 Cell: (561)344-7787
 
 System Stewards
+
+
 | Team Member | VA Email | Proxy | Phone | Responsibility |
+|:---:|:---:|:---:|:---:|:---:|
 
 | Dr. Rafael Richards | Rafael.Richards@va.gov |  | 202-469-1527 | Business Owner |
 | Dana Newcomb | Dana.Newcomb@va.gov | Michael Weckescar | 732-440-9680 | Contracting Officer |
