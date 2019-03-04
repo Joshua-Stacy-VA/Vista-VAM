@@ -101,6 +101,22 @@ Appendix Sub-section
 ~~~~~~~~~~~~~~~~~~~~
 Appendix sub-section at level 2.
 
+
+[appendix]
+Example Appendix
+----------------
+AsciiDoc article appendices are just just article sections with
+'specialsection' titles.
+
+Appendix Sub-section
+~~~~~~~~~~~~~~~~~~~~
+Appendix sub-section at level 2.
+
+
+
+
+
+
 [bibliography]
 Example Bibliography
 --------------------

@@ -1,5 +1,3 @@
-# VA Authority to Operate - SOP v3.31
-
 ```
 OFFICE OF INFORMATION SECURITY
 Authorization Requirements 
@@ -16,29 +14,29 @@ Table of Contents
   4.1 Registration Requirements
     4.1.1 Application Registration
     
-  4.2 Security Documentation Requirements
-    4.2.1 System Security Plan (SSP)
-    4.2.2 Minor Application Self-Assessment (MASA)
-    4.2.3 Signatory Authority (SA)
-    4.2.4 Risk Assessment (RA)
-    4.2.5 Configuration Management Plan (CMP)
-    4.2.6 Incident Response Plan (IRP)
-    4.2.7 Information Security Contingency Plan (ISCP)
-    4.2.8 Disaster Recovery Plan (DRP)
-    4.2.9 Privacy Impact Assessment (PIA)
-    4.2.10 Interconnection Security Agreement (ISA)/Memorandum of Understanding (MOU)
-    4.2.11 Secure Design Review (SDR)
+  4.2 Security Documentation (SD) Requirements
+    4.2.1 System Security Plan (SSP) - SD1
+    4.2.2 Minor Application Self-Assessment (MASA) - SD2
+    4.2.3 Signatory Authority (SA) - SD3
+    4.2.4 Risk Assessment (RA) - SD4
+    4.2.5 Configuration Management Plan (CMP) - SD5
+    4.2.6 Incident Response Plan (IRP) - SD6
+    4.2.7 Information Security Contingency Plan (ISCP) - SD7
+    4.2.8 Disaster Recovery Plan (DRP) - SD8
+    4.2.9 Privacy Impact Assessment (PIA) - SD9
+    4.2.10 Interconnection Security Agreement/Memorandum of Understanding (ISA/MOU) - SD10
+    4.2.11 Secure Design Review (SDR) - SD11
   
-  4.3 Technical/Testing Requirements
-    4.3.1 Nessus Scan/[Discovery Scan (part of Nessus scan)]
+  4.3 Technical/Testing (TT) Requirements
+    4.3.1 Nessus Scan/Discovery Scan - TT1
       4.3.1.1	Database Scan
-    4.3.2 Quality Code Review
-    4.3.3 Secure Code Review
-    4.3.4 Penetration Test / Application Assessment
-    4.3.5 Security Configuration Compliance Data
-    4.3.6 Security Control Assessment (SCA)
-    4.3.7 Control Implementation Evidence
-    4.3.8 Enterprise Discovery Scan
+    4.3.2 Quality Code Review (QCR) - TT2
+    4.3.3 Secure Code Review (SCR) - TT3
+    4.3.4 Penetration Test / Application Assessment (PT/AA) - TT4
+    4.3.5 Security Configuration Compliance Data (SCCD) - TT5
+    4.3.6 Security Control Assessment (SCA) - TT6
+    4.3.7 Control Implementation Evidence (CIE) - TT7
+    4.3.8 Enterprise Discovery Scan (EDS) - TT8
 
   4.4 Closing
 
@@ -51,47 +49,91 @@ Appendix F – Links/URLs/E-Mail Addresses
 ```
 
 
-Table of Contents
-1. Purpose
+[1. Purpose](#1-purpose)
+[2. Scope](#2-scope)
+[3. Authorization Prerequisites](#3-authorization-prerequisites)
+[4. Assessment & Authorization (A&A) Requirements](#4-assessment--authorization-aa-requirements)
 
-2. Scope
+__[4.1 Registration Requirements](#41-registration-requirements)__
+[4.1.1 Application Registration](#411-application-registration)
 
-3. Authorization Prerequisites
-   
-4. Assessment & Authorization (A&A) Requirements
-  4.1 Registration Requirements
-    4.1.1 Application Registration
-  4.2 Security Documentation Requirements
-    4.2.1 System Security Plan (SSP)
-    4.2.2 Minor Application Self-Assessment (MASA)
-    4.2.3 Signatory Authority (SA)
-    4.2.4 Risk Assessment (RA)
-    4.2.5 Configuration Management Plan (CMP)
-    4.2.6 Incident Response Plan (IRP)
-    4.2.7 Information Security Contingency Plan (ISCP)
-    4.2.8 Disaster Recovery Plan (DRP)
-    4.2.9 Privacy Impact Assessment (PIA)
-    4.2.10 Interconnection Security Agreement (ISA)/Memorandum of Understanding (MOU)
-    4.2.11 Secure Design Review (SDR)
-  4.3 Technical/Testing Requirements
-     4.3.1 Nessus Scan/[Discovery Scan (part of Nessus scan)]
-          4.3.1.1	Database Scan
-    4.3.2 Quality Code Review
-    4.3.3 Secure Code Review
-    4.3.4 Penetration Test / Application Assessment
-    4.3.5 Security Configuration Compliance Data
-    4.3.6 Security Control Assessment (SCA)
-    4.3.7 Control Implementation Evidence
-    4.3.8 Enterprise Discovery Scan
+__[4.2 Security Documentation (SD) Requirements](#42-security-documentation-sd-requirements)__
+[4.2.1 SD1: System Security Plan (SSP)](#421-sd1-system-security-plan-ssp)
+[4.2.2 SD2: Minor Application Self-Assessment (MASA)](#422-sd2-minor-application-self-assessment-masa)
+[4.2.3 SD3: Signatory Authority (SA)](#423-sd3-signatory-authority-sa)
+[4.2.4 SD4: Risk Assessment (RA)](#424-sd4-risk-assessment-ra)
+[4.2.5 SD5: Configuration Management Plan (CMP)](#425-sd5-configuration-management-plan-cmp)
+[4.2.6 SD6: Incident Response Plan (IRP)](#426-sd6-incident-response-plan-irp)
+[4.2.7 SD7: Information Security Contingency Plan (ISCP)](#427-sd7-information-security-contingency-plan-iscp)
+[4.2.8 SD8: Disaster Recovery Plan (DRP)](#428-sd8-disaster-recovery-plan-drp)
+[4.2.9 SD9: Privacy Impact Assessment (PIA)](#429-sd9-privacy-impact-assessment-pia)
+[4.2.10 SD10: Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU)](#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou)
+[4.2.11 SD11: Secure Design Review (SDR)](#4211-sd11-secure-design-review-sdr)
 
-  4.4 Closing
+__[4.3 Technical/Testing (TT) Requirements](#43-technicaltesting-tt-requirements)__
+ [4.3.1 TT1: Nessus Scan/Discovery Scan](#431-tt1-nessus-scandiscovery-scan)
+ [4.3.1.1 TT1b: Database Scan](#4311-tt1b-database-scan)
+ [4.3.2 TT2: Quality Code Review (QCR)](#432-tt2-quality-code-review-qcr)
+ [4.3.3 TT3: Secure Code Review (SCR)](#433-tt3-secure-code-review-scr)
+ [4.3.4 TT4: Penetration Test / Application Assessment (PT/AA)](#434-tt4-penetration-test--application-assessment-ptaa)
+ [4.3.5 TT5: Security Configuration Compliance Data (SCCD)](#435-tt5-security-configuration-compliance-data-sccd)
+ [4.3.6 TT6: Security Control Assessment (SCA)](#436-tt6-security-control-assessment-sca)
+ [4.3.7 TT7: Control Implementation Evidence (CIE)](#437-tt7-control-implementation-evidence-cie)
+ [4.3.8 TT8: Enterprise Discovery Scan (EDS)](#438-tt8-enterprise-discovery-scan-eds)
 
-Appendix A – FedRAMP/Cloud – VA Requirements
-Appendix B – Authorization Requirements Quick Reference Guide
-Appendix C – Job Aid: Security Information
-Appendix D – Minor Applications Self-Assessment SOP
-Appendix E – A&A System/Facility DRP and ISCP Requirements
-Appendix F – Links/URLs/E-Mail Addresses
+__[4.4 Closing](#44-closing)__
+
+__[Appendix A: FedRAMP/Cloud VA Requirements](#appendix-a-fedrampcloud-va-requirements)__
+[Appendix A1: FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process](#appendix-a1-fedramp-authorized-cloud-service-provider-csp-reciprocity-agency-ato-process)
+[Appendix A2: Cloud-Based VA Application / Workload / Third-Party System ATO Process](#appendix-a2-cloud-based-va-application--workload--third-party-system-ato-process)
+[Appendix A3: Other Federal Agency (Non-FedRAMP) ATO Acceptance](#appendix-a3-other-federal-agency-non-fedramp-ato-acceptance)
+
+__[Appendix B: Authorization Requirements Quick Reference Guide](#appendix-b-authorization-requirements-quick-reference-guide)__
+[Appendix B1 - Nessus Scan](#appendix-b1---nessus-scan)
+[Appendix B2a - Quality Code Review (QCR)](#appendix-b2a---quality-code-review-qcr)
+[Appendix B2b - V&V Quality Code Reviews](#appendix-b2b---vv-quality-code-reviews)
+[Appendix B4 - Secure Code Review (SCR)](#appendix-b4---secure-code-review-scr)
+[Appendix B5 - V&V Secure Code Reviews](#appendix-b5---vv-secure-code-reviews)
+[Appendix B6 - Penetration Test/Application Assessment (PT/AA)](#appendix-b6---penetration-testapplication-assessment-ptaa)
+[Appendix B7 - Security Control Assessment (SCA)](#appendix-b7---security-control-assessment-sca)
+[Appendix B8 - Security Configuration Compliance Data (SCCD)](#appendix-b8---security-configuration-compliance-data-sccd)
+[Appendix B9 - Compliance Trending Reports location](#appendix-b9---compliance-trending-reports-location)
+[Appendix B10 - System Security Plan (SSP)](#appendix-b10---system-security-plan-ssp)
+[Appendix B11 - Minor Application Self-Assessment (MASA)](#appendix-b11---minor-application-self-assessment-masa)
+[Appendix B12 - Signatory Authority (SA)](#appendix-b12---signatory-authority-sa)
+[Appendix B13 - Risk Assessment (RA)](#appendix-b13---risk-assessment-ra)
+[Appendix B14 - Configuration Management Plan (CMP)](#appendix-b14---configuration-management-plan-cmp)
+[Appendix B15 - Incident Response Plan (IRP)](#appendix-b15---incident-response-plan-irp)
+[Appendix B16 - Information Security Contingency Plan (ISCP)](#appendix-b16---information-security-contingency-plan-iscp)
+[Appendix B17 - Disaster Recovery Plan (DRP)](#appendix-b17---disaster-recovery-plan-drp)
+[Appendix B18 - Privacy Impact Assessment (PIA)](#appendix-b18---privacy-impact-assessment-pia)
+[Appendix B19 - Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU)](#appendix-b19---interconnection-security-agreement--memorandum-of-understanding-isamou)
+
+__[Appendix C: Job Aid: Security Information](#appendix-c-job-aid-security-information)__
+[Appendix C0: Purpose](#appendix-c0-purpose)
+[Appendix C1: Authorization Decision Process](#appendix-c1-authorization-decision-process)
+[Appendix C2: VA Authorization Boundaries](#appendix-c2-va-authorization-boundaries)
+[Appendix C3: Finding/Milestone Process](#appendix-c3-findingmilestone-process)
+[Appendix C4: Vulnerability Integration into Authorization Decision Process](#appendix-c4-vulnerability-integration-into-authorization-decision-process)
+[Appendix C5: NIST SP 800-53 Rev 3 to Rev 4 Transition](#appendix-c5-nist-sp-800-53-rev-3-to-rev-4-transition)
+
+__[Appendix D: Minor Applications Self-Assessment SOP](#appendix-d-minor-applications-self-assessment-sop)__
+
+__[Appendix E: A&A System/Facility DRP and ISCP Requirements](#appendix-e-aa-systemfacility-drp-and-iscp-requirements)__
+
+__[Appendix F:  Links/URLs/E-Mail Addresses](#appendix-f--linksurlse-mail-addresses)__
+[Appendix F1: Links](#appendix-f1-links)
+[Appendix F2:  E-Mail Addresses](#appendix-f2--e-mail-addresses)
+
+__[Definitions](#definitions)__
+__[References](#references)__
+__[Document Revision History](#document-revision-history)__
+
+
+
+
+
+
 
 
 
@@ -103,8 +145,23 @@ RiskVision guidance documentation can be found on the Office of Information Secu
 
 This is a living document based on current federal and VA security policies, standards and guidance, and is subject to change.
 
+
+
+
+
+
+
+
 # 2. Scope
 These procedures apply to systems that are required to obtain an Authority to Operate (ATO). It does not apply to sandbox environments, non-VA networks, or development networks not otherwise connected to the VA network. Those environments will be excluded from the procedures identified in this SOP. They will not be entered into GRC and thus any documentation to include POAMs would not be loaded into GRC and GRC would not be the appropriate tracking mechanisms for deficiencies. 
+
+
+
+
+
+
+
+
 
 # 3. Authorization Prerequisites
 The following steps need to be followed once a system is identified as needing a VA authorization decision:
@@ -126,7 +183,17 @@ The following steps need to be followed once a system is identified as needing a
 
 The applicable system POCs must have their authorization package completed, uploaded to RiskVision, and progressed to *__CA Provide Certification Recommendation__* in the workflow no less than 45 calendar days prior to the date they want their authorization decision to be made.  
 
+
+
+
+
+
+
+
+
+
 # 4. Assessment & Authorization (A&A) Requirements
+
 The VA A&A requirements include technical/testing, security documentation, and security control compliance requirements. Details about the various requirements are in the following sections. Authorization packages must be completed, uploaded to RiskVision, and progressed to ÒCA Provide Certification RecommendationÓ in the workflow no less than forty-five (45) calendar days prior to the ATO decision consideration deadline. If a required security control is not implemented, the project team must create a POA&M/Finding in RiskVision to keep track of the remediation effort. 
 
 Note: Only completed, required A&A security artifacts including the technical scan results and remediation strategies should be uploaded to Documents tab within RiskVision. Documents tab is not the place to upload evidence.    
@@ -150,26 +217,48 @@ Examples of significant changes to the environment of operation may include, but
 
 Source: SP 800-37 Rev 1 [VA Adopted].
 
+
+
+
+
+
+
 ## 4.1 Registration Requirements
 The following section provides details on each of the registration requirements including a description of the requirements and the parties/OIS organization(s) that will assist in the completion of the requirements.  
+
+
+
+
+
 
 ### 4.1.1 Application Registration
 Custom developed and COTS VA applications are required to be registered with the VA Software Assurance Program Office. Registration is necessary to maintain an inventory of the total population of VA custom and COTS applications, by type and business line according to the VA Common Application Enumeration (CAE) at Common Application Enumeration to ensure application-level security considerations are taken into account when determining readiness and performance.
 
-For detailed instructions on the registration process, reference the VA Software Assurance Program Office procedures that can be found on the VA Software Assurance Developer Support Site. More information regarding system registration in VA Systems Inventory (VASI) can be found in VA Directive 6404    
+For detailed instructions on the registration process, reference the VA Software Assurance Program Office procedures that can be found on the VA Software Assurance Developer Support Site. More information regarding system registration in VA Systems Inventory (VASI) can be found in VA Directive 6404
 
 Note: Application registration is required before either a Secure Code Review Validation or a Penetration Test / Application Assessment can be scheduled for all applications subject to secure code review authorization requirements. Also note that Software as a Service (SaaS) should follow COTS registration procedures.
 
-Continuous Monitoring Requirement: Application registration is required when requested by OIS and/or CSOC.
+ __*Continous Monitoring Requirement*__: Application registration is required when requested by OIS and/or CSOC.
 
-## 4.2 Security Documentation Requirements
+
+
+
+
+
+## 4.2 Security Documentation (SD) Requirements
+
 The following section provides details on each of the required security artifacts including the document requirements, references, and the parties/OIS organization(s) that can provide additional guidance for each artifact.  
 
 Templates for the applicable security artifacts/documents mentioned below are available on the OIS Portal at A&A Home Documents. Contact your ISO for questions on how to complete the documentation. 
 
 Note: (Applicable to EO systems only) Artifact that is generated through RiskVision and is part of the Authorization package, and gets reviewed / approved by the ISO/SO in RiskVision workflow as part of the Authorization Package may not require signature(s) or is valid without signature(s).
 
-### 4.2.1 System Security Plan (SSP)
+
+
+
+
+
+### 4.2.1 SD1: System Security Plan (SSP)
 SSP guidance is provided below:
 
 * SSP guidance is found in NIST SP 800-18 and VA Handbook 6500.3.
@@ -184,12 +273,23 @@ SSP completion steps:
 2. The ISO validates information added by the System Steward in RiskVision. 
 3. The ISO, System Owner or delegate/System Steward exports the SSP from RiskVision and uploads the document to the Documents tab in RiskVision.
 
-Continuous Monitoring Requirement: The SSP must be completed on an annual basis or when a significant change in the system or a major change in the data occurs. 
+ __*Continous Monitoring Requirement*__: The SSP must be completed on an annual basis or when a significant change in the system or a major change in the data occurs. 
 
-### 4.2.2 Minor Application Self-Assessment
+
+
+
+
+
+### 4.2.2 SD2: Minor Application Self-Assessment (MASA)
 All minor applications are required to complete the Minor Application Self-Assessment and upload it to Documents repository within RiskVision as an Appendix to GSS/MA SSP. Complete instructions on completing the Minor Application Self-Assessment can be found in Minor Application Self-Assessment SOP attached as Appendix D. The Minor Application Self-Assessment Workbook can be found at A&A Home Documents.   
 
-### 4.2.3 Signatory Authority
+
+
+
+
+
+
+### 4.2.3 SD3: Signatory Authority (SA)
 Signatory Authority guidance is provided below:
 * The Signatory Authority must be signed and dated by the appropriate parties.
 * Additional guidance for completion of the Signatory Authority can be provided by OIS.
@@ -199,9 +299,16 @@ Signatory Authority completion steps:
 1. System Owner or delegate completes the Signatory Authority using the template provided at A&A Home Documents.
 2. System Owner, ISO or delegate/System Steward uploads the Signatory Authority to the Documents tab in RiskVision.
 
-Continuous Monitoring Requirement: The Signatory Authority must be completed on an annual basis or when a significant change in the system or a major change in the data occurs.  
+ __*Continous Monitoring Requirement*__: The Signatory Authority must be completed on an annual basis or when a significant change in the system or a major change in the data occurs.  
 
-### 4.2.4 Risk Assessment (RA)
+
+  
+
+
+
+
+
+### 4.2.4 SD4: Risk Assessment (RA)
 RA guidance is provided below:
 
 * System and facilities are responsible for conducting the RA.
@@ -215,9 +322,15 @@ RA completion steps:
 2. The ISO validates information added by the System Steward in RiskVision. 
 3. The ISO, System Owner or delegate/System Steward exports the RA from RiskVision and uploads the document to the Documents tab in RiskVision.
 
-Continuous Monitoring Requirement: The RA must be updated on an annual basis or when a significant change in the system or a major change in the data occurs.  
+ __*Continous Monitoring Requirement*__: The RA must be updated on an annual basis or when a significant change in the system or a major change in the data occurs.  
 
-### 4.2.5 Configuration Management Plan (CMP)
+
+
+
+
+
+
+### 4.2.5 SD5: Configuration Management Plan (CMP)
 CMP guidance is provided below:
 
 * Facilities are responsible for completing the CMP (pending clarification on requirement for systems)
@@ -232,28 +345,40 @@ CMP completion steps:
 1. System Owner or delegate completes the CMP using the template provided at A&A Home Documents.
 2. ISO, System Owner or delegate/System Steward uploads the CMP to the Documents tab in RiskVision.
 
-Continuous Monitoring Requirement: The CMP must be updated on an annual basis or when a significant change in the system or a major change in the data occurs.
+ __*Continous Monitoring Requirement*__: The CMP must be updated on an annual basis or when a significant change in the system or a major change in the data occurs.
 
-### 4.2.6 Incident Response Plan (IRP)
+
+
+
+
+
+
+### 4.2.6 SD6: Incident Response Plan (IRP)
 IRP guidance is provided below:
 
 * Facilities are responsible for completing the IRP
 * An IRP is necessary for rapidly detecting incidents, minimizing loss and destruction, mitigating the weaknesses that were exploited, and restoring computing services.
 * IRP guidance can be found in NIST SP 800-61.
 * Tools and websites that can be useful in IRP creation:
-o Agiliance RiskVision Enterprise Operations GRC Instance 
-o Agiliance RiskVision National Release GRC Instance 
-o OIS Cyber Security Portal
+    * Agiliance RiskVision Enterprise Operations GRC Instance 
+    * Agiliance RiskVision National Release GRC Instance 
+    * OIS Cyber Security Portal
 * The System Owner works with the assigned ISO to create the IRP. 
 * Once completed and tested, the System Owner or designee uploads the signed IRP into RiskVision.
 * Each site is responsible for developing local level procedures incorporating VA-CSOC areas of responsibility.
 * The Incident Response Plan must meet the following standards in creation:
-o Information Access and Privacy Program 
-o NIST Special Publication 800-61 - Computer Security Incident Handling Guide 
-o VA Handbook 6500.3, Certification and Authorization of Federal Information Systems
-Continuous Monitoring Requirement: The IRP must be tested and updated on an annual basis or when a significant change in the system or a major change in the data occurs.
+    * Information Access and Privacy Program 
+    * NIST Special Publication 800-61 - Computer Security Incident Handling Guide 
+    * VA Handbook 6500.3, Certification and Authorization of Federal Information Systems
 
-### 4.2.7 Information Security Contingency Plan (ISCP)
+__*Continuous Monitoring Requirement:*__ The IRP must be tested and updated on an annual basis or when a significant change in the system or a major change in the data occurs.
+
+
+
+
+
+
+### 4.2.7 SD7: Information Security Contingency Plan (ISCP)
 ISCP guidance is provided below:
 
 * Emergency Preparedness & Response (EPR) underneath DR/COOP is the Office of Primary Responsibility (OPR) for planning and testing of plans. 
@@ -263,12 +388,16 @@ ISCP guidance is provided below:
 * Questions about the planning process, plan templates, or testing process should contact the EPR team (OITITOPSSPECOECCDRCOOPAllStaff@va.gov). 
 * The System Owner or delegate uploads the Information System Contingency Plan into RiskVision.
 * The ISCP must meet the following standards:
-o  NIST Special Publication 800-34 Rev. 1 - Contingency Planning Guide for Federal Information Systems 
-o  Office of Information Security, Authorization Requirements Guide Standard Operating Procedures
+    * NIST Special Publication 800-34 Rev. 1 - Contingency Planning Guide for Federal Information Systems 
+    * Office of Information Security, Authorization Requirements Guide Standard Operating Procedures
 
-Continuous Monitoring Requirement: The ISCP must be tested and updated on an annual basis or when a significant change in the system or a major change in the data occurs.
+__*Continuous Monitoring Requirement:*__ The ISCP must be tested and updated on an annual basis or when a significant change in the system or a major change in the data occurs.
 
-### 4.2.8 Disaster Recovery Plan (DRP)
+
+
+
+
+### 4.2.8 SD8: Disaster Recovery Plan (DRP)
 DRP guidance is provided below:
 * Emergency Preparedness & Response (EPR) underneath DR/COOP is the Office of Primary Responsibility (OPR) for planning and testing of plans. 
 * Plans are based upon current boundaries established by OIS. Each year EPR will provide planning and testing guidance through an action item.
@@ -277,12 +406,17 @@ DRP guidance is provided below:
 * Questions about the planning process, plan templates, or testing process should contact the EPR team (OITITOPSSPECOECCDRCOOPAllStaff@va.gov). 
 * The System Owner or delegate uploads the DRP into RiskVision.
 * The DRP must meet the following standards:
-o  NIST Special Publication 800-34 Rev. 1 - Contingency Planning Guide for Federal Information Systems 
-o  Office of Information Security, Authorization Requirements Guide Standard Operating Procedures
+    * NIST Special Publication 800-34 Rev. 1 - Contingency Planning Guide for Federal Information Systems 
+    * Office of Information Security, Authorization Requirements Guide Standard Operating Procedures
 
-Continuous Monitoring Requirement: The DRP must be tested and updated on an annual basis or when a significant change in the system or a major change in the data occurs. 
+ __*Continous Monitoring Requirement*__: The DRP must be tested and updated on an annual basis or when a significant change in the system or a major change in the data occurs. 
 
-### 4.2.9 Privacy Impact Assessment (PIA)
+
+
+
+
+
+### 4.2.9 SD9: Privacy Impact Assessment (PIA)
 PIA guidance is provided below:
 
 * A complete PIA must have:
@@ -305,7 +439,11 @@ PIA Completion Steps:
 __*Continuous Monitoring Requirement:*__ A PTA must be submitted every year. The PIA is valid for 3 years if there are no significant changes to the system that affect the privacy of PII and/or PHI.
 
 
-### 4.2.10 Interconnection Security Agreement (ISA)/Memorandum of Understanding (MOU) 
+
+
+
+
+### 4.2.10 SD10: Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU) 
 ISA/MOU guidance is provided below:
 
 * Before an external connection can be granted, a Memorandum of Understanding (MOU) and an Interconnection Security Agreement (ISA) are required to authorize a connection between information systems that do not share the same Authorizing Official.
@@ -325,7 +463,11 @@ ISA/MOU completion steps:
 
 __*Continuous Monitoring Requirement:*__ The ISA/MOU Review Sheet must be completed on an annual basis. If there is a significant change, which impacts the architecture, please contact the Health Information Security Division at vafsshisd@va.gov to determine if an update to the ISA/MOU is necessary.
 
-### 4.2.11  Secure Design Review
+
+
+
+
+### 4.2.11 SD11: Secure Design Review (SDR)
 Secure Design Review (Application Threat Modeling) guidance is provided below:
 
 * Secure Design Review guidance is found in VA Secure Design Review SOP.
@@ -341,14 +483,29 @@ Secure Design Review completion steps:
 
 __*Continuous Monitoring Requirement:*__ The Secure Design Review must be updated on an annual basis or when a significant change in the system or a major change in the application architecture occurs.
 
-## 4.3 Technical/Testing Requirements
+
+
+
+
+
+
+
+
+## 4.3 Technical/Testing (TT) Requirements
+
 The following section provides details on each of the technical/testing requirements including a description of the requirements and the parties/OIS organization(s) that will assist in the completion of the requirements.  If a technical/testing requirement is not applicable, then the System Owner/Delegate needs to upload a word document to the Documents tab within RiskVision explaining why the specific technical/testing requirement is not applicable.
 
 The links to CSOC Supplemental Scan Request (Vulnerability and Compliance), CSOC Database Scan Questionnaire, and CSOC Penetration Test & WASA Questionnaire can be found at CSOC Scan Documents. Additionally, the necessary information and step-by-step instruction for developing, maintaining, reporting and monitoring weaknesses as it relates to a specific system can be found in the POA&M Management Guide.
 
 Findings identified in each technical scan should be mitigated within the remediation timeframe specified in the VA Handbook 6500, (i.e.) Critical: 30 days; High: 60 days; Moderate : 90 days; Low : determined by the System Owner; Emergent : ASAP. One finding should be created in RiskVision for each of the applicable scans to track the remediation progress. In addition, well documented remediation strategy with expected remediation date and status of each finding should also be uploaded to Documents tab within RiskVision for each of the applicable scan.   
 
-### 4.3.1 Nessus Scan / [Discovery Scan (part of Nessus scan)]
+
+
+
+
+
+
+### 4.3.1 TT1: Nessus Scan/Discovery Scan
 A credentialed vulnerability scan against all instances of the operating system and desktop configurations must be conducted to identify security flaws. When conducting the Nessus Scan, a discovery scan to identify all assets within the authorization boundary must be conducted as a part of the vulnerability scan (a discovery scan will not enumerate any vulnerabilities). All Critical and High deficiencies should be mitigated with documented mitigation evidence provided, and Moderate and Low deficiencies should be mitigated or have a documented mitigation plan.  This mitigation plan should include a timetable for mitigation of Moderate and Low deficiencies.
 
 If a system's Nessus Scan data is not currently displayed in the Threat & Vulnerability Manager (TVM) within RiskVision, refer to the TVM guidance material located on the OIS portal at Training and Brown Bag Materials site for detailed information on how to access TVM. 
@@ -356,45 +513,71 @@ If a system's Nessus Scan data is not currently displayed in the Threat & Vulner
 The following steps must be performed to meet the Nessus Scan requirement (if the Nessus Scan data is included in TVM, skip to Step 3):
 
 1. If the system receives a monthly predictive Nessus vulnerability scan from CSOC and the IP addresses that make up the system are all Windows based then please provide the IP Ranges to the ISRM at vaoisisrmrmf@va.gov, so the applicable Nessus data can be provided in TVM within RiskVision, then proceed to Step 3.
-a) If the system receives a monthly predictive Nessus vulnerability scan from CSOC, and the IP addresses that make up the system are not all Windows based, then proceed step 2, as all necessary Operating System information will not be captured in the predictive scans from CSOC that are filtered into TVM. 
-b) If the IP addresses that make up a system are outside of the VA network (Managed Services) and/or the system does not currently receive a monthly predictive Nessus vulnerability scan from CSOC, then proceed to Step 2.
+  a) If the system receives a monthly predictive Nessus vulnerability scan from CSOC, and the IP addresses that make up the system are not all Windows based, then proceed step 2, as all necessary Operating System information will not be captured in the predictive scans from CSOC that are filtered into TVM. 
+  b) If the IP addresses that make up a system are outside of the VA network (Managed Services) and/or the system does not currently receive a monthly predictive Nessus vulnerability scan from CSOC, then proceed to Step 2.
+
 2. System Owner or delegate can request a Nessus scan using this link. Once the request is completed, ISRM will work with CSOC to determine if a separate supplemental vulnerability scan shall be conducted or authentication information for the non-Windows devices be added to the existing monthly predictive scan. If a separate supplemental scan is decided on by ISRM/CSOC, upload the results to the Documents tab within RiskVision when results are sent to you or if its decided that the authentication information can be added for the non-Windows devices to the monthly predictive scans conducted by CSOC then please provide the IP Ranges to vaoisisrmrmf@va.gov, so the applicable Nessus data can be provided in TVM within RiskVision. 
-a) Note:  CSOC must conduct an independent Nessus Scan for all VA owned systems and Managed Services. CSOC has visibility into Enterprise Operations (EO) systems and has the ability to perform Nessus scans in coordination with system personnel if needed. External systems / Managed Services must have a recent CSOC Nessus scan conducted either via remote connection or by utilizing CSOC staff on-site to perform scans, when necessary. 
+  a) Note:  CSOC must conduct an independent Nessus Scan for all VA owned systems and Managed Services. CSOC has visibility into Enterprise Operations (EO) systems and has the ability to perform Nessus scans in coordination with system personnel if needed. External systems / Managed Services must have a recent CSOC Nessus scan conducted either via remote connection or by utilizing CSOC staff on-site to perform scans, when necessary. 
+
 3. Once the system's Nessus Scan data is accurately shown in TVM within RiskVision, System Owner or delegate follows these steps:
-a) Browse to Information Central Analytics and Metrics Platforms (ICAMP) and use the Remediation Effort Entry Form (REEF) to document your manual remediation effort. For each deficiency identified from the scan, the System Owner or delegate creates a response within REEF for mitigating the deficiencies and / or provides evidence that the deficiencies have been mitigated.  Also, include the scheduled completion date and status of each deficiency within REEF.  
-b) Once all manual remediation has been documented within REEF, run this report https://spsites.cdw.va.gov/sites/FODW_PVT/Progress%20Reports/Progress_ReportbyRegion_Chart.rdl within ICAMP.
-c) Export the report by going to the upper left side of the screen select the Actions Menu. Choose Export and select Excel. Save the file. 
-d)  System Owner or delegate then uploads the report from step 3 above to the Documents tab within RiskVision.  Mitigation information can also be provided in the Vulnerabilities tab within RiskVision. 
-e) Within the uploaded mitigation strategy, each system should conduct an analysis on the results of the vulnerability scans to determine and document those findings that are false positives, not applicable to the system, or otherwise mitigated. Additionally, findings that must be remediated through or from the vendor should also be documented as part of this analysis.
+  (a) Browse to Information Central Analytics and Metrics Platforms (ICAMP) and use the Remediation Effort Entry Form (REEF) to document your manual remediation effort. For each deficiency identified from the scan, the System Owner or delegate creates a response within REEF for mitigating the deficiencies and / or provides evidence that the deficiencies have been mitigated.  Also, include the scheduled completion date and status of each deficiency within REEF.  
+  (b) Once all manual remediation has been documented within REEF, run this report https://spsites.cdw.va.gov/sites/FODW_PVT/Progress%20Reports/Progress_ReportbyRegion_Chart.rdl within ICAMP.
+  (c) Export the report by going to the upper left side of the screen select the Actions Menu. Choose Export and select Excel. Save the file. 
+  (d)  System Owner or delegate then uploads the report from step 3 above to the Documents tab within RiskVision.  Mitigation information can also be provided in the Vulnerabilities tab within RiskVision. 
+  (e) Within the uploaded mitigation strategy, each system should conduct an analysis on the results of the vulnerability scans to determine and document those findings that are false positives, not applicable to the system, or otherwise mitigated. Additionally, findings that must be remediated through or from the vendor should also be documented as part of this analysis.
+
 Note:  If Nessus Scan data is not currently provided in TVM for the system and instead raw Nessus Scan results exist from CSOC, the System Owner or delegate shall upload the actual Nessus Scan results to the Documents tab in RiskVision; along with a mitigation strategy for each finding. Also, within ICAMP, if the ISO/System Owner does not have an option to pull a report for their FISMA reportable system, then contact the VA GRC Service Desk to provide the IP address range of the system authorization boundary to add it to ICAMP to pull the report.    
+
 4. System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the Nessus scan to serve as a reminder to resolve the deficiencies.
 
 Note: A follow-up Nessus scan may be requested by OIS to ensure deficiencies have been mitigated and new deficiencies do not exist as part of the ongoing authorization process.
 
-Continuous Monitoring Requirement : CSOC conducts predictive Nessus vulnerability scans on a monthly basis.  A supplemental scan is required for A&A purposes when requested by OIS, CSOC, and/or when new vulnerabilities potentially affecting the system/applications are identified and reported. To maintain the authorization decision, the system must meet this continuous monitoring requirement. 
+__*Continuous Monitoring Requirement :*__ CSOC conducts predictive Nessus vulnerability scans on a monthly basis.  A supplemental scan is required for A&A purposes when requested by OIS, CSOC, and/or when new vulnerabilities potentially affecting the system/applications are identified and reported. To maintain the authorization decision, the system must meet this continuous monitoring requirement. 
 
-#### 4.3.1.1 Database Scan 
+
+
+#### 4.3.1.1 TT1b: Database Scan
 Both HQ and EO systems must request a database scan if the project hosts a database to store and process information. A database scan must be conducted at least on an annual basis. In order to maintain the authorization decision for the system, any findings must be remediated within the approved timelines for the severity of the findings, and a POA&M must be created in RiskVision to keep track of the remediation effort. Database scans can be requested by visiting this link. The database scanning team can also be reached at VANSOCDBScans@va.gov for more information. If a database scan is not applicable, upload a word document to the Documents tab within RiskVision explaining why a database scan is not applicable.
 
-### 4.3.2 Quality Code Review
+
+
+
+
+
+
+
+
+### 4.3.2 TT2: Quality Code Review (QCR)
+
 Quality code reviews of custom developed VA applications using the approved VA static code analysis tool should be conducted to identify code quality issues within VA application Applications written in languages that are not supported, such as MUMPS, shall be targeted for manual review of testing with other applicable tools; notify the VA Software Assurance (SwA) Program Office if this is the case at: OISSwASupportGroup@va.gov. If a Quality Code Review is not applicable, upload a word document to the Documents tab within RiskVision explaining why a Quality Code Review is not applicable.
+
 For detailed instructions on the code reviews process, reference the VA Quality Code Review SOP and guidance materials, which are posted on the VA SwA Program Office Resource Site. An overview of the quality code review instructions are provided below. 
 Verification & Validation (V&V) Quality Code Reviews
+
 V&V quality code reviews are conducted during the development or maintenance of a VA application by the VA Application Development team. Close cooperation between OIS and the Office of Information Technology (OIT), including supporting contractors, is critical to achieving quality code review objectives and increasing the level of confidence that software developed for use at the VA robust and maintainable. The goals of performing quality code reviews includes making sure that unpredictable behavior due to poor code quality is minimized and that V&Vs performed by VA software developers are done correctly and consistently, according to minimum standards prescribed by the VA. 
 
 The following steps must be performed to meet the V&V quality code review requirement: 
-1.VA Application Developers open a NSD ticket [(855) NSD-HELP] to request VA static code analysis tools in order to perform scans according to the procedures in the VA Quality Code Review SOP and guidance materials.
-2.VA Application Developers scan their own application source code. 
-3.VA Application Developers open a NSD ticket [(855) NSD-HELP] to request validation of a final V&V quality code review.
-4.VA Application Developers deliver the scan results to the VA SwA Program Office at: OISSwASupportGroup@va.gov for review, work with the VA SwA Program Office to schedule the validation, and coordinate with them to resolve any issues identified during validation.
-a)The scan results are reviewed to ensure that minimum VA standards have been met. The VA SwA Program Office determines whether additional analysis is needed, and works with the VA Application Developers to ensure that they understand how to meet the standards required. 
-5.System Owner or delegate uploads full test results to the Documents tab in RiskVision.
-6.For each deficiency identified from the V&V quality code review, System Owner or delegate creates a response for mitigating the deficiencies and/or provides evidence that the deficiencies have been mitigated. Also, include the scheduled completion date and status of each deficiency. Information should be provided in Excel or Word format; refer to the OIS preferred template located on the OIS Portal at A&A Home Documents. System Owner or delegate uploads the aforementioned document to the Documents tab in RiskVision. 
-7.System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the V&V quality code review to serve as a reminder to resolve the deficiencies.
-Note:  See also the SwA Blog for future related A&A requirement announcements.
-Continuous Monitoring Requirement : A V&V Quality Code Review is required annually once the application is in sustainment OR upon discovery that the application has already been deployed to production and has not gone through the process, e.g. older applications in sustainment OR upon every major release OR when requested by OIS and/or CSOC.
 
-### 4.3.3 Secure Code Review
+1. VA Application Developers open a NSD ticket [(855) NSD-HELP] to request VA static code analysis tools in order to perform scans according to the procedures in the VA Quality Code Review SOP and guidance materials.
+2. VA Application Developers scan their own application source code. 
+3. VA Application Developers open a NSD ticket [(855) NSD-HELP] to request validation of a final V&V quality code review.
+4. VA Application Developers deliver the scan results to the VA SwA Program Office at: OISSwASupportGroup@va.gov for review, work with the VA SwA Program Office to schedule the validation, and coordinate with them to resolve any issues identified during validation.
+  a)The scan results are reviewed to ensure that minimum VA standards have been met. The VA SwA Program Office determines whether additional analysis is needed, and works with the VA Application Developers to ensure that they understand how to meet the standards required. 
+5. System Owner or delegate uploads full test results to the Documents tab in RiskVision.
+6. For each deficiency identified from the V&V quality code review, System Owner or delegate creates a response for mitigating the deficiencies and/or provides evidence that the deficiencies have been mitigated. Also, include the scheduled completion date and status of each deficiency. Information should be provided in Excel or Word format; refer to the OIS preferred template located on the OIS Portal at A&A Home Documents. System Owner or delegate uploads the aforementioned document to the Documents tab in RiskVision. 
+7. System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the V&V quality code review to serve as a reminder to resolve the deficiencies.
+Note:  See also the SwA Blog for future related A&A requirement announcements.
+
+__*Continuous Monitoring Requirement :*__ A V&V Quality Code Review is required annually once the application is in sustainment OR upon discovery that the application has already been deployed to production and has not gone through the process, e.g. older applications in sustainment OR upon every major release OR when requested by OIS and/or CSOC.
+
+
+
+
+
+
+
+
+### 4.3.3 TT3: Secure Code Review (SCR)
 Secure code reviews of custom developed VA applications using the approved VA static code analysis tool should be conducted to identify vulnerabilities, coding, and design flaws within VA applications.  Applications written in languages that are not supported, such as MUMPS, shall be targeted for manual review of testing with other applicable tools; notify the VA Software Assurance (SwA) Program Office if this is the case at: OISSwASupportGroup@va.gov. If a Secure Code Review is not applicable, upload a word document to the Documents tab within RiskVision explaining why a Secure Code Review is not applicable.
 
 For detailed instructions on the code reviews process, reference the VA Secure Code Review SOP and guidance materials, which are posted on the VA SwA Program Office Resource Site. An overview of the secure code review instructions are provided below. 
@@ -417,8 +600,14 @@ a) The scan results are reviewed to ensure that minimum VA standards have been m
 
 Note:  See also the SwA Blog for future related A&A requirement announcements.
 
-Continuous Monitoring Requirement : A V&V Secure Code Review is required annually once the application is in sustainment OR upon discovery that the application has already been deployed to production and has not gone through the process, e.g. older applications in sustainment OR upon every major release OR when requested by OIS and/or CSOC.
-4.3.4 Penetration Test / Application Assessment
+__*Continuous Monitoring Requirement :*__ A V&V Secure Code Review is required annually once the application is in sustainment OR upon discovery that the application has already been deployed to production and has not gone through the process, e.g. older applications in sustainment OR upon every major release OR when requested by OIS and/or CSOC.
+
+
+
+
+
+### 4.3.4 TT4: Penetration Test / Application Assessment (PT/AA)
+
 A penetration test or full application assessment (Web Application Security Assessment or Mobile Application Security Assessment) must be performed that includes automated and manual assessment tools and techniques on Internet Facing, Mobile Applications, and/or High Impact Systems. For Internet facing applications, if the application utilizes multiple servers then a WASA and Penetration Test are required, regardless of the FIPS categorization. If the Internet facing application only uses one server then only a WASA is required. All Critical and High deficiencies should be mitigated with documented mitigation evidence provided, and Moderate and Low deficiencies should be mitigated or have a documented mitigation plan. If a Penetration Test / Application Assessment is not applicable, upload a word document to the Documents tab within RiskVision explaining why a Penetration Test / Application Assessment is not applicable.  *The Penetration Test / Application Assessment requirement is not applicable to VistA systems.
 
 The following steps must be performed to meet the Penetration Test/Application Assessment requirement: 
@@ -431,15 +620,25 @@ a) CSOC must conduct an independent penetration test/application assessment for 
 a) Within the uploaded mitigation strategy, each system should conduct an analysis on the results of the penetration test to determine and document those findings that are false positives, not applicable to the system, or otherwise mitigated. Additionally, findings that must be remediated through or from the vendor should also be documented as part of this analysis and should be documented in either the report of findings provided from VA-CSOC or as a separate document.
 5. System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the Penetration Test/Application Assessment to serve as a reminder to resolve the deficiencies.
 
-Continuous Monitoring Requirement : A CSOC penetration test/application assessment is required on an annual basis to maintain an ATO and/or when a major change to the system or upgrades to the tools used occurs.  In addition, OI&T conducts penetration testing quarterly on one-fourth of the total number of VA High Systems and/or internet facing systems.
+__*Continuous Monitoring Requirement :*__ A CSOC penetration test/application assessment is required on an annual basis to maintain an ATO and/or when a major change to the system or upgrades to the tools used occurs.  In addition, OI&T conducts penetration testing quarterly on one-fourth of the total number of VA High Systems and/or internet facing systems.
 
-### 4.3.5 Security Configuration Compliance Data
+
+
+
+
+
+
+
+### 4.3.5 TT5: Security Configuration Compliance Data (SCCD)
 All accreditation boundaries that contain an operating system are required to provide Security Configuration Compliance Data. For EO systems, authorization assessments for application entities are for the application only whereas infrastructure (hardware) is authorized in the appropriate Service Line authorization assessment. Therefore, the requirement for Security Configuration Compliance Data within EO is for the Service Lines only. If Security Configuration Compliance Data is not applicable, upload a word document to the Documents tab within RiskVision explaining why Security Configuration Compliance Data is not applicable. The Security Configuration Compliance Data requires a 90% compliance for a full ATO.
+
 The following steps must be performed to meet the Security Configuration Compliance requirement:
 
-1. The System Owner or delegate contacts ISRM at vaoisisrmrmf@va.gov to ensure the IP addresses or system names that make up their system(s) are appropriately tagged or accounted for in RiskVision. The ISRM office will assist the System Owner with items ÔaÕ and/or ÔbÕ below depending on the system.
-a) For systems with IP address ranges internal to the VA that have the IBM BigFix agent installed:
-i. System Owner/Delegate should verify their IP addresses or system names by reviewing the boundaries displayed in the Enterprise Visibility and Vulnerability Management (EVVM) Dashboard. 
+1. The System Owner or delegate contacts ISRM at vaoisisrmrmf@va.gov to ensure the IP addresses or system names that make up their system(s) are appropriately tagged or accounted for in RiskVision. The ISRM office will assist the System Owner with items and/or below depending on the system.
+
+
+  a) *__For systems with IP address ranges internal to the VA__* that have the IBM BigFix agent installed:
+    i. System Owner/Delegate should verify their IP addresses or system names by reviewing the boundaries displayed in the Enterprise Visibility and Vulnerability Management (EVVM) Dashboard. 
 Regional GSS boundaries can be found at: https://dashboard.tic.va.gov/s/290/
 Facility GSS and System boundaries can be found at: https://dashboard.tic.va.gov/s/291/
 
@@ -459,19 +658,27 @@ System: https://dashboard.tic.va.gov/s/28Y/
 
 When running the compliance reports please select the applicable information system (Note: Both boundary data and compliance data are updated nightly).  
 
-b) For systems with IP address ranges external to the VA or for systems without the IBM BigFix agent installed yet: The IBM BigFix agent must be installed to receive SCCD. For systems that used to have CSOC provide SCCD, IBM BigFix is outside the scope of the CSOC vulnerability scanning team and CSOC no longer provides SCCD. The System Owner or delegate must ensure the following steps are completed in order to obtain SCCD from IBM BigFix.
-i. The system must be defined in RiskVision.
-ii. The IP addresses/IP address range of all hosts (servers/workstations) that make up the system must be captured in RiskVision. The System Owner or delegate contacts ISRM at vaoisisrmrmf@va.gov to ensure the IP addresses or system names that make up their system(s) are appropriately tagged or accounted for in RiskVision.
-iii. The hosts must have the IBM BigFix agent installed. If the system owner or delegate has issues installing the IBM BigFix agent, then a ticket can be opened with the OIS EV Support team (OISEVSupportGroup@va.gov) to get it installed and functioning properly. Details of the system (FISMA boundary name/hostnames/IP addresses/system admin contact information) need to be included with the ticket request. 
-2. System Owner or Delegate uploads the Compliance Trending and Checklist Trending reports to the Documents tab in RiskVision. The Compliance Trending and Checklist Trending reports can be found at https://dashboard.tic.va.gov/s/28U/ and https://dashboard.tic.va.gov/s/28T/, respectively.   
-3. System Owner or Delegate creates one finding/POA&M and a response in the Findings tab within RiskVision for the SCCD to serve as a reminder to resolve the deficiencies.
-4. System Owner or Delegate continues to remediate deficiencies identified from the Compliance Trending and Checklist Trending reports. 
-5. System Owner or Delegate uploads new Compliance Trending and Checklist Trending reports to Documents tab within RiskVision as evidence to show the remediation progress.
+b) *__For systems with IP address ranges external to the VA__* or for systems without the IBM BigFix agent installed yet: The IBM BigFix agent must be installed to receive SCCD. For systems that used to have CSOC provide SCCD, IBM BigFix is outside the scope of the CSOC vulnerability scanning team and CSOC no longer provides SCCD. The System Owner or delegate must ensure the following steps are completed in order to obtain SCCD from IBM BigFix.
 
-Continuous Monitoring Requirement : Security Configuration Compliance Data must be pulled in accordance with the guidance above on a quarterly basis, or when changes are made to the approved secure configuration/hardening guides, or when requested by OIS.
+  i. The system must be defined in RiskVision.
+  ii. The IP addresses/IP address range of all hosts (servers/workstations) that make up the system must be captured in RiskVision. The System Owner or delegate contacts ISRM at vaoisisrmrmf@va.gov to ensure the IP addresses or system names that make up their system(s) are appropriately tagged or accounted for in RiskVision.
+  iii. The hosts must have the IBM BigFix agent installed. If the system owner or delegate has issues installing the IBM BigFix agent, then a ticket can be opened with the OIS EV Support team (OISEVSupportGroup@va.gov) to get it installed and functioning properly. Details of the system (FISMA boundary name/hostnames/IP addresses/system admin contact information) need to be included with the ticket request. 
+1. System Owner or Delegate uploads the Compliance Trending and Checklist Trending reports to the Documents tab in RiskVision. The Compliance Trending and Checklist Trending reports can be found at https://dashboard.tic.va.gov/s/28U/ and https://dashboard.tic.va.gov/s/28T/, respectively.   
+2. System Owner or Delegate creates one finding/POA&M and a response in the Findings tab within RiskVision for the SCCD to serve as a reminder to resolve the deficiencies.
+3. System Owner or Delegate continues to remediate deficiencies identified from the Compliance Trending and Checklist Trending reports. 
+4. System Owner or Delegate uploads new Compliance Trending and Checklist Trending reports to Documents tab within RiskVision as evidence to show the remediation progress.
 
 
-### 4.3.6 Security Control Assessment (SCA)
+__*Continuous Monitoring Requirement :*__ Security Configuration Compliance Data must be pulled in accordance with the guidance above on a quarterly basis, or when changes are made to the approved secure configuration/hardening guides, or when requested by OIS.
+
+
+
+
+
+
+
+
+### 4.3.6 TT6: Security Control Assessment (SCA)
 A SCA may be required by the OIS.  If an SCA is required, all Critical and High POA&Ms should be mitigated with documented mitigation evidence provided. Moderate and Low POA&Ms should be mitigated or have a documented mitigation plan.
 
 The following steps must be performed to meet the SCA requirement:
@@ -482,12 +689,24 @@ The following steps must be performed to meet the SCA requirement:
 4. The audit team lead will upload the deliverables, to include the SCA report and import the POAMs, within 4 weeks of completion of the audit.  
 5. System Owner or delegate creates responses to the POAMs/findings within 15 days of the POAMs uploaded.
 
-Continuous Monitoring Requirement: An SCA will be performed based on the criticality of the system and/or if circumstances arise that require an onsite SCA under the discretion of OIS.
+ __*Continous Monitoring Requirement*__: An SCA will be performed based on the criticality of the system and/or if circumstances arise that require an onsite SCA under the discretion of OIS.
 
-### 4.3.7 Control Implementation Evidence
-All control implementation statements evaluated as part of the RiskVision Assessment Workflow need to contain evidence that demonstrates the control was tested, how it was tested, and the results.  The evidence will be required for all controls that are documented to be in place and the results can be documented by going to the appropriate assessment and clicking on the General tab.  From the General tab, select each control in the Control Test column to document how a control was tested, the results, and any associated findings.  
 
-### 4.3.8 Enterprise Discovery Scan
+
+
+
+
+### 4.3.7 TT7: Control Implementation Evidence (CIE)
+All control implementation statements evaluated as part of the RiskVision Assessment Workflow need to contain evidence that demonstrates the control was tested, how it was tested, and the results.  The evidence will be required for all controls that are documented to be in place and the results can be documented by going to the appropriate assessment and clicking on the General tab.  From the General tab, select each control in the Control Test column to document how a control was tested, the results, and any associated findings.
+
+
+
+
+
+
+
+
+### 4.3.8 TT8: Enterprise Discovery Scan (EDS)
 An Enterprise Discovery Scan (EDS) against all instances of the operating system and desktop configurations must be conducted to identify security flaws. Any findings must be remediated within the approved timelines for the severity of the findings, and a POA&M must be created in RiskVision to keep track of the remediation effort. An EDS must be conducted for all internal VA systems, including VAEC based systems. Managed Systems (External systems) are exempt from this requirement.
 
 The following steps must be performed to meet EDS requirements:
@@ -499,20 +718,29 @@ The following steps must be performed to meet EDS requirements:
 5. Within the uploaded mitigation strategy, each system should conduct an analysis on the results of the EDS to determine and document the findings that are false positives, not applicable to the system, or otherwise mitigated. Additionally, findings that must be remediated through or by the vendor should be documented as part of this analysis.
 6. System Owner or delegate creates a POA&M/Finding and a response in the Findings tab within RiskVision for the EDS as outlined by the POA&M Management Guide.
 
-Continuous Monitoring Requirement: CSOC conducts EDS on a quarterly basis. The quarterly results must be pulled in accordance with the guidance above to maintain an ATO. Additionally, the EDS results must be provided when the tool used receives an upgrade, a major change to the system occurs, or when requested by OIS.
+ __*Continous Monitoring Requirement*__: CSOC conducts EDS on a quarterly basis. The quarterly results must be pulled in accordance with the guidance above to maintain an ATO. Additionally, the EDS results must be provided when the tool used receives an upgrade, a major change to the system occurs, or when requested by OIS.
+
+
+
+
+
+
+
 
 ## 4.4 Closing
 Once all of the above requirements are either met or deemed inappropriate by OIS, the completed package will be submitted to the Authorizing Official by OIS with one of the following recommendations: 
 
 * ATO 
-o ATO with Conditions: An authorization decision allowing a system to operate for an established amount of time (e.g., 30, 60, 90, 120, 150 days) if certain terms and conditions must still be met, or
-o Full ATO: An authorization decision allowing a system to operate and fall into the Continuous Monitoring process if all applicable security requirements have been met.
+    * ATO with Conditions: An authorization decision allowing a system to operate for an established amount of time (e.g., 30, 60, 90, 120, 150 days) if certain terms and conditions must still be met, or
+    * Full ATO: An authorization decision allowing a system to operate and fall into the Continuous Monitoring process if all applicable security requirements have been met.
 * Denial of ATO (DATO) 
-o An authorization decision allowing the authority to halt an existing operational or new system because unacceptable security risks exist.
+    * An authorization decision allowing the authority to halt an existing operational or new system because unacceptable security risks exist.
 
-# Appendix A:  FedRAMP/Cloud VA Requirements 
 
-## FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process
+
+# Appendix A: FedRAMP/Cloud VA Requirements 
+
+## Appendix A1: FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process
 Federal Risk and Authorization Management Program (FedRAMP) is designed to assist agencies in meeting FISMA requirements for cloud systems.  CSPs must meet FedRAMP in order to do business with US government agencies as part of the Cloud first policy.  FedRAMP is designed as a "do once, use many" framework to create efficiency in government procurement of cloud services.  As part of the program, CSPs pursuing FedRAMP are required to be independently assessed by a Third Party Assessment Organization (3PAO).  *Per the Acceptance of FEDRAMP Authorization Memo* issued on August 11, 2015 by the Deputy Assistant Secretary for Information Security, existing Federal Risk and Authorization Management Program (FedRAMP) authorizations for certified FedRAMP Cloud Service Provider cloud systems should be evaluated, and reused when possible, to reduce the overall time required to grant an authorization and begin using a cloud service.
 
 Note: A contract must be in place before requesting a RiskVision entry of the FedRAMP Cloud Service Provider. In the absence of a contract, RVWG will not entertain any such request.
@@ -527,7 +755,7 @@ The Cloud/FedRAMP Reciprocity ATO process consists of the following steps:
 6. CSP authorization package in RiskVision will then be advanced to OIS and Certification Authority (CA) for review.  Additionally, VA determines if the CSP system appropriately addresses any and all necessary VA and Department of Homeland Security (DHS) Trusted Internet Connection (TIC) requirements (e.g., all external systems, including cloud solutions, hosted from facilities or data centers outside of the VA network and boundary must comply with DHS TIC requirements and VA's external connection agreements) before progressing to the VA CISO and Designated Accrediting Authority (DAA) for agency ATO consideration. 
 
 
-## Cloud-Based VA Application / Workload / Third-Party System ATO Process
+## Appendix A2: Cloud-Based VA Application / Workload / Third-Party System ATO Process
 
 The Cloud/FedRAMP cloud-based VA Application / Workload / Third-Party System ATO process consists of the following steps:
 
@@ -540,7 +768,7 @@ The cloud-based VA Application / Workload / Third-Party System in RiskVision wil
 
 
 
-## Other Federal Agency (Non-FedRAMP) ATO Acceptance
+## Appendix A3: Other Federal Agency (Non-FedRAMP) ATO Acceptance
 
 The cybersecurity requirements for VA information systems will be managed through the Risk Management Framework (RMF) consistent with the principals established in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37.  Reciprocal acceptance of other federal agency system authorizations will be implemented to the maximum extent possible.  Refusals must be timely, documented, and reported to the responsible VA Authorizing Official.
 
@@ -552,7 +780,9 @@ VA employees and contract staff working for the VA are prohibited from sending V
 4. The other Federal Agency ATO memo, along with additional documentation, will be uploaded to the documents tab in RiskVision.  Additional documentation may include a list of open POAMs, required artifacts, Interconnection Security Agreements (ISA)/Memorandum of Understanding (MOU).
 5. Questionnaires will be answered and any customer responsible controls, if necessary, will be completed and uploaded to the documents tab.
 6. The workflow will be progressed to the VA Authorizing Official for review and approval.
-o  	If the VA AO refuses reciprocity of the other agency ATO, a memo will be developed and sent to the VA project staff for notification.
+    * 	If the VA AO refuses reciprocity of the other agency ATO, a memo will be developed and sent to the VA project staff for notification.
+
+
 
 
 
@@ -563,7 +793,10 @@ Roles / Responsibilities
 References
 Technical/Testing Requirements
 
-### Nessus Scan 
+
+
+
+## Appendix B1 - Nessus Scan 
 * A credentialed vulnerability scan against all instances of the operating system and desktop configurations must be conducted to identify security flaws. 
 * Actual scan results must be provided for analysis. 
 * All Critical and High deficiencies should be mitigated with documented mitigation evidence provided, and Moderate and Low deficiencies should be mitigated or have a documented mitigation plan. 
@@ -583,11 +816,19 @@ If the system's Nessus Scan data is not currently displayed in TVM within RiskVi
 * Contact OIS at: vaoisisrmrmf@va.gov with any questions.
 * TVM guidance material located on the OIS portal at Training and Brown Bag Materials 
 
-### Quality Code Review
+
+
+
+
+## Appendix B2a - Quality Code Review (QCR)
 * Quality code reviews of custom developed VA applications using the approved VA static code analysis tool should be conducted to identify code quality issues within VA applications. 
 * Applications written in languages that are not supported, such as MUMPS, shall be targeted for manual review of testing with other applicable tools; notify the VA Software Assurance (SwA) Program Office if this is the case at: OISSwASupportGroup@va.gov.
 
-### V&V Quality Code Reviews
+
+
+
+
+### Appendix B2b - V&V Quality Code Reviews
 * VA Application Developers open a NSD ticket [(855) NSD-HELP] to request VA static code analysis tools in order to perform scans according to the procedures in the VA Quality Code Review SOP and guidance materials.
 * VA Application Developers scan their own application source code. 
 * VA Application Developers open a NSD ticket [(855) NSD-HELP] to request validation of a final V&V quality code review.
@@ -598,7 +839,11 @@ If the system's Nessus Scan data is not currently displayed in TVM within RiskVi
 * System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the V&V quality code review to serve as a reminder to resolve the deficiencies.
 * For detailed instructions on the code reviews process, reference the VA Quality Code Review SOP and guidance materials, which are posted on the VA SwA Program Office Resource Site.
 
-### Secure Code Review
+
+
+
+
+## Appendix B4 - Secure Code Review (SCR)
 * V&V secure code reviews of custom developed VA applications must be conducted according to the VA Secure Code Review SOP located at 
 
 VA SwA Program Office Resource 
@@ -606,7 +851,9 @@ VA SwA Program Office Resource
 * V&V secure code reviews are conducted by the VA Application Developers.
 * Applications written in languages that are not supported, such as MUMPS, shall be targeted for manual review or testing with other applicable tools (notify OIS if this is the case at: OISSwASupportGroup@va.gov). 
 
-### V&V Secure Code Reviews 
+
+
+## Appendix B5 - V&V Secure Code Reviews
 * VA Application Developers open a NSD ticket [(855) NSD-HELP] to request VA static code analysis tools; they scan their own application source code; open a NSD ticket to request validation of a final V&V secure code review; deliver the scan results to the VA SwA Program Office at OISSwASupportGroup@va.gov for review; work with the VA SwA Program Office to schedule the validation; and coordinate with them to resolve any issues identified during validation.
 * System Owner or delegate is responsible for coordinating the mitigation of deficiencies, documenting the mitigation plans, and uploading them along with the secure code review results to RiskVision under Entity Details: Documents tab. 
 * System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the secure code review to serve as a reminder to resolve the deficiencies.
@@ -614,7 +861,9 @@ VA SwA Program Office Resource
 
 
 
-### Penetration Test/Application Assessment 
+
+## Appendix B6 - Penetration Test/Application Assessment (PT/AA)
+
 * A full penetration test/application assessment must be performed that includes automated and manual assessment tools and techniques on Internet Facing and/or High Impact Systems. 
 * For Internet facing applications, if the application utilizes multiple servers then a WASA and Penetration Test are required, regardless of the FIPS categorization. If the Internet facing application only uses one server then only a WASA is required. 
 * Actual test results must be provided for analysis.
@@ -626,7 +875,10 @@ VA SwA Program Office Resource
 * System Owner or delegate creates one finding and a response in the Findings tab within RiskVision for the penetration test/application assessment to serve as a reminder to resolve the deficiencies.
 * Contact OIS at: vaoisisrmrmf@va.gov with any questions
 
-### Security Control Assessment (SCA) (if applicable)
+
+
+### Appendix B7 - Security Control Assessment (SCA)
+
 * An SCA will be required only upon request from OIS.
 * If an SCA is required, all Critical and High POA&Ms should be mitigated with documented mitigation evidence provided, and Moderate and Low POA&Ms should be mitigated or have a documented mitigation plan.
 *  Once notified by OIS that an SCA is required, the appropriate audit team will be notified by OCS to schedule the assessment.
@@ -636,7 +888,12 @@ VA SwA Program Office Resource
 *  System Owner or delegate creates responses to the POAMs/findings within 15 days of the POAMs uploaded.
 * Contact OIS at: vaoisisrmrmf@va.gov 
 
-### Security Configuration Compliance Data
+
+
+
+
+### Appendix B8 - Security Configuration Compliance Data (SCCD)
+
 * Compliance data must be obtained for all IP addresses that make up a system and must check against VA approved hardening guidance for all Operating Systems, Databases, Networks, and Security Devices, where guidance exists. The Security Configuration Compliance Data requires a 90% compliance for a full ATO.
 
 For systems with IP address ranges internal to the VA that have the IBM BigFix agent installed:
@@ -647,7 +904,11 @@ Regional GSS: https://dashboard.tic.va.gov/s/28T/
 Facility GSS: https://dashboard.tic.va.gov/s/28V/ 
 System: https://dashboard.tic.va.gov/s/28X/ 
 
-### Compliance Trending reports are located at: 
+
+
+
+### Appendix B9 - Compliance Trending Reports location
+
 Regional GSS: https://dashboard.tic.va.gov/s/28U/ 
 Facility GSS: https://dashboard.tic.va.gov/s/28W/
 System: https://dashboard.tic.va.gov/s/28Y/ 
@@ -672,7 +933,8 @@ Roles / Responsibilities
 References
 Security Documentation Requirements
 
-### System Security Plan (SSP)
+
+### Appendix B10 - System Security Plan (SSP)
 * The SSP is developed within RiskVision.
 * All required diagrams and confirmation of the security authorization boundary to include all devices and supporting software architecture should be included.
 * All controls must be addressed. A finding will need to be created in RiskVision for every control that is not in place.
@@ -683,19 +945,27 @@ Security Documentation Requirements
 * Additional guidance for completion of the SSP can be provided by OIS
 
 
-### Minor Application Self-Assessment
+
+
+### Appendix B11 - Minor Application Self-Assessment (MASA)
 * Minor Application Self-Assessment must be completed for all minor applications.
 * The ISO, Project team, and the SS, working in conjunction should prepare the Minor Application Security Control Summary and provide implementation detail for all applicable security controls and upload the Self-Assessment to GSS/MA Documents repository in RiskVision.
 * Minor Application Self Assessment SOP 
 (Appendix D)
 
-### Signatory Authority
+
+
+### Appendix B12 - Signatory Authority (SA)
 * The Signatory Authority must be signed and dated by the appropriate parties.
 * System Owner or delegate completes the Signatory Authority using the template provided at A&A Home Documents and uploads the Signatory Authority to RiskVision under Entity Details: Documents tab. 
 * NIST SP 800-18
 * Additional guidance for completion of the Signatory Authority can be provided by OIS 
 
-### Risk Assessment (RA)
+
+
+
+
+### Appendix B13 - Risk Assessment (RA)
 * The RA is developed within RiskVision.
 * System Steward completes the assessments in RiskVision.
 * ISO validates information added by the System Steward in RiskVision.
@@ -703,7 +973,10 @@ Security Documentation Requirements
 * NIST SP 800-30
 * Additional guidance for completion of the RA can be provided by the Office of Risk Management and Incident Reporting (RMIR)/OIS
 
-### Configuration Management Plan (CMP)
+
+
+
+### Appendix B14 - Configuration Management Plan (CMP)
 * The CMP should include processes for managing configuration and change management. 
 * The CMP should include infrastructure devices and baseline configurations (e.g., switches, routers, firewalls).
 * The CMP should include a configuration file for each operating system(s), database(s), application(s), and network device(s) to validate compliance with baseline configuration.
@@ -711,7 +984,10 @@ Security Documentation Requirements
 * NIST SP 800-70 and VA Handbook 6500
 * Additional guidance for completion of the CMP can be provided by OIS
 
-### Incident Response Plan (IRP)
+
+
+
+### Appendix B15 - Incident Response Plan (IRP)
 * The IRP must be created using RA and SSP.
 * The IRP must meet the following standards:
 *   Information Access and Privacy Program 
@@ -726,7 +1002,8 @@ Security Documentation Requirements
 *  Agiliance RiskVision National Release GRC Instance
 *  OIS Cyber Security Portal
 
-### Information Security Contingency Plan (ISCP) 
+
+### Appendix B16 - Information Security Contingency Plan (ISCP) 
 * The ISCP must be created using following inputs:
 *   Preliminary Information System Contingency Plan 
 *   Primary Site System Security Plan
@@ -742,7 +1019,9 @@ Security Documentation Requirements
 *  Agiliance RiskVision National Release GRC Instance
 *  OIS Cyber Security Portal
 
-### Disaster Recovery Plan (DRP)
+
+
+### Appendix B17 - Disaster Recovery Plan (DRP)
 * The DRP must be created using following inputs:
 *   Primary Site System Security Plan
 *   Backup Site System Security Plan
@@ -755,7 +1034,9 @@ Security Documentation Requirements
 *  Agiliance RiskVision National Release GRC Instance
 *  OIS Cyber Security Portal
 
-### Privacy Impact Assessment (PIA)
+
+
+### Appendix B18 - Privacy Impact Assessment (PIA)
 * A complete PIA must have:
 * A previously completed Privacy Threshold Analysis (PTA).
 * Been completed in the most up-to-date and Privacy Services approved template for both the PTA and PIA. The PTA and PIA template can be found at A&A Home Documents
@@ -769,7 +1050,9 @@ Security Documentation Requirements
 * Authority is found in E-Government Act of 2002, OMB Circular 03-22, VA Directive 6502, VA Directive 6508, and VA Handbook 6508.1
 * Additional guidance for completion of the PIA/PTA can be provided by the Privacy Services Office. Any questions may be sent to PIASupport@va.gov
 
-### Interconnection Security Agreement (ISA)/ Memorandum of Understanding (MOU) 
+
+
+### Appendix B19 - Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU) 
 * An ISA/MOU must be provided for all external interconnections.
 * System Owner in coordination with the entities identified in NIST SP 800-47 will complete the ISA/MOU using the latest template provided at:  OIS Portal or A&A Home Documents.
 * ISO will upload all final draft MOU/ISA documents to the MOU/ISA Review Submissions SharePoint site for a review prior to requesting signatures.  
@@ -783,14 +1066,14 @@ Security Documentation Requirements
 * Additional guidance can be provided by the Health Information Security Division at vafsshisd@va.gov or the OIT ERM CRISP Team at Sharon.mcallister@va.gov
 
 
+
+
+
+
 # Appendix C: Job Aid: Security Information
 
-Job Aid
 
-Security Information
-
-
-## 1. Purpose
+## Appendix C0: Purpose
 This Job Aid will assist Information Security Officers (ISOs), Facility Chief Information Officers (FCIOs), System Owners and stakeholders with security responsibilities when performing security-related job functions.  The Job Aid provides security information on the following items:
 * Authorization Decision Process 
 * VA Authorization Boundaries
@@ -799,7 +1082,7 @@ This Job Aid will assist Information Security Officers (ISOs), Facility Chief In
 * NIST SP 800-53 Rev 3 to Rev 4 Transition
 This Job Aid is subject to change as new critical security elements emerge and/or VA policies and processes change.
 
-## 2. Authorization Decision Process
+## Appendix C1: Authorization Decision Process
 Independent third-party Assessment & Authorization (A&A) reviews are conducted to determine the technical security posture of VA's Information Technology (IT) systems. A&A reviews evaluate all applicable system security controls conducted in accordance with the Authorization Requirements Guide / Standard Operating Procedure (SOP).  A&A reviews include a combination of: 
 * On-site assessments conducted by Enterprise Risk Management (ERM) on a sub-set of VA systems and Managed Services.
 * Technical security tests (penetration tests, vulnerability scans, discovery scans, and security configuration compliance scans) conducted by the VA-CSOC.
@@ -818,7 +1101,9 @@ Reference 2: ERM SCA Results are uploaded to RiskVision under the respective sys
 
 Reference 3: DAS Expectation Memo: Authorization Requirements Expectations (March 19, 2014)
 
-## 3. VA Authorization Boundaries
+
+
+## Appendix C2: VA Authorization Boundaries
 The authorization boundaries were changed in the summer of 2013 to meet OIS strategic goals, improve accountability, better define common controls, and align with actual operational and managerial practices.  The system boundaries for the three major systems cover the entire Region; there are no facility-level boundaries although there are facility-level controls, and RiskVision maps each known IP address to the system that contains it. System security documentation was updated / re-created to reflect the new authorization boundaries in August 2013 and assessed as a part of the OIS third-party assessments.  If the security documentation lacked information but the security posture of the system was acceptable (according to technical testing results, other security artifacts, etc.), the Authorizing Official could issue an ATO with Conditions thereby allowing the system to store, process, or transmit VA data, while the remaining security information was provided by the System Owner. Any SSPs that are incomplete and do not appropriately reflect the authorization boundaries are required to be updated as a condition of the authorization process. In all cases, any gaps in the documentation are thoroughly assessed to determine their impact on the authorization decision.
 
 The system boundaries have been reviewed and approved by the Certification Authority and the Authorizing Official (AO).  The three primary systems / authorization boundaries are as follows:
@@ -831,7 +1116,7 @@ The authorization boundaries are based on NIST 800-18 and summarized in the Syst
 
 Note: Facility-level staff are no longer System Owners.  Any questions concerning system boundaries should be referred to the Regional System Owner if facility staff are unable to provide a detailed answer.
 
-## 4. Finding/Milestone Process
+## Appendix C3: Finding/Milestone Process
 RiskVision allows for granular identification and remediation of Findings (aka POA&Ms), accountability, and tracking mechanisms by management. Open Findings are assigned at the entity level to which the control is presented. This means that findings can be presented at a Region entity, GSS Information System, Infrastructure Information System, VistA Information System or facility level.  ISOs are required to conduct reviews of the security control implementation statements and create a Finding in RiskVision, with an associated milestone, for controls that are not properly implemented in accordance with VA and Federal guidance.  January CRISP Focus training and multiple ISO and SDE GRC training opportunities and guidance were provided to assist with the creation of Findings and milestones.
 
 Per the Authorization Requirements SOP and Authorization Requirements training, a Finding should be created by system personnel within RiskVision to track the vulnerabilities identified from scans.  The field is required to develop a remediation plan for the vulnerabilities.
@@ -843,7 +1128,7 @@ Reference 1: CRISP FOCUS SharePoint
 
 Reference 2: Executive Decision Memorandum: FISMA Challenge Recommendations
 
-## 5. Vulnerability Integration into Authorization Decision Process
+## Appendix C4: Vulnerability Integration into Authorization Decision Process
 In accordance with the Authorization Requirements Standard Operating Procedure (SOP) / Guide, OIS assesses vulnerabilities identified through the following tests / scans provided in RiskVision by system personnel prior to T/ATO issuance:
 * CSOC Penetration Tests
 * CSOC Vulnerability Scans / Discovery Scans
@@ -861,7 +1146,7 @@ RiskVision imports Nessus scan data from CSOC via the Threat & Vulnerability Man
 Reference 1: Authorization Requirements Standard Operating Procedure (SOP) / Guide A&A Home Documents
 Reference 2: TVM Training
 
-## 6. NIST SP 800-53 Rev 3 to Rev 4 Transition
+## Appendix C5: NIST SP 800-53 Rev 3 to Rev 4 Transition
 OIS Risk Based Decision (RBD) 53, Implementation of NIST 800-53 Revision 4 is in place acknowledging that VA has not issued updated policy guidance that adds the new Revision 4 requirements. However, OMB guidance (M-04-14) provides Departments with the flexibility and latitude in applying and implementing NIST's guidelines. VA will apply the NIST Rev 4 guidance to all new system implementations and also when systems undergo upgrades. This is standard practice throughout the government for several years and accepted by OIGs at other Departments. It is not practical or cost effective to immediately update all systems within one year, each time NIST updates its systems security guidelines. The new Revision 4 adds 200 new additional system security controls or enhancements for federal systems. For VA legacy systems in operation and not due for upgrades, VA will consider using RBDs regarding whether it is cost effective to implement out of cycle upgrades to address new NIST systems security guidance.
 
 The updated VA Handbook 6500 reflecting NIST Revision 4 has been drafted and is currently going through the concurrence process, and is expected for release prior to the end of the 2014 fiscal year. OIS is taking action to expedite the policy coordination and issuance process to make it timelier for future policy updates. An RBD or POA&M/Finding will be developed for legacy systems that are not due for upgrades, to assess whether the systems development life cycle process will support the implementation of new, additional controls. 
@@ -870,6 +1155,7 @@ RiskVision will be capable of performing assessments based on Revision 4 content
 
  
 # Appendix D: Minor Applications Self-Assessment SOP
+
 Purpose
 The purpose of this Standard Operating Procedure (SOP) is to provide guidelines for the Security Authorization process of Minor Application(s) that are listed under a General Support System (GSS) or Major Application (MA). The SOP establishes procedures for incorporating the Minor Application Security Controls Summary document into the local site's Compliance Report for the parent GSS or Major Application to ensure the security and integrity of the VA's information systems are maintained. In general, a Minor Application is an application that is not a standalone application, or is a component of a MA or GSS, and receives much of its security from the parent application or system. 
 
@@ -897,80 +1183,21 @@ Note: Incident Response and Awareness and Training are covered by the GSS or Maj
 
 Procedure
 In accordance with Federal Information Processing Standard (FIPS) 199 Standards for Security Categorization of Federal Information and Information Systems, security categorization for both information and information systems is calculated based on the three basic security objectives; confidentiality, integrity, and availability. National Institute of Standards and Technology (NIST) Publication 800-60 Guide for Mapping Types of Information and Information System to Security Categories provides implementation guidance in completing this activity. 
+
 * Minor Applications cannot have a Security Category higher than that of the host system.
+
 1. If the application falls under a GSS or Major Application and is considered a Minor Application, then the Minor Application Security Control Summary can be used in place of an SSP. The List of Security Controls of this SOP shall also be used to document the security controls as they are implemented for a specific application. The Minor Application Self-Assessment Workbook can be found at A&A Home Documents. 
+
 2. The ISO, Project Team and the SS, working in conjunction, should prepare the Minor Application Security Control Summary and the List of Security Controls. 
-*  Only those controls that are provided by the Minor Application need a complete implementation explanation, annotated and shall be documented just as they would be if an SSP were required. 
-*  Controls that are provided by the host system, whether it is a MA or GSS should be annotated as such. 
-*  There is no need to annotate common controls, (Those controls are managed at the enterprise level) and they have been eliminated from the list of security controls in order to avoid duplication of effort. 
+   * Only those controls that are provided by the Minor Application need a complete implementation explanation, annotated and shall be documented just as they would be if an SSP were required. 
+   * Controls that are provided by the host system, whether it is a MA or GSS should be annotated as such. 
+   * There is no need to annotate common controls, (Those controls are managed at the enterprise level) and they have been eliminated from the list of security controls in order to avoid duplication of effort. 
 *  If the control cannot be implemented, it is neither a common control nor a control that is being provided by the host system, it must be noted.
-3. The Minor Application Security Control Summary shall be inserted as an appendix to hosting GSS/MA SSP. The application should be identified in the SSP table of content as a Minor Application under GSS or MA.
+
+1. The Minor Application Security Control Summary shall be inserted as an appendix to hosting GSS/MA SSP. The application should be identified in the SSP table of content as a Minor Application under GSS or MA.
+
 Monitoring
 The ISO will store all records developed throughout this process in the Documents repository within RiskVision of the MA or GSS which supports this Minor Application. Additionally, the ISO conducts audits and/or actions as directed by Continuous Readiness Information Security Program (CRISP) action items and any additional mandated VA policy or guidance.
-
-
-# Definitions
-Authorization: The official management decision given by a senior agency official to authorize operation of an information system and to explicitly accept the risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals, based on the implementation of an agreed-upon set of security controls.
-Authorizing Official: Official with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals.
-Business Requirements Document (BRD): The Business Requirements Document (BRD) is authored by the business community for the purpose of capturing and describing the business needs of the customer/business owner. The BRD provides insight into the AS IS and TO BE business area, identifying stakeholders and profiling primary and secondary user communities. This document identifies what capabilities the stakeholders and the target users need and why these needs exist, providing a focused overview of the request requirements, constraints, and Information Technology (IT) options to be considered. This document does not state the development methodology.
-
-Common Security Control: Security control that can be applied to one or more agency information systems and has the following properties: (i) the development, implementation, and assessment of the control can be assigned to a responsible official or organizational element (other than the information system owner); and (ii) the results from the assessment of the control can be used to support the security certification and authorization processes of an agency information system where that control has been applied.
-
-Compensating Security Controls: The management, operational, and technical controls (i.e., safeguards or countermeasures) employed by an organization in lieu of the recommended controls in the low, moderate, or high baselines described in NIST SP 800-53, Latest Version, that provide equivalent or comparable protection for information systems and the information processed, stored, or transmitted by those systems.
-
-EIB Milestone 0: Enterprise Information Board (EIB0 Milestone 0 is intended to have the Contracting Officer, Contracting Officer Representative, or Project Manager address the basic areas necessary to warrant project initiation approval. It does not presume any significant prior investment in analysis (either business or technical), concept or requirements definition or design; rather, it seeks answers to these most basic questions even before committing to that level of investment. The Project Manager should have a clear understanding of the problem that needs to be solved and how solving that problem supports a strategic objective of the Department. Based on a successful Milestone 0 review, the Project Manager will be authorized to expend the resources necessary to establish the project's business case and prepare for the project's Milestone I review.
-
-General Support System: An interconnected set of information resources under the same direct management control that shares common functionality. It normally includes hardware, software, information, data, applications, communications, and people.
-
-High Impact System: An information system in which a least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of high.
-
-Information Owner: Official with statutory or operational authority for specified information and responsibility for establishing the controls for its generation, collection, processing, dissemination, and disposal.
-
-Information Security: A means for protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide integrity, confidentiality, and availability.
-
-Information Security Officer (ISO): Individual responsible to the senior agency information security officer, authorizing official, or information system owner for ensuring the appropriate operational security posture is maintained for an information system or program.
-
-Information Security Requirements: Information security requirements promulgated in accordance with law, or directed by the Secretary of VA, the National Institute of Standards and Technology, and the Office of Management and Budget, and, as to national security systems, the President.
-
-Information Sensitivity: Information sensitivity reflects the relationship between the characteristics of the information processed (e.g., personnel data subject to protection under the Privacy Act) and the mission need to ensure the confidentiality, integrity, and availability of the information (e.g., legal requirements to protect confidentiality of personal data). Sensitivity may vary from low, to medium, to high.
-Information System Owner: Official responsible for the overall procurement, development, integration, modification, or operation and maintenance of an information system.
-
-Information Type: A specific category of information, (e.g., privacy, medical, proprietary, financial, investigative, contractor sensitive, security management), defined by an organization, or in some instances, by a specific law, executive order, directive, policy or regulation.
-
-Low Impact System: An information system in which all three security objectives (i.e. confidentiality, integrity, and availability) are assigned a FIPS 199 potential impact value of low.
-
-Major Application: An application that requires special attention to security due to the risk and magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of the information in the application.
-
-Minor Application: An application can be classified as being a Minor Application if they meet the following conditions: they rely upon a General Support System (GSS) or Major Application for security, they are within another system's authorization boundary, and they do not have their own capital plan.
-
-Moderate Impact System: An information system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of moderate and no security objective is assigned a FIPS 199 potential impact value of high.
-
-Potential Impact: The loss of confidentiality, integrity, or availability could be expected to have: (i) a limited adverse effect (FIPS 199 low); (ii) a serious adverse effect (FIPS 199 moderate); or (iii) a severe or catastrophic adverse effect (FIPS 199 high) on organizational operations, organizational assets, or individuals.
-
-Security Category: The characterization of information or an information system based on an assessment of the potential impact that a loss of confidentiality, integrity, or availability of such information or information system would have on organizational operations, organizational assets, or individuals.
-
-Security Controls: The management, operational, and technical controls (i.e., safeguards or countermeasures) prescribed for an information system to protect the confidentiality, integrity, and availability of the system and its information.
-
-System Security Plan: Formal document that provides an overview of the security requirements for the information system and describes the security controls in place or planned for meeting those requirements.
-
-
-
-
-
-# References
-* 5 U.S.C. 552a, Privacy Act, c. 1974
-* 38 U.S.C. 5705, Confidentiality of medical quality assurance records.
-* Health Insurance Portability and Accountability Act of 1996 (HIPAA).
-* OMB Circular A-130, Appendix III, Security of Federal Automated Information Systems.
-* VA Directive 6500, Information Security Program
-* VA Handbook 6500, Information Security Program
-* VA Directive 6001, Limited Personnel Use of Government Office Equipment Including Information Technology
-* OMB Circular A-123 II, Management Accountability and Control,
-*  NIST SP 800-37 ÒGuide for Applying the Risk Management Framework to Federal Information Systems, A Security       Life cycle ApproachÓ
-* NIST SP 800-53, ÒRecommended Security Controls for Federal Information SystemsÓ
-* NIST SP 800-53A, ÒGuide for Assessing the Security Controls in Federal Information SystemsÓ
-* Records Management, FSS Records Management
-* FIPS Publication 199, ÒStandards for Security Categorization of Federal Information and Information SystemsÓ 
 
 
 
@@ -982,61 +1209,66 @@ DRP
 Comments
 
 Region1
-¥ Region 1 - RCSnet Assessing
-¥ Region 1 GSS Assessing
-¥ Region 1 Infrastructure Assessing
-¥ Region 1 VistA Assessing
+* Region 1 - RCSnet Assessing
+* Region 1 GSS Assessing
+* Region 1 Infrastructure Assessing
+* Region 1 VistA Assessing
+
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 
 Region2
-¥ Region 2 GSS Assessing
-¥ Region 2 Infrastructure Assessing
-¥ Region 2 VistA Assessing 
+* Region 2 GSS Assessing
+* Region 2 Infrastructure Assessing
+* Region 2 VistA Assessing 
+
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 
 Region3
-¥ Region 3 GSS Assessing
-¥ Region 3 Infrastructure Assessing
-¥ Region 3 VistA Assessing                                                       
+* Region 3 GSS Assessing
+* Region 3 Infrastructure Assessing
+* Region 3 VistA Assessing                                                      
+
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 
 Region4
-¥ Region 4 Infrastructure Assessing
-¥ Region 4 VistA Assessing
-¥ Region 4 - Electronic Computer Access Request (eCAR) Assessing
-¥ Philadelphia BHIE Assessing    
+* Region 4 Infrastructure Assessing
+* Region 4 VistA Assessing
+* Region 4 - Electronic Computer Access Request (eCAR) Assessing
+* Philadelphia BHIE Assessing    
 
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 
 Region5
-¥ Region 5 GSS Assessing
-¥ Region 5 Infrastructure Assessing    
+* Region 5 GSS Assessing
+* Region 5 Infrastructure Assessing
+  
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
 
 Region6
-¥ Region 6 GSS Assessing
-¥ Region 6 Infrastructure Assessing
-¥ Region 6 - CDB Assessing
-¥ Region 6 VistA Assessing
-¥ Region 6 - FPPS Assessing
-¥ Region 6 - WRAP Assessing
-¥ Region 6 - CIRTS Assessing
-¥ Region 6 - OSCR Assessing
-¥ Region 6 VHALWD Assessing  
+* Region 6 GSS Assessing
+* Region 6 Infrastructure Assessing
+* Region 6 - CDB Assessing
+* Region 6 VistA Assessing
+* Region 6 - FPPS Assessing
+* Region 6 - WRAP Assessing
+* Region 6 - CIRTS Assessing
+* Region 6 - OSCR Assessing
+* Region 6 VHALWD Assessing  
 
 Facility DRPs (collectively) cover the Region DRP requirement
 ISCP plan expected for each assessing entity as identified in GRC
-Facilities
-¥ Facility. LAN.ISCP 
-¥ Facility. PBX.ISCP(May only apply to certain facilities with wired PBX) 
-¥ Facility. Major application (May only apply to facility that house and manage the MA)
 
-¥Facility.DRP
+Facilities
+* Facility. LAN.ISCP 
+* Facility. PBX.ISCP(May only apply to certain facilities with wired PBX) 
+* Facility. Major application (May only apply to facility that house and manage the MA)
+* Facility.DRP
+  
 Each facility must have a DRP plan
 ISCP plan expected for LAN and as applicable PBX and or MA
 
@@ -1051,128 +1283,106 @@ ISCP plan expected for each assessing entity as identified in GRC
 
 
 
-# Appendix F Links/URLs/E-Mail Addresses
-Links & URLs
-Short Links
-Full Address
-(FSS) Bulletin #124 (MOU/ISA Guidance)
+# Appendix F:  Links / E-Mail Addresses
 
+
+## Appendix F1: Links 
+(FSS) Bulletin #124 (MOU/ISA Guidance)
 https://vaww.portal2.va.gov/sites/infosecurity/fieldsecurity/FSS%20Bulletins/124_MOU%20ISA%20Document%20Processing%20FINAL%20Guidance_080113.pdf 
 
 A&A Home Documents
-
 https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Finfosecurity%2Fca%2FCA%20Home%20Documents%2FVA%20A%20and%20A%20Templates&FolderCTID=0x012000CB0DD849BEA0AB4FA5FEE491047C852D&View={5FCA9CEF-1C50-441D-A2FE-28D536ED0098}
 
 Acceptance of FEDRAMP Authorization Memo
-
 https://vaww.sde.portal.va.gov/docctr/Memoranda/150811-005R-Acceptance_of_FEDRAMP_Authorizations.pdf 
 
 Approved Security Directives and Handbooks
-
 https://vaww.portal2.va.gov/sites/infosecurity/ca/policy_default.aspx 
 
 Authorization Requirements Quick Link Reference Guide
-
 https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Finfosecurity%2Fca%2FCA%20Home%20Documents%2FATO%20Documents&FolderCTID=0x012000CB0DD849BEA0AB4FA5FEE491047C852D&View={5FCA9CEF-1C50-441D-A2FE-28D536ED0098}
 
 Common Application Enumeration
-
 https://wiki.mobilehealth.va.gov/display/OISSWA/Common+Application+Enumeration
 
 CRISP FOCUS SharePoint
 https://vaww.portal2.va.gov/sites/infosecurity/iprm/OIS%20Communications%20Home%20Folder%201/Forms/AllItems.aspx?RootFolder=/sites/infosecurity/iprm/OIS%20Communications%20Home%20Folder%201/CRISP%20FOCUS%20Campaign/Year%20Five&FolderCTID=0x0120004841CB7EF061244DBC5BD867B86555D1&View=%7b0F93DBB4-6AA1-4A48-95F1-D1C9735AFF78%7d 
 
 Enterprise Operations GRC Instance
-
 https://vaww.eogrc.va.gov/spc/index.jsp
 
 Enterprise Visibility and Vulnerability Management (EVVM) Dashboard
 https://dashboard.tic.va.gov 
+
 Executive Decision Memorandum: FISMA Challenge Recommendations
 https://vaww.portal2.va.gov/sites/infosecurity/iprm/OIS%20Communications%20Home%20Folder%201/Memoranda/EDM%20-%20FISMA%20Challenge.pdf 
 
 FedRAMP-Agency Access Request Form
-
 https://www.fedramp.gov/assets/resources/documents/Agency_Package_Request_Form.pdf 
 
 Information Access and Privacy Program 
-
 https://vaww.vets.vaco.portal.va.gov/sites/privacy/Pages/default.aspx  
 
 ISA/MOU Document Review Site
-
 https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Finfosecurity%2Fca%2FCA%20Home%20Documents%2FVA%20A%20and%20A%20Templates&FolderCTID=0x012000CB0DD849BEA0AB4FA5FEE491047C852D&View=%7b5FCA9CEF-1C50-t 
 
 ISCP/DRP Template
-
 https://vaww.portal2.va.gov/sites/infosecurity/bc/ISCPA%20Process%20Documentation/Forms/AllItems.aspx 
 
 National Release GRC Instance
-
 https://vaww.grc.va.gov/spc/index.jsp
 
-NIST Special Publication 800-34 Rev. 1 - Contingency Planning Guide for Federal Information Systems 
 
+NIST Special Publication 800-34 Rev. 1 - Contingency Planning Guide for Federal Information Systems 
 http://csrc.nist.gov/publications/nistpubs/800-34-rev1/sp800-34-rev1_errata-Nov11-2010.pdf 
 
 NIST Special Publication 800-61 - Computer Security Incident Handling Guide 
-
 http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf 
 
 CSOC Scan Documents
-
 https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Finfosecurity%2Fca%2FCA%20Home%20Documents%2FCSOC%20Scan%20Documents&FolderCTID=0x012000CB0DD849BEA0AB4FA5FEE491047C852D&View=%7B5FCA9CEF-1C50-441D-A2FE-28D536ED0098%7D
-OIS Cyber Security Portal
 
+OIS Cyber Security Portal
 https://vaww.portal2.va.gov/sites/infosecurity/ca/default.aspx 
 
 Office of Information Security (OIS) Portal
-
 https://vaww.portal2.va.gov/sites/infosecurity/index.aspx 
 
 Office of Information Security, Authorization Requirements Guide Standard Operating Procedures
 https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Finfosecurity%2Fca%2FCA%20Home%20Documents%2FATO%20Documents&FolderCTID=0x012000CB0DD849BEA0AB4FA5FEE491047C852D&View={5FCA9CEF-1C50-441D-A2FE-28D
  
-
-
-
-
 POA&M Management Guide
 https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Finfosecurity%2Fca%2FCA%20Home%20Documents%2FATO%20Documents&FolderCTID=0x012000CB0DD849BEA0AB4FA5FEE491047C852D&View=%7b5FCA9CEF-1C50-441D-A2FE-28D  
 
 Request For Information Security Officer Support Form
-
 https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/ATO%20Documents/FSS_ISO%20Support_Request.pdf 
 
 SCA Assessment Results
 https://vaww.portal2.va.gov/sites/infosecurity/projects/SCA%20Assessments/Lists/SCA%20Assessment%20Results/AllItems.aspx 
-Training and Brown Bag Materials
 
+Training and Brown Bag Materials
 https://vaww.portal2.va.gov/sites/infosecurity/projects/GRC%20Tool/GRC%20Tool%20Training%20Materials/Forms/AllItems.aspx
 
 TVM Training
 https://vaww.portal2.va.gov/sites/infosecurity/projects/GRC%20Tool/GRC%20Tool%20Training%20Materials/Forms/AllItems.aspx?RootFolder=/sites/infosecurity/projects/GRC%20Tool/GRC%20Tool%20Training%20Materials/TVM%20Training&FolderCTID=0x012000C5851A4D870A2F49AC5BFED7E758CE1F&View=%7b27EC8AEE-0BCC-4C7D-88E7-F5321F82F5EC%7d 
 
 VA Directive 6404
-
 http://vaww.va.gov/vapubs/viewPublication.asp?Pub_ID=826&FType=2 
 
 VA Handbook 6500.3, Certification and Authorization of Federal Information Systems
-
 http://www.va.gov/vapubs/viewPublication.asp?Pub_ID=733&FType=2 
-VA Software Assurance Developer Support
 
+VA Software Assurance Developer Support
 https://wiki.mobilehealth.va.gov/display/OISSWA/How+to+open+an+NSD+ticket+to+register+a+VA+application
 
-VA SwA Program Office Resource
 
+VA SwA Program Office Resource
 https://wiki.mobilehealth.va.gov/display/OISSWA/OIS+Software+Assurance
 
 
 
-### E-Mail Addresses
-Name
-E-Mail
+## Appendix F2:  E-Mail Addresses
+
 Information Security Risk Management (ISRM)
 vaoisisrmrmf@va.gov 
 Enterprise Visibility Team
@@ -1195,9 +1405,80 @@ OISSwASupportGroup@va.gov
 
 
 
+# Definitions
+
+__Authorization:__ The official management decision given by a senior agency official to authorize operation of an information system and to explicitly accept the risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals, based on the implementation of an agreed-upon set of security controls.
+
+__Authorizing Official:__ Official with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals.
+
+__Business Requirements Document (BRD):__ The Business Requirements Document (BRD) is authored by the business community for the purpose of capturing and describing the business needs of the customer/business owner. The BRD provides insight into the AS IS and TO BE business area, identifying stakeholders and profiling primary and secondary user communities. This document identifies what capabilities the stakeholders and the target users need and why these needs exist, providing a focused overview of the request requirements, constraints, and Information Technology (IT) options to be considered. This document does not state the development methodology.
+
+__Common Security Control:__ Security control that can be applied to one or more agency information systems and has the following properties: (i) the development, implementation, and assessment of the control can be assigned to a responsible official or organizational element (other than the information system owner); and (ii) the results from the assessment of the control can be used to support the security certification and authorization processes of an agency information system where that control has been applied.
+
+__Compensating Security Controls:__ The management, operational, and technical controls (i.e., safeguards or countermeasures) employed by an organization in lieu of the recommended controls in the low, moderate, or high baselines described in NIST SP 800-53, Latest Version, that provide equivalent or comparable protection for information systems and the information processed, stored, or transmitted by those systems.
+
+__EIB Milestone 0:__ Enterprise Information Board (EIB0 Milestone 0 is intended to have the Contracting Officer, Contracting Officer Representative, or Project Manager address the basic areas necessary to warrant project initiation approval. It does not presume any significant prior investment in analysis (either business or technical), concept or requirements definition or design; rather, it seeks answers to these most basic questions even before committing to that level of investment. The Project Manager should have a clear understanding of the problem that needs to be solved and how solving that problem supports a strategic objective of the Department. Based on a successful Milestone 0 review, the Project Manager will be authorized to expend the resources necessary to establish the project's business case and prepare for the project's Milestone I review.
+
+__General Support System:__  An interconnected set of information resources under the same direct management control that shares common functionality. It normally includes hardware, software, information, data, applications, communications, and people.
+
+__High Impact System:__ An information system in which a least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of high.
+
+__Information Owner:__ Official with statutory or operational authority for specified information and responsibility for establishing the controls for its generation, collection, processing, dissemination, and disposal.
+
+__Information Security:__
+A means for protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide integrity, confidentiality, and availability.
+
+__Information Security Officer (ISO):__ Individual responsible to the senior agency information security officer, authorizing official, or information system owner for ensuring the appropriate operational security posture is maintained for an information system or program.
+
+__Information Security Requirements:__ Information security requirements promulgated in accordance with law, or directed by the Secretary of VA, the National Institute of Standards and Technology, and the Office of Management and Budget, and, as to national security systems, the President.
+
+__Information Sensitivity:__ Information sensitivity reflects the relationship between the characteristics of the information processed (e.g., personnel data subject to protection under the Privacy Act) and the mission need to ensure the confidentiality, integrity, and availability of the information (e.g., legal requirements to protect confidentiality of personal data). Sensitivity may vary from low, to medium, to high.
+
+__Information System Owner:__ Official responsible for the overall procurement, development, integration, modification, or operation and maintenance of an information system.
+
+__Information Type:__ A specific category of information, (e.g., privacy, medical, proprietary, financial, investigative, contractor sensitive, security management), defined by an organization, or in some instances, by a specific law, executive order, directive, policy or regulation.
+
+__Low Impact System:__ An information system in which all three security objectives (i.e. confidentiality, integrity, and availability) are assigned a FIPS 199 potential impact value of low.
+
+__Major Application:__ An application that requires special attention to security due to the risk and magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of the information in the application.
+
+__Minor Application:__ An application can be classified as being a Minor Application if they meet the following conditions: they rely upon a General Support System (GSS) or Major Application for security, they are within another system's authorization boundary, and they do not have their own capital plan.
+
+__Moderate Impact System:__ An information system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of moderate and no security objective is assigned a FIPS 199 potential impact value of high.
+
+__Potential Impact:__ The loss of confidentiality, integrity, or availability could be expected to have: (i) a limited adverse effect (FIPS 199 low); (ii) a serious adverse effect (FIPS 199 moderate); or (iii) a severe or catastrophic adverse effect (FIPS 199 high) on organizational operations, organizational assets, or individuals.
+
+__Security Category:__ The characterization of information or an information system based on an assessment of the potential impact that a loss of confidentiality, integrity, or availability of such information or information system would have on organizational operations, organizational assets, or individuals.
+
+__Security Controls:__ The management, operational, and technical controls (i.e., safeguards or countermeasures) prescribed for an information system to protect the confidentiality, integrity, and availability of the system and its information.
+
+__System Security Plan:__ Formal document that provides an overview of the security requirements for the information system and describes the security controls in place or planned for meeting those requirements.
 
 
-### Document Revision History
+
+
+
+# References
+
+* 5 U.S.C. 552a, Privacy Act, c. 1974
+* 38 U.S.C. 5705, Confidentiality of medical quality assurance records.
+* Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+* OMB Circular A-130, Appendix III, Security of Federal Automated Information Systems.
+* VA Directive 6500, Information Security Program
+* VA Handbook 6500, Information Security Program
+* VA Directive 6001, Limited Personnel Use of Government Office Equipment Including Information Technology
+* OMB Circular A-123 II, Management Accountability and Control,
+*  NIST SP 800-37 ÒGuide for Applying the Risk Management Framework to Federal Information Systems, A Security       Life cycle ApproachÓ
+* NIST SP 800-53, ÒRecommended Security Controls for Federal Information SystemsÓ
+* NIST SP 800-53A, ÒGuide for Assessing the Security Controls in Federal Information SystemsÓ
+* Records Management, FSS Records Management
+* FIPS Publication 199, ÒStandards for Security Categorization of Federal Information and Information SystemsÓ 
+
+
+
+
+
+# Document Revision History
 Revision Date | Summary of Changes |Version |Author
 | --- | --- | --- | --- |
 | January 2014 | Initial version of SOP |1.0 | OCS |
