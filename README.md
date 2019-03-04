@@ -7,9 +7,9 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 
 | Dashboard | Issues | Milestones|Tasks/Docs | Done | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
-[PWS Dashboard](#pws-dahsboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | ? | 2 | ?% | :large_orange_diamond: | 
-[ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | ? | % | :red_circle: | 
-[IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  ? | ? | % | :red_circle: |
+[PWS Dashboard](#pws-dahsboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | :large_orange_diamond: | 2 | ?% | :large_orange_diamond: | 
+[ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | :red_circle: | % | :red_circle: | 
+[IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  ? | :red_circle: | % | :red_circle: |
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 2 | 4% | :white_check_mark:  | 
 
 
@@ -42,8 +42,8 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope) 
 
 
-|SOP# | Task/Doc| Description | Status
-|--------|---------|--------|---------|
+|SOP# | Task/Doc/Tech| Description | Status
+|:------:|:---------|:--------|:------:|
 3.1	    | ISO designation	  | Information Security Officer Designation | ?
 3.2	    | RV Entry	        | RiskVistion System Inventory Checklist | ?
 4.1.1	  | App Reg	          | Application Registration |  ?
