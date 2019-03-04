@@ -27,26 +27,26 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 3.1	    | :person_with_blond_hair: | ISO  | Information Security Officer Designation | ?
 3.2	    | :clipboard: | RV Entry | RiskVistion System Inventory Checklist | ?
 4.1.1	  | :page_facing_up: | App Reg	 | Application Registration |  ?
-4.2.1	  | :page_facing_up: | SSP	| System Security Plan |  ?
-4.2.2	  | :page_facing_up: | MASA	| Minor Application Self Assessment |  ?
-4.2.3	  | :page_facing_up: | SA	  | Signatory Authority |  ?
-4.2.4	  | :page_facing_up: | RA	  | Risk Assessment |  ?
-4.2.5	  | :page_facing_up: | CMP	| Configuration Management Plan |  ?
-4.2.6	  | :page_facing_up: | IRP	| Incident Response Plan |  ?
-4.2.7	  | :page_facing_up: | ISCP	| Informaton Security Contingency Plan |  ?
-4.2.8	  | :page_facing_up: | DRP	| Disaster Recovery Plan |  ?
-4.2.9	  | :page_facing_up: | PIA	| Privacy Impact Assessment | ? 
-4.2.10	| :page_facing_up: | ISA/MOU | Interconnection Security Agreeement / Memorandum of Understanding |  ?
-4.2.11	| :page_facing_up: | SDR	| Secure Design Review |  ?
-4.3.1	  |  :cd: |Nessus scan | Nessus scan |  ?
-4.3.1.1	|  :cd:  | DB scan	| Database scan |  ?
-4.3.2	  |  :cd:  | QCR (V&V) | Quaility Code Review (Verification & Validation) |  ?
-4.3.3	  |  :cd:  | SCR	 | Secure Code Review |  ?
-4.3.4	  |  :cd:  | PT/AA | Penetration Test / Application Assessment |  ?
-4.3.5	  |  :cd:  | SCCD	| Security Configuration Compliance Data |  ?
-4.3.6	  |  :cd:  | SCA	| Security Control Assessment |  ?
-4.3.7	  |  :cd:  | CIE	| Control Implementation Evidence  ?| 
-4.3.8	  |  :cd:  | EDS | Enterprise Discovery Scan |  ?
+4.2.1	  | SD1 :page_facing_up: | SSP	| System Security Plan |  ?
+4.2.2	  | SD2 :page_facing_up: | MASA	| Minor Application Self Assessment |  ?
+4.2.3	  | SD3 :page_facing_up: | SA	  | Signatory Authority |  ?
+4.2.4	  | SD4 :page_facing_up: | RA	  | Risk Assessment |  ?
+4.2.5	  | SD5 :page_facing_up: | CMP	| Configuration Management Plan |  ?
+4.2.6	  | SD6 :page_facing_up: | IRP	| Incident Response Plan |  ?
+4.2.7	  | SD7 :page_facing_up: | ISCP	| Informaton Security Contingency Plan |  ?
+4.2.8	  | SD8 :page_facing_up: | DRP	| Disaster Recovery Plan |  ?
+4.2.9	  | SD9 :page_facing_up: | PIA	| Privacy Impact Assessment | ? 
+4.2.10	| SD10 :page_facing_up: | ISA/MOU | Interconnection Security Agreeement / Memorandum of Understanding |  ?
+4.2.11	| SD11 :page_facing_up: | SDR	| Secure Design Review |  ?
+4.3.1	  | TT1  :cd: |Nessus scan | Nessus scan |  ?
+4.3.1.1	| TT1b  :cd:  | DB scan	| Database scan |  ?
+4.3.2	  | TT2  :cd:  | QCR (V&V) | Quaility Code Review (Verification & Validation) |  ?
+4.3.3	  | TT3  :cd:  | SCR	 | Secure Code Review |  ?
+4.3.4	  | TT4 :cd:  | PT/AA | Penetration Test / Application Assessment |  ?
+4.3.5	  | TT5 :cd:  | SCCD	| Security Configuration Compliance Data |  ?
+4.3.6	  | TT6 :cd:  | SCA	| Security Control Assessment |  ?
+4.3.7	  | TT7 :cd:  | CIE	| Control Implementation Evidence  ?| 
+4.3.8	  | TT8 :cd:  | EDS | Enterprise Discovery Scan |  ?
 
 .
 
