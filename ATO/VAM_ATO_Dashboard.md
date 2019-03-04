@@ -4,15 +4,17 @@ See VA OIS ATO Standard Operating Prodedures for details.
 
 
 REGISTRATION
+
 SOP     | Task    | Description
---------|---------|--------
+|--------|---------|--------|
 3.1	    | ISO designation	  | Information Security Officer Designation
 3.2	    | RV Entry	        | RiskVistion System Inventory Checklist
 4.1.1	  | App Reg	          | Application Registration
 
 SECURITY DOCUMENTATION
+
 SOP     | Task    | Description
---------|---------|--------
+|--------|---------|--------|
 4.2.1	  | SSP	              | System Security Plan
 4.2.2	  | MASA	            | Minor Application Self Assessment
 4.2.3	  | SA	              | Signatory Authority
@@ -27,7 +29,7 @@ SOP     | Task    | Description
 
 TECHNICAL / TESTING
 SOP     | Task    | Description
---------|---------|--------
+|--------|---------|--------|
 4.3.1	  | Nessus scan	      | Nessus scan
 4.3.1.1	| DB scan	          | Database scan
 4.3.2	  | QCR (V&V)	        | Quaility Code Review (Verification & Validation)
