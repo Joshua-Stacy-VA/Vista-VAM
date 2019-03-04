@@ -5,7 +5,7 @@ Standard Operating Procedures
 Version 3.31
 FEBRUARY 4, 2019
 ```
-# Table of Contents
+### Table of Contents
 
 [1. Purpose](#1-purpose)
 
