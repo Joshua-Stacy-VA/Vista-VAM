@@ -22,7 +22,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 * [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope) 
 
-|SOP# | Type | Short| Description | Status
+|SOP# | Type | Short| Description | RV Status
 |:---:|----|---|:---|:---:|
 3.1	    | :person_with_blond_hair: | ISO  | Information Security Officer Designation | ?
 3.2	    | :clipboard: | RV Entry | RiskVistion System Inventory Checklist | ?
