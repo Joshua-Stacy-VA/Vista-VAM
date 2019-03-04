@@ -4,7 +4,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 
 
 
-### VAM Project Managment Dashboard
+### VAM Master Project Managment Dashboard
 
 | Dashboard | Issues | Milestones|Tasks/Docs | Done | %Done| Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -27,7 +27,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 
 .
 
-# PWS Progress
+# PWS Dashboard
 Documents, milestones, and deliverables schedule for Product Work Statement (PWS)
 
 * [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS)
@@ -56,7 +56,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 .
 
 
-# ATO Progress
+# ATO Dashboard
 Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 * [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
@@ -79,7 +79,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 .
 
-# IOC Progress
+# IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
 
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
