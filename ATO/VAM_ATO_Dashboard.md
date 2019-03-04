@@ -28,6 +28,7 @@ SOP     | Task    | Description
 4.2.11	| SDR	              | Secure Design Review
 
 TECHNICAL / TESTING
+
 SOP     | Task    | Description
 |--------|---------|--------|
 4.3.1	  | Nessus scan	      | Nessus scan
