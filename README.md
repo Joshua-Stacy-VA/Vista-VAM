@@ -61,7 +61,12 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 
 |IOC# | Due | Status | Document (link) |
 |---|---|---|---|
-
+|1|4/30/2019|| MOU|
+|1|10/17/2019|| IOC Prep|
+|1|11/16/2019|| IOC Pre-Prod|
+|1|12/6/2019|| CD2 for IOC Pre-Prod|
+|1|1/3/2020|| Prod Testing|
+|1|1/31/2020|| CD2 for Prod|
 
 
 .
