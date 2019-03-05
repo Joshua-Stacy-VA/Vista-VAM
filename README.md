@@ -87,17 +87,17 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0001AD | 2019-02-27| Done | VA CROB by email to COR |
 |0001AE | 2019-02-27| Done | VA HIPAA by email to COR |
 |0001AF | 2019-02-27| Done | Onboarding Status Report to COR |
-|0002AA | 2019-03-04| Done | Comprehensive RPC Interface Audit Report | 
-|0002AB | 2019-03-04| Done | Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition | 
-|0002AC | 2019-03-04| Done | Version Description Document (VDD) | 
-|0002AD | 2019-03-04| Done | Automated CloudWatch Configuration | 
-|0002AE | 2019-03-04| Done | Security Vulnerability Report |  
+|0002AA | 2019-05-02|  | Comprehensive RPC Interface Audit Report | 
+|0002AB | 2019-05-02|  | Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition | 
+|0002AC | 2019-05-02|  | Version Description Document (VDD) | 
+|0002AD | 2019-05-02|  | Automated CloudWatch Configuration | 
+|0002AE | 2019-05-02|  | Security Vulnerability Report |  
 |0003AA | 2019-03-04| Done | [Master Test Plan](/Documents/Master_Test_Plan.md) | 
-|0003AB | 2019-03-04| Done | RPC Interface Test Suite |  
-|0005AA | 2019-03-04| Done | Production Operations Manual (POM) |  
-|0005AB | 2019-03-04| Done | Deployment and Installation Guide |  
-|0005AC | 2019-03-04| Done | User Manual |  
-|0006AA | 2019-03-04| Done | Capacity, Performance, and Scalability Assessment for National Deployment |  
+|0003AB | 2019-05-02|  | RPC Interface Test Suite |  
+|0005AA | 2019-05-02|  | Production Operations Manual (POM) |  
+|0005AB | 2019-05-02|  | Deployment and Installation Guide |  
+|0005AC | 2019-05-02|  | User Manual |  
+|0006AA | 2020-01-31|  | Capacity, Performance, and Scalability Assessment for National Deployment |  
 
 # Weekly Progress Reports
 |Week #  | Date  | Report (link) | Key Discussion Points|
