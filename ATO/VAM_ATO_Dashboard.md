@@ -13,7 +13,7 @@ SOP     | Task    | Description
 
 SECURITY DOCUMENTATION
 
-SOP     | Task    | Description | Abbriviate Name | Location |
+SOP     | Task    | Description | DocID | Location |
 |--------|---------|--------|---------|--------|
 4.2.1	  | SSP	              | System Security Plan  | SD1             | Risk Vision and on GitHub: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/VAM_System_Security_Plan_Updated.docx |
 4.2.2	  | MASA	            | Minor Application Self Assessment | SD2 | Not applicable, VAM2 is not a minor application, <br /> VAM2 requires  its own ATO   |
