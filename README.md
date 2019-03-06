@@ -10,7 +10,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | 1| 4% | :red_circle: | 
 [IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](#pws-dahsboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 8 | 45% | :large_orange_diamond: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 2 | 4% | :white_check_mark:  | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 3 | 6% | :white_check_mark:  | 
 
 
 
@@ -104,7 +104,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |:---:|:---:|:---:|:---|
 | 01 |2019-02-19 |  [vam-week-01](/Documents/weekly_meeting_minutes/vam-week-01-20190219.md) | Project Kickoff Meeting |
 | 02 |2019-02-26 |  [vam-week-02](/Documents/weekly_meeting_minutes/vam-week-02-20190226.md) | AWS technical meeting planned  |
-| 03 |2019-02-26 |  [vam-week-03] | notes  |
+| 03 |2019-02-26 |  [vam2-week-03](/Documents/weekly_meeting_minutes/vam2-week-03-20190305.md) | VA PM & VA COR changes  |
 | 04 |2019-02-26 |  [vam-week-04] | notes  |
 | 05 |2019-02-26 |  [vam-week-05] | notes  |
 | 06 |2019-02-26 |  [vam-week-06] | notes  |
