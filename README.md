@@ -81,7 +81,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |PWS/CLIN# | Due | Status | Document (link) |
 |---|---|---|---|
 |PWS 5.1.6 | 2019-02-06 | Done | [Project KickOff Meeting Minutes](/Documents/Technical_Kickoff_Meeting/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) |
-|0001AA | 2019-03-04| Done | [Contractor_Management_Project_Plan](/Documents/source/VAM2_CLIN0001AA_Contractor_Project_Management_Plan_20190304.docx) |
+|0001AA | 2019-03-04| Done | [Contractor_Management_Project_Plan](/Documents/source/VAM2_CLIN%200001AA_Contractor_Project_Management_Plan_20190304.docx) |
 |0001AB | 2019-03-04| Done | [Monthly_Progress_Report](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_20190304.docx) |
 |0001AC | 2019-03-06| Done | VA PISA by email to COR |
 |0001AD | 2019-03-06| Done | VA CROB by email to COR |
