@@ -92,7 +92,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0002AC | 2019-05-02|  | Version Description Document (VDD) | 
 |0002AD | 2019-05-02|  | Automated CloudWatch Configuration | 
 |0002AE | 2019-05-02|  | Security Vulnerability Report |  
-|0003AA | 2019-03-04| Done | [Master Test Plan](/Documents/Master_Test_Plan.md) | 
+|0003AA | 2019-03-04| Done | [Master Test Plan](/Documents/pws/Master_Test_Plan.md) | 
 |0003AB | 2019-05-02|  | RPC Interface Test Suite |  
 |0005AA | 2019-05-02|  | Production Operations Manual (POM) |  
 |0005AB | 2019-05-02|  | Deployment and Installation Guide |  
