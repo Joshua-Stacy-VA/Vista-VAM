@@ -105,7 +105,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 | 01 |2019-02-19 |  [vam2-week-01](/Documents/weekly_meeting_minutes/vam-week-01-20190219.md) | Project Kickoff Meeting |
 | 02 |2019-02-26 |  [vam2-week-02](/Documents/weekly_meeting_minutes/vam-week-02-20190226.md) | AWS technical meeting planned  |
 | 03 |2019-03-05 |  [vam2-week-03](/Documents/weekly_meeting_minutes/vam2-week-03-20190305.md) | VA PM & VA COR changes  |
-| 04 |2019-03-12 |  [vam2-week-04] | notes  |
+| 04 |2019-03-12 |  [vam2-week-04](/Documents/weekly_meeting_minutes/vam2-week-04-20190312.md) | notes  |
 | 05 |2019-03-19 |  [vam2-week-05] | notes  |
 | 06 |2019-03-26 |  [vam2-week-06] | notes  |
 | 07 |2019-04-02 |  [vam2-week-07] | notes  |
