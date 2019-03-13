@@ -1,6 +1,21 @@
 ### VAM Roles and contacts
 
 
+
+| Team Member | VA Email | Proxy | Phone | Responsibility |
+|:---:|:---:|:---:|:---:|:---:|
+| Rafael Richards | Rafael.Richards@va.gov |  | 202-469-1527 | Business Owner |
+| Dana Newcomb | Dana.Newcomb@va.gov | Michael Weckescar | 732-440-9680 | Contracting Officer |
+| Michael Weckescar | Michael.Weckesser@va.gov |  | 732-795-1097 | Contract Specialist |
+| Robert Goode | Robert.Goode@va.gov | Tom Spinelli | 202-461-4304 | Contracting Officer’s Representative (COR) |
+| Joe Fourcade | Joseph.Fourcade@va.gov |   |  | Information Security Officer |
+| Jeff Miller | Jeffrey.Miller7@va.gov | Avinay Vaswani | 703-400-6859 | Account Executive, AbleVets |
+| Tom Willcox |  |  | 703-291-4478 (O)  703-915-7688 (M) | CIO AbleVets |
+| Nilesh Lal | Nilesh.Lal@va.gov | | 240-476-5359 | Project Manager, AbleVets |
+| Conor Dowling | Conor.Dowling@va.gov |  | 310-980-7954 | Software Architect, Caregraf |
+| Renton Nip |  |  | 808-927-0999 | Manager, HRG |
+| Mike Furoyama | Michael.Furoyama@va.gov |  |  | Sr. Developer , HRG |
+
 ```
 Tom Spinelli
 Project Manager
@@ -27,18 +42,11 @@ CA - Certification Authority - 45 days to get through
 AO - Auhorizing Offial - last two stages
 ATO review meeting
 
-System Owner - Dick Rickard
-written consent to sign off as owner
-Bobbi and Joe - know EPMO well; know system owner change process
-
-System Steward:  
 
 Assessment
 1-2 System Information
 Operational status: not operational until after ATO
    when go live:  October 2019  (currently states Feb 4, 2019)
- 
- vah05\vhabalrichara
  
  
 
@@ -61,26 +69,7 @@ Department of Veterans Affair, Office of Information &Technology(OIT)
  Joseph.Fourcade@va.gov
 Cell: (561)344-7787
 
-System Stewards
 
-
-| Team Member | VA Email | Proxy | Phone | Responsibility |
-|:---:|:---:|:---:|:---:|:---:|
-
-| Dr. Rafael Richards | Rafael.Richards@va.gov |  | 202-469-1527 | Business Owner |
-| Dana Newcomb | Dana.Newcomb@va.gov | Michael Weckescar | 732-440-9680 | Contracting Officer |
-| Michael Weckescar | Michael.Weckesser@va.gov |  | 732-795-1097 | Contract Specialist |
-| Robert Goode | Robert.Goode@va.gov | Tom Spinelli | 202-461-4304 | Contracting Officer’s Representative (COR) |
-| Tom Spinelli | Thomas.Spinelli@va.gov | Robert Goode | 732-266-1293 | Program Manager, VA |
-| Joe Fourcade | Joseph.Fourcade@va.gov | Tom Spinelli |  | Information Security Officer |
-| Jeff Miller | Jeffrey.Miller7@va.gov | Avinay Vaswani | 703-400-6859 | Account Executive, AbleVets |
-| Tom Willcox |  | Nilesh Lal | 703-291-4478 (O)
-703-915-7688 (M) | CIO, AbleVets |"
-| Christy Lentile | Nancy.Lentile@va.gov | Avinay Vaswani |  | Portfolio Director, AbleVets |
-| Nilesh Lal | Nilesh.Lal@va.gov | Christy Lentile | 240-476-5359 | Program Manager, AbleVets |
-| Conor Dowling | Conor.Dowling@va.gov |  | 310-980-7954 | Software Architect, Caregraf |
-| Renton Nip |  |  | 808-927-0999 | Manager, HRG |
-| Mike Furoyama | Michael.Furoyama@va.gov |  |  | Sr. Developer , HRG |
 
 
 
