@@ -12,7 +12,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [PWS Dashboard](#pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 8 | 45% | :large_orange_diamond: | 
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 4 | 8% | :white_check_mark: | 
 
-Key: | :red_circle: Not Attempted/Complete | :large_orange_diamond: Pending Approval| :white_check_mark: Approved
+Key: | :red_circle: Not Attempted/Complete | :large_orange_diamond: Pending Approval | :white_check_mark: Approved
 
 
 
