@@ -5,13 +5,14 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 
 ## :bar_chart: VAM2 Master Dashboard 
 
-| Dashboard | Issues | Milestones|Tasks/Docs | Pending Approval | Approved | % | Status |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---|:---|
-[ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | 1| 0 | 4% | :red_circle: | 
-[IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0 | 0% | :red_circle: |
-[PWS Dashboard](#pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 8 | 0 | 45% | :large_orange_diamond: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 3 | 0 | 6% | :white_check_mark:  | 
+| Dashboard | Issues | Milestones|Tasks/Docs | Completed Tasks/ Docs | % | Status |
+|:---:|:---:|:---:|:---:|:---:|:---|:---:|
+[ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | 1 | 4% | :red_circle: | 
+[IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
+[PWS Dashboard](#pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 8 | 45% | :large_orange_diamond: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 4 | 8% | :white_check_mark: | 
 
+| Key: | :red_circle: Not Attempted/Complete | :large_orange_diamond: Pending Approval| :white_check_mark: Approved|
 
 
 
