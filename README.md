@@ -80,26 +80,26 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 * [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)
 
 
-|PWS/CLIN# | Due | Status | Document (link) |
-|---|---|---|---|
-|PWS 5.1.6 | 2019-02-06 | Done | [Project KickOff Meeting Minutes](/Documents/source/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) |
-|0001AA | 2019-03-04| Done | [Contractor_Management_Project_Plan](/Documents/source/VAM2_CLIN%200001AA_Contractor_Project_Management_Plan_20190304.docx) |
-|0001AB | 2019-03-04| Done | [Monthly_Progress_Report](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_20190304.docx) |
-|0001AC | 2019-03-13| Done | VA PISA by email to COR |
-|0001AD | 2019-03-13| Done | VA CROB by email to COR |
-|0001AE | 2019-03-13| Done | VA HIPAA by email to COR |
-|0001AF | 2019-03-13| Done | Onboarding Status Report to COR |
-|0002AA | 2019-05-02|  | Comprehensive RPC Interface Audit Report | 
-|0002AB | 2019-05-02|  | Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition | 
-|0002AC | 2019-05-02|  | Version Description Document (VDD) | 
-|0002AD | 2019-05-02|  | Automated CloudWatch Configuration | 
-|0002AE | 2019-05-02|  | Security Vulnerability Report |  
-|0003AA | 2019-03-04| Done | [Master Test Plan](/Documents/pws/Master_Test_Plan.md) | 
-|0003AB | 2019-05-02|  | RPC Interface Test Suite |  
-|0005AA | 2019-05-02|  | Production Operations Manual (POM) |  
-|0005AB | 2019-05-02|  | Deployment and Installation Guide |  
-|0005AC | 2019-05-02|  | User Manual |  
-|0006AA | 2020-01-31|  | Capacity, Performance, and Scalability Assessment for National Deployment |  
+| PWS/CLIN# | Document (link) | Due (Date) | Completed (Date) | Approved (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|PWS 5.1.6 | [Project KickOff Meeting Minutes](/Documents/source/VAM2_Technical_Kickoff_Meeting_Notes_20190206.md) | 02-06-2019 | 02-06-2019 | - | Done |
+|0001AA | [Contractor_Management_Project_Plan](/Documents/source/VAM2_CLIN%200001AA_Contractor_Project_Management_Plan_20190304.docx) | 03-04-2019 | 03-04-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_20190304.docx) | 03-04-2019 | 03-04-2019 | - | Done |
+|0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
+|0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
+|0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
+|0001AF | Onboarding Status Report to COR | 03-13-2019 | 03-13-2019 | - | Done |
+|0002AA | Comprehensive RPC Interface Audit Report | 05-02-2019 | - | - | - |
+|0002AB | Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition | 05-02-2019 | - | - | - | 
+|0002AC | Version Description Document (VDD) | 05-02-2019 | - | - | - | 
+|0002AD | Automated CloudWatch Configuration | 05-02-2019 | - | - | - | 
+|0002AE | Security Vulnerability Report | 05-02-2019 | - | - | - |  
+|0003AA | [Master Test Plan](/Documents/pws/Master_Test_Plan.md) | 03-04-2019 | 03-04-2019 | - | Done |
+|0003AB | RPC Interface Test Suite | 05-02-2019 | - | - | - |  
+|0005AA | Production Operations Manual (POM) | 05-02-2019 | - | - | - |  
+|0005AB | Deployment and Installation Guide | 05-02-2019 | - | - | - |  
+|0005AC | User Manual | 05-02-2019 | - | - | - |  
+|0006AA | Capacity, Performance, and Scalability Assessment for National Deployment | 01-31-2020 | - | - | - |  
 
 # Weekly Progress Reports
 |Week #  | Date  | Report (link) | Key Discussion Points|
