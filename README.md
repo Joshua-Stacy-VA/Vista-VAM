@@ -5,7 +5,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 
 ## :bar_chart: VAM2 Master Dashboard 
 
-| Dashboard | Issues | Milestones| #Tasks/Docs | #Completed | %Completed | Status |
+| Dashboard | Issues | Milestones| Tasks/Docs | Started | Approved | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | 1 | 4% | :red_circle: | 
 [IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
@@ -28,10 +28,10 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	    | :person_with_blond_hair: | ISO  | Prerequisite: Assign ISO | - | - | - |
 [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	    | :clipboard: | RV Entry | Prerequisite: RiskVistion System Inventory Checklist | - | - | - |
 [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration)	  | :page_facing_up: | App Reg	 | Application Registration | - | - | - |
-[4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp)	  | SD1  | SSP	| System Security Plan | 03/07/2019 | 03/07/2019 | - |
+[4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp)	  | SD1  | SSP	| System Security Plan | 03-07-19 | 03-07-19 | - |
 [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	  | SD2  | MASA	| Minor Application Self Assessment | N/A | N/A | N/A |
-[4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)	  | SD3  | SA	  | Signatory Authority | 02/01/2019 | 10/01/2019 |  - |
-[4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	  | SD4  | RA	  | Risk Assessment | 06/06/2019 | 07/17/2019 | - |
+[4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)	  | SD3  | SA	  | Signatory Authority | 02-01-19 | 10-01-19 |  - |
+[4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	  | SD4  | RA	  | Risk Assessment | 06-06-19 | 07-17-19 | - |
 [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp)	  | SD5  | CMP	| Configuration Management Plan | - | - | - |
 [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp)	  | SD6  | IRP	| Incident Response Plan | 06/06/2019 | 06/26/2019 | - |
 [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp)	  | SD7  | ISCP	| Informaton Security Contingency Plan | 06/06/2019 | 06/26/2019 | - |
