@@ -61,14 +61,14 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
 * [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
 
-|IOC# | Due | Status | Document (link) | Due (Date) | Completed (Date) | Approved (Date) | 
-|:---:|:---:|:---:|:---:|
-|1|4/30/2019| - | MOU |
-|1|10/17/2019| - | IOC Prep |
-|1|11/16/2019| - | IOC Pre-Prod |
-|1|12/6/2019| - | CD2 for IOC Pre-Prod |
-|1|1/3/2020| - | Prod Testing |
-|1|1/31/2020| - | CD2 for Prod |
+|IOC# | Document (link) | Due (Date) | Completed (Date) | Approved (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 01 | MOU | 04-30-2019 | - | - | :red_circle: |
+| 02 | IOC Prep | 10-17-2019 | - | - | :red_circle: |
+| 03 | IOC Pre-Prod | 11-16-2019 | - | - | :red_circle: |
+| 04 | CD2 for IOC Pre-Prod | 12-06-2019 | - | - | :red_circle: |
+| 05 | Prod Testing | 01-03-2020 | - | - | :red_circle: |
+| 06 | CD2 for Prod | 01-31-2020 | - | - | :red_circle: |
 
 
 .
