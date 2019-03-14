@@ -102,15 +102,15 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0006AA | Capacity, Performance, and Scalability Assessment for National Deployment | 01-31-2020 | - | - | - |  
 
 # Weekly Progress Reports
-|Week #  | Date  | Report (link) | Key Discussion Points|
-|:---:|:---:|:---:|:---|
-| 01 |2019-02-19 |  [vam2-week-01](/Documents/weekly_meeting_minutes/vam-week-01-20190219.md) | Project Kickoff Meeting |
-| 02 |2019-02-26 |  [vam2-week-02](/Documents/weekly_meeting_minutes/vam-week-02-20190226.md) | AWS technical meeting planned  |
-| 03 |2019-03-05 |  [vam2-week-03](/Documents/weekly_meeting_minutes/vam2-week-03-20190305.md) | VA PM & VA COR changes  |
-| 04 |2019-03-12 |  [vam2-week-04](/Documents/weekly_meeting_minutes/vam2-week-04-20190312.md) | ATO Dashboard and Technical Deep Dive |
-| 05 |2019-03-19 |  [vam2-week-05] | notes  |
-| 06 |2019-03-26 |  [vam2-week-06] | notes  |
-| 07 |2019-04-02 |  [vam2-week-07] | notes  |
+|Week # | Report (link) | Key Discussion Points| Meeting Date | Notes Completed (Date) | Notes Approved (Date) | Status |
+|:---:|:---:|:---:|:---|:---:|:---:|:---:|
+| 01 | [VAM2-Week-01](/Documents/weekly_meeting_minutes/vam-week-01-20190219.md) | Project Kickoff Meeting | 02-19-2019 | 02-20-2019 | 02-20-2019 | :white_check_mark: |
+| 02 | [VAM2-Week-02](/Documents/weekly_meeting_minutes/vam-week-02-20190226.md) | AWS technical meeting planned | 02-26-2019 | 02-27-2019 | 02-27-2019 | :white_check_mark: | 
+| 03 | [VAM2-Week-03](/Documents/weekly_meeting_minutes/vam2-week-03-20190305.md) | VA PM & VA COR changes | 03-05-2019 | 03-06-2019 | 03-06-2019 | :white_check_mark: |
+| 04 | [VAM2-Week-04](/Documents/weekly_meeting_minutes/vam2-week-04-20190312.md) | ATO Dashboard and Technical Deep Dive | 03-12-2019 | 02-13-2019 | 03-13-2019 | :white_check_mark: |
+| 05 | [VAM2-Week-05] | - | 03-19-2019 | - | - | - |
+| 06 | [VAM2-Week-06] | - | 03-26-2019 | - | - | - |
+| 07 | [VAM2-Week-07] | - | 04-02-2019 | - | - | - |
 
 
 
