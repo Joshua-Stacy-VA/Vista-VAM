@@ -29,14 +29,14 @@ SECURITY DOCUMENTATION
 
 TECHNICAL / TESTING
 
-SOP     | Task    | Description
-|--------|---------|--------|
-4.3.1	  | Nessus scan	      | Nessus scan
-4.3.1.1	| DB scan	          | Database scan
-4.3.2	  | QCR (V&V)	        | Quaility Code Review (Verification & Validation)
-4.3.3	  | SCR	              | Secure Code Review
-4.3.4	  | PT/AA	            | Penetration Test / Application Assessment
-4.3.5	  | SCCD	            | Security Configuration Compliance Data
-4.3.6	  | SCA	              | Security Control Assessment
-4.3.7	  | CIE	              | Control Implementation Evidence
-4.3.8	  | EDS	              | Enterprise Discovery Scan
+| SOP     | Task    | Description | Due Date | Completion Date | Approved Date |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|4.3.1 | Nessus scan | Nessus scan | 10/18/2019 | 11/15/2019 | - |
+| 4.3.1.1	| DB scan | Database scan | 10/18/2019 | 11/15/2019 | - |
+| 4.3.2 | QCR (V&V) | Quaility Code Review (Verification & Validation) | 10/11/2019 | 12/13/2019 | - |
+| 4.3.3 | SCR	| Secure Code Review | 10/11/2019 | 12/27/2019 | - |
+| 4.3.4 | PT/AA | Penetration Test / Application Assessment | 10/18/2019 | 11/15/2019 | - |
+| 4.3.5 | SCCD | Security Configuration Compliance Data | 10/18/2019 | 11/15/2019 | - |
+| 4.3.6	| SCA | Security Control Assessment | - | - | - |
+| 4.3.7 | CIE | Control Implementation Evidence | 10/11/2019 | 1/16/2019 | - |
+| 4.3.8 | EDS | Enterprise Discovery Scan | 10/18/2019 | 11/15/2019 | - |
