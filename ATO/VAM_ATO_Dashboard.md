@@ -5,7 +5,7 @@ See VA OIS ATO Standard Operating Prodedures for details.
 
 REGISTRATION
 
-| SOP | Task | Description | Due Date | Completion Date | Approved Date |
+| SOP | Task | Description | Due (Date) | Completed (Date) | Approved (Date) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 3.1 | ISO designation | Information Security Officer Designation | - | - | - |
 | 3.2 | RV Entry | RiskVistion System Inventory Checklist | - | - | - |
@@ -13,7 +13,7 @@ REGISTRATION
 
 SECURITY DOCUMENTATION
 
-| SOP | Task | Description | DocID | Location | Due Date | Completion Date | Approved Date |
+| SOP | Task | Description | DocID | Location | Due (Date) | Completed (Date) | Approved (Date) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 4.2.1 | SSP | System Security Plan | SD1 | Risk Vision and on GitHub: https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/other/VAM1-docs/VAM_System_Security_Plan_Updated.docx | 03-07-2019 | 03-07-2019 | - | 
 | 4.2.2 | MASA | Minor Application Self Assessment | SD2 | Not applicable, VAM2 is not a minor application, <br /> VAM2 requires  its own ATO | N/A | N/A | N/A|
@@ -29,7 +29,7 @@ SECURITY DOCUMENTATION
 
 TECHNICAL / TESTING
 
-| SOP     | Task    | Description | Due Date | Completion Date | Approved Date |
+| SOP     | Task    | Description | Due (Date) | Completed (Date) | Approved (Date) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |4.3.1 | Nessus scan | Nessus scan | 10-18-2019 | 11-15-2019 | - |
 | 4.3.1.1	| DB scan | Database scan | 10-18-2019 | 11-15-2019 | - |
