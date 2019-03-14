@@ -38,5 +38,5 @@ TECHNICAL / TESTING
 | 4.3.4 | PT/AA | Penetration Test / Application Assessment | 10/18/2019 | 11/15/2019 | - |
 | 4.3.5 | SCCD | Security Configuration Compliance Data | 10/18/2019 | 11/15/2019 | - |
 | 4.3.6	| SCA | Security Control Assessment | - | - | - |
-| 4.3.7 | CIE | Control Implementation Evidence | 10/11/2019 | 1/16/2019 | - |
+| 4.3.7 | CIE | Control Implementation Evidence | 10/11/2019 | 1/16/2020 | - |
 | 4.3.8 | EDS | Enterprise Discovery Scan | 10/18/2019 | 11/15/2019 | - |
