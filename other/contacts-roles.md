@@ -4,13 +4,13 @@
 
 | Team Member |Role  | VA Email | Phone| Proxy |
 |:---:|:---:|:---:|:---:|:---:|
-| Rafael Richards | Business Owner | Rafael.Richards@va.gov | 202-555-1212 | -- |
-| Joseph Fourcade | Cybersecurity Analyst  ECSO | Joseph.Fourcade@va.gov | (561)344-7787 m  |  |  |
-| Jason Madus | ISO | Jason.Madaus@va.gov | -- | -- |
-| Cheryl Owsley | PM | Cheryl.Owsley@va.gov | -- | -- |
-| Dana Newcomb | CO | Dana.Newcomb@va.gov | 732-440-9680  | Michael Weckescar| |
-| Michael Weckescar | Contract Specialist | Michael.Weckesser@va.gov |  732-795-1097 | -- |
-| Robert Goode | COR | Robert.Goode@va.gov |  202-461-4304  | Tom Spinelli  |
+| Rafael Richards | VA Business Owner | Rafael.Richards@va.gov | 202-555-1212 | -- |
+| Joseph Fourcade | VA Cybersecurity Analyst | Joseph.Fourcade@va.gov | (561)344-7787 m  |  |  |
+| Jason Madus | VA ISO | Jason.Madaus@va.gov | -- | -- |
+| Cheryl Owsley | VA PM | Cheryl.Owsley@va.gov | -- | -- |
+| Dana Newcomb | VA CO | Dana.Newcomb@va.gov | 732-440-9680  | Michael Weckescar| |
+| Michael Weckescar | VA Contract Specialist | Michael.Weckesser@va.gov |  732-795-1097 | -- |
+| Robert Goode | VA COR | Robert.Goode@va.gov |  202-461-4304  | Tom Spinelli  |
 | Conor Dowling | Architect (Caregraf) | Conor.Dowling@va.gov | 310-555-1212 |  |
 | Renton Nip | Manager (HRG) | -- | 808-555-1212 | -- |
 | Mike Furoyama | Sr. Developer (HRG) |Michael.Furoyama@va.gov | | --|
