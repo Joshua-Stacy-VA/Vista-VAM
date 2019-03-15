@@ -730,6 +730,12 @@ Once all of the above requirements are either met or deemed inappropriate by OIS
 
 # Appendix A: FedRAMP/Cloud VA Requirements 
 
+__[Appendix A: FedRAMP/Cloud VA Requirements](#appendix-a-fedrampcloud-va-requirements)__
+* [Appendix A1: FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process](#appendix-a1-fedramp-authorized-cloud-service-provider-csp-reciprocity-agency-ato-process)
+* [Appendix A2: Cloud-Based VA Application / Workload / Third-Party System ATO Process](#appendix-a2-cloud-based-va-application--workload--third-party-system-ato-process)
+* [Appendix A3: Other Federal Agency (Non-FedRAMP) ATO Acceptance](#appendix-a3-other-federal-agency-non-fedramp-ato-acceptance)
+
+
 ## Appendix A1: FedRAMP Authorized Cloud Service Provider (CSP) Reciprocity (Agency ATO) Process
 Federal Risk and Authorization Management Program (FedRAMP) is designed to assist agencies in meeting FISMA requirements for cloud systems.  CSPs must meet FedRAMP in order to do business with US government agencies as part of the Cloud first policy.  FedRAMP is designed as a "do once, use many" framework to create efficiency in government procurement of cloud services.  As part of the program, CSPs pursuing FedRAMP are required to be independently assessed by a Third Party Assessment Organization (3PAO).  *Per the Acceptance of FEDRAMP Authorization Memo* issued on August 11, 2015 by the Deputy Assistant Secretary for Information Security, existing Federal Risk and Authorization Management Program (FedRAMP) authorizations for certified FedRAMP Cloud Service Provider cloud systems should be evaluated, and reused when possible, to reduce the overall time required to grant an authorization and begin using a cloud service.
 
