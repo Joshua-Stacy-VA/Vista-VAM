@@ -1,5 +1,13 @@
 DRAFT NOTES
 
+# Weekly Progress Reports
+|Week # | Report (link) | Key Discussion Points| Meeting Date | Notes Completed (Date) | Notes Approved (Date) | Status |
+|:---:|:---:|:---:|:---|:---:|:---:|:---:|
+| - | | - | - | - | - | - |
+| - | | - | - | - | - | - |
+
+
+
 | Table 1: | Meeting Information |
 |:---:|:---:|
 | Meeting Purpose: | To discuss VAM re-engagement provisioning |
