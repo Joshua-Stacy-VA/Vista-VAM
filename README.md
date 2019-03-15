@@ -1,6 +1,6 @@
 # VAM2 Project Management
 
-Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS), which includes achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud.
+Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance (VAM) product work statement (PWS), which includes achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).
 
 
 # :bar_chart: VAM2 Master Dashboard 
@@ -17,6 +17,9 @@ Key:
 * :large_orange_diamond: Medium Risk
 * :white_check_mark: On track
 
+.
+
+.
 
 
 # Cloud ATO Dashboard
