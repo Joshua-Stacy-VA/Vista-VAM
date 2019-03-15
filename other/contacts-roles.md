@@ -2,19 +2,29 @@
 
 
 
-| Team Member | VA Email | Proxy | Phone | Responsibility |
+| Team Member |Role  | VA Email | Phone| Proxy |
 |:---:|:---:|:---:|:---:|:---:|
-| Rafael Richards | Rafael.Richards@va.gov |  | 202-469-1527 | Business Owner |
-| Dana Newcomb | Dana.Newcomb@va.gov | Michael Weckescar | 732-440-9680 | Contracting Officer |
-| Michael Weckescar | Michael.Weckesser@va.gov |  | 732-795-1097 | Contract Specialist |
-| Robert Goode | Robert.Goode@va.gov | Tom Spinelli | 202-461-4304 | Contracting Officer’s Representative (COR) |
-| Joe Fourcade | Joseph.Fourcade@va.gov |   |  | Information Security Officer |
-| Jeff Miller | Jeffrey.Miller7@va.gov | Avinay Vaswani | 703-400-6859 | Account Executive, AbleVets |
-| Tom Willcox |  |  | 703-291-4478 (O)  703-915-7688 (M) | CIO AbleVets |
-| Nilesh Lal | Nilesh.Lal@va.gov | | 240-476-5359 | Project Manager, AbleVets |
-| Conor Dowling | Conor.Dowling@va.gov |  | 310-980-7954 | Software Architect, Caregraf |
-| Renton Nip |  |  | 808-927-0999 | Manager, HRG |
-| Mike Furoyama | Michael.Furoyama@va.gov |  |  | Sr. Developer , HRG |
+| Rafael Richards | Business Owner | Rafael.Richards@va.gov | 202-555-1212 | -- |
+| Joseph Fourcade | Cybersecurity Analyst  ECSO | Joseph.Fourcade@va.gov | (561)344-7787 m  |  |  |
+| Jason Madus | ISO | Jason.Madaus@va.gov | -- | -- |
+| Cheryl Owsley | PM | Cheryl.Owsley@va.gov | -- | -- |
+| Dana Newcomb | CO | Dana.Newcomb@va.gov | 732-440-9680  | Michael Weckescar| |
+| Michael Weckescar | Contract Specialist | Michael.Weckesser@va.gov |  732-795-1097 | -- |
+| Robert Goode | COR | Robert.Goode@va.gov |  202-461-4304  | Tom Spinelli  |
+| Conor Dowling | Architect (Caregraf) | Conor.Dowling@va.gov | 310-555-1212 |  |
+| Renton Nip | Manager (HRG) | -- | 808-555-1212 | -- |
+| Mike Furoyama | Sr. Developer (HRG) |Michael.Furoyama@va.gov | | --|
+| Nilesh Lal | PM (Ablevets) | Nilesh.Lal@va.gov | | 240-476-5359 |  |
+| Jeff Miller | Account Executive (Ablevets) | Jeffrey.Miller7@va.gov | 703-400-6859 | Avinay Vaswani  |
+| Tom Willcox | CIO (Ablevets) |  -- | 703-291-4478 (O)  703-915-7688 (M) | |
+
+Abbreviations:
+* ECSO - Enterprise Cloud Security Office
+* ISO - Information Securit Officer
+* PM - Project Manager
+* CO - Contracting Officer
+* COR - Contracting Officers Representative
+
 
 ```
 Tom Spinelli
@@ -36,7 +46,8 @@ Begay, Bobbi (BR ISSO) <Bobbi.Begay@va.gov>;
 Adejumo, Charles A. (ASM Research) <Charles.Adejumo@va.gov>; 
 Rohrbach, Jennifer <Jennifer.Rohrbach2@va.gov>; 
 Goode, Robert (VACO) <Robert.Goode@va.gov>;
-Owsley, Cheryl <Cheryl.Owsley@va.gov>Jason A. Madaus
+Owsley, Cheryl <Cheryl.Owsley@va.gov>
+Jason A. Madaus
 
 CA - Certification Authority - 45 days to get through
 AO - Auhorizing Offial - last two stages
