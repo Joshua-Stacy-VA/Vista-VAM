@@ -19,7 +19,7 @@ Scribe	Nilesh Lal
 
 ## VistA Adaptive Maintenance II - Technical KickOff Meeting Notes
 
-02/06/2019
+02-06-2019
 
 ### Agenda
 1.	Introductions
@@ -59,7 +59,7 @@ Scribe	Nilesh Lal
 
 | Item Number	| Action Items | Assigned To	| Due Date |
 |---|---|---|---|
-|1	|Setup the technical deep dive meeting during the week of February 18th| Nilesh Lal| 02/12/2019 | 	   
-|2	|Setup the recurring weekly meeting every Tuesday at 3 PM EST.| Nilesh Lal| 02/08/2019 | 
-|3	|Upload the presentation to Githuband system of record after signature from COR| Nilesh Lal| 03/31/2019 | 
+|1	|Setup the technical deep dive meeting during the week of February 18th| Nilesh Lal| 02-12-2019 | 	   
+|2	|Setup the recurring weekly meeting every Tuesday at 3 PM EST.| Nilesh Lal| 02-08-2019 | 
+|3	|Upload the presentation to Githuband system of record after signature from COR| Nilesh Lal| 03-31-2019 | 
 
