@@ -90,8 +90,8 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 | PWS/CLIN# | Document (link) | Due (Date) | Completed (Date) | Approved (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |PWS 5.1.6 | [Project KickOff Meeting Minutes](/Documents/source/VAM2_Technical_Kickoff_Meeting_Notes_02-06-2019.md) | 02-06-2019 | 02-06-2019 | - | Done |
-|0001AA | [Contractor_Management_Project_Plan](/Documents/source/VAM2_CLIN%200001AA_Contractor_Project_Management_Plan_20190304.docx) | 03-04-2019 | 03-04-2019 | - | Done |
-|0001AB | [Monthly_Progress_Report](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_20190304.docx) | 03-04-2019 | 03-04-2019 | - | Done |
+|0001AA | [Contractor_Management_Project_Plan](/Documents/source/VAM2_CLIN%200001AA_Contractor_Project_Management_Plan_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
 |0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
