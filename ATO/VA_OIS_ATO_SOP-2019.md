@@ -757,7 +757,26 @@ Roles / Responsibilities
 References
 Technical/Testing Requirements
 
-
+__[Appendix B: Authorization Requirements Quick Reference Guide](#appendix-b-authorization-requirements-quick-reference-guide)__
+* [Appendix B1 - Nessus Scan](#appendix-b1---nessus-scan)
+* [Appendix B2a - Quality Code Review (QCR)](#appendix-b2a---quality-code-review-qcr)
+* [Appendix B2b - V&V Quality Code Reviews](#appendix-b2b---vv-quality-code-reviews)
+* [Appendix B4 - Secure Code Review (SCR)](#appendix-b4---secure-code-review-scr)
+* [Appendix B5 - V&V Secure Code Reviews](#appendix-b5---vv-secure-code-reviews)
+* [Appendix B6 - Penetration Test/Application Assessment (PT/AA)](#appendix-b6---penetration-testapplication-assessment-ptaa)
+* [Appendix B7 - Security Control Assessment (SCA)](#appendix-b7---security-control-assessment-sca)
+* [Appendix B8 - Security Configuration Compliance Data (SCCD)](#appendix-b8---security-configuration-compliance-data-sccd)
+* [Appendix B9 - Compliance Trending Reports location](#appendix-b9---compliance-trending-reports-location)
+* [Appendix B10 - System Security Plan (SSP)](#appendix-b10---system-security-plan-ssp)
+* [Appendix B11 - Minor Application Self-Assessment (MASA)](#appendix-b11---minor-application-self-assessment-masa)
+* [Appendix B12 - Signatory Authority (SA)](#appendix-b12---signatory-authority-sa)
+* [Appendix B13 - Risk Assessment (RA)](#appendix-b13---risk-assessment-ra)
+* [Appendix B14 - Configuration Management Plan (CMP)](#appendix-b14---configuration-management-plan-cmp)
+* [Appendix B15 - Incident Response Plan (IRP)](#appendix-b15---incident-response-plan-irp)
+* [Appendix B16 - Information Security Contingency Plan (ISCP)](#appendix-b16---information-security-contingency-plan-iscp)
+* [Appendix B17 - Disaster Recovery Plan (DRP)](#appendix-b17---disaster-recovery-plan-drp)
+* [Appendix B18 - Privacy Impact Assessment (PIA)](#appendix-b18---privacy-impact-assessment-pia)
+* [Appendix B19 - Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU)](#appendix-b19---interconnection-security-agreement--memorandum-of-understanding-isamou)
 
 
 ## Appendix B1 - Nessus Scan 
