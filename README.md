@@ -31,7 +31,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)
 * [ATO Documents]
 
-|SOP (Link) | DocID | Short| Document / Task (Link) | Due (Date) | Completed (Date) | Approved (Date) | Status |
+|SOP (Link) | DocID | Short| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|
 [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	    | :person_with_blond_hair: | ISO  | Prerequisite: Assign ISO | 05-01-2019 | - | - | :red_circle: |
 [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	    | :clipboard: | RV Entry | Prerequisite: RiskVistion System Inventory Checklist | 05-01-2019 | - | - | :red_circle: |
@@ -68,7 +68,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
 * [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
 
-|IOC# | Document (link) | Due (Date) | Completed (Date) | Approved (Date) | Status |
+|IOC# | Document (link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 01 | MOU | 10-01-2019 | - | - | :red_circle: |
 | 02 | IOC Prep | 10-01-2019 | - | - | :red_circle: |
