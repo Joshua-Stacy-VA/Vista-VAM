@@ -7,6 +7,11 @@
 ![alt text](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/RV-2019-03-15/screenshots/assessment_details/01-general.png "02-summary.png")
 
 
+Reference-style: 
+![alt text][logo]
+
+
+
 03-findings.png
 04-control results-pending.png
 04-control results.png
@@ -21,3 +26,7 @@
 08-logs.png
 09-archives.png
 
+
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
