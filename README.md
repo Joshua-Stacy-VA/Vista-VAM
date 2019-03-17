@@ -57,10 +57,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie)	  | TT7 | CIE	| Control Implementation Evidence | 05-01-2019 | - | - | :red_circle: |
 [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds)	  | TT8 | EDS | Enterprise Discovery Scan | 05-01-2019 | - | - | :red_circle: |
 
-.
 
-
-.
 
 # IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
@@ -75,15 +72,20 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 | 01.c | MOU Approval from VA PM | 10-01-2019 | - | - | :red_circle: |
 | 01.d | MOU Concurrence from each sites | 10-01-2019 | - | - | :red_circle: |
 | 01.e | Create IOC Concurrence pdf and upload to github | 10-01-2019 | - | - | :red_circle: |
-| 01 | Identify MOU Sites | 10-01-2019 | - | - | :red_circle: |
-| 02 | IOC Prep | 10-01-2019 | - | - | :red_circle: |
-| 03 | IOC Pre-Prod | 10-01-2019 | - | - | :red_circle: |
-| 04 | CD2 for IOC Pre-Prod | 10-01-2019 | - | - | :red_circle: |
-| 05 | Prod Testing | 10-01-2019 | - | - | :red_circle: |
-| 06 | CD2 for Prod | 10-01-2019 | - | - | :red_circle: |
+| 02 | IOC KickOff Call | 10-01-2019 | - | - | :red_circle: |
+| 03.a | IOC Pre-Prod Touchbase calls for 30 minutes | 10-01-2019 | - | - | :red_circle: |
+| 03.b | Prepare IOC Docs | 10-01-2019 | - | - | :red_circle: |
+| 03.c | Get Concurrence to go to Production | 10-01-2019 | - | - | :red_circle: |
+| 03.d | Get Release Agent approval to go to Production | 10-01-2019 | - | - | :red_circle: |
+| 03.e | Get CD2 approval to go to Production | 10-01-2019 | - | - | :red_circle: |
+| 04.a | IOC Production Touchbase calls for 30 minutes | 10-01-2019 | - | - | :red_circle: |
+| 04.b | Update IOC Docs from Production testing results | 10-01-2019 | - | - | :red_circle: |
+| 04.c | Get Concurrence for National Release | 10-01-2019 | - | - | :red_circle: |
+| 04.d | Get Release Agent approval for National Release | 10-01-2019 | - | - | :red_circle: |
+| 04.e | Get CD2 approval for National Release | 10-01-2019 | - | - | :red_circle: |
 
 
-.
+
 
 # PWS Dashboard
 Documents, milestones, and deliverables schedule for Product Work Statement (PWS)
