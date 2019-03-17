@@ -70,7 +70,12 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 
 |IOC# | Document (link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 01 | MOU | 10-01-2019 | - | - | :red_circle: |
+| 01.a | Identify MOU Sites & Prepare MOU | 10-01-2019 | - | - | :red_circle: |
+| 01.b | MOU Approval from Dr. Richards | 10-01-2019 | - | - | :red_circle: |
+| 01.c | MOU Approval from VA PM | 10-01-2019 | - | - | :red_circle: |
+| 01.d | MOU Concurrence from each sites | 10-01-2019 | - | - | :red_circle: |
+| 01.e | Create IOC Concurrence pdf and upload to github | 10-01-2019 | - | - | :red_circle: |
+| 01 | Identify MOU Sites | 10-01-2019 | - | - | :red_circle: |
 | 02 | IOC Prep | 10-01-2019 | - | - | :red_circle: |
 | 03 | IOC Pre-Prod | 10-01-2019 | - | - | :red_circle: |
 | 04 | CD2 for IOC Pre-Prod | 10-01-2019 | - | - | :red_circle: |
