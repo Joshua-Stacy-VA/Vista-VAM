@@ -61,7 +61,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 # IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
-* [VA IOC_Process](https://github.com/vistadataproject/VAM2ProjectManagement/edit/master/IOC/IOC_Process.md#va-IOC-Process): VA IOC Process
+* [VA IOC Process](https://github.com/vistadataproject/VAM2ProjectManagement/edit/master/IOC/IOC_Process.md#va-IOC-Process): VA IOC Process
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
 * [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
 
