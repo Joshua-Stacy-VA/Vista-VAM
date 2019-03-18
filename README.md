@@ -31,31 +31,31 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)
 * [ATO Documents]
 
-|SOP (Link) | DocID | Short| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|
 [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	    | :person_with_blond_hair: | ISO  | Prerequisite: Assign ISO | 05-01-2019 | - | - | :red_circle: |
 [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	    | :clipboard: | RV Entry | Prerequisite: RiskVistion System Inventory Checklist | 05-01-2019 | - | - | :red_circle: |
 [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration)	  | :page_facing_up: | App Reg	 | Application Registration | 05-01-2019 | - | - | :red_circle: |
-[4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp)	  | SD1  | SSP	| System Security Plan | 05-01-2019 | - | - | :red_circle: |
-[4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	  | SD2  | MASA	| Minor Application Self Assessment | N/A | N/A | N/A | :red_circle: |
-[4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)	  | SD3  | SA	  | Signatory Authority | 05-01-2019 | - | - | :red_circle: |
-[4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	  | SD4  | RA	  | Risk Assessment | 05-01-2019 | - | - | :red_circle: |
-[4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp)	  | SD5  | CMP	| Configuration Management Plan | 05-01-2019 | - | - | :red_circle: |
-[4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp)	  | SD6  | IRP	| Incident Response Plan | 05-01-2019 | - | - | :red_circle: |
-[4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | SD7  | ISCP	| Informaton Security Contingency Plan | 05-01-2019 | - | - | :red_circle: |
-[4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp)	  | SD8  | DRP	| Disaster Recovery Plan | 05-01-2019 | - |  - | :red_circle: |
-[4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia)	  | SD9  | PIA	| Privacy Impact Assessment | 05-01-2019 | - | - | :red_circle: |
+[4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp)	    | SSP	| System Security Plan | 05-01-2019 | - | - | :red_circle: |
+[4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	    | MASA	| Minor Application Self Assessment | N/A | N/A | N/A | :red_circle: |
+[4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)	    | SA	  | Signatory Authority | 05-01-2019 | - | - | :red_circle: |
+[4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	    | RA	  | Risk Assessment | 05-01-2019 | - | - | :red_circle: |
+[4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp)	    | CMP	| Configuration Management Plan | 05-01-2019 | - | - | :red_circle: |
+[4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp)	    | IRP	| Incident Response Plan | 05-01-2019 | - | - | :red_circle: |
+[4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp)   | ISCP	| Informaton Security Contingency Plan | 05-01-2019 | - | - | :red_circle: |
+[4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp)	    | DRP	| Disaster Recovery Plan | 05-01-2019 | - |  - | :red_circle: |
+[4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia)	    | PIA	| Privacy Impact Assessment | 05-01-2019 | - | - | :red_circle: |
 [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou)	| SD10 | ISA/MOU | Interconnection Security Agreeement / Memorandum of Understanding | 05-01-2019 | - | - | :red_circle: |
 [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)	| SD11 | SDR	| Secure Design Review | 05-01-2019 | - | - | :red_circle: |
-[4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan)	  | TT1  |Nessus scan | Nessus scan | 05-01-2019 | - | - | :red_circle: |
-[4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| TT1b | DB scan	| Database scan | 05-01-2019 | - | - | :red_circle: |
-[4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr)	  | TT2 | QCR (V&V) | Quaility Code Review (Verification & Validation) | 05-01-2019 | - | - | :red_circle: |
-[4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr)	  | TT3 | SCR	 | Secure Code Review | 05-01-2019 | - | - | :red_circle: |
-[4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa)	  | TT4 | PT/AA | Penetration Test / Application Assessment | 05-01-2019 | - | - | :red_circle: |
-[4.3.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#435-tt5-security-configuration-compliance-data-sccd)	  | TT5 | SCCD	| Security Configuration Compliance Data | 05-01-2019 | - | - | :red_circle: |
-[4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca)	  | TT6 | SCA	| Security Control Assessment | 05-01-2019 | - | - | :red_circle: |
-[4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie)	  | TT7 | CIE	| Control Implementation Evidence | 05-01-2019 | - | - | :red_circle: |
-[4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds)	  | TT8 | EDS | Enterprise Discovery Scan | 05-01-2019 | - | - | :red_circle: |
+[4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan)	    |Nessus scan | Nessus scan | 05-01-2019 | - | - | :red_circle: |
+[4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| | DB scan	| Database scan | 05-01-2019 | - | - | :red_circle: |
+[4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr)	   | QCR (V&V) | Quaility Code Review (Verification & Validation) | 05-01-2019 | - | - | :red_circle: |
+[4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr)	   | SCR	 | Secure Code Review | 05-01-2019 | - | - | :red_circle: |
+[4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa)	   | PT/AA | Penetration Test / Application Assessment | 05-01-2019 | - | - | :red_circle: |
+[4.3.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#435-tt5-security-configuration-compliance-data-sccd)	   | SCCD	| Security Configuration Compliance Data | 05-01-2019 | - | - | :red_circle: |
+[4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca)	   | SCA	| Security Control Assessment | 05-01-2019 | - | - | :red_circle: |
+[4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie)	   | CIE	| Control Implementation Evidence | 05-01-2019 | - | - | :red_circle: |
+[4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds)	   | EDS | Enterprise Discovery Scan | 05-01-2019 | - | - | :red_circle: |
 
 
 
