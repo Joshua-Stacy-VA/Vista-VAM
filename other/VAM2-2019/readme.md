@@ -1,1 +1,1 @@
-## VAM-1 documents
+## VAM2 Documents
