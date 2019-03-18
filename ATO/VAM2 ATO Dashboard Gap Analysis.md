@@ -1,11 +1,16 @@
-1.	System Security Plan (SSP): ( Plan of completion April 12 ) 
-<br/> <ins> Changes made or are in need of updating: </ins>
-    - Change made: Control Owner changed to Christopher Brown
-    - Change made: Authorizing official is now Joseph Fourcade 
-    - Update needed: Identify Threats in table 5
-    - Update needed: Update control status, section 2.0 
-    - Update needed: Re-review NIST controls to ensure that they are current (Minimal updating likely) 
-    - Updated needed: Index needs reformatting 
+# VAM2 ATO Dashboard Gap Analysis
+
+##  Issue 1.0 System Security Plan (SSP):
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1.1 | Control Owner| Changed to Christoper Brown | - | 03-15-2019 | :white_check_mark: |
+| 1.2 | Authorizing Official | Changed to Joseph Fourcade | - | 03-15-2019 | :white_check_mark: |
+| 1.3 | Identify Threats in Table 5 | - | Update Needed in Table 5 | 05-01-2019 | :large_orange_diamond: |
+| 1.4 | Control Status | - | Update Needed in Section 2.0 | 05-01-2019 | :large_orange_diamond: |
+| 1.5 | NIST Controls | - | Re-Review Needed to ensure that they are current (Minimal updating likely) | 05-01-2019 | :large_orange_diamond: |
+| 1.6 | Index | - | Reformatting Needed | 05-01-2019 | :large_orange_diamond: | 
+
+
 
 2.	Signature Authority: 
 <br/> <ins> Changes made or are in need of updating: </ins>
