@@ -1,4 +1,6 @@
 # VAM2 ATO Dashboard Gap Analysis
+Date: 03-18-2019
+
 
 ###  Issue 1.0 System Security Plan (SSP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)
 | Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
@@ -9,7 +11,6 @@
 | 1.4 | Control Status | - | Update Needed in Section 2.0 | 05-01-2019 | :large_orange_diamond: |
 | 1.5 | NIST Controls | - | Re-Review Needed to ensure that they are current (Minimal updating likely). | 05-01-2019 | :large_orange_diamond: |
 | 1.6 | Index | - | Reformatting Needed | 05-01-2019 | :large_orange_diamond: | 
-
 
 
 ### Issue 2.0	Signature Authority: (https://github.com/vistadataproject/VAM2ProjectManagement/issues/30)
