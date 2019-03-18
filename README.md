@@ -34,14 +34,14 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 ## ATO Registration Dashboard (3)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
-|:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|
+|:---:|:----:|:---:|:---|:---:|:---:|:---:|
 [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | 05-01-2019 | - | - | :red_circle: |
 [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | RiskVistion System Inventory Checklist | 05-01-2019 | - | - | :red_circle: |
 [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration | 05-01-2019 | - | - | :red_circle: |
 
 ## ATO Documentation Dashboard (11)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
-|:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|
+|:---:|:----:|:---:|:---|:---:|:---:|:---:|
 [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp)	    | SSP	| System Security Plan | 05-01-2019 | - | - | :red_circle: |
 [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | MASA	| Minor Application Self Assessment | N/A | N/A | N/A | :red_circle: |
 [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa) | SA	  | Signatory Authority | 05-01-2019 | - | - | :red_circle: |
@@ -57,7 +57,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 ## ATO Technical / Testing Dashboard (9)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
-|:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|
+|:---:|:----:|:---:|:---|:---:|:---:|:---:|
 [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan)	  | Nessus scan | Nessus scan | 05-01-2019 | - | - | :red_circle: |
 [4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| DB Scan| Database scan	| Database scan | 05-01-2019 | - | - | :red_circle: |
 [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr)	   | QCR (V&V) | Quaility Code Review (Verification & Validation) | 05-01-2019 | - | - | :red_circle: |
