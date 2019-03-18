@@ -1,6 +1,6 @@
 # VAM2 ATO Dashboard Gap Analysis
 
-##  Issue 1.0 System Security Plan (SSP):
+##  Issue 1.0 System Security Plan (SSP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)
 | Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1.1 | Control Owner| Changed to Christoper Brown | - | 03-15-2019 | :white_check_mark: |
