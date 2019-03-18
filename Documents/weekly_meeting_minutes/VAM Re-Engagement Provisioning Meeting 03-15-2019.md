@@ -22,12 +22,9 @@ Supporting Resources: None.
 | Table 3: | Agenda and Meeting Notes |  |
 |:---:|:---:|:---:|
 | ID | Topic: |  |
-| 1. |  Roll Call (9) |  |
-| 2. | Introductions.  |  | 
-| 3. |  |Dr. Richards:  VAM is already in AWS; we have nothing migrating. We just need to go through the ATO and OIC processes.   We had about a 3-month gap (for funding), but we have been in AWS for a while.  Please send any information (on provisioning)  you have to me and Cheryl Owsley (we will be the POCs for this effort). Please include a link to whatever SharePoint tracking you are using. Will then check  sure this information is correct. |
-|  |  |Cheryl Owsley: Intake is part of our ECSO team; we really just wanted to get whatever information we might need as a part of ECSO. |
-|  |  | James Nichols: Ok, you only need IOC and ATO assistance. |
-|  |  | Raf Richards: We are already working with Joe Fourcade. |
+| 1. |  |  Roll Call (9) |
+| 2. |  | Introductions.  | 
+| 3. |  |**Dr. Richards:**  VAM is already in AWS; we have nothing migrating. We just need to go through the ATO and OIC processes.   We had about a 3-month gap (for funding), but we have been in AWS for a while.  Please send any information (on provisioning)  you have to me and Cheryl Owsley (we will be the POCs for this effort). Please include a link to whatever SharePoint tracking you are using. Will then check  sure this information is correct. <br/> **Cheryl Owsley:** Intake is part of our ECSO team; we really just wanted to get whatever information we might need as a part of ECSO. <br/> **James Nichols:** Ok, you only need IOC and ATO assistance. <br/> **Raf Richards:** We are already working with Joe Fourcade. |
 | 4. |	Next Steps. |  |
 |  |  | James will touch base with Joe Fourcade (for ATO and OIC) and Rob Ballon (Provisioning) for their status. |
 | 5. | Adjourned: 4:18 pm |  |
