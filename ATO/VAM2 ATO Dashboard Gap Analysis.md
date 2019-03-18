@@ -64,7 +64,7 @@ Date: 03-18-2019
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 7.1 | SO and ISO | Updated SO and ISO details | - | 03-15-2019 | - |
 | 7.2 | PoC Phone Numbers | - | PoC Phone Numbers Need to be Updated  | 05-01-2019 | - |
-| 7.3 | Section 6.4 | - | Revisit Requiremement, per mention during the "new sustem"  | 05-01-2019 | :large_orange_diamond: |
+| 7.3 | Section 6.4 | - | Revisit Requiremement, per mention during the "new system"  | 05-01-2019 | :large_orange_diamond: |
 | 7.4 | ISO, SO, and PO Signature | - | Upon, Finalization ISO, SO, and PO Signatures Required.  | 05-01-2019 | :large_orange_diamond: |
 
   
