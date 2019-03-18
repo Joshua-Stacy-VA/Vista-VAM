@@ -71,7 +71,7 @@ Date: 03-18-2019
 ### Issue 8.0	Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/36)
 | Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 8.1 | MOU | - | Obtain Mou | 05-01-2019 | :red_circle: |
+| 8.1 | MOU | - | Obtain MOU | 05-01-2019 | :red_circle: |
 
 
 ### Issue 9.0	Secure Design Review: (Completion expected May 19th) (https://github.com/vistadataproject/VAM2ProjectManagement/issues/37)
