@@ -1,67 +1,83 @@
 # VAM2 ATO Dashboard Gap Analysis
 
-##  Issue 1.0 System Security Plan (SSP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)
+###  Issue 1.0 System Security Plan (SSP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)
 | Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1.1 | Control Owner| Changed to Christoper Brown | - | 03-15-2019 | :white_check_mark: |
-| 1.2 | Authorizing Official | Changed to Joseph Fourcade | - | 03-15-2019 | :white_check_mark: |
-| 1.3 | Identify Threats in Table 5 | - | Update Needed in Table 5 | 05-01-2019 | :large_orange_diamond: |
+| 1.1 | Control Owner| Changed to Christoper Brown. | - | 03-15-2019 | :white_check_mark: |
+| 1.2 | Authorizing Official | Changed to Joseph Fourcade. | - | 03-15-2019 | :white_check_mark: |
+| 1.3 | Identify Threats in Table 5 | - | Update Needed in Table 5. | 05-01-2019 | :large_orange_diamond: |
 | 1.4 | Control Status | - | Update Needed in Section 2.0 | 05-01-2019 | :large_orange_diamond: |
-| 1.5 | NIST Controls | - | Re-Review Needed to ensure that they are current (Minimal updating likely) | 05-01-2019 | :large_orange_diamond: |
+| 1.5 | NIST Controls | - | Re-Review Needed to ensure that they are current (Minimal updating likely). | 05-01-2019 | :large_orange_diamond: |
 | 1.6 | Index | - | Reformatting Needed | 05-01-2019 | :large_orange_diamond: | 
 
 
 
-2.	Signature Authority: 
-<br/> <ins> Changes made or are in need of updating: </ins>
-    - Change made: Updated SO and ISO
-    - Update needed: SO and ISO to sign, pending final SSP. 
+### Issue 2.0	Signature Authority: (https://github.com/vistadataproject/VAM2ProjectManagement/issues/30)
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 2.1 | SO and ISO | Updated | - | 03-15-2019 | :white_check_mark: |
+| 2.2 | SO and ISO | - | Sigature Required, Pending Final SSP. | 05-01-2019 | :large_orange_diamond: |
 
-3.	Risk Assessment: 
-<br/> <ins> Changes made or are in need of updating: </ins>
-    - Change made: changed owner to Christopher Brown 
-    - Update needed: Table 1, NIST control families system risks 
-    - Update needed: Phone numbers of POCs
-    - Update needed: Secondary ISO
-    - Update needed: Updated Table 5. Risk Assessment Inputs 
-    - Update needed: Table 6. Apply Threat source list to SSP. May needed additions in RA. 
-    - Update needed: Table 7. Vulnerability list will be updated throughout project cycle. Most current responses required
-    - Update needed: Table 13. Obtain VAM Pen Test, Database scan, PIA signature, signature for DRP, Obtain Secure Design review (Microsoft threat modeling tool), ISCP signature from ISO, 
 
-4.	Configuration Management Plan (CMP): 
-<br/> <ins>Changes made or are in need of updating: </ins>
-    - Update needed: Figure 1. Update Software Development Environment related to SCM
-    - Update needed: For life of the project, the CMP should be updated by DevOps and/or DevArch and managed additionally by Security and approved by the Project Manager. 
+### Issue 3.0	Risk Assessment: (https://github.com/vistadataproject/VAM2ProjectManagement/issues/31)
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 3.1 | Owner | Changed Owner to Christopher Brown. | - | 03-15-2019 | :white_check_mark: |
+| 3.2 | Table 1, NIST Control Families System Risks | - | Table 1, NIST Control Families System Risks Needs Update. | 05-01-2019 | :large_orange_diamond: |
+| 3.3 | Phone numbers of PoCs | - | Need to Update.  | 05-01-2019 | - |
+| 3.4 | Secondary ISO | - | Need to Update. | 05-01-2019 | - |
+| 3.5 | Table 5, Risk Assessment Inputs | - | Table 5, Risk Assessment Inputs Needs Update. | 05-01-2019 | :large_orange_diamond: |
+| 3.6 | Table 6, Threat Source List | - | Table 6, Apply Threat Source List in SSP. <br/> With possible additional threat sources in Table 6. | 05-01-2019 | :large_orange_diamond: |
+| 3.7 | Table 7, System Vulnerability List | - | Table 7, System Vulneribility List will be updated thorughout the project lifecycle. <br/> Most current responses required. | 05-01-2019 | :large_orange_diamond: |
+| 3.8 | Table 13, Risk Assessment Results | - | Obtain:  VAM2 Pen Test, <br/> Database Scan, <br/> PIA Signature, <br/> Signature for DRP <br/> Obtain Secure Design Review (Microsoft Threat Modeling Tool), <br/> ISCP Signature from ISO. | 05-01-2019 | :large_orange_diamond: |
+    
+    
+### Issue 4.0	Configuration Management Plan (CMP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/32)
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4.1 | Figure 1, Software Development Environment | - | Figure Software Development Environment Need Update Related to SCM.  | 05-01-2019 | :large_orange_diamond: |
+| 4.2 | CMP | - | CMP should be regularly updated by DevOps and/or DevArch and additionally managed by Security and approved by the Project Manager. | 05-01-2019 | :large_orange_diamond: |
 
-5.	Incident Response Plan (IRP): 
-<br/> <ins> Changes made or are in need of updating: </ins>
-    - Change made: changed System Owner and ISO 
-    - Update needed: System Owner and ISO signatures 
-    - Update needed: POC phone numbers and 
-    - Update needed: Privacy Office info
-    - Update needed: Pg7. Verify ITOPs, AWS Cloud mgr, AWS CIO, AWS 
 
-6.	Disaster Recovery Plan (DRP): 
-<br/> <ins> Changes made or are in need of updating: </ins> 
-    - Change made: Changed SO and ISO. Added POCs. 
-    - Update needed: Reformat Distribution table 
-    - Update needed: VAM arch diagram needs to be changed 
-    - Update needed: DRP Assumptions 1.3. Verify if assumptions are valid or not 
-    - Update needed: Appendix A, B & C: Verify if DRP personnel contacts are current
+### Issue 5.0	Incident Response Plan (IRP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/33)
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5.1 | System Owner and ISO | Updated System Owner and ISO | Signatures Required | 03-15-2019 | - |
+| 5.2 | PoC Phone Numbers | - | Need PoC Phone Number for Update  | 05-01-2019 | - |
+| 5.3 | Privacy Office Info | - | Need Privay Offcie Info for Update  | 05-01-2019 | - |
+| 5.4 | Verification Needed Page 7 details | - | Verify and uypdate: ITOPs, <br/> AWS Cloud Infrastructure Manager, <br/> AWS Facilities CIO. | 05-01-2019 | - |
+        
 
-7.	Privacy Impact Assessment (PIA): 
-<br/> <ins> Changes made or are in need of updating: </ins>
-    - Change made: Updated SO and ISO
-    - Update needed: POC phone numbers 
-    - Update needed: Section 6.4 and throughout. Revisit requirement, per mention during the “new system” 
-    - Update needed: Upon finalization, ISO, SO and PO signatures are required 
+### Issue 6.0	Disaster Recovery Plan (DRP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/34)
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6.1 | SO and ISO | Changed SO and ISO Info. <br/> Added PoCs. | - | 03-15-2019 | - |
+| 6.2 | Distribution Table | - | Reformat Distribution Table, | 05-01-2019 | :large_orange_diamond: |
+| 6.3 | VAM2 Architecture Diagram | - | VAM2 Architecture Diagram Needs Update. | 05-01-2019 | :large_orange_diamond: |
+| 6.4 | DRP Assumptions 1.3 | - | Verify if Assupmtions in 1.3 are valid or not.  | 05-01-2019 | :large_orange_diamond: |
+| 6.5 | Appendix A, B, and C | - | Verify if DRP Personnel Contacts are current  | 05-01-2019 | :large_orange_diamond: |
 
-8.	Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU):
-<br/> <ins> Changes made or are in need of updating: </ins> 
-    - Update needed: Obtain MOU 
 
-9.	Secure Design Review: (Completion expected May 19th) 
-<br/> <ins> Changes made or are in need of updating: </ins>  
-    - Updated needed: Obtain design 
+### Issue 7.0	Privacy Impact Assessment (PIA): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/35)
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 7.1 | SO and ISO | Updated SO and ISO details | - | 03-15-2019 | - |
+| 7.2 | PoC Phone Numbers | - | PoC Phone Numbers Need to be Updated  | 05-01-2019 | - |
+| 7.3 | Section 6.4 | - | Revisit Requiremement, per mention during the "new sustem"  | 05-01-2019 | :large_orange_diamond: |
+| 7.4 | ISO, SO, and PO Signature | - | Upon, Finalization ISO, SO, and PO Signatures Required.  | 05-01-2019 | :large_orange_diamond: |
 
-Majority of the changes and updates have been generally assessed as requiring minor to moderate effort. Current pace of ATO process remains the same. Potential issues/roadblocks are likely, but not to be assumed as significant. 
+  
+### Issue 8.0	Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/36)
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8.1 | MOU | - | Obtain Mou | 05-01-2019 | :red_circle: |
+
+
+### Issue 9.0	Secure Design Review: (Completion expected May 19th) (https://github.com/vistadataproject/VAM2ProjectManagement/issues/37)
+| Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9.1 | Design | - | Obtain Design | 05-19-2019 | :red_circle: |
+
+
+Majority of the changes and updates have been generally assessed as requiring minor to moderate effort. <br/ Current pace of ATO process remains the same. 
+<br/> <ins> Potential issues/roadblocks are likely, but not to be assumed as significant. </ins>
