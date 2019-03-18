@@ -16,8 +16,7 @@ Date: 03-18-2019
 ### Issue 2.0	Signature Authority: (https://github.com/vistadataproject/VAM2ProjectManagement/issues/30)
 | Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2.1 | SO and ISO | Updated | - | 03-15-2019 | :white_check_mark: |
-| 2.2 | SO and ISO | - | Sigature Required, Pending Final SSP. | 05-01-2019 | :large_orange_diamond: |
+| 2.1 | SO and ISO | Updated | Signature Required, Pending Final SSP | 05-01-2019 | - |
 
 
 ### Issue 3.0	Risk Assessment: (https://github.com/vistadataproject/VAM2ProjectManagement/issues/31)
@@ -25,7 +24,7 @@ Date: 03-18-2019
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 3.1 | Owner | Changed Owner to Christopher Brown. | - | 03-15-2019 | :white_check_mark: |
 | 3.2 | Table 1, NIST Control Families System Risks | - | Table 1, NIST Control Families System Risks Needs Update. | 05-01-2019 | :large_orange_diamond: |
-| 3.3 | Phone numbers of PoCs | - | Need to Update.  | 05-01-2019 | - |
+| 3.3 | Phone Numbers of PoCs | - | Need to Update.  | 05-01-2019 | - |
 | 3.4 | Secondary ISO | - | Need to Update. | 05-01-2019 | - |
 | 3.5 | Table 5, Risk Assessment Inputs | - | Table 5, Risk Assessment Inputs Needs Update. | 05-01-2019 | :large_orange_diamond: |
 | 3.6 | Table 6, Threat Source List | - | Table 6, Apply Threat Source List in SSP. <br/> With possible additional threat sources in Table 6. | 05-01-2019 | :large_orange_diamond: |
@@ -43,7 +42,7 @@ Date: 03-18-2019
 ### Issue 5.0	Incident Response Plan (IRP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/33)
 | Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 5.1 | System Owner and ISO | Updated System Owner and ISO | Signatures Required | 03-15-2019 | - |
+| 5.1 | System Owner and ISO | Updated System Owner and ISO | Signatures Required | 05-01-2019 | - |
 | 5.2 | PoC Phone Numbers | - | Need PoC Phone Number for Update  | 05-01-2019 | - |
 | 5.3 | Privacy Office Info | - | Need Privay Offcie Info for Update  | 05-01-2019 | - |
 | 5.4 | Verification Needed Page 7 details | - | Verify and uypdate: ITOPs, <br/> AWS Cloud Infrastructure Manager, <br/> AWS Facilities CIO. | 05-01-2019 | - |
@@ -52,7 +51,7 @@ Date: 03-18-2019
 ### Issue 6.0	Disaster Recovery Plan (DRP): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/34)
 | Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 6.1 | SO and ISO | Changed SO and ISO Info. <br/> Added PoCs. | - | 03-15-2019 | - |
+| 6.1 | SO and ISO | Changed SO and ISO Info. <br/> Added PoCs. | Signatures Required | 05-01-2019 | - |
 | 6.2 | Distribution Table | - | Reformat Distribution Table, | 05-01-2019 | :large_orange_diamond: |
 | 6.3 | VAM2 Architecture Diagram | - | VAM2 Architecture Diagram Needs Update. | 05-01-2019 | :large_orange_diamond: |
 | 6.4 | DRP Assumptions 1.3 | - | Verify if Assupmtions in 1.3 are valid or not.  | 05-01-2019 | :large_orange_diamond: |
@@ -62,7 +61,7 @@ Date: 03-18-2019
 ### Issue 7.0	Privacy Impact Assessment (PIA): (https://github.com/vistadataproject/VAM2ProjectManagement/issues/35)
 | Issue # | Item Name | Action Taken| Acion Required | Target (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 7.1 | SO and ISO | Updated SO and ISO details | - | 03-15-2019 | - |
+| 7.1 | SO and ISO | Updated SO and ISO details | Signatures Required | 05-01-2019 | - |
 | 7.2 | PoC Phone Numbers | - | PoC Phone Numbers Need to be Updated  | 05-01-2019 | - |
 | 7.3 | Section 6.4 | - | Revisit Requiremement, per mention during the "new system"  | 05-01-2019 | :large_orange_diamond: |
 | 7.4 | ISO, SO, and PO Signature | - | Upon, Finalization ISO, SO, and PO Signatures Required.  | 05-01-2019 | :large_orange_diamond: |
@@ -80,5 +79,6 @@ Date: 03-18-2019
 | 9.1 | Design | - | Obtain Design | 05-19-2019 | :red_circle: |
 
 
-Majority of the changes and updates have been generally assessed as requiring minor to moderate effort. <br/ Current pace of ATO process remains the same. 
+Majority of the changes and updates have been generally assessed as requiring minor to moderate effort. 
+<br/> Current pace of ATO process remains the same. 
 <br/> <ins> Potential issues/roadblocks are likely, but not to be assumed as significant. </ins>
