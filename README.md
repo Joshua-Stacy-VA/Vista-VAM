@@ -16,7 +16,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [PWS Dashboard](#pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 8 | 45% | :large_orange_diamond: | 
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 4 | 8% | :white_check_mark: | 
 
-Key:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
+Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
 .
 
@@ -29,13 +29,19 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 * [VA OIS ATO SOP](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#va-ois-ato-sop---2019): VA Office of Information Security process for ATO - v3.31 (02-04-2019)
 * [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)
-* [ATO Documents]
+* [ATO Documents](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/ATO)
 
+
+## ATO Registration Dashboard (3)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|
-[3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO  | Assign ISO | 05-01-2019 | - | - | :red_circle: |
+[3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | 05-01-2019 | - | - | :red_circle: |
 [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | RiskVistion System Inventory Checklist | 05-01-2019 | - | - | :red_circle: |
 [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration | 05-01-2019 | - | - | :red_circle: |
+
+## ATO Documentation Dashboard (11)
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
+|:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|
 [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp)	    | SSP	| System Security Plan | 05-01-2019 | - | - | :red_circle: |
 [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | MASA	| Minor Application Self Assessment | N/A | N/A | N/A | :red_circle: |
 [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa) | SA	  | Signatory Authority | 05-01-2019 | - | - | :red_circle: |
@@ -47,8 +53,13 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia)	    | PIA	| Privacy Impact Assessment | 05-01-2019 | - | - | :red_circle: |
 [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou)	| ISA/MOU | Interconnection Security Agreeement / Memorandum of Understanding | 05-01-2019 | - | - | :red_circle: |
 [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr) | SDR	| Secure Design Review | 05-01-2019 | - | - | :red_circle: |
+
+
+## ATO Technical / Testing Dashboard (9)
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
+|:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|
 [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan)	  | Nessus scan | Nessus scan | 05-01-2019 | - | - | :red_circle: |
-[4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| | DB scan	| Database scan | 05-01-2019 | - | - | :red_circle: |
+[4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| DB Scan| Database scan	| Database scan | 05-01-2019 | - | - | :red_circle: |
 [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr)	   | QCR (V&V) | Quaility Code Review (Verification & Validation) | 05-01-2019 | - | - | :red_circle: |
 [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr)	   | SCR	 | Secure Code Review | 05-01-2019 | - | - | :red_circle: |
 [4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa)	   | PT/AA | Penetration Test / Application Assessment | 05-01-2019 | - | - | :red_circle: |
