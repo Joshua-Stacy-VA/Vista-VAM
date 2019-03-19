@@ -59,7 +59,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
 [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan)	  | Nessus scan | Nessus scan | 05-01-2019 | - | - | :red_circle: |
-[4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| DB Scan| Database scan	| Database scan | 05-01-2019 | - | - | :red_circle: |
+[4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| DB Scan| Database scan	| 05-01-2019 | - | - | :red_circle: |
 [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr)	   | QCR (V&V) | Quaility Code Review (Verification & Validation) | 05-01-2019 | - | - | :red_circle: |
 [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr)	   | SCR	 | Secure Code Review | 05-01-2019 | - | - | :red_circle: |
 [4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa)	   | PT/AA | Penetration Test / Application Assessment | 05-01-2019 | - | - | :red_circle: |
