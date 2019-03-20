@@ -133,7 +133,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 | 02 | [VAM2-Week-02](/Documents/weekly_meeting_minutes/VAM2-Week02-02-26-2019.md) | AWS technical meeting planned | 02-26-2019 | 02-27-2019 | 02-27-2019 | :white_check_mark: | 
 | 03 | [VAM2-Week-03](/Documents/weekly_meeting_minutes/VAM2-Week03-03-05-2019.md) | VA PM & VA COR changes | 03-05-2019 | 03-06-2019 | 03-06-2019 | :white_check_mark: |
 | 04 | [VAM2-Week-04](/Documents/weekly_meeting_minutes/VAM2-Week04-03-12-2019.md) | ATO Dashboard and Technical Deep Dive | 03-12-2019 | 03-13-2019 | 03-13-2019 | :white_check_mark: |
-| 05 | [VAM2-Week-05] | - | 03-19-2019 | - | - | - |
+| 05 | [VAM2-Week-05](/Documents/weekly_meeting_minutes/VAM2-Week05-03-19-2019.md) | ATO Documents and RiskVision Controls | 03-19-2019 | 03-20-2019 | 03-20-2019 | :white_check_mark: |
 | 06 | [VAM2-Week-06] | - | 03-26-2019 | - | - | - |
 | 07 | [VAM2-Week-07] | - | 04-02-2019 | - | - | - |
 
