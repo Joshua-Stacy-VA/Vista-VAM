@@ -8,7 +8,7 @@ U.S. Department of Veterans Affairs, Veteran Health Administration
 | -- | -- |
 |:---|:---|
 | Meeting Purpose: | Technical Deep Dive to discuss AWS track of the VAM project  |
-| Date & Time: |	March 21, 2019; 9:00 am – 3:30 pm, Eastern Standard Time |
+| Date & Time: | March 21, 2019; 9:00 am – 3:30 pm, Eastern Standard Time |
 | Location:	| AWS, Herndon, VA | 
 | Facilitator:	| Nilesh Lal |
 | Scribe: |	Piyush Thesia |
@@ -19,10 +19,10 @@ U.S. Department of Veterans Affairs, Veteran Health Administration
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | x | Richards, Rafael M – VA Business Owner |  | Owsley, Cheryl – VA PM |  | Goode, Robert – VA COR  |
 |  | Weckessser, Michael – VA CS |  | Fourcade, Joseph – VAEC ISO | x | Lal, Nilesh V. - AbleVets PM |
-| x | Wilcox, Tom - AbleVets CIO | x | Lentile, Christy – AbleVets Portfolio Director | x | Dowling, Conor – Caregraf Technical Architect | 
+| x | Wilcox, Tom - AbleVets CIO |  | Lentile, Christy – AbleVets Portfolio Director | x | Dowling, Conor – Caregraf Technical Architect | 
 |  | Hill, Kristen A. – Cognosante | x | Furoyama, Michael – Technical Lead HRG |  | Akamine, Adam - HRG Developer |
 | x | Faulkner, David – AbleVets System Security Engineer |  | Lucas, Michael – Cognosante  |  | Teeple, James – Congnosante |
-|  | Rindle, Christie – HRG Developer |  |  -  | x | Thesia, Piyush – AbleVets Associate Business Analyst |
+|  | Rindle, Christie – HRG Developer | x |  Zimmerman, Andrew – AbleVets Director of Delivery Operations  | x | Thesia, Piyush – AbleVets Associate Business Analyst |
 
 x = in attendance
 
