@@ -20,7 +20,9 @@ Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :
 
 .
 
-.
+# Priority Issues
+:red_circle: [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APRIORITY)
+
 
 
 # Cloud ATO Dashboard
@@ -33,9 +35,9 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 
 ## ATO Registration Dashboard (3)
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
-|  | Authorization  SOP | Authorization  SOP | 05-01-2019 | - | - | - |
+|  | Authorization  SOPP | Authorization  SOP | 05-01-2019 | - | - | - |
 |  | POAM Management Guide | POAM Management Guide | 05-01-2019 | - | - | - |
 |  | Application to Risk Vision Workgroup | Application to Risk Vision Workgroup | 05-01-2019 | - | - | - |
 |  | Application Registration in VASI | Application Registration in VASIP | 05-01-2019 | - | - | - |
@@ -53,7 +55,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 |  | Security Documentation/Controls with the GRC Assessment- Answering the Security Control inside GRC | Completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | :red_circle: |
 
 ## ATO Documentation Dashboard (11)
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
 |  | Security Impact Analysis	| Security Impact Analysis | 05-01-2019 | - | - | :red_circle: |
 | [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) | [SSP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)	| System Security Plan | 05-01-2019 | - | - | :red_circle: |
@@ -72,7 +74,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 
 
 ## ATO Technical / Testing Dashboard (9)
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
 | [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan) | Nessus scan | Nessus scan | 05-01-2019 | - | - | :red_circle: |
 | [4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| DB Scan | Database scan	| 05-01-2019 | - | - | :red_circle: |
@@ -93,7 +95,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
 * [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
 
-|IOC# | Document (link) | Due (Date) | Uploaded (Date) | Approved (Date) | Status |
+|IOC# | Document (link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 01.a | Identify MOU Sites & Prepare MOU | 10-01-2019 | - | - | :red_circle: |
 | 01.b | MOU Approval from Dr. Richards | 10-01-2019 | - | - | :red_circle: |
@@ -153,17 +155,3 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 | 05 | [VAM2-Week-05](/Documents/weekly_meeting_minutes/VAM2-Week05-03-19-2019.md) | ATO Documents and RiskVision Controls | 03-19-2019 | 03-20-2019 | 03-20-2019 | :white_check_mark: |
 | 06 | [VAM2-Week-06] | - | 03-26-2019 | - | - | - |
 | 07 | [VAM2-Week-07] | - | 04-02-2019 | - | - | - |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
