@@ -50,7 +50,7 @@ x = in attendance
 | 9. | AI 9:  Bay Pine refreshes </br> a) Cheyenne </br> b) Palo Alto </br> c) Omaha </br> d) Valley Coastal | Dr. Richards/Nilesh Lal | 03-21-2015 | - | - | - |
 | 10. | AI 10:  EECCB tickets for two new VistA - Omaha and Valley Coastal | Nilesh Lal | 03-21-2015 | - | - | - |
 | 11. | AI 11:  Get access to Pre-Prod and Prod VistA from Pre-Prod and Prod VAEC environments for all team members | Nilesh Lal | 03-21-2015 | - | - | - |
-| 12. | AI 12:  Admin issues with AWS account commssrequest@va.gov for activating the accounts; keep Jim Jonson in the loop | Nilesh Lal | 03-21-2015 | - | - | - |
+| 12. | AI 12:  Admin issues with AWS account commssrequest@va.gov for activating the accounts; keep Jim Jennis of AWS in the loop | Nilesh Lal | 03-21-2015 | - | - | - |
 			
 
 **Note** The complete recording of this meeting is available upon request to AbleVets PM - Nilesh Lal.
