@@ -42,7 +42,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 |  | Application to Risk Vision Workgroup | Application to Risk Vision Workgroup | 05-01-2019 | - | - | NL |
 |  | Application Registration in VASI | Application Registration in VASIP | 05-01-2019 | - | - | NL |
 |  | Application Registration for COTS VA Applications | Application Registration for COTS VA Applications | 05-01-2019 | - | - | NL |
-|  | Request VA Privacy Officer to be assigned | - | 05-01-2019 | - | - | NL |
+|  | Request VA Privacy Officer to be assigned | - | 05-01-2019 | - | - | CO |
 |  | Access to Risk Vision and Training After entry into RV | - | 05-01-2019 | - | - | NL |
 |  | System Classification (High, Moderate, Low) entered into Risk Vision | - | 05-01-2019 | - | - | NL |
 |  | Major Change to GSS/MA | Major Change to GSS/MA | 05-01-2019 | - | - | NL |
@@ -54,7 +54,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 | [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration | 05-01-2019 | - | - | NL |
 |  | Security Documentation/Controls with the GRC Assessment- Answering the Security Control inside GRC | Completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | NL |
 
-NL = Nilesh Lal
+NL = Nilesh Lal; CO = Cheryl Owsley
 
 
 ## ATO Documentation Dashboard (11)
