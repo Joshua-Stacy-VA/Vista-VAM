@@ -113,7 +113,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 | 03.e | Get CD2 approval to go to Production | 10-01-2019 | - | - | NL |
 | 04.a | IOC Production Touchbase calls for 30 minutes | 10-01-2019 | - | - | NL |
 | 04.b | Update IOC Docs from Production testing results | 10-01-2019 | - | - | NL |
-| 04.c | Get Concurrence for National Release | 10-01-2019 | - | - | :red_circle: |
+| 04.c | Get Concurrence for National Release | 10-01-2019 | - | - | NL |
 | 04.d | Get Release Agent approval for National Release | 10-01-2019 | - | - | NL |
 | 04.e | Get CD2 approval for National Release | 10-01-2019 | - | - | NL |
 
