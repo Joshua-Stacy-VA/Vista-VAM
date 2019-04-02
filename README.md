@@ -37,7 +37,7 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 ## ATO Registration Dashboard (3)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
-|  | Authorization  SOPP | Authorization  SOP | 05-01-2019 | - | - | NL |
+|  | Authorization  SOP | Authorization  SOP | 05-01-2019 | - | - | NL |
 |  | POAM Management Guide | POAM Management Guide | 05-01-2019 | - | - | NL |
 |  | Application to Risk Vision Workgroup | Application to Risk Vision Workgroup | 05-01-2019 | - | - | NL |
 |  | Application Registration in VASI | Application Registration in VASIP | 05-01-2019 | - | - | NL |
