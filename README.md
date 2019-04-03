@@ -130,8 +130,10 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 | PWS/CLIN# | Document (link) | Due (Date) | Completed (Date) | Approved (Date) | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |PWS 5.1.6 | [Project KickOff Meeting Minutes](/Documents/source/VAM2_Technical_Kickoff_Meeting_Notes_02-06-2019.md) | 02-06-2019 | 02-06-2019 | - | Done |
-|0001AA | [Contractor_Management_Project_Plan](/Documents/source/VAM2_CLIN%200001AA_Contractor_Project_Management_Plan_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
-|0001AB | [Monthly_Progress_Report](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
+|0001AA | [Contractor_Management_Project_Plan March 2019](/Documents/source/VAM2_CLIN%200001AA_Contractor_Project_Management_Plan_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
+|0001AA | [Contractor_Management_Project_Plan April 2019](/Documents/source/CLIN0001AA VAM2 Contractor Project Management Plan_v1.1 - 04-03-2019.docx ) | 04-03-2019 | 04-03-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report March 2019](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report April 2019](/Documents/source/CLIN0001AB VAM2 Monthly Progress Report_04-03-2019.docx ) | 04-03-2019 | 04-03-2019 | - | Done |
 |0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
@@ -141,7 +143,8 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0002AC | Version Description Document (VDD) | 05-02-2019 | - | - | - | 
 |0002AD | Automated CloudWatch Configuration | 05-02-2019 | - | - | - | 
 |0002AE | Security Vulnerability Report | 05-02-2019 | - | - | - |  
-|0003AA | [Master Test Plan](/Documents/pws/Master_Test_Plan.md) | 03-04-2019 | 03-04-2019 | - | Done |
+|0003AA | [Master Test Plan March 2019](/Documents/pws/Master_Test_Plan.md) | 03-04-2019 | 03-04-2019 | - | Done |
+|0003AA | [Master Test_Plan April 2019](/Documents/pws/CLIN0003AA Master Test Plan 04-03-2019.docx) | 04-03-2019 | 04-03-2019 | - | Done |
 |0003AB | RPC Interface Test Suite | 05-02-2019 | - | - | - |  
 |0005AA | Production Operations Manual (POM) | 05-02-2019 | - | - | - |  
 |0005AB | Deployment and Installation Guide | 05-02-2019 | - | - | - |  
