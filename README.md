@@ -14,7 +14,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | 1 | 4% | :red_circle: | 
 [IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](#pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 8 | 45% | :large_orange_diamond: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 6 | 12% | :white_check_mark: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 7 | 14% | :white_check_mark: | 
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
@@ -157,4 +157,4 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 | 04 | [VAM2-Week-04](/Documents/weekly_meeting_minutes/VAM2-Week04-03-12-2019.md) | ATO Dashboard and Technical Deep Dive | 03-12-2019 | 03-13-2019 | 03-13-2019 | :white_check_mark: |
 | 05 | [VAM2-Week-05](/Documents/weekly_meeting_minutes/VAM2-Week05-03-19-2019.md) | ATO Documents and RiskVision Controls | 03-19-2019 | 03-20-2019 | 03-20-2019 | :white_check_mark: |
 | 06 | [VAM2-Week-06](/Documents/weekly_meeting_minutes/VAM2-Week06-03-26-2019.md) | RiskVison and RPC Mirroring | 03-26-2019 | 03-27-2019 | 03-27-2019 | :white_check_mark: |
-| 07 | [VAM2-Week-07] | - | 04-02-2019 | - | - | - |
+| 07 | [VAM2-Week-07](/Documents/weekly_meeting_minutes/VAM2-Week07-04-02-2019.md) | ATO Documents | 04-02-2019 | 04-03-2019- | 04-03-2019 | :white_check_mark: |
