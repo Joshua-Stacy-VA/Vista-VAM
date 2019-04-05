@@ -46,7 +46,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Documentation Dashboard (11)
 
-|SOP (Link)  | Document / Task (Link) | Pages / Sections | #Questions / Tasks (blue) |  #Completed (yellow) | #Validated / Approved | 
+|SOP (Link)  | Document / Task (Link) | Pages / Sections | #Queries (blue) |  #Answers (yellow) | #Validated  | 
 |:---:|:----:|:---:|:---|:---:|:---:|
 | [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan | N/A: RiskVision | 400+ | 284 | ?? | 
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment | N/A | N/A | N/A | N/A | 
@@ -54,16 +54,11 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment | ? / ? |  ? | ? | ? |
 | [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan | 37 / 3 | ? | ? | ? |
 | [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan | 39 / 8| ? | ? | ? |
-
-
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | #Pages  | #Questions/Tasks |  #Answered | --- | --- | --- | --- |
-|:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | [ISCP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/38)  | Informaton Security Contingency Plan | 05-01-2019 | 04-12-2019 | - | NL | 7-Sections </br> 16-Appendices | - | 62 |
-| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | [DRP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/34)	| Disaster Recovery Plan | 05-01-2019 | 04-12-2019 |  - | NL | 6-Sections </br> 9-Appendices | - | 46 |
-|  | PTA	| PTA | 05-01-2019 | 04-05-2019 |  - | NL | - | 10 | 7 |
-| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | [PIA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/35)	| Privacy Impact Assessment | 05-01-2019 | - | - | NL | Section 1 </br> Section 2 </br> Section 3 </br> Section 4 </br> Section 5 </br> Section 6 </br> Section 7 </br> Section 8 </br> **TOTAL** | 7 </br> 3 </br> 6 </br> 2 </br> 2 </br> 4 </br> 5 </br> 4 </br> **33** | 21 |
-| [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou)	| [ISA/MOU](https://github.com/vistadataproject/VAM2ProjectManagement/issues/36)  | Interconnection Security Agreeement / Memorandum of Understanding | 05-01-2019 | - | - | NL | - | - | - |
-| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr) | [SDR](https://github.com/vistadataproject/VAM2ProjectManagement/issues/37)  | Secure Design Review | 05-01-2019 | - | - | NL | - | - | 3 |
+| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Informaton Security Contingency Plan | 62 / 7 | ? | ? | ? |
+| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan | 46 / 6 | ? | ? | ? |
+| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment | ? / 8 | ? | ? | ? |
+| [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreeement / Memorandum of Understanding | ? / ? | ? | ? | ? |
+| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review | ? / ? | ? | ? | ? |
 
 
 ## ATO Technical / Testing Dashboard (9)
@@ -80,16 +75,16 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | CIE	| Control Implementation Evidence | 05-01-2019 | - | - | NL |
 | [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | EDS | Enterprise Discovery Scan | 05-01-2019 | - | - | NL |
 
-## ATO Other Tasks
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned | Sections | Questions | Pages |
-|:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---|
-|  | Security Impact Analysis	| Security Impact Analysis | 05-01-2019 | 04-05-2019 | - | NL | Intro </br> Cover </br> Page 1 </br> Page 2 </br> Page 3 </br> Page 4 </br> Secure Family </br> 800-600 Info Type  **TOTAL** | 0 </br> 7 </br> 14 </br> 14 </br> 15 </br> 13 </br> 10 </br> 10 </br> 172 </br> **245** | 21 |
-|  | Answering the Security Control Q&A in RV | To be completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | NL | - | - | - |
-|  | Application Registration in VASI | Application Registration in VASIP | 05-01-2019 | - | - | NL | - | - | - |
-|  | Request VA Privacy Officer to be assigned | - | 05-01-2019 | - | - | CO | - | - | - |
-|  | System Classification (High, Moderate, Low) entered into Risk Vision | - | 05-01-2019 | - | - | NL | - | - | - |
-|  | System Owner Attestation Template | System Owner Attestation Template | 05-01-2019 | - | - | NL | - | - | - |
-|  | System Owner Responsibilities Template | System Owner Responsibilities Template | 05-01-2019 | - | - | NL | - | - | - |
+## ATO Other Documents and Tasks
+
+| Document / Task (Link) | Pages / Sections | #Queries (blue) |  #Answers (yellow) | #Validated  | 
+|:---|:----:|:---:|:---:|:---:|
+| Security Impact Analysis	| ? / ? | ? | ? | ? |
+| Application Registration in VASI | ? / ? | ? | ? | ? |
+| Request VA Privacy Officer to be assigned | ? / ? | ? | ? | ? |
+| System Classification (High, Moderate, Low) in Risk Vision | ? / ? | ? | ? | ? |
+| System Owner Attestation Template | ? / ? | ? | ? | ? |
+| System Owner Responsibilities Template | ? / ? | ? | ? | ? |
 
 
 # IOC Dashboard
