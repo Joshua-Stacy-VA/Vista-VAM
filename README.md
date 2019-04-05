@@ -47,7 +47,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 ## ATO Documentation Dashboard (11)
 
 |SOP (Link)  | Document / Task (Link) | Pages / Sections | #Queries (blue) |  #Answers (yellow) | #Validated  | 
-|:---:|:----:|:---:|:---|:---:|:---:|
+|:---:|:----|:---:|:---|:---:|:---:|
 | [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan | N/A: RiskVision | 400+ | 284 | ?? | 
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment | N/A | N/A | N/A | N/A | 
 | [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority | ? / ? | ? | ? | ? |
@@ -62,18 +62,18 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 
 ## ATO Technical / Testing Dashboard (9)
-|SOP (Link)  |Technical / Task (Link) | Due (Date) |
-|:---:|:----:|:---:|
+|SOP (Link)  |Technical / Task  | Due (Date) |
+|:---:|:----|:---:|
 | [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan) | Nessus scan | ?|
-| [4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| DB Scan | Database scan	|? |
-| [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr) | QCR - Quaility Code Review (Verification & Validation) | ? |
-| [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr) | SCR - Secure Code Review | ? |
+| [4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| Database scan	| ? |
+| [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr) | Quaility Code Review (Verification & Validation) | ? |
+| [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr) | Secure Code Review | ? |
 | [4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa) | Pen Test / Application Assessment | ? |
+| [4.3.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#435-tt5-security-configuration-compliance-data-sccd) | Security Configuration Compliance Data | ? |
+| [4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca) | Security Control Assessment | ? |
+| [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | Control Implementation Evidence | ? |
+| [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | Enterprise Discovery Scan | ? |
 | | WASA | WASA | ? |
-| [4.3.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#435-tt5-security-configuration-compliance-data-sccd) | SCCD - Security Configuration Compliance Data | ? |
-| [4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca) | SCA - Security Control Assessment | ? |
-| [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | CIE - Control Implementation Evidence | ? |
-| [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | EDS - Enterprise Discovery Scan | ? |
 
 ## ATO Other Documents and Tasks
 
@@ -86,65 +86,6 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | System Owner Attestation Template | ? / ? | ? | ? | ? |
 | System Owner Responsibilities Template | ? / ? | ? | ? | ? |
 
-
-# IOC Dashboard
-Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
-* [VA IOC Process](https://github.com/vistadataproject/VAM2ProjectManagement/edit/master/IOC/IOC_Process.md#va-IOC-Process): VA IOC Process
-* [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
-* [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
-
-|IOC# | Document (link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 01.a | Identify MOU Sites & Prepare MOU | 10-01-2019 | - | - | NL |
-| 01.b | MOU Approval from Dr. Richards | 10-01-2019 | - | - | NL |
-| 01.c | MOU Approval from VA PM | 10-01-2019 | - | - | NL |
-| 01.d | MOU Concurrence from each sites | 10-01-2019 | - | - | NL |
-| 01.e | Create IOC Concurrence pdf and upload to github | 10-01-2019 | - | - | NL |
-| 02 | IOC KickOff Call | 10-01-2019 | - | - | NL |
-| 03.a | IOC Pre-Prod Touchbase calls for 30 minutes | 10-01-2019 | - | - | NL |
-| 03.b | Prepare IOC Docs | 10-01-2019 | - | - | NL |
-| 03.c | Get Concurrence to go to Production | 10-01-2019 | - | - | NL |
-| 03.d | Get Release Agent approval to go to Production | 10-01-2019 | - | - | NL |
-| 03.e | Get CD2 approval to go to Production | 10-01-2019 | - | - | NL |
-| 04.a | IOC Production Touchbase calls for 30 minutes | 10-01-2019 | - | - | NL |
-| 04.b | Update IOC Docs from Production testing results | 10-01-2019 | - | - | NL |
-| 04.c | Get Concurrence for National Release | 10-01-2019 | - | - | NL |
-| 04.d | Get Release Agent approval for National Release | 10-01-2019 | - | - | NL |
-| 04.e | Get CD2 approval for National Release | 10-01-2019 | - | - | NL |
-
-
-
-
-# PWS Dashboard
-Documents, milestones, and deliverables schedule for Product Work Statement (PWS)
-
-* [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS)
-* [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)
-
-
-| PWS/CLIN# | Document (link) | Due (Date) | Completed (Date) | Approved (Date) | Status |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|PWS 5.1.6 | [Project KickOff Meeting Minutes](/Documents/source/VAM2_Technical_Kickoff_Meeting_Notes_02-06-2019.md) | 02-06-2019 | 02-06-2019 | - | Done |
-|0001AA | [Contractor_Management_Project_Plan March 2019](/Documents/source/VAM2_CLIN%200001AA_Contractor_Project_Management_Plan_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
-|0001AA | [Contractor_Management_Project_Plan April 2019](/Documents/source/CLIN0001AA%20VAM2%20Contractor%20Project%20Management%20Plan_v1.1%20-%2004-03-2019.docx) | 04-03-2019 | 04-03-2019 | - | Done |
-|0001AB | [Monthly_Progress_Report March 2019](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
-|0001AB | [Monthly_Progress_Report April 2019](/Documents/source/CLIN0001AB%20VAM2%20Monthly%20Progress%20Report_04-03-2019.docx) | 04-03-2019 | 04-03-2019 | - | Done |
-|0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
-|0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
-|0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
-|0001AF | Onboarding Status Report to COR | 03-27-2019 | 03-27-2019 | - | Done |
-|0002AA | Comprehensive RPC Interface Audit Report | 05-02-2019 | - | - | - |
-|0002AB | Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition | 05-02-2019 | - | - | - | 
-|0002AC | Version Description Document (VDD) | 05-02-2019 | - | - | - | 
-|0002AD | Automated CloudWatch Configuration | 05-02-2019 | - | - | - | 
-|0002AE | Security Vulnerability Report | 05-02-2019 | - | - | - |  
-|0003AA | [Master Test Plan March 2019](/Documents/pws/Master_Test_Plan.md) | 03-04-2019 | 03-04-2019 | - | Done |
-|0003AA | [Master Test_Plan April 2019](/Documents/pws/CLIN0003AA%20Master%20Test%20Plan%2004-03-2019.docx) | 04-03-2019 | 04-03-2019 | - | Done |
-|0003AB | RPC Interface Test Suite | 05-02-2019 | - | - | - |  
-|0005AA | Production Operations Manual (POM) | 05-02-2019 | - | - | - |  
-|0005AB | Deployment and Installation Guide | 05-02-2019 | - | - | - |  
-|0005AC | User Manual | 05-02-2019 | - | - | - |  
-|0006AA | Capacity, Performance, and Scalability Assessment for National Deployment | 01-31-2020 | - | - | - |  
 
 # Weekly Progress Reports
 |Week # | Report (link) | Key Discussion Points| Meeting Date | Notes Completed (Date) | Notes Approved (Date) | Status |
