@@ -46,14 +46,15 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Documentation Dashboard (11)
 
-|SOP (Link)  | Document / Task (Link) | #Questions/Tasks |  #Completed | #Validated | Issues (Link)|
+|SOP (Link)  | Document / Task (Link) | #Questions/Tasks (highlighted blue) |  #Completed (highlighted yellow) | #Validated | Issues (Link)|
 |:---:|:----:|:---:|:---|:---:|:---:|
 | [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan | N/A | 400+ | 284 | [SSP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/29) |
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment | N/A | N/A | N/A | N/A |
+| [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority | ?? | ?? | ?? | [SA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/30) |
+
 
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | #Pages  | #Questions/Tasks |  #Answered | --- | --- | --- | --- |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa) | [SA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/30)  | Signatory Authority | 05-01-2019 | 04-05-2019 | - | NL | - | 3 | 1 |
 | [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	    | [RA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/31)  | Risk Assessment | 05-01-2019 | - | - | NL | 3-Sections </br> 2-Appendices | - | 21 |
 | [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | [CMP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/32) | Configuration Management Plan | 05-01-2019 | 04-12-2019 | - | NL | 3-Sections </br> 9-Appendices | - | 37 |
 | [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | [IRP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/33)	| Incident Response Plan | 05-01-2019 | 04-12-2019 | - | NL | 8-Sections </br> 3-Appendices | - | 39 |
