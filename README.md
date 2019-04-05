@@ -62,18 +62,18 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 
 ## ATO Technical / Testing Dashboard (9)
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
-|:---:|:----:|:---:|:---|:---:|:---:|:---:|
-| [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan) | Nessus scan | Nessus scan | 05-01-2019 | - | - | NL |
-| [4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| DB Scan | Database scan	| 05-01-2019 | - | - | NL |
-| [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr) | QCR (V&V) | Quaility Code Review (Verification & Validation) | 05-01-2019 | - | - | NL |
-| [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr) | SCR | Secure Code Review | 05-01-2019 | - | - | NL |
-| [4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa) | PT/AA | Penetration Test / Application Assessment | 05-01-2019 | - | - | NL |
-| | WASA | WASA | 05-01-2019 | - | - | NL |
-| [4.3.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#435-tt5-security-configuration-compliance-data-sccd) | SCCD	| Security Configuration Compliance Data | 05-01-2019 | - | - | NL |
-| [4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca) | SCA	| Security Control Assessment | 05-01-2019 | - | - | NL |
-| [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | CIE	| Control Implementation Evidence | 05-01-2019 | - | - | NL |
-| [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | EDS | Enterprise Discovery Scan | 05-01-2019 | - | - | NL |
+|SOP (Link)  |Technical / Task (Link) | Due (Date) |
+|:---:|:----:|:---:|
+| [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan) | Nessus scan | ?|
+| [4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| DB Scan | Database scan	|? |
+| [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr) | QCR - Quaility Code Review (Verification & Validation) | ? |
+| [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr) | SCR - Secure Code Review | ? |
+| [4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa) | Pen Test / Application Assessment | ? |
+| | WASA | WASA | ? |
+| [4.3.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#435-tt5-security-configuration-compliance-data-sccd) | SCCD - Security Configuration Compliance Data | ? |
+| [4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca) | SCA - Security Control Assessment | ? |
+| [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | CIE - Control Implementation Evidence | ? |
+| [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | EDS - Enterprise Discovery Scan | ? |
 
 ## ATO Other Documents and Tasks
 
