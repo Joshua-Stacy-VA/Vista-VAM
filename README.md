@@ -46,18 +46,18 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Documentation Dashboard (11)
 
-|SOP (Link)  | Document / Task (Link) | #Questions/Tasks (blue) |  #Completed (yellow) | #Validated | Issues (Link)|
+|SOP (Link)  | Document / Task (Link) | Pages / Sections | #Questions/Tasks (blue) |  #Completed (yellow) | #Validated / Approved | 
 |:---:|:----:|:---:|:---|:---:|:---:|
-| [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan | N/A | 400+ | 284 | [SSP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/29) |
-| [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment | N/A | N/A | N/A | N/A |
-| [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority | ?? | ?? | ?? | [SA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/30) |
+| [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan | N/A: RiskVision | 400+ | 284 | ?? | 
+| [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment | N/A | N/A | N/A | N/A | 
+| [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority | # / # | ?? | ?? | ?? |
+| [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment | # / # |  ?? | ?? | ?? |
+| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan | 37 / 3 | ?? | ?? | ?? |
+| [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan | 39 / 8| ?? | ?? | ?? |
 
 
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | #Pages  | #Questions/Tasks |  #Answered | --- | --- | --- | --- |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	    | [RA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/31)  | Risk Assessment | 05-01-2019 | - | - | NL | 3-Sections </br> 2-Appendices | - | 21 |
-| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | [CMP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/32) | Configuration Management Plan | 05-01-2019 | 04-12-2019 | - | NL | 3-Sections </br> 9-Appendices | - | 37 |
-| [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | [IRP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/33)	| Incident Response Plan | 05-01-2019 | 04-12-2019 | - | NL | 8-Sections </br> 3-Appendices | - | 39 |
 | [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | [ISCP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/38)  | Informaton Security Contingency Plan | 05-01-2019 | 04-12-2019 | - | NL | 7-Sections </br> 16-Appendices | - | 62 |
 | [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | [DRP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/34)	| Disaster Recovery Plan | 05-01-2019 | 04-12-2019 |  - | NL | 6-Sections </br> 9-Appendices | - | 46 |
 |  | PTA	| PTA | 05-01-2019 | 04-05-2019 |  - | NL | - | 10 | 7 |
