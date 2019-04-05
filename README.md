@@ -36,11 +36,11 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Registration Dashboard (3)
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
+|SOP (Link)  | Issue (Link)| Document / Task (Link) |Assigned | Completed (Date)|
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
-| [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | 05-01-2019 | - | - | NL |
-| [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | RiskVistion System Inventory Checklist | 05-01-2019 | - | - | NL |
-| [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration | 05-01-2019 | - | - | NL |
+| [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | NL | ?? |
+| [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | RiskVistion System Inventory Checklist | NL | ?? |
+| [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration | NL | ??|
 
 
 ## ATO Documentation Dashboard (11)
