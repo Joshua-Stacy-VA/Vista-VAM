@@ -44,9 +44,14 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 
 ## ATO Documentation Dashboard (11)
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | #Pages / #Questions | Drafted (Date) | Approved (Date) | Assigned | Sections | Questions | Pages |
+
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | #Pages |  #Questions/Tasks |  #Answered |
+|:---:|:----:|:---:|:---|:---:|:---:|
+| [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) | [SSP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)	| System Security Plan | N/A | 400+ | 284 |
+
+
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | #Pages  | #Questions/Tasks |  #Answered | --- | --- | --- | --- |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) | [SSP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)	| System Security Plan | 05-01-2019 | 04-12-2019 | - | NL | - | 400 (Approximate) | 284 |
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | MASA	| Minor Application Self Assessment | N/A | N/A | N/A | - | N/A | N/A| N/a |
 | [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa) | [SA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/30)  | Signatory Authority | 05-01-2019 | 04-05-2019 | - | NL | - | 3 | 1 |
 | [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	    | [RA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/31)  | Risk Assessment | 05-01-2019 | - | - | NL | 3-Sections </br> 2-Appendices | - | 21 |
