@@ -46,7 +46,6 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 ## ATO Documentation Dashboard (11)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | #Pages / #Questions | Drafted (Date) | Approved (Date) | Assigned |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
-|  | Security Impact Analysis	| Security Impact Analysis | 05-01-2019 | 04-05-2019 | - | NL |
 | [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) | [SSP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)	| System Security Plan | 05-01-2019 | 04-12-2019 | - | NL |
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | MASA	| Minor Application Self Assessment | N/A | N/A | N/A | NL |
 | [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa) | [SA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/30)  | Signatory Authority | 05-01-2019 | 04-05-2019 | - | NL |
@@ -59,7 +58,6 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | [PIA](https://github.com/vistadataproject/VAM2ProjectManagement/issues/35)	| Privacy Impact Assessment | 05-01-2019 | - | - | NL |
 | [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou)	| [ISA/MOU](https://github.com/vistadataproject/VAM2ProjectManagement/issues/36)  | Interconnection Security Agreeement / Memorandum of Understanding | 05-01-2019 | - | - | NL |
 | [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr) | [SDR](https://github.com/vistadataproject/VAM2ProjectManagement/issues/37)  | Secure Design Review | 05-01-2019 | - | - | NL |
-|  | ESCCB Request portal for external connections	| Does NOT APLLY to VAM2 ATO | - | - |  - | NL |
 
 
 ## ATO Technical / Testing Dashboard (9)
@@ -79,17 +77,11 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 ## ATO Other Tasks
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
-|  | Security Documentation/Controls with the GRC Assessment- Answering the Security Control inside GRC | Completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | NL |
-|  | Authorization  SOP | Authorization  SOP | 05-01-2019 | - | - | NL |
-|  | POAM Management Guide | POAM Management Guide | 05-01-2019 | - | - | NL |
-|  | Application to Risk Vision Workgroup | Application to Risk Vision Workgroup | 05-01-2019 | - | - | NL |
+|  | Security Impact Analysis	| Security Impact Analysis | 05-01-2019 | 04-05-2019 | - | NL |
+|  | Answering the Security Control Q&A in RV | To be completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | NL |
 |  | Application Registration in VASI | Application Registration in VASIP | 05-01-2019 | - | - | NL |
-|  | Application Registration for COTS VA Applications | Application Registration for COTS VA Applications | 05-01-2019 | - | - | NL |
 |  | Request VA Privacy Officer to be assigned | - | 05-01-2019 | - | - | CO |
-|  | Access to Risk Vision and Training After entry into RV | - | 05-01-2019 | - | - | NL |
 |  | System Classification (High, Moderate, Low) entered into Risk Vision | - | 05-01-2019 | - | - | NL |
-|  | Major Change to GSS/MA | Major Change to GSS/MA | 05-01-2019 | - | - | NL |
-|  | VAEC/ECS Request  | VAEC/ECS Request  | 05-01-2019 | - | - | NL |
 |  | System Owner Attestation Template | System Owner Attestation Template | 05-01-2019 | - | - | NL |
 |  | System Owner Responsibilities Template | System Owner Responsibilities Template | 05-01-2019 | - | - | NL |
 
