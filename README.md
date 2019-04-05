@@ -78,7 +78,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned | Sections | Questions | Pages |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---|
 |  | Security Impact Analysis	| Security Impact Analysis | 05-01-2019 | 04-05-2019 | - | NL | Intro </br> Cover </br> Page 1 </br> Page 2 </br> Page 3 </br> Page 4 </br> Secure Family </br> 800-600 Info Type  **TOTAL** | 0 </br> 7 </br> 14 </br> 14 </br> 15 </br> 13 </br> 10 </br> 10 </br> 172 </br> **245** | 21 |
-|  | Answering the Security Control Q&A in RV | To be completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | NL |
+|  | Answering the Security Control Q&A in RV | To be completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | NL | - | - | - |
 |  | Application Registration in VASI | Application Registration in VASIP | 05-01-2019 | - | - | NL | - | - | - |
 |  | Request VA Privacy Officer to be assigned | - | 05-01-2019 | - | - | CO | - | - | - |
 |  | System Classification (High, Moderate, Low) entered into Risk Vision | - | 05-01-2019 | - | - | NL | - | - | - |
