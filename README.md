@@ -33,32 +33,18 @@ Documents, milestones, and deliverables schdedule for Authority to Operate (ATO)
 * [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)
 * [ATO Documents](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/ATO)
 
+NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Registration Dashboard (3)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
-|  | Authorization  SOP | Authorization  SOP | 05-01-2019 | - | - | NL |
-|  | POAM Management Guide | POAM Management Guide | 05-01-2019 | - | - | NL |
-|  | Application to Risk Vision Workgroup | Application to Risk Vision Workgroup | 05-01-2019 | - | - | NL |
-|  | Application Registration in VASI | Application Registration in VASIP | 05-01-2019 | - | - | NL |
-|  | Application Registration for COTS VA Applications | Application Registration for COTS VA Applications | 05-01-2019 | - | - | NL |
-|  | Request VA Privacy Officer to be assigned | - | 05-01-2019 | - | - | CO |
-|  | Access to Risk Vision and Training After entry into RV | - | 05-01-2019 | - | - | NL |
-|  | System Classification (High, Moderate, Low) entered into Risk Vision | - | 05-01-2019 | - | - | NL |
-|  | Major Change to GSS/MA | Major Change to GSS/MA | 05-01-2019 | - | - | NL |
-|  | VAEC/ECS Request  | VAEC/ECS Request  | 05-01-2019 | - | - | NL |
-|  | System Owner Attestation Template | System Owner Attestation Template | 05-01-2019 | - | - | NL |
-|  | System Owner Responsibilities Template | System Owner Responsibilities Template | 05-01-2019 | - | - | NL |
 | [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | 05-01-2019 | - | - | NL |
 | [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | RiskVistion System Inventory Checklist | 05-01-2019 | - | - | NL |
 | [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration | 05-01-2019 | - | - | NL |
-|  | Security Documentation/Controls with the GRC Assessment- Answering the Security Control inside GRC | Completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | NL |
-
-NL = Nilesh Lal; CO = Cheryl Owsley
 
 
 ## ATO Documentation Dashboard (11)
-|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | #Pages / #Questions | Drafted (Date) | Approved (Date) | Assigned |
 |:---:|:----:|:---:|:---|:---:|:---:|:---:|
 |  | Security Impact Analysis	| Security Impact Analysis | 05-01-2019 | 04-05-2019 | - | NL |
 | [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) | [SSP](https://github.com/vistadataproject/VAM2ProjectManagement/issues/29)	| System Security Plan | 05-01-2019 | 04-12-2019 | - | NL |
@@ -90,6 +76,22 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | CIE	| Control Implementation Evidence | 05-01-2019 | - | - | NL |
 | [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | EDS | Enterprise Discovery Scan | 05-01-2019 | - | - | NL |
 
+## ATO Other Tasks
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
+|:---:|:----:|:---:|:---|:---:|:---:|:---:|
+|  | Security Documentation/Controls with the GRC Assessment- Answering the Security Control inside GRC | Completed in RV by System Stewards/System Owner with ISSO Review | 05-01-2019 | - | - | NL |
+|  | Authorization  SOP | Authorization  SOP | 05-01-2019 | - | - | NL |
+|  | POAM Management Guide | POAM Management Guide | 05-01-2019 | - | - | NL |
+|  | Application to Risk Vision Workgroup | Application to Risk Vision Workgroup | 05-01-2019 | - | - | NL |
+|  | Application Registration in VASI | Application Registration in VASIP | 05-01-2019 | - | - | NL |
+|  | Application Registration for COTS VA Applications | Application Registration for COTS VA Applications | 05-01-2019 | - | - | NL |
+|  | Request VA Privacy Officer to be assigned | - | 05-01-2019 | - | - | CO |
+|  | Access to Risk Vision and Training After entry into RV | - | 05-01-2019 | - | - | NL |
+|  | System Classification (High, Moderate, Low) entered into Risk Vision | - | 05-01-2019 | - | - | NL |
+|  | Major Change to GSS/MA | Major Change to GSS/MA | 05-01-2019 | - | - | NL |
+|  | VAEC/ECS Request  | VAEC/ECS Request  | 05-01-2019 | - | - | NL |
+|  | System Owner Attestation Template | System Owner Attestation Template | 05-01-2019 | - | - | NL |
+|  | System Owner Responsibilities Template | System Owner Responsibilities Template | 05-01-2019 | - | - | NL |
 
 
 # IOC Dashboard
