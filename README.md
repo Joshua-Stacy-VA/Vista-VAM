@@ -46,7 +46,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Documentation Dashboard (11)
 
-|SOP (Link)  | Document / Task (Link) | Pages / Sections | #Queries (blue) |  #Answers (yellow) | #Validated  | 
+|SOP (Link)  | Document / Task (Link) | Pages / Sections | #Queries / Tasks |  #Completed | #Validated  | 
 |:---:|:----|:---:|:---|:---:|:---:|
 | [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan (SSP) | N/A: RiskVision | 400+ | 284 | ?? | 
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment (MASA) | N/A | N/A | N/A | N/A | 
