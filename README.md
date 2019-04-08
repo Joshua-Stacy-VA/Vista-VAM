@@ -41,7 +41,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 |:---:|:----:|:---:|:---|:---:|
 | [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | NL | ?? |
 | [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | RiskVistion System Inventory Checklist | NL | ?? |
-| [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration | NL | ??|
+| [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration in VASI | NL | ??|
 
 
 ## ATO Documentation Dashboard (11)
@@ -79,12 +79,11 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 | Document / Task (Link) | Pages / Sections | #Queries (blue) |  #Answers (yellow) | #Validated  | 
 |:---|:----:|:---:|:---:|:---:|
-| Security Impact Analysis	| ? / ? | ? | ? | ? |
-| Application Registration in VASI | ? / ? | ? | ? | ? |
+| SIA - Security Impact Analysis	| ? / ? | ? | ? | ? |
+| SSC - System Security Classification (High, Moderate, Low) in Risk Vision | ? / ? | ? | ? | ? |
+| SOA - System Owner Attestation  | ? / ? | ? | ? | ? |
+| SOR - System Owner Responsibilities  | ? / ? | ? | ? | ? |
 | Request VA Privacy Officer to be assigned | ? / ? | ? | ? | ? |
-| System Classification (High, Moderate, Low) in Risk Vision | ? / ? | ? | ? | ? |
-| System Owner Attestation Template | ? / ? | ? | ? | ? |
-| System Owner Responsibilities Template | ? / ? | ? | ? | ? |
 
 
 # Weekly Progress Reports
