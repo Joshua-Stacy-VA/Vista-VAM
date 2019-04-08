@@ -80,7 +80,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | Document / Task (Link) | Pages / Sections | #Queries (blue) |  #Answers (yellow) | #Validated  | 
 |:---|:----:|:---:|:---:|:---:|
 | SIA - Security Impact Analysis	| ? / ? | ? | ? | ? |
-| SSC - System Security Classification (High, Moderate, Low) in Risk Vision | ? / ? | ? | ? | ? |
+| SSC - System Security Classification | ? / ? | ? | ? | ? |
 | SOA - System Owner Attestation  | ? / ? | ? | ? | ? |
 | SOR - System Owner Responsibilities  | ? / ? | ? | ? | ? |
 | Request VA Privacy Officer to be assigned | ? / ? | ? | ? | ? |
