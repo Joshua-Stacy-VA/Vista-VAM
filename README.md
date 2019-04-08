@@ -50,13 +50,13 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 |:---:|:----|:---:|:---|:---:|:---:|
 | [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan (SSP) | N/A: RiskVision | 400+ | 284 | ?? | 
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment (MASA) | N/A | N/A | N/A | N/A | 
-| [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority (SA) | ? / ? | ? | ? | ? |
-| [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment (RA) | ? / ? |  ? | ? | ? |
+| [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority (SA) | 1 / - | ? | ? | ? |
+| [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment (RA) | 22 / 4 |  ? | ? | ? |
 | [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | ? | ? | ? |
 | [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan (IRP)  | 39 / 8| ? | ? | ? |
 | [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Informaton Security Contingency Plan (ISCP)  | 62 / 7 | ? | ? | ? |
 | [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan (DRP) | 46 / 6 | ? | ? | ? |
-| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | ? / 8 | ? | ? | ? |
+| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | ? | ? | ? |
 | [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreeement / Memorandum of Understanding (ISA/MOU) | ? / ? | ? | ? | ? |
 | [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | ? / ? | ? | ? | ? |
 
