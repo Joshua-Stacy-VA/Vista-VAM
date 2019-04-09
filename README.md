@@ -45,19 +45,19 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Documentation Dashboard (11)
 
-|SOP (Link)  | Document / Task (Link) | Pages / Sections | #Queries / Tasks |  #Completed | #Validated  | 
-|:---:|:----|:---:|:---|:---:|:---:|
-| [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan (SSP) | N/A: RiskVision | 400+ | 284 | ?? | 
-| [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment (MASA) | N/A | N/A | N/A | N/A | 
-| [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority (SA) | 1 / - | ? | ? | ? |
-| [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment (RA) | 22 / 4 |  ? | ? | ? |
-| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | ? | ? | ? |
-| [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan (IRP)  | 39 / 8| ? | ? | ? |
-| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Informaton Security Contingency Plan (ISCP)  | 62 / 7 | ? | ? | ? |
-| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan (DRP) | 46 / 6 | ? | ? | ? |
-| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | ? | ? | ? |
+|SOP (Link)  | Document / Task (Link) | Pages | #Queries / Tasks | #Completed | #Validated | Signatures | 
+|:---:|:----|:---:|:---|:---:|:---:|:---:|
+| [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan (SSP) | 284 / RiskVision | 400+ | 400+ | - | N/A |
+| [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment (MASA) | N/A | N/A | N/A | N/A | N/A |
+| [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority (SA) | 1 / - | - | - | - | SO, </br> ISO |
+| [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment (RA) | 22 / 4 |  15 | 15 | - | N/A |
+| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | 60+ | 60+ | - | ECSO, </br> ISO |
+| [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan (IRP)  | 39 / 8| 100+ | 100+ | - | SO, </br> SCIO, </br> ISO, </br> PO | 
+| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Informaton Security Contingency Plan (ISCP)  | 62 / 7 | 115+ | ? | - | ? | 
+| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan (DRP) | 46 / 6 | 75+ | ? | - | ? |
+| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | 35+ | 35+ | ? | PO </br> ISO </br> SO |
 | [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreeement / Memorandum of Understanding (ISA/MOU) | ? / ? | ? | ? | ? |
-| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | ? / ? | ? | ? | ? |
+| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | 9 | - | N/A |
 
 
 ## ATO Technical / Testing Dashboard (9)
@@ -76,13 +76,13 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Other Documents and Tasks
 
-| Document / Task (Link) | Pages / Sections | #Queries (blue) |  #Answers (yellow) | #Validated  | 
-|:---|:----:|:---:|:---:|:---:|
-| SIA - Security Impact Analysis	| ? / ? | ? | ? | ? |
-| SSC - System Security Classification | ? / ? | ? | ? | ? |
-| SOA - System Owner Attestation  | ? / ? | ? | ? | ? |
-| SOR - System Owner Responsibilities  | ? / ? | ? | ? | ? |
-| Request VA Privacy Officer to be assigned | ? / ? | ? | ? | ? |
+| Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Validated  | Signatures |
+|:---|:----:|:---:|:---:|:---:|:---:|
+| SIA - Security Impact Analysis	| 21 | 245 | ? | - | N/A |
+| SSC - System Security Classification | 7 | 12 | - | - | SO </br> ISO |
+| SOA - System Owner Attestation  | 1 | 2 | 2 | - | SO </br> ISO
+| SOR - System Owner Responsibilities  | 2 | 2 | 2 | - | SO |
+| Request VA Privacy Officer to be assigned | ? | ? | ? | ? |
 
 
 # Weekly Progress Reports
