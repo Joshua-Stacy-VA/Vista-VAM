@@ -38,7 +38,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 ## ATO Registration Dashboard (3)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) |Assigned | Completed (Date)|
 |:---:|:----:|:---:|:---|:---:|
-| [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | NL | ?? |
+| [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | NL / CO | 04-09-2019 |
 | [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | System Inventory Checklist (RiskVision) | NL | ?? |
 | [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration (VASI) | NL | ??|
 
@@ -82,7 +82,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | SSC - System Security Classification | 7 | 12 | - | 04-08-2019 | SO </br> ISO |
 | SOA - System Owner Attestation  | 1 | 2 | 2 | 04-08-2019 | SO </br> ISO
 | SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-08-2019 | SO |
-| Request VA Privacy Officer to be assigned | ? | ? | ? | ? |
+| Request VA Privacy Officer to be assigned | Email Request| - | - | - | VA PM |
 | SDD - System Design Document | 3 | 12 | 12 | ? | N/A |
 | PTA - Privacy Threshold Analysis | 6 | 15 | 15 | - | PO </br> SO </br> PM |
 | BIA - Business Impact Analysis | 7 | 16 | 16 | 04-08-2010 | PM </br> SO |
