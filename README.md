@@ -83,6 +83,9 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | SOA - System Owner Attestation  | 1 | 2 | 2 | 04-08-2019 | SO </br> ISO
 | SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-08-2019 | SO |
 | Request VA Privacy Officer to be assigned | ? | ? | ? | ? |
+| SDD - System Design Document | 3 | 12 | 12 | ? | N/A |
+| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | - | PO </br> SO </br> PM |
+| BIA - Business Impact Analysis | 7 | 16 | 16 | 04-08-2010 | PM </br> SO |
 
 
 # Weekly Progress Reports
