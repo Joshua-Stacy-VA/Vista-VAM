@@ -36,7 +36,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 
 ## ATO Registration Dashboard (3)
-|SOP (Link)  | Issue (Link)| Document / Task (Link) |Assigned | Completed (Date)|
+|SOP (Link)  | Issue (Link)| Document / Task (Link) | Assigned | Completed (Date)|
 |:---:|:----:|:---:|:---|:---:|
 | [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | NL / CO | 04-09-2019 |
 | [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | System Inventory Checklist (RiskVision) | NL | ?? |
@@ -47,17 +47,17 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 |SOP (Link)  | Document / Task (Link) | Pages | #Queries / Tasks | #Completed | #Validated | Signatures | 
 |:---:|:----|:---:|:---|:---:|:---:|:---:|
-| [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan (SSP) | 284 / RiskVision | 400+ | 400+ | - | N/A |
+| [4.2.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#421-sd1-system-security-plan-ssp) 	| System Security Plan (SSP) | 284 / RiskVision | 400+ | - | - | N/A |
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment (MASA) | N/A | N/A | N/A | N/A | N/A |
 | [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority (SA) | 1 / - | - | - | - | SO, </br> ISO |
-| [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment (RA) | 22 / 4 |  15 | 15 | 04-08-2019 | N/A |
-| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | 60+ | 60+ | - | ECSO, </br> ISO |
-| [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan (IRP)  | 39 / 8| 100+ | 100+ | 04-08-2019 | SO, </br> SCIO, </br> ISO, </br> PO | 
-| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Informaton Security Contingency Plan (ISCP)  | 62 / 7 | 115+ | ? | - | ? | 
-| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan (DRP) | 46 / 6 | 75+ | ? | - | ? |
-| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | 35+ | 35+ | ? | PO </br> ISO </br> SO |
-| [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreeement / Memorandum of Understanding (ISA/MOU) | 9 / 5 | 5 | ? | - | VA PM |
-| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | 9 | - | N/A |
+| [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment (RA) | 22 / 4 |  15 | 04-05-2019 | 04-08-2019 | N/A |
+| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | 60+ | 04-26-2019 | - | ECSO, </br> ISO |
+| [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan (IRP)  | 39 / 8| 100+ | 04-05-2019 | 04-08-2019 | SO, </br> SCIO, </br> ISO, </br> PO | 
+| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Informaton Security Contingency Plan (ISCP)  | 62 / 7 | 115+ | - | - | ? | 
+| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan (DRP) | 46 / 6 | 75+ | 04-26-2019 | - | ? |
+| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | 35+ | - | - | PO </br> ISO </br> SO |
+| [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreeement / Memorandum of Understanding (ISA/MOU) | 9 / 5 | 5 | - | - | VA PM |
+| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | - | - | N/A |
 
 
 ## ATO Technical / Testing Dashboard (9)
@@ -76,16 +76,16 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 ## ATO Other Documents and Tasks
 
-| Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Validated  | Signatures |
-|:---|:----:|:---:|:---:|:---:|:---:|
-| SIA - Security Impact Analysis	| 21 | 245 | ? | - | N/A |
-| SSC - System Security Classification | 7 | 12 | - | 04-08-2019 | SO </br> ISO |
-| SOA - System Owner Attestation  | 1 | 2 | 2 | 04-08-2019 | SO </br> ISO
-| SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-08-2019 | SO |
-| Request VA Privacy Officer to be assigned | Email Request| - | - | PO Assigned on 04-08-2019 | VA PM |
-| SDD - System Design Document | 3 | 12 | 12 | ? | N/A |
-| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | - | PO </br> SO </br> PM |
-| BIA - Business Impact Analysis | 7 | 16 | 16 | 04-08-2010 | PM </br> SO |
+| Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Completed | #Validated  | Signatures |
+|:---|:----:|:---:|:---:|:---:|:---:|:---:|
+| SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A |
+| SSC - System Security Classification | 7 | 12 | - | 04-05-2019 |04-08-2019 | SO </br> ISO |
+| SOA - System Owner Attestation  | 1 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO </br> ISO
+| SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO |
+| Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM |
+| SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A |
+| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM |
+| BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO |
 
 
 # Weekly Progress Reports
@@ -99,3 +99,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 06 | [VAM2-Week-06](/Documents/weekly_meeting_minutes/VAM2-Week06-03-26-2019.md) | RiskVison and RPC Mirroring | 03-26-2019 | 03-27-2019 | 03-27-2019 | :white_check_mark: |
 | 07 | [VAM2-Week-07](/Documents/weekly_meeting_minutes/VAM2-Week07-04-02-2019.md) | ATO Documents | 04-02-2019 | 04-03-2019- | 04-03-2019 | :white_check_mark: |
 | 08 | [VAM2-Week-08](/Documents/weekly_meeting_minutes/VAM2-Week08-04-09-2019.md) | ATO Documents | 04-09-2019 | 04-10-2019- | 04-10-2019 | :white_check_mark: |
+| 08 | [VAM2-Week-09]() | ATO Documents | 04-16-2019 | 04-17-2019- | 04-17-2019 | - |
