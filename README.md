@@ -83,7 +83,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A | Pending Review |
 | SSC - System Security Classification | 7 | 12 | - | 04-05-2019 |04-08-2019 | SO </br> ISO | Pending Review |
 | SOA - System Owner Attestation  | 1 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO </br> PM | Awaiting SO Signature |
-| SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | Awaiting SO Signatures |
+| SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | Awaiting SO Signature |
 | Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM | PO Assigned |
 | SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A | Pending Review |
 | PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM </br> PIA Support | Awaiting Signatures |
