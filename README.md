@@ -14,7 +14,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 23 | 1 | 4% | :large_orange_diamond: | 
 [IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 8 | 45% | :white_check_mark: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 8 | 16% | :white_check_mark: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 9 | 18% | :white_check_mark: | 
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
@@ -101,4 +101,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 06 | [VAM2-Week-06](/Documents/weekly_meeting_minutes/VAM2-Week06-03-26-2019.md) | RiskVision and RPC Mirroring | 03-26-2019 | 03-27-2019 | 03-27-2019 | :white_check_mark: |
 | 07 | [VAM2-Week-07](/Documents/weekly_meeting_minutes/VAM2-Week07-04-02-2019.md) | ATO Documents | 04-02-2019 | 04-03-2019- | 04-03-2019 | :white_check_mark: |
 | 08 | [VAM2-Week-08](/Documents/weekly_meeting_minutes/VAM2-Week08-04-09-2019.md) | ATO Documents | 04-09-2019 | 04-10-2019- | 04-10-2019 | :white_check_mark: |
-| 08 | [VAM2-Week-09]() | ATO Documents | 04-16-2019 | 04-17-2019- | 04-17-2019 | - |
+| 08 | [VAM2-Week-09](/Documents/weekly_meeting_minutes/VAM2-Week09-04-16-2019.md) | ATO Documents | 04-16-2019 | 04-17-2019- | 04-17-2019 | - |
