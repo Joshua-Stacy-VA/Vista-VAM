@@ -85,7 +85,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | SOA - System Owner Attestation  | 1 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO </br> PM | Next Steps: Awaiting SO Signature |
 | SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | Next Steps: Awaiting SO Signature |
 | Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM | PO Assigned |
-| SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A | Next Steps: Pending Techniocal Team Review |
+| SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A | Next Steps: Pending Technical Team Review |
 | PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM </br> PIA Support | Next Steps: Awaiting PO, SO, PM, PIA Support Signatures |
 | BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | Next Steps: Pending Review by Dr. Richards |
 
