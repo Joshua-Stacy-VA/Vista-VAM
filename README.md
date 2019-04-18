@@ -81,7 +81,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Completed | #Validated  | Signatures | Status |
 |:---|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 | SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A | Next Steps:  Pending Review by Dr. Richards |
-| SSC - System Security Classification | 7 | 12 | - | 04-05-2019 |04-08-2019 | SO </br> ISO | Next Steps: Pending Review by Bobbie |
+| SSC - System Security Classification | 7 | 12 | - | 04-05-2019 |04-08-2019 | SO </br> ISO | Next Steps: Pending Review by Bobbi |
 | SOA - System Owner Attestation  | 1 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO </br> PM | Next Steps: Awaiting SO Signature |
 | SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | Next Steps: Awaiting SO Signature |
 | Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM | PO Assigned |
