@@ -101,4 +101,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 06 | [VAM2-Week-06](/Documents/weekly_meeting_minutes/VAM2-Week06-03-26-2019.md) | RiskVision and RPC Mirroring | 03-26-2019 | 03-27-2019 | 03-27-2019 | :white_check_mark: |
 | 07 | [VAM2-Week-07](/Documents/weekly_meeting_minutes/VAM2-Week07-04-02-2019.md) | ATO Documents | 04-02-2019 | 04-03-2019- | 04-03-2019 | :white_check_mark: |
 | 08 | [VAM2-Week-08](/Documents/weekly_meeting_minutes/VAM2-Week08-04-09-2019.md) | ATO Documents | 04-09-2019 | 04-10-2019- | 04-10-2019 | :white_check_mark: |
-| 08 | [VAM2-Week-09](/Documents/weekly_meeting_minutes/VAM2-Week09-04-16-2019.md) | ATO Documents | 04-16-2019 | 04-17-2019- | 04-17-2019 | :white_check_mark: |
+| 09 | [VAM2-Week-09](/Documents/weekly_meeting_minutes/VAM2-Week09-04-16-2019.md) | ATO Documents | 04-16-2019 | 04-17-2019- | 04-17-2019 | :white_check_mark: |
