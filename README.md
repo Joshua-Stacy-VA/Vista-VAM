@@ -39,8 +39,8 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Assigned | Completed (Date)|
 |:---:|:----:|:---:|:---|:---:|
 | [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | NL / CO | 04-09-2019 |
-| [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | System Inventory Checklist (RiskVision) | NL | ?? |
-| [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration (VASI) | NL | ??|
+| [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | System Inventory Checklist (RiskVision) | NL | 04-02-2019 |
+| [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration (VASI) | NL | 02/01/2019 (Inherited) |
 
 
 ## ATO Documentation Dashboard (11)
