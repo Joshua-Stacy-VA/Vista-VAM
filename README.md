@@ -76,7 +76,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | Enterprise Discovery Scan | ? |
 | | WASA | WASA | ? |
 
-## ATO Other Documents and Tasks
+## ATO Other Documents and Tasks (8)
 
 | Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Completed | #Validated  | Signatures | Status |
 |:---|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
