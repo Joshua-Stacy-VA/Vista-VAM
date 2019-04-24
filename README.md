@@ -102,4 +102,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 07 | [VAM2-Week-07](/Documents/weekly_meeting_minutes/VAM2-Week07-04-02-2019.md) | ATO Documents | 04-02-2019 | 04-03-2019- | 04-03-2019 | :white_check_mark: |
 | 08 | [VAM2-Week-08](/Documents/weekly_meeting_minutes/VAM2-Week08-04-09-2019.md) | ATO Documents and RiskVision | 04-09-2019 | 04-10-2019- | 04-10-2019 | :white_check_mark: |
 | 09 | [VAM2-Week-09](/Documents/weekly_meeting_minutes/VAM2-Week09-04-16-2019.md) | ATO Documents and 05-02-2019 Deliverables | 04-16-2019 | 04-17-2019- | 04-17-2019 | :white_check_mark: |
-| 10 | [VAM2-Week-10]() | ATO Documents | 04-23-2019 | 04-24-2019- | - | - |
+| 10 | [VAM2-Week-10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/Documents/weekly_meeting_minutes/VAM2-Week10-04-23-2019.md) | ATO Documents | 04-23-2019 | 04-24-2019- | 04-24-2019 | :white_check_mark: |
