@@ -57,7 +57,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan (DRP) | 46 / 6 | 75+ | 04-26-2019 | - | PO </br> SO </br> ISO </br> PM | Next Steps:  Pending Review by Cheryl |
 | [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | 35+ | - | - | PO </br> ISO </br> SO | Next Steps:  Pending Review by Cheryl |
 | [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU) | 9 / 5 | 5 | - | - | VA PM | MOU is NOT Applicable for obtaining VAM ATO |
-| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | - | - | N/A | Next Steps: As per the VA Secure Design Review SOP, Register the Application with VA SWA Program Office |
+| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | - | - | N/A | Registeration Approved by VA OIS SWA Program Office </br> </br> Threat Model pending review by Development Team |
 
 
 
