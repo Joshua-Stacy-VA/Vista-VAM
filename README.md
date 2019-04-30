@@ -51,13 +51,13 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment (MASA) | N/A | N/A | N/A | N/A | N/A | N/A |
 | [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority (SA) | 1 / - | - | - | - | SO, </br> ISO | Next Steps: Will be signed after SSP Approval |
 | [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment (RA) | 22 / 4 |  15 | 04-05-2019 | 04-08-2019 | N/A | Current Version Reviewed by Dr. Richards.  </br> </br> Continuous Updates Required till end of ATO cycle |
-| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | 60+ | 04-26-2019 | - | SO </br> ISO </br> PM | Next Step: Pending Review by Cheryl |
-| [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan (IRP)  | 39 / 8| 100+ | 04-05-2019 | 04-08-2019 | SO, </br> SCIO, </br> ISO, </br> PO | Next Steps: Pending Review by Cheryl |
-| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Information Security Contingency Plan (ISCP)  | 62 / 7 | 115+ | - | - | PO </br> ISO </br> SO </br> PM | Next Steps:  Pending Review by Cheryl |
-| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan (DRP) | 46 / 6 | 75+ | 04-26-2019 | - | PO </br> SO </br> ISO </br> PM | Next Steps:  Pending Review by Cheryl |
-| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | 35+ | - | - | PO </br> ISO </br> SO | Next Steps:  Pending Review by Cheryl |
+| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | 60+ | 04-26-2019 | - | SO </br> ISO </br> PM | Next Step: 1) Pending Final Review by Dr. Richards </br> 2) Final Review by Bobbi </br> 3) Signature by SO </br> 4) Signature by Cheryl </br> 5) Signature by Bobbi  |
+| [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan (IRP)  | 39 / 8| 100+ | 04-05-2019 | 04-08-2019 | SO, </br> ISO  | Next Steps: 1) Pending Final Review by Dr. Richards </br> 2) Final Review by Bobbi </br> 3) Signature by SO </br> 4) Signature by  Bobbi |
+| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Information Security Contingency Plan (ISCP)  | 62 / 7 | 115+ | - | - | PO </br> ISO </br> SO </br> PM | Next Steps: 1) Pending Final Review by Dr. Richards </br> 2) Final Review by Bobbi </br> 3) Signature by SO </br> 4) Signature by Cheryl </br> 5) Signature of PO, </br> 6) Signature by Bobbi |
+| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disaster Recovery Plan (DRP) | 46 / 6 | 75+ | 04-26-2019 | - | PO </br> SO </br> ISO </br> PM | Next Steps: 1) Pending Final Review by Dr. Richards </br> 2) Final Review by Bobbi </br> 3) Signature by SO </br> 4) Signature by Cheryl </br> 5) Signature of PO, </br> 6) Signature by Bobbi |
+| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | 35+ | - | - | PO </br> ISO </br> SO | Next Steps: 1) Pending Final Review by Dr. Richards </br> 2) Final Review by Bobbi </br> 3) Signature by SO </br> 4) Signature of PO, </br> 5) Signature by Bobbi |
 | [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU) | 9 / 5 | 5 | - | - | VA PM | MOU is NOT Applicable for obtaining VAM ATO |
-| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | - | - | N/A | Registeration Approved by VA OIS SWA Program Office </br> </br> Threat Model pending review by Development Team |
+| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | - | - | N/A | DONE </br> </br> 1) Registeration Approved by VA OIS SWA Program Office </br> </br> 2) Threat Model pending review by Development Team |
 
 
 
@@ -80,14 +80,14 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 | Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Completed | #Validated  | Signatures | Status |
 |:---|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
-| SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A | Next Steps:  Pending Review by Cheryl |
-| SSC - System Security Classification | 7 | 12 | - | 04-05-2019 |04-08-2019 | SO </br> ISO | Next Steps: Pending Review by Cheryl |
-| SOA - System Owner Attestation  | 1 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO </br> PM | Signed by SO and ISO |
-| SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | Signed by SO |
-| Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM | PO Assigned |
-| SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A | Next Steps: Pending Review by Cheryl |
-| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM </br> PIA Support | Signed by PO and SO </br> </br> Next Steps: Awaiting PM, PIA Support Signatures |
-| BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | Next Steps: Pending Review by Cheryl |
+| SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A | Next Steps: 1) Pending Final Review by Dr. Richards |
+| SSC - System Security Classification | 7 | 12 | - | 04-05-2019 |04-08-2019 | SO </br> ISO | Next Steps: 1) Pending Final Review by Dr. Richards </br> 2) Final Review by Bobbi </br> 3) Signature by SO </br> 4) Signature by Bobbi |
+| SOA - System Owner Attestation  | 1 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO </br> ISO | DONE. </br> </br> Signed by SO and ISO |
+| SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | DONE. </br> </br> Signed by SO |
+| Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM | Done. </br> </br> PO Assigned |
+| SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A | Next Steps: Pending Review by Technical Team |
+| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM </br> PIA Support | Aready Approved and Signed by PO but requires a re-signature due to locked document </br> </br> Next Steps: Awaiting SO Signature |
+| BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | Next Steps: 1) Pending Final Review by Dr. Richards </br> 2) Final Review by Bobbi </br> 3) Signature by SO </br> 4) Signature by Cheryl </br> |
 
 
 # Weekly Progress Reports
