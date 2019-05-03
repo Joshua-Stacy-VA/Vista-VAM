@@ -47,15 +47,15 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AF | Onboarding Status Report to COR | 04-30-2019 | 04-30-2019 | - | Done |
-|0002AA | [Comprehensive RPC Interface Audit Report](/RPCDefinitionToolkit/blob/master/Reports/rpcInterfaceDefinition.md) | 05-02-2019 | 05-02-2019 | - | Done |
-|0002AB | [Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition](vistadataproject/RPCDefinitionToolkit/blob/master/Definitions/rpcInterfaceDefinition.bjsn) | 05-02-2019 | 05-02-2019 | - | Done | 
+|0002AA | [Comprehensive RPC Interface Audit Report](https://github.com/vistadataproject/RPCDefinitionToolkit/blob/master/Reports/rpcInterfaceDefinition.md) | 05-02-2019 | 05-02-2019 | - | Done |
+|0002AB | [Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition](https://github.com/vistadataproject/RPCDefinitionToolkit/blob/master/Definitions/rpcInterfaceDefinition.bjsn) | 05-02-2019 | 05-02-2019 | - | Done | 
 |0002AC | [Version Description Document (VDD)](/Documents/source/CLIN0002AC%20VAM%20VDD%20v1%200.docx) | 05-02-2019 | 05-02-2019 | - | Done | 
-|0002AD | [Automated CloudWatch Configuration](/vistadataproject/RPCMirror/wiki/AWS-Configuration) | 05-02-2019 | 05-02-2019 | - | Done | 
-|0002AE | [Security Vulnerability Report](/vistadataproject/RPCDefinitionToolkit/wiki/Security-Vulnerability-Report) | 05-02-2019 | 05-02-2019 | - | Done |  
+|0002AD | [Automated CloudWatch Configuration](https://github.com/vistadataproject/RPCMirror/wiki/AWS-Configuration) | 05-02-2019 | 05-02-2019 | - | Done | 
+|0002AE | [Security Vulnerability Report](https://github.com/vistadataproject/RPCDefinitionToolkit/wiki/Security-Vulnerability-Report) | 05-02-2019 | 05-02-2019 | - | Done |  
 |0003AA | [Master Test Plan March 2019](/Documents/pws/Master_Test_Plan.md) | 03-04-2019 | 03-04-2019 | - | Done |
 |0003AA | [Master Test_Plan April 2019](/Documents/pws/CLIN0003AA%20Master%20Test%20Plan%2004-03-2019.docx) | 04-03-2019 | 04-03-2019 | - | Done |
 |0003AA | [Master Test_Plan May 2019](/Documents/source/CLIN0003AA%20VAM%20Master%20Test%20Plan%20v1%202.docx) | 05-03-2019 | 05-03-2019 | - | Done |
-|0003AB | [RPC Interface Test Suite](/vistadataproject/RPCDefinitionToolkit/tree/master/Test) | 05-02-2019 | 05-02-2019 | - | Done |  
+|0003AB | [RPC Interface Test Suite](https://github.com/vistadataproject/RPCDefinitionToolkit/tree/master/Test) | 05-02-2019 | 05-02-2019 | - | Done |  
 |0005AA | [Production Operations Manual (POM)](/Documents/source/CLIN0005AA%20Production%20Operations%20Manual%20(POM)%20v1%200.docx) | 05-02-2019 | 05-02-2019 | - | Done |  
 |0005AB | [Deployment and Installation Guide](/Documents/source/CLIN0005AB%20Deployment%20and%20Installation%20Guide%20v1%200.docx) | 05-02-2019 | 05-02-2019 | - | Done |  
 |0005AC | [User Manual](/Documents/source/CLIN0005AC%20VAM%20User%20Guide%20v1%200.docx) | 05-02-2019 | 05-02-2109 | - | Done |  
