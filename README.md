@@ -86,7 +86,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | DONE. </br> </br> Signed by SO |
 | Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM | Done. </br> </br> PO Assigned |
 | SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A | Next Steps: Pending Review by Technical Team |
-| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM </br> PIA Support | Aready Approved and Signed by PO but requires a re-signature due to locked document </br> </br> Next Steps: Awaiting SO Signature |
+| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM </br> PIA Support | DONE.  Signed by PO and SO |
 | BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | Next Steps: 1) Pending Final Review by Dr. Richards </br> 2) Final Review by Bobbi </br> 3) Signature by SO </br> 4) Signature by Cheryl </br> |
 
 
