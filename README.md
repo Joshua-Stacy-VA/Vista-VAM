@@ -14,7 +14,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 31 | 20 | 64% | :large_orange_diamond: | 
 [IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 17 | 90% | :white_check_mark: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 14 | 28% | :white_check_mark: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 15 | 30% | :white_check_mark: | 
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
@@ -107,3 +107,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 12 | [VAM2-Week-12](/Documents/weekly_meeting_minutes/VAM2-Week12-05-07-2019.md) | ATO Documents | 05-07-2019 | 05-08-2019- | 05-08-2019 | :white_check_mark: |
 | 13 | [VAM2-Week-13](/Documents/weekly_meeting_minutes/VAM2-Week13-05-14-2019.md) | VAEC Pre-Prod and Prod Environments Build and ATO Docs | 05-14-2019 | 05-15-2019- | 05-15-2019 | :white_check_mark: |
 | 14 | [VAM2-Week-14](Documents/weekly_meeting_minutes/VAM2-Week14-05-21-2019.md) | ATO Scans | 05-21-2019 | 05-22-2019- | 05-22-2019 | :white_check_mark: |
+| 15 | [VAM2-Week-14](/Documents/weekly_meeting_minutes/VAM2-Week15-05-28-2019.md) | Update ATO Documents as per ISO Guidance | 05-28-2019 | 05-29-2019- | 05-29-2019 | :white_check_mark: |
