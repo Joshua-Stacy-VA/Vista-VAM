@@ -107,4 +107,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 12 | [VAM2-Week-12](/Documents/weekly_meeting_minutes/VAM2-Week12-05-07-2019.md) | ATO Documents | 05-07-2019 | 05-08-2019- | 05-08-2019 | :white_check_mark: |
 | 13 | [VAM2-Week-13](/Documents/weekly_meeting_minutes/VAM2-Week13-05-14-2019.md) | VAEC Pre-Prod and Prod Environments Build and ATO Docs | 05-14-2019 | 05-15-2019- | 05-15-2019 | :white_check_mark: |
 | 14 | [VAM2-Week-14](Documents/weekly_meeting_minutes/VAM2-Week14-05-21-2019.md) | ATO Scans | 05-21-2019 | 05-22-2019- | 05-22-2019 | :white_check_mark: |
-| 15 | [VAM2-Week-14](/Documents/weekly_meeting_minutes/VAM2-Week15-05-28-2019.md) | Update ATO Documents as per ISO Guidance | 05-28-2019 | 05-29-2019- | 05-29-2019 | :white_check_mark: |
+| 15 | [VAM2-Week-15](/Documents/weekly_meeting_minutes/VAM2-Week15-05-28-2019.md) | Update ATO Documents as per ISO Guidance | 05-28-2019 | 05-29-2019- | 05-29-2019 | :white_check_mark: |
