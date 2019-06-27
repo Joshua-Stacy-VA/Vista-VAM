@@ -51,13 +51,13 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.2.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#422-sd2-minor-application-self-assessment-masa)	 | Minor Application Self Assessment (MASA) | N/A | N/A | N/A | N/A | N/A | N/A |
 | [4.2.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#423-sd3-signatory-authority-sa)  | Signatory Authority (SA) | 1 / - | - | - | - | SO, </br> ISO | Next Steps: </br> Will be signed after SSP Approval |
 | [4.2.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#424-sd4-risk-assessment-ra)	   | Risk Assessment (RA) | 22 / 4 |  15 | 04-05-2019 | 04-08-2019 | N/A |  In conjunction with SSP, ISO will begin her final review no later than 06-28-2019 provided we have all signatures by SO, PM, PO, BO, and PIA Support Group. "This is Finalizing RV/Security Controls/All of the ATO Documents Uploaded into RV as Evidence. This shall include Available Scans, and System Boundary. |
-| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | 60+ | 04-26-2019 | - | SO </br> ISO </br> PM | Next Step: ISO Review Complete.  </br> </br> Ablevets submitted document for Final Signatures.  </br> </br> Pending Signature by ISO+SO+PM |
+| [4.2.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#425-sd5-configuration-management-plan-cmp) | Configuration Management Plan (CMP)  | 37 / 3 | 60+ | 04-26-2019 | - | SO </br> ISO </br> PM | Next Step: ISO Review Complete.  </br> </br> SIGNED by SO+PM  </br> </br> Pending Signature by ISO |
 | [4.2.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#426-sd6-incident-response-plan-irp) | Incident Response Plan (IRP)  | 39 / 8| 100+ | 04-05-2019 | 04-08-2019 | SO, </br> ISO  | Next Steps: </br> Pending Signatures by SO+ISO.  </br> </br>  In conjunction with SSP, ISO will begin her final review no later than 06-28-2019 provided we have all signatures by SO, PM, PO, BO, and PIA Support Group. "This is Finalizing RV/Security Controls/All of the ATO Documents Uploaded into RV as Evidence. This shall include Available Scans, and System Boundary. |
-| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Information Security Contingency Plan (ISCP)  | 62 / 7 | 115+ | - | - | ISO </br> SO </br> PM | Next Step: ISO Review Complete.  </br> </br> Ablevets submitted document for Final Signatures.  </br> </br> Pending Signature by ISO+SO+PM |
-| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disatser Recovery Plan (DRP) | - | - | - | - | ISO </br> SO </br> PM |  Next Step: ISO Review Complete.  </br> </br> Ablevets submitted document for Final Signatures.  </br> </br> Pending Signature by ISO+SO+PM |
-| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | 35+ | - | - | PO </br> ISO </br> SO | Next Step:PIA Support Group Approved.  </br> </br> Signed by PO </br> </br> Ablevets submitted document for Final Signatures. </br> </br> Pending Signature by ISO+SO |
+| [4.2.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#427-sd7-information-security-contingency-plan-iscp) | Information Security Contingency Plan (ISCP)  | 62 / 7 | 115+ | - | - | ISO </br> SO </br> PM | Next Step: ISO Review Complete.  </br> </br> SIGNED by SO+PM  </br> </br> Pending Signature by ISO |
+| [4.2.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#428-sd8-disaster-recovery-plan-drp) | Disatser Recovery Plan (DRP) | - | - | - | - | ISO </br> SO </br> PM |  Next Step: ISO Review Complete.  </br> </br>SIGNED by SO+PM  </br> </br> Pending Signature by ISO |
+| [4.2.9](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#429-sd9-privacy-impact-assessment-pia) | Privacy Impact Assessment (PIA)  | 21 / 8 | 35+ | - | - | PO </br> ISO </br> SO | Next Step: PIA Support Group Approved.  </br> </br> Signed by PO+SO </br> </br> Pending Signature by ISO |
 | [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU) | 9 / 5 | 5 | - | - | VA PM | MOU is NOT Applicable for obtaining VAM ATO |
-| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | - | - | N/A | DONE </br> </br> 1) Registeration Approved by VA OIS SWA Program Office </br> </br> 2) Threat Model pending review by Development Team |
+| [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | - | - | N/A | DONE </br> </br> 1) Registeration Approved by VA OIS SWA Program Office </br> </br> 2) Threat Model NOT APPLICABLE as per PM-ECSO |
 
 
 
@@ -65,10 +65,10 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 ## ATO Technical / Testing Dashboard (9)
 |SOP (Link)  |Technical / Task  | Request (Date) | Status | 
 |:---:|:----|:---:|:---:|
-| [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan) | Nessus scan | 06-17-2019 | REQUEST SUBMITTED |
+| [4.3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#431-tt1-nessus-scandiscovery-scan) | Nessus scan | 06-17-2019 | Currently Scheduled for 07-15-2019, per CSOC.  </br> </br> To submit ATO Package prior, we may POAM the scan results |
 | [4.3.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4311-tt1b-database-scan)	| Database scan	| - | Not Applicable to VAM |
-| [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr) | Quality Code Review (Verification & Validation) | - | REQUEST SUBMITTED |
-| [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr) | Secure Code Review | - | REQUEST SUBMITTED |
+| [4.3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#432-tt2-quality-code-review-qcr) | Quality Code Review (Verification & Validation) | - | Pending due to high current volume at VA |
+| [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr) | Secure Code Review | - | Pending due to high current volume at VA  |
 | [4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa) | Penetration Test / Application Assessment / WASA | - | Not Applicable to VAM |
 | [4.3.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#435-tt5-security-configuration-compliance-data-sccd) | Security Configuration Compliance Data | - | Upon Completion of System Boundary |
 | [4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca) | Security Control Assessment | - | In Conjunction With SSP |
@@ -79,14 +79,14 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 
 | Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Completed | #Validated  | Signatures | Status |
 |:---|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
-| SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A | Done |
-| SSC - System Security Classification | 7 | 12 | - | 04-05-2019 |04-08-2019 | SO </br> ISO </br> BO | Next Steps:  ISO Review Complete.  </br> </br> Ablevets submitted document for Final Signatures.  </br> Pending Signature by SO+ISO+BO |
+| SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A | DONE |
+| SSC - System Security Classification | 7 | 12 | - | 04-05-2019 |04-08-2019 | SO </br> ISO </br> BO | Next Steps:  ISO Review Complete.  </br> </br> SIGNED by SO  </br> Pending Signature by ISO+BO |
 | SOA - System Owner Attestation  | 1 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO </br> ISO | DONE. </br> </br> Signed by SO and ISO |
-| SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | DONE. </br> </br> Signed by SO |
-| Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM | Done. </br> </br> PO Assigned |
+| SOR - System Owner Responsibilities  | 2 | 2 | 2 | 04-05-2019 | 04-08-2019 | SO | DONE |
+| Request VA Privacy Officer to be assigned | Email Request| - | - | 04-05-2019 | PO Assigned on 04-08-2019 | VA PM | DONE. </br> </br> PO Assigned |
 | SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A | Next Steps: </br> Pending Review by Technical Team |
-| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM | DONE. </br> </br> Signed by PO and SO |
-| BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | SIGNED |
+| PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM | DONE |
+| BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | DONE |
 
 
 # Weekly Progress Reports
