@@ -71,8 +71,8 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.3.3](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#433-tt3-secure-code-review-scr) | Secure Code Review | - |  In progress.  </br> </br> In search of VA's Official Risk Acceptance Criteria for outstanding issues.  |
 | [4.3.4](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#434-tt4-penetration-test--application-assessment-ptaa) | Penetration Test / Application Assessment / WASA | - | Not Applicable to VAM |
 | [4.3.5](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#435-tt5-security-configuration-compliance-data-sccd) | Security Configuration Compliance Data | - | DONE |
-| [4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca) | Security Control Assessment | - | In Conjunction With SSP |
-| [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | Control Implementation Evidence | - | In Conjunction With SSP |
+| [4.3.6](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#436-tt6-security-control-assessment-sca) | Security Control Assessment | - | In Conjunction with SSP |
+| [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | Control Implementation Evidence | - | In Conjunction with SSP |
 | [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | Enterprise Discovery Scan | - | After Nessus Scan, Package will be Submitted for Continuous Monitoring |
 
 ## ATO Other Documents and Tasks (8)
