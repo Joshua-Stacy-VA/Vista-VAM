@@ -14,7 +14,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 28 | 21 | 75% | :large_orange_diamond: | 
 [IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 17 | 90% | :white_check_mark: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 20 | 40% | :white_check_mark: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 21 | 42% | :white_check_mark: | 
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
@@ -112,3 +112,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 18 | [VAM2-Week-18](/Documents/weekly_meeting_minutes/VAM2-Week18-06-18-2019.md) | Complete CSOC Scans. Get all appropriate final signatures on ATO Docs. Update RV for final ISO review.| 06-18-2019 | 06-19-2019- | 06-19-2019 | :white_check_mark: |
 | 19 | [VAM2-Week-19](/Documents/weekly_meeting_minutes/VAM2-Week19-06-25-2019.md) | Complete CSOC Scans. Get final signatures on ATO Docs.| 06-25-2019 | 06-26-2019- | 06-26-2019 | :white_check_mark: |
 | 20 | [VAM2-Week-20](/Documents/weekly_meeting_minutes/VAM2-Week20-07-02-2019.md) | Complete CSOC Scans. | 07-02-2019 | 07-03-2019 | 07-03-2019 | :white_check_mark: |
+| 21 | [VAM2-Week-21](/Documents/weekly_meeting_minutes/VAM2-Week21-07-09-2019.md) | Complete RiskVision Review with Bobbi. | 07-02-2019 | 07-03-2019 | 07-03-2019 | :white_check_mark: |
