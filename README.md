@@ -114,4 +114,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 20 | [VAM2-Week-20](/Documents/weekly_meeting_minutes/VAM2-Week20-07-02-2019.md) | Complete CSOC Scans. | 07-02-2019 | 07-03-2019 | 07-03-2019 | :white_check_mark: |
 | 21 | [VAM2-Week-21](/Documents/weekly_meeting_minutes/VAM2-Week21-07-09-2019.md) | Complete RiskVision Review with Bobbi. | 07-09-2019 | 07-10-2019 | 07-10-2019 | :white_check_mark: |
 | 22 | [VAM2-Week-22](/Documents/weekly_meeting_minutes/VAM2-Week22-07-16-2019.md) | Complete RiskVision Review with Bobbi. Prepare for eMASS Migration and complete remaining scans. | 07-16-2019 | 07-17-2019 | 07-17-2019 | :white_check_mark: |
-| 23 | [VAM2-Week-22](/Documents/weekly_meeting_minutes/VAM2-Week22-07-23-2019.md) | Complete RiskVision Review with Bobbi. Prepare for eMASS Migration and complete remaining scans. | 07-23-2019 | 07-24-2019 | 07-24-2019 | :white_check_mark: |
+| 23 | [VAM2-Week-23](/Documents/weekly_meeting_minutes/VAM2-Week22-07-23-2019.md) | Complete RiskVision Review with Bobbi. Prepare for eMASS Migration and complete remaining scans. | 07-23-2019 | 07-24-2019 | 07-24-2019 | :white_check_mark: |
