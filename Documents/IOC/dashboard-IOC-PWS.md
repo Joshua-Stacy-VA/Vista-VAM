@@ -48,11 +48,11 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0001AB | [Monthly_Progress_Report May 2019](/Documents/source/CLIN0001AB%20VAM%20Monthly%20Progress%20Report%20v1%202.docx) | 05-03-2019 | 05-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report June 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%203.docx) | 06-03-2019 | 06-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report July 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%204.docx) | 07-03-2019 | 07-03-2019 | - | Done |
-|0001AB | [Monthly_Progress_Report August 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%205.docx) | 08-03-2019 | 07-05-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report August 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%205.docx) | 08-03-2019 | 08-05-2019 | - | Done |
 |0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
-|0001AF | Onboarding Status Report to COR | 07-03-2019 | 07-03-2019 | - | Done |
+|0001AF | Onboarding Status Report to COR | 07-31-2019 | 07-31-2019 | - | Done |
 |0002AA | [Comprehensive RPC Interface Audit Report](https://github.com/vistadataproject/RPCDefinitionToolkit/blob/master/Reports/rpcInterfaceDefinition.md) | 05-02-2019 | 05-02-2019 | - | Done |
 |0002AA | [Comprehensive RPC Interface Audit Report](https://github.com/vistadataproject/RPCDefinitionToolkit/blob/master/Reports/rpcInterfaceDefinition.md) | 08-02-2019 | 08-02-2019 | - | Done |
 |0002AB | [Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition](https://github.com/vistadataproject/RPCDefinitionToolkit/blob/master/Definitions/rpcInterfaceDefinition.bjsn) | 05-02-2019 | 05-02-2019 | - | Done |
