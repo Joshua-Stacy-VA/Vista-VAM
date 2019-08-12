@@ -34,7 +34,10 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 
 
 
-|:---|:---:|
-| eMASS Controls updated by AbleVets | ![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets") |
-|  | |
-| eMASS Autorization Workdlflows | ![eMASS Workflows](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS_Workflows.jpg "eMASS Authorization Workflows") |
+### eMASS Controls updated by AbleVets
+![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets")
+.
+.
+.
+### eMASS Autorization Workdlflows
+![eMASS Workflows](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS_Workflows.jpg "eMASS Authorization Workflows") |
