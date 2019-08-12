@@ -2,10 +2,7 @@
 
 Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance - Year 2  (VAM2) product work statement (PWS). The primary project management tasks of VAM2 are achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).
 
-.
-
-.
-
+</br> </br> 
 
 # :bar_chart: VAM2 Master Dashboard 
 
@@ -18,12 +15,12 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
-.
+</br> </br>
 
 # Priority Issues
 :red_circle: [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APRIORITY)
 
-
+</br> </br>
 
 # Cloud ATO Dashboard
 Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) in the VA Enterprise Cloud (VAEC).
@@ -33,7 +30,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 * [ATO Documents](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/ATO)
 
 NL = Nilesh Lal; CO = Cheryl Owsley
-
+</br> </br>
 
 ## ATO Registration Dashboard (3)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Assigned | Completed (Date)|
@@ -42,7 +39,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | System Inventory Checklist (RiskVision) | NL | 04-02-2019 |
 | [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration (VASI) | NL | 02/01/2019 (Inherited) |
 
-
+</br> </br>
 ## ATO Documentation Dashboard (11)
 
 |SOP (Link)  | Document / Task (Link) | Pages | #Queries / Tasks | #Completed | #Validated | Signatures | Status |
@@ -59,8 +56,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.2.10](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4210-sd10-interconnection-security-agreement--memorandum-of-understanding-isamou) | Interconnection Security Agreement / Memorandum of Understanding (ISA/MOU) | 9 / 5 | 5 | - | - | VA PM | MOU is NOT Applicable for obtaining VAM ATO |
 | [4.2.11](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#4211-sd11-secure-design-review-sdr)  | Secure Design Review (SDR)  | 3 | 9 | - | - | N/A | DONE </br> </br> 1) Registeration Approved by VA OIS SWA Program Office </br> </br> 2) Threat Model NOT APPLICABLE as per PM-ECSO |
 
-
-
+</br> </br>
 
 ## ATO Technical / Testing Dashboard (9)
 |SOP (Link)  |Technical / Task  | Request (Date) | Status | 
@@ -75,8 +71,8 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | [4.3.7](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#437-tt7-control-implementation-evidence-cie) | Control Implementation Evidence | - | In Conjunction with SSP |
 | [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | Enterprise Discovery Scan | - | After Nessus Scan, Package will be Submitted for Continuous Monitoring |
 
+</br> </br>
 ## ATO Other Documents and Tasks (8)
-
 | Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Completed | #Validated  | Signatures | Status |
 |:---|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 | SIA - Security Impact Analysis	| 21 | 245 | - | 04-19-2019 | - | N/A | DONE |
@@ -88,9 +84,13 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM | DONE |
 | BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | DONE |
 
+</br> </br>
 ## Risk Vision to eMASS Migration
-[Migration to eMASS](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/eMASS_Transition)
+| Task | Description |
+|:---:|:---:|
+|[Migration to eMASS](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/eMASS_Transition) | This is the link to the details of RiskVision to eMASS migration for VAM's ATO submission and approval effort |  
 
+</br> </br>
 # Weekly Progress Reports
 |Week # | Report (link) | Key Discussion Points| Meeting Date | Notes Completed (Date) | Notes Approved (Date) | Status |
 |:---:|:---:|:---:|:---|:---:|:---:|:---:|
