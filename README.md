@@ -87,9 +87,9 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | SDD - System Design Document | 3 | 12 | 12 | 04-26-2019 |  - | N/A | DONE |
 | PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM | DONE |
 | BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | DONE |
-| [Migration to eMASS](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/eMASS_Transition)| | || | |
 
-
+## Risk Vision to eMASS Migration
+[Migration to eMASS](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/eMASS_Transition)
 
 # Weekly Progress Reports
 |Week # | Report (link) | Key Discussion Points| Meeting Date | Notes Completed (Date) | Notes Approved (Date) | Status |
