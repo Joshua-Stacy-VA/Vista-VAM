@@ -16,7 +16,7 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 .
 .
 .
-.
+.</br> </br> </br> </br>
 .
 ## Timeline of accomplishments in RV:
 1.	SO signs ATO documents May 9th, but only to have them be reversed by ISSO decision. 
@@ -38,14 +38,14 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 .
 .
 .
-.
+.</br> </br> </br> </br>
 .
 ### eMASS Controls updated by AbleVets
 ![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets")
 .
 .
 .
-.
+.</br> </br> </br> </br> 
 .
 ### eMASS Autorization Workdlflows
 ![eMASS Workflows](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS_Workflows.jpg "eMASS Authorization Workflows") |
