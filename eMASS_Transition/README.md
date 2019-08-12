@@ -33,3 +33,5 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 16.	AbleVets to recategorize and implement VAM into eMASS, per ISSO guidance (on Aug1st) on Aug 9th 
 
 
+
+https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Conrols%20aded%20in%20eMASS%20by%20AbleVets.PNG
