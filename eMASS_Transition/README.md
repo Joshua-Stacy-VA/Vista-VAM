@@ -9,11 +9,31 @@
 
 
 </br> </br> </br> </br>
-## eMASS Controls updated by AbleVets
+## eMASS Controls updated by AbleVets as of 8/12/2019
 ![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets")
 
+### Role Mapping between RiskVision and eMASS
+| Item | RiskVision Role | eMASS Role |
+|:---:|:---:|:---:|
+| 1 | Authorizing Official (AO) | Authorizing Official (AO) |
+| 2 | Certification Authority | Risk Reviewer |
+| 3 | CIO | Program Reviewer |
+| 4 | EO COOP – View Only | User Rep View Only | 
+| 5 | EO System Security Director | User Rep View Only | 
+| 6 | ERM Auditor | Controls Assessor | 
+| 7 | Facility Chief Information Officer (FCIO) | Information System Owner (ISO) | 
+| 8 | IA Analyst | System Steward |
+| 9 | IA Chief | System Steward |
+| 10 | IA Team Lead | System Steward |
+| 11 | Information Security Owner (ISO) | Information System Security Officer (ISSO) |
+| 12 | Oversight | User Rep View Only |
+| 13 | Privacy Officer | System Steward |
+| 14 | Project Support | User Rep View Only |
+| 15 | System Owner | Information System Owner (ISO) |
+| 16 | System Steward | System Steward |
+
 </br> </br> </br> </br>
-## Timeline of accomplishments in RV:
+## Timeline of work accomplished in RV:
 1.	SO signs ATO documents May 9th, but only to have them be reversed by ISSO decision. 
 2.	May 22nd, Security Lead confirms officially with Lead Cloud Architect, 2 ISSOs, PM and COMMS representatives to reclassify VAM as a PaaS. Complete redo of VAM as an IaaS to a PaaS follows. 
 3.	Around late June 24th time frame, 2019 AbleVets had all (Minus IRP and Re-edited PIA. Note: PIA was signed initially) the documents completed and uploaded in RV with all required signatures.
