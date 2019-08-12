@@ -17,12 +17,12 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 </br> </br> </br> </br>
 ## Gap between RiskVision and eMASS Autohiration: 
 
-RiskVision:
-
+### RiskVision:
 1.	Completion rate: 4-6months 
 2.	45day ATO approval review process 
 3.	Number of controls: 390 (+ or - )
-EMASS: 
+
+### EMASS: 
 1.	Completion rate: 6-9 months
 2.	60day ATO approval review process 
 3.	Number of controls: Additional 360 controls 
@@ -54,12 +54,12 @@ EMASS:
 .
 .</br> </br> </br> </br>
 .
-### eMASS Controls updated by AbleVets
+## eMASS Controls updated by AbleVets
 ![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets")
 .
 .
 .
 .</br> </br> </br> </br> 
 .
-### eMASS Autorization Workdlflows
+## eMASS Autorization Workdlflows
 ![eMASS Workflows](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS_Workflows.jpg "eMASS Authorization Workflows") |
