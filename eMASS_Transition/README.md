@@ -12,6 +12,8 @@
 ## eMASS Controls updated by AbleVets as of 8/12/2019
 ![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets")
 
+
+</br> </br> </br> </br>
 ### Role Mapping between RiskVision and eMASS
 | Item | RiskVision Role | eMASS Role |
 |:---:|:---:|:---:|
