@@ -13,7 +13,11 @@ So, this prompted us to dig further into figuring out a way to avoid this new de
 The 1-year ATO are typically for projects which need to address specific concerns at a faster rate (Escalated) for whatever reason, and our reason is sufficient, since the eMASS migration could and likely hinder our ability to complete an ATO in time before IOC and/or possibly the contract end date. 
 
 The 1-year conditional ATO will essentially shotgun through the normal approval process and save us roughly 3-4 months at the minimum. However, the VA can still disapprove our ATO, but given the work done in RV and the amount of counseling that we have had from our ISO, we see no reason why that will happen, because we will have everything needed for a conditional approval from the Authorizing Official (AO) in eMASS. Even with a denial, we will still be able to resubmit for the 1-year conditional ATO and make better time than the normal ATO process.
-
+.
+.
+.
+.
+.
 ## Timeline of accomplishments in RV:
 1.	SO signs ATO documents May 9th, but only to have them be reversed by ISSO decision. 
 2.	May 22nd, Security Lead confirms officially with Lead Cloud Architect, 2 ISSOs, PM and COMMS representatives to reclassify VAM as a PaaS. Complete redo of VAM as an IaaS to a PaaS follows. 
@@ -31,11 +35,15 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 14.	VA completed the RiskVision to EMASS migration on July 29, 2019 
 15.	AbleVets’ Security Engineer’s System Steward access re-activated for eMASS on August 02, 2019 (Still Waiting on one more AbleVets Security Engineer to regain System Steward access)
 16.	AbleVets to recategorize and implement VAM into eMASS, per ISSO guidance (on Aug1st) on Aug 9th 
-
-
-
+.
+.
+.
+.
+.
 ### eMASS Controls updated by AbleVets
 ![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets")
+.
+.
 .
 .
 .
