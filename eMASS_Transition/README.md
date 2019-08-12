@@ -34,4 +34,4 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 
 
 
-https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Conrols%20aded%20in%20eMASS%20by%20AbleVets.PNG
+![alt text] (https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/VA%20eMASS%20RMF%20Assess%20and%20Authorize%20Workflows.jpg)
