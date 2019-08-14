@@ -1,5 +1,18 @@
 # DRAFT
 
+
+# :bar_chart: eMASS RMF Worklflow Dashboard
+
+| eMASS Process | #Events / Sub-Events | #Tasks / Sub-Tasks | #Completed | % | Status |
+|:---:|:---:|:---:|:---:|:---:|:---|
+| Security Categorization | 2 / 1 | 5 / 8 | - | - | :large_orange_diamond: |
+| Control Selection | 2 / 3 | 5 / 9 | - | - | :large_orange_diamond: | 
+| Control Implementation | 2 / 1 | 5 / 9 | - | - | :large_orange_diamond: | 
+| Control Assessment | 2 / 2 | 2 / 3 | - | - | :large_orange_diamond: | 
+| Authorize | 4 / 5 | 7 / 8 | - | - | :large_orange_diamond: | 
+
+
+</br> </br> </br> </br>
 ## Gap between RiskVision and eMASS Authorization
 | Item | RiskVision | eMASS |
 |:---:|:---:|:---:|
