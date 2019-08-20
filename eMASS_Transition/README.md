@@ -21,7 +21,7 @@
 | 3. | Number of controls: 390 (+ or - ) | Number of controls: 390 plus Additional 360 controls |
 
 </br> </br> </br> </br>
-## Work DONE by AbleVets in eMASS on Controls
+## Work DONE in eMASS on Controls
 | Item | Dates | Total Control Assessment Procedures   | Compliant Control Assessment Procedures | Non Compliant Control Assessment Procedures | Percentage Complete |
 |:---:|:---:|:---:|:---:|:---:|:---|
 | 1. | 08-13-2019  | 1834| 1452  | 381 | 79% |
@@ -29,7 +29,7 @@
 
 
 </br> </br> </br> </br>
-## eMASS Controls updated by AbleVets as of 8/12/2019
+## eMASS Controls updated as of 8/20/2019
 ![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets")
 
 
