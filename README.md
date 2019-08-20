@@ -120,4 +120,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 24 | [VAM2-Week-24](/Documents/weekly_meeting_minutes/VAM2-Week24-07-30-2019.md) | Meeting cancelled by Dr. Richards. | 07-30-2019 | 07-31-2019 | 07-31-2019 | :white_check_mark: |
 | 25 | [VAM2-Week-25](/Documents/weekly_meeting_minutes/VAM2-Week25-08-06-2019.md) | Complete eMASS ATO package. Create eMASS Migration Dashboard in GitHub. | 08-06-2019 | 08-07-2019 | 08-07-2019 | :white_check_mark: |
 | 26 | [VAM2-Week-26](/Documents/weekly_meeting_minutes/VAM2-Week26-08-13-2019.md) | Update eMASS for ATO package. Update eMASS Migration Dashboard in GitHub | 08-13-2019 | 08-14-2019 | 08-14-2019 | :white_check_mark: |
-| 26 | [VAM2-Week-27](/Documents/weekly_meeting_minutes/VAM2-Week27-08-13-2019.md) | Update eMASS for ATO package. Update eMASS Migration Dashboard in GitHub | 08-20-2019 | 08-20-2019 | 08-20-2019 | :white_check_mark: |
+| 27 | [VAM2-Week-27](/Documents/weekly_meeting_minutes/VAM2-Week27-08-13-2019.md) | Update eMASS for ATO package. Update eMASS Migration Dashboard in GitHub | 08-20-2019 | 08-20-2019 | 08-20-2019 | :white_check_mark: |
