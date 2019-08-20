@@ -20,6 +20,13 @@
 | 2. | 45-day ATO approval review process | 60-day ATO approval review process |
 | 3. | Number of controls: 390 (+ or - ) | Number of controls: 390 plus Additional 360 controls |
 
+</br> </br> </br> </br>
+## Work DONE by AbleVets in eMASS on Controls
+| Item | Dates | Total Control Assessment Procedures   | Compliant Control Assessment Procedures | Non Compliant Control Assessment Procedures | Percentage Complete |
+|:---:|:---:|:---:|:---:|:---:|:---|
+| 1. | 08-13-2019  | 1834| 1452  | 381 | 79% |
+| 2. | 08-20-2019 | 1834 | 1509 | 324 | 82% |
+
 
 </br> </br> </br> </br>
 ## eMASS Controls updated by AbleVets as of 8/12/2019
@@ -86,3 +93,4 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 </br> </br> </br> </br> 
 ## eMASS Authorization Workflows
 ![eMASS Workflows](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS_Workflows.jpg "eMASS Authorization Workflows") |
+
