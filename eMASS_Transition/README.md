@@ -24,8 +24,9 @@
 ## Work DONE in eMASS on Controls
 | Item | Dates | Total Control Assessment Procedures   | Compliant Control Assessment Procedures | Non Compliant Control Assessment Procedures | Percentage Complete |
 |:---:|:---:|:---:|:---:|:---:|:---|
-| 1. | 08-13-2019  | 1834| 1452  | 381 | 79% |
-| 2. | 08-20-2019 | 1834 | 1509 | 324 | 82% |
+| 1. | 08-13-2019 | 1,834 | 1,452  | 381 | 79% |
+| 2. | 08-20-2019 | 1,834 | 1,509  | 324 | 82% |
+| 3. | 08-27-2019 | 1,834 | 1,554  | 280 | 85% |
 
 
 </br> </br> </br> </br>
