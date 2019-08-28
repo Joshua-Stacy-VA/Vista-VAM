@@ -11,7 +11,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 28 | 21 | 75% | :large_orange_diamond: | 
 [IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 17 | 90% | :white_check_mark: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 27 | 52% | :white_check_mark: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 28 | 54% | :white_check_mark: | 
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
@@ -121,3 +121,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 25 | [VAM2-Week-25](/Documents/weekly_meeting_minutes/VAM2-Week25-08-06-2019.md) | Complete eMASS ATO package. Create eMASS Migration Dashboard in GitHub. | 08-06-2019 | 08-07-2019 | 08-07-2019 | :white_check_mark: |
 | 26 | [VAM2-Week-26](/Documents/weekly_meeting_minutes/VAM2-Week26-08-13-2019.md) | Update eMASS for ATO package. Update eMASS Migration Dashboard in GitHub | 08-13-2019 | 08-14-2019 | 08-14-2019 | :white_check_mark: |
 | 27 | [VAM2-Week-27](/Documents/weekly_meeting_minutes/VAM2-Week27-08-20-2019.md) | Update eMASS for ATO package. Update eMASS Migration Dashboard in GitHub | 08-20-2019 | 08-20-2019 | 08-20-2019 | :white_check_mark: |
+| 28 | [VAM2-Week-28](/Documents/weekly_meeting_minutes/VAM2-Week28-08-27-2019.md) | Update eMASS classification for ATO package. Update eMASS Migration Dashboard in GitHub | 08-27-2019 | 08-28-2019 | 08-28-2019 | :white_check_mark: |
