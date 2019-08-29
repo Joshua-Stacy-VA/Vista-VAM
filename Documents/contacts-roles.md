@@ -1,4 +1,4 @@
-### VAM Roles and contacts
+### VAM Roles and contacts 
 
 
 
@@ -6,10 +6,10 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Rafael Richards | VA Business Owner | Rafael.Richards@va.gov | 202-555-1212 | -- |
 | Joseph Fourcade | VA Cybersecurity Analyst | Joseph.Fourcade@va.gov | (561)344-7787 m  |  |  |
-| Bobbi Begay | VA ISO | Bobbi.Begay@va.gov | -- | -- |
-| Cheryl Owsley | VA PM | Cheryl.Owsley@va.gov | -- | -- |
+| Bobbi Begay | VA ISSO | Bobbi.Begay@va.gov | 720.788.4518 | -- |
+| Cheryl Owsley | VA PM | Cheryl.Owsley@va.gov | 317-537-2006 | -- |
 | Dana Newcomb | VA CO | Dana.Newcomb@va.gov | 732-440-9680  | Michael Weckescar| |
-| Michael Weckescar | VA Contract Specialist | Michael.Weckesser@va.gov |  732-795-1097 | -- |
+| Josh McGarry | VA Contract Specialist | Joshua.Mcgarry@va.gov |  732-795-10693 | -- |
 | Robert Goode | VA COR | Robert.Goode@va.gov |  202-461-4304  | Tom Spinelli  |
 | Conor Dowling | Architect (Caregraf) | Conor.Dowling@va.gov | 310-555-1212 |  |
 | Renton Nip | Manager (HRG) | -- | 808-555-1212 | -- |
@@ -24,3 +24,7 @@ Abbreviations:
 * PM - Project Manager
 * CO - Contracting Officer
 * COR - Contracting Officers Representative
+
+
+</br> </br> </br>
+(updated on 08-29-2019)
