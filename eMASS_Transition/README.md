@@ -32,8 +32,8 @@
 
 
 </br> </br> </br> </br>
-## eMASS Controls updated as of 8/20/2019
-![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Controls_eMASS.PNG "eMASS Controls updated by AbleVets")
+## eMASS Controls updated as of 9/10/2019
+![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/Updated%20Controls.png "eMASS Controls updated by AbleVets")
 
 
 </br> </br> </br> </br>
