@@ -43,12 +43,14 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0001AA | [Contractor_Management_Project_Plan June 2019](/Documents/source/CLIN%200001AA%20VAM%20Contractor%20Project%20Management%20Plan%20v%201%203.docx) | 06-03-2019 | 06-03-2019 | - | Done |
 |0001AA | [Contractor_Management_Project_Plan July 2019](/Documents/source/CLIN%200001AA%20VAM%20Contractor%20Project%20Management%20Plan%20v%201%204.docx) | 07-03-2019 | 07-03-2019 | - | Done |
 |0001AA | [Contractor_Management_Project_Plan August 2019](/Documents/source/CLIN%200001AA%20VAM%20Contractor%20Project%20Management%20Plan%20v%201%205.docx) | 08-03-2019 | 08-05-2019 | - | Done |
+|0001AA | [Contractor_Management_Project_Plan September 2019](/Documents/source/CLIN%200001AA%20VAM%20Contractor%20Project%20Management%20Plan%20v%201%206.docx) | 09-03-2019 | 08-30-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report March 2019](/Documents/source/VAM2_CLIN0001AB_Monthly_Progress_Report_03-04-2019.docx) | 03-04-2019 | 03-04-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report April 2019](/Documents/source/CLIN0001AB%20VAM2%20Monthly%20Progress%20Report_04-03-2019.docx) | 04-03-2019 | 04-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report May 2019](/Documents/source/CLIN0001AB%20VAM%20Monthly%20Progress%20Report%20v1%202.docx) | 05-03-2019 | 05-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report June 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%203.docx) | 06-03-2019 | 06-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report July 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%204.docx) | 07-03-2019 | 07-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report August 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%205.docx) | 08-03-2019 | 08-05-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report September 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%206.docx) | 09-03-2019 | 08-30-2019 | - | Done |
 |0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
@@ -69,6 +71,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0003AA | [Master Test_Plan June 2019](/Documents/source/CLIN%200003AA%20VAM%20Master%20Test%20Plan%20v1%203.docx) | 06-03-2019 | 06-03-2019 | - | Done |
 |0003AA | [Master Test_Plan July 2019](/Documents/source/CLIN%200003AA%20VAM%20Master%20Test%20Plan%20v1%204.docx) | 07-03-2019 | 07-03-2019 | - | Done |
 |0003AA | [Master Test_Plan August 2019](/Documents/source/CLIN%200003AA%20VAM%20Master%20Test%20Plan%20v1%205.docx) | 08-03-2019 | 08-05-2019 | - | Done |
+|0003AA | [Master Test_Plan September 2019](/Documents/source/CLIN%200003AA%20VAM%20Master%20Test%20Plan%20v1%206.docx) | 09-03-2019 | 08-30-2019 | - | Done |
 |0003AB | [RPC Interface Test Suite](https://github.com/vistadataproject/RPCDefinitionToolkit/tree/master/Test) | 05-02-2019 | 05-02-2019 | - | Done |
 |0003AB | [RPC Interface Test Suite](https://github.com/vistadataproject/RPCDefinitionToolkit/tree/master/Test) | 08-02-2019 | 08-02-2019 | - | Done |  
 |0005AA | [Production Operations Manual (POM)](/Documents/source/CLIN0005AA%20Production%20Operations%20Manual%20(POM)%20v1%200.docx) | 05-02-2019 | 05-02-2019 | - | Done |
