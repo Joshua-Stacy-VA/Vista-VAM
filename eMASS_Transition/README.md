@@ -95,6 +95,6 @@ The 1-year conditional ATO will essentially shotgun through the normal approval 
 
 
 </br> </br> </br> </br> 
-## eMASS Authorization Workflows
-![eMASS Workflows](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS_Workflows.jpg "eMASS Authorization Workflows") |
-
+## eMASS Authorization Workflows updated as of 09-25-2019
+![eMASS Workflows Page 1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS-Crosswalk-RMF-process_Page_1.jpg "eMASS Authorization Workflows Page 1") |
+![eMASS Workflows Page 2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/eMASS-Crosswalk-RMF-process_Page_2.jpg "eMASS Authorization Workflows Page 2") 
