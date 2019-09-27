@@ -9,7 +9,7 @@
 | Bobbi Begay | VA ISSO | Bobbi.Begay@va.gov | 720.788.4518 | -- |
 | Cheryl Owsley | VA PM | Cheryl.Owsley@va.gov | 317-537-2006 | -- |
 | Dana Newcomb | VA CO | Dana.Newcomb@va.gov | 732-440-9680  | Michael Weckescar| |
-| Josh McGarry | VA Contract Specialist | Joshua.Mcgarry@va.gov |  732-795-10693 | -- |
+| Josh McGarry | VA Contract Specialist | Joshua.Mcgarry@va.gov |  732-795-1069 | -- |
 | Robert Goode | VA COR | Robert.Goode@va.gov |  202-461-4304  | Tom Spinelli  |
 | Conor Dowling | Architect (Caregraf) | Conor.Dowling@va.gov | 310-555-1212 |  |
 | Renton Nip | Manager (HRG) | -- | 808-555-1212 | -- |
