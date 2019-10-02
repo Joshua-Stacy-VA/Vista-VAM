@@ -18,4 +18,4 @@
 | 13. | **VAM2 - Risk Vision to eMASS migration** <ul> <li> Stage - 2 </li> </ul> | 08/27/2019 |  09/02/2019 |
 | 14. | **VAM2 - Risk Vision to eMASS migration** <ul> <li> Stage - 3 </li> </ul> | 09/03/2019 | 09/13/2019 |
 | 15. | **VAM2 - Risk Vision to eMASS migration** <ul> <li> Stage - 4 </li> </ul> | 09/14/2019 | 09/27/2019 |
-| 16. | **VAM2 - Risk Vision to eMASS migration** <ul> <li> Stage - 5 </li> </ul> | 09/28/2019 | 10/02/2019 |
+| 16. | **VAM2 - Risk Vision to eMASS migration** <ul> <li> Stage - 5 </li> </ul> | 09/28/2019 | - |
