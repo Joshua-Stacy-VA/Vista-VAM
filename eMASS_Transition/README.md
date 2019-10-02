@@ -1,6 +1,3 @@
-# DRAFT
-
-
 # :bar_chart: eMASS RMF Worklflow Dashboard
 
 | eMASS Process | #Events / Sub-Events | #Tasks / Sub-Tasks | Date Completed | % | Status |
