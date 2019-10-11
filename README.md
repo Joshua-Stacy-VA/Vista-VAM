@@ -11,7 +11,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 29 | 28 | 90% | :large_orange_diamond: | 
 [IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 17 | 90% | :white_check_mark: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 33 | 64% | :white_check_mark: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 34 | 65% | :white_check_mark: | 
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
@@ -127,3 +127,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 31 | [VAM2-Week-31](/Documents/weekly_meeting_minutes/VAM2-Week31-09-17-2019.md) | Continue ATO Package review by Bobbi and the eMASS Case Manager. Update eMASS Migration Dashboard in GitHub. | 09-17-2019 | 09-18-2019 | 09-18-2019 | :white_check_mark: |
 | 32 | [VAM2-Week-32](/Documents/weekly_meeting_minutes/VAM2-Week32-09-24-2019.md) | Work with Bobbi and the eMASS Case Manager for ATO Package review and approval. Update eMASS Migration Dashboard in GitHub. | 09-25-2019 | 09-26-2019 | 09-26-2019 | :white_check_mark: |
 | 33 | [VAM2-Week-33](/Documents/weekly_meeting_minutes/VAM2-Week33-10-02-2019.md) | Work with and Complete Risk Review in Stage 5. Work with eMASS Case Manager to get approval for Stage 5. Update eMASS Migration Dashboard in GitHub. | 10-01-2019 | 10-02-2019 | 10-02-2019 | :white_check_mark: |
+| 34 | [VAM2-Week-34](/Documents/weekly_meeting_minutes/VAM2-Week34-10-09-2019.md) | Subit ATO | 10-09-2019 | 10-10-2019 | 10-10-2019 | :white_check_mark: |
