@@ -128,3 +128,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 32 | [VAM2-Week-32](/Documents/weekly_meeting_minutes/VAM2-Week32-09-24-2019.md) | Work with Bobbi and the eMASS Case Manager for ATO Package review and approval. Update eMASS Migration Dashboard in GitHub. | 09-25-2019 | 09-26-2019 | 09-26-2019 | :white_check_mark: |
 | 33 | [VAM2-Week-33](/Documents/weekly_meeting_minutes/VAM2-Week33-10-02-2019.md) | Work with and Complete Risk Review in Stage 5. Work with eMASS Case Manager to get approval for Stage 5. Update eMASS Migration Dashboard in GitHub. | 10-01-2019 | 10-02-2019 | 10-02-2019 | :white_check_mark: |
 | 34 | [VAM2-Week-34](/Documents/weekly_meeting_minutes/VAM2-Week34-10-08-2019.md) | Submit ATO | 10-08-2019 | 10-09-2019 | 10-09-2019 | :white_check_mark: |
+| 35 | [VAM2-Week-35](/Documents/weekly_meeting_minutes/VAM2-Week35-10-15-2019.md) | Submit ATO | 10-15-2019 | 10-16-2019 | 10-016-2019 | :white_check_mark: |
