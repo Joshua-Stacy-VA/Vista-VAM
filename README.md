@@ -130,4 +130,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 34 | [VAM2-Week-34](/Documents/weekly_meeting_minutes/VAM2-Week34-10-08-2019.md) | Submit ATO | 10-08-2019 | 10-09-2019 | 10-09-2019 | :white_check_mark: |
 | 35 | [VAM2-Week-35](/Documents/weekly_meeting_minutes/VAM2-Week35-10-15-2019.md) | Submit ATO | 10-15-2019 | 10-16-2019 | 10-016-2019 | :white_check_mark: |
 | 36 | [VAM2-Week-36](/Documents/weekly_meeting_minutes/VAM2-Week35-10-22-2019.md) | Submit ATO | 10-22-2019 | 10-23-2019 | 10-023-2019 | :white_check_mark: |
-| 37 | [VAM2-Week-37](/Documents/weekly_meeting_minutes/VAM2-Week35-10-29-2019.md) | Submit ATO | 10-29-2019 | 10-30-2019 | 10-030-2019 | :white_check_mark: |
+| 37 | [VAM2-Week-37](/Documents/weekly_meeting_minutes/VAM2-Week37-10-29-2019.md) | Submit ATO | 10-29-2019 | 10-30-2019 | 10-030-2019 | :white_check_mark: |
