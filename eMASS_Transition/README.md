@@ -6,7 +6,10 @@
 | Control Selection | 2 / 3 | 5 / 9 | 09/02/2019 | 100% | :white_check_mark: | 
 | Control Implementation | 2 / 1 | 5 / 9 | 09/13/2019 | 100% | :white_check_mark: | 
 | Control Assessment | 2 / 2 | 2 / 3 | 09/27/2019 | 100% | :white_check_mark: | 
-| Authorize | 4 / 5 | 7 / 8 | - | 90% | :large_orange_diamond: | 
+| Authorize ATO Submission | 2 / 0 | 3 / 3 | 10/24/2019 | 100% | :white_check_mark: | 
+| Authorize Risk Review | 1 / 1 | 1 / 1 | 11/05/2019 | 100% | :white_check_mark: | 
+| Authorize Approval | 1 / 4 | 3 / 4 | - | 0% | :large_orange_diamond: |
+
 
 
 </br> </br> </br> </br>
