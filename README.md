@@ -11,7 +11,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 29 | 28 | 90% | :large_orange_diamond: | 
 [IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 17 | 90% | :white_check_mark: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 37 | 71% | :white_check_mark: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 38 | 73% | :white_check_mark: | 
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
@@ -131,3 +131,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 35 | [VAM2-Week-35](/Documents/weekly_meeting_minutes/VAM2-Week35-10-15-2019.md) | Submit ATO | 10-15-2019 | 10-16-2019 | 10-016-2019 | :white_check_mark: |
 | 36 | [VAM2-Week-36](/Documents/weekly_meeting_minutes/VAM2-Week35-10-22-2019.md) | Submit ATO | 10-22-2019 | 10-23-2019 | 10-023-2019 | :white_check_mark: |
 | 37 | [VAM2-Week-37](/Documents/weekly_meeting_minutes/VAM2-Week37-10-29-2019.md) | Start IOC Testing | 10-29-2019 | 10-30-2019 | 10-030-2019 | :white_check_mark: |
+| 38 | [VAM2-Week-38](/Documents/weekly_meeting_minutes/VAM2-Week37-11-05-2019.md) | Start IOC Testing | 11-05-2019 | 11-06-2019 | 10-030-2019 | :white_check_mark: |
