@@ -9,7 +9,7 @@
 | Authorize ATO Submission | 2 / 0 | 3 / 3 | 10/24/2019 | 100% | :white_check_mark: | 
 | Authorize Risk Review | 1 / 1 | 1 / 1 | 11/05/2019 | 100% | :white_check_mark: | 
 | Program/AODR Review | 0 / 0 | 2 / 2 | 11/12/2019 | 100% | :white_check_mark: | 
-| Authorize Approval | 1 / 4 | 1 / 1 | - | 0% | :large_orange_diamond: |
+| Authorize Approval | 1 / 4 | 1 / 1 |  11/21/2019 | 100% | :white_check_mark: |
 
 
 
