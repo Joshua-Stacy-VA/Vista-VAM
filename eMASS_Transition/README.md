@@ -35,11 +35,12 @@
 | 8. | 10-01-2019 | 1,834 | 1,791  |  43 | 98% |
 | 9. | 10-08-2019 | 1,834 | 1,791  |  43 | 98% |
 | 10. | 10-15-2019 | 1,834 | 1,791  |  43 | 98% |
+| 11. | 10-22-2019 | 1,834 | 1,834  |  0 | 100% |
 
 
 </br> </br> </br> </br>
-## eMASS Controls updated as of 9/17/2019
-![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/UpdatedControls%2009172019.png "eMASS Controls updated by AbleVets")
+## eMASS Controls updated as of 10/22/2019
+![eMASS Controls](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/eMASS_Transition/images/ContorlsUpdated.png "eMASS Controls updated by AbleVets")
 
 
 </br> </br> </br> </br>
