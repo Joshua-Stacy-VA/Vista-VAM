@@ -133,3 +133,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 37 | [VAM2-Week-37](/Documents/weekly_meeting_minutes/VAM2-Week37-10-29-2019.md) | Start IOC Testing | 10-29-2019 | 10-30-2019 | 10-030-2019 | :white_check_mark: |
 | 38 | [VAM2-Week-38](/Documents/weekly_meeting_minutes/VAM2-Week38-11-05-2019.md) | Start IOC Testing | 11-05-2019 | 11-06-2019 | 10-030-2019 | :white_check_mark: |
 | 39 | [VAM2-Week-39](/Documents/weekly_meeting_minutes/VAM2-Week39-11-12-2019.md) | Start IOC Testing | 11-12-2019 | 11-13-2019 | 10-030-2019 | :white_check_mark: |
+| 39 | [VAM2-Week-40](/Documents/weekly_meeting_minutes/VAM2-Week40-11-19-2019.md) | Start IOC Testing | 11-19-2019 | 11-20-2019 | 10-030-2019 | :white_check_mark: |
