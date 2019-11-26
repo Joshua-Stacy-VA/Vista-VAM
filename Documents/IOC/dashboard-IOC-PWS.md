@@ -5,24 +5,24 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
 * [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
 
-|IOC# | Document (link) | Due (Date) | Uploaded (Date) | Approved (Date) | Assigned |
+|IOC# | Document (link) | Approved (Date) | Assigned |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 01.a | Identify MOU Sites & Prepare MOU | 10-01-2019 | - | - | NL |
-| 01.b | MOU Approval from Dr. Richards | 10-01-2019 | - | - | NL |
-| 01.c | MOU Approval from VA PM | 10-01-2019 | - | - | NL |
-| 01.d | MOU Concurrence from each sites | 10-01-2019 | - | - | NL |
-| 01.e | Create IOC Concurrence pdf and upload to github | 10-01-2019 | - | - | NL |
-| 02 | IOC KickOff Call | 10-01-2019 | - | - | NL |
-| 03.a | IOC Pre-Prod Touchbase calls for 30 minutes | 10-01-2019 | - | - | NL |
-| 03.b | Prepare IOC Docs | 10-01-2019 | - | - | NL |
-| 03.c | Get Concurrence to go to Production | 10-01-2019 | - | - | NL |
-| 03.d | Get Release Agent approval to go to Production | 10-01-2019 | - | - | NL |
-| 03.e | Get CD2 approval to go to Production | 10-01-2019 | - | - | NL |
-| 04.a | IOC Production Touchbase calls for 30 minutes | 10-01-2019 | - | - | NL |
-| 04.b | Update IOC Docs from Production testing results | 10-01-2019 | - | - | NL |
-| 04.c | Get Concurrence for National Release | 10-01-2019 | - | - | NL |
-| 04.d | Get Release Agent approval for National Release | 10-01-2019 | - | - | NL |
-| 04.e | Get CD2 approval for National Release | 10-01-2019 | - | - | NL |
+| 01.a | Identify MOU Sites & Prepare MOU | 10-01-2019 | NL |
+| 01.b | MOU Approval from Dr. Richards | 10-01-2019 | NL |
+| 01.c | MOU Approval from VA PM | 10-01-2019 | NL |
+| 01.d | MOU Concurrence from each sites | 10-01-2019 | NL |
+| 01.e | Create IOC Concurrence pdf and upload to github |10-01-2019 | NL |
+| 02 | IOC KickOff Call | 11-25-2019 | NL |
+| 03.a | IOC Pre-Prod Touchbase calls for 30 minutes | 11/26/2019 | NL |
+| 03.b | Prepare IOC Docs | 12-31-2019 | NL |
+| 03.c | Get Concurrence to go to Production | 12-15-2019 | NL |
+| 03.d | Get Release Agent approval to go to Production | 12-22-2020 | NL |
+| 03.e | Get CD2 approval to go to Production | 12-29-2020 | NL |
+| 04.a | IOC Production Touchbase calls for 30 minutes | 01-06-2020 | NL |
+| 04.b | Update IOC Docs from Production testing results | 01-15-2020 | NL |
+| 04.c | Get Concurrence for National Release | 01-15-2020 | NL |
+| 04.d | Get Release Agent approval for National Release | 01-22-2020 | NL |
+| 04.e | Get CD2 approval for National Release | 01-29-2020 | NL |
 
 
 
