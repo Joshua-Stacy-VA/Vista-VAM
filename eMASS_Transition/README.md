@@ -65,25 +65,7 @@
 | 16 | System Steward | System Steward |
 
 </br> </br> </br> </br>
-## Timeline of work accomplished in RV:
-1.	SO signs ATO documents May 9th, but only to have them be reversed by ISSO decision. 
-2.	May 22nd, Security Lead confirms officially with Lead Cloud Architect, 2 ISSOs, PM and COMMS representatives to reclassify VAM as a PaaS. Complete redo of VAM as an IaaS to a PaaS follows. 
-3.	Around late June 24th time frame, 2019 AbleVets had all (Minus IRP and Re-edited PIA. Note: PIA was signed initially) the documents completed and uploaded in RV with all required signatures.
-4.	Around early July, the IRP was finally finalized and signed, then uploaded. To also include, the revised and resigned PIA
-5.	There was an issue with the Secure/Quality Scans with the way the RPC calls are being made and the VA being unable to identify our credentials. Also, various Fortify updates changed during the resubmission, which created further delay, thus resulting re-updating Fortify to remediate the finding.  AbleVets team worked with the ISO, BO and the technical team to document proper response to the accepted risks of the RPC traffic in question through a POAM in RV. 4-week delay. 
-6.	AbleVets decided to create and upload a POAM for the Nessus Scan as it was taking long for VA to run the scans prior to being unable to identify VAM devices and credentials. 1-week delay in trouble shooting and then a mandated scan completion date of July 15th. AbleVets had to create new servers to remedy VA’s inability produce correct configuration to asses VAM system. 
-7.	After the July 15th Nessus scan completion date, the scan came back with numerous findings which mostly comprised of updates, and false/positives. 
-8.	AbleVets created multiple evidence justification documents to claim N/A on various scans, such as WASA, Secure Design/Threat Model, ISA/MOU. EDS scan has been on constant delay due to inability and delay of PM being able to gain access to submit scan. Scan is likely an N/A, but receipt is desired to prove result. 
-9.	Around July 02nd, AbleVets request RiskVision review for ATO submission to follow. 
-10.	AbleVets learns, 4 days prior, through ISSO, that the ASOB stopped reviewing ATOs across VA on July 11, 2019 
-11.	During the same meeting, ISSO advises that RiskVision will be turned into a Read-Only mode tool from July 14, 2019
-12.	ISSO stated she will not approve ATO if submitted prior to ASOB ending its reviews. 
-13.	AbleVets Security Engineer completed his eMASS training on July 31, 2019 
-14.	VA completed the RiskVision to EMASS migration on July 29, 2019 
-15.	AbleVets’ Security Engineer’s System Steward access re-activated for eMASS on August 02, 2019 (Still Waiting on one more AbleVets Security Engineer to regain System Steward access)
-16.	AbleVets to recategorize and implement VAM into eMASS, per ISSO guidance (on Aug1st) on Aug 9th 
 
-</br> </br> </br> </br>
 
 ## SUMMARY
 AbleVets team had uploaded all required documents including the POAMs for final ATO submission before the freeze of RV on July 14, 2019.
