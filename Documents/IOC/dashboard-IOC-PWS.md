@@ -6,7 +6,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 * [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
 
 |IOC# | Document (link) | Approved (Date) | Assigned |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | 01.a | Identify MOU Sites & Prepare MOU | 10-01-2019 | NL |
 | 01.b | MOU Approval from Dr. Richards | 10-01-2019 | NL |
 | 01.c | MOU Approval from VA PM | 10-01-2019 | NL |
