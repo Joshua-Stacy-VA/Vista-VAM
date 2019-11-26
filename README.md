@@ -11,7 +11,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 29 | 28 | 90% | :large_orange_diamond: | 
 [IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  6 | 0 | 0% | :red_circle: |
 [PWS Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 17 | 90% | :white_check_mark: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 39 | 75% | :white_check_mark: | 
+[Weekly Reports](#weekly-progress-reports)  | NA | NA | 52 | 40 | 77% | :white_check_mark: | 
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
@@ -133,4 +133,4 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 37 | [VAM2-Week-37](/Documents/weekly_meeting_minutes/VAM2-Week37-10-29-2019.md) | Start IOC Testing | 10-29-2019 | 10-30-2019 | 10-030-2019 | :white_check_mark: |
 | 38 | [VAM2-Week-38](/Documents/weekly_meeting_minutes/VAM2-Week38-11-05-2019.md) | Start IOC Testing | 11-05-2019 | 11-06-2019 | 10-030-2019 | :white_check_mark: |
 | 39 | [VAM2-Week-39](/Documents/weekly_meeting_minutes/VAM2-Week39-11-12-2019.md) | Start IOC Testing | 11-12-2019 | 11-13-2019 | 10-030-2019 | :white_check_mark: |
-| 39 | [VAM2-Week-40](/Documents/weekly_meeting_minutes/VAM2-Week40-11-19-2019.md) | Start IOC Testing | 11-19-2019 | 11-20-2019 | 10-030-2019 | :white_check_mark: |
+| 40 | [VAM2-Week-40](/Documents/weekly_meeting_minutes/VAM2-Week40-11-19-2019.md) | Start IOC Testing | 11-19-2019 | 11-20-2019 | 10-030-2019 | :white_check_mark: |
