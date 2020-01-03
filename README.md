@@ -137,3 +137,7 @@ NL = Nilesh Lal; CO = Cheryl Owsley
 | 41 | [VAM2-Week-41](/Documents/weekly_meeting_minutes/VAM2-Week41-11-26-2019.md) | Start IOC Testing | 11-26-2019 | 11-27-2019 | 11-27-2019 | :white_check_mark: |
 | 42 | [VAM2-Week-42](/Documents/weekly_meeting_minutes/VAM2-Week42-12-03-2019.md) | Start IOC Testing | 12-03-2019 | 12-04-2019 | 12-04-2019 | :white_check_mark: |
 | 43 | [VAM2-Week-43](/Documents/weekly_meeting_minutes/VAM2-Week43-12-10-2019.md) | Start IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
+| 44 | [VAM2-Week-44](/Documents/weekly_meeting_minutes/VAM2-Week44-12-17-2019.md) | Start IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
+| 45 | [VAM2-Week-45](/Documents/weekly_meeting_minutes/VAM2-Week45-12-24-2019.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
+| 46 | [VAM2-Week-46](/Documents/weekly_meeting_minutes/VAM2-Week46-12-31-2019.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
+| 47 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week47-01-07-2020.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
