@@ -140,3 +140,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 | 45 | [VAM2-Week-45](/Documents/weekly_meeting_minutes/VAM2-Week45-12-24-2019.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
 | 46 | [VAM2-Week-46](/Documents/weekly_meeting_minutes/VAM2-Week46-12-31-2019.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
 | 47 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week47-01-07-2020.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
+| 48 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week48-01-14-2020.md) | Continue IOC Testing | 01-14-2020 | 01-14-2020 | 12-11-2019 | :white_check_mark: |
+| 49 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week49-01-21-2020.md) | Continue IOC Testing | 01-21-2020 | 01-21-2020 | 12-11-2019 | :white_check_mark: |
+| 50 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week50-01-29-2020.md) | Final Weekly Report | 01-29-2020 | 01-29-2020 | 12-11-2019 | :white_check_mark: |
+
