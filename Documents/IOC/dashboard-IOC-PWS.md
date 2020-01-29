@@ -85,7 +85,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0005AA | [Production Operations Manual (POM)](/Documents/source/CLIN%200005AA%20Production%20Operations%20Manual%20v1%201.docx) | 08-02-2019 | 08-02-2019 | - | Done | 
 |0005AA | [Production Operations Manual (POM)](/Link to be provided) | 01-31-2020 | 01-31-2020 | - | Pending | 
 |0005AB | [Deployment and Installation Guide](/Documents/source/CLIN%200005AB%20VAM%20Deployment%20and%20Installation%20Guide%20v1%201.docx) | 08-02-2019 | 08-02-2019 | - | Done |
-|0005AB | [Deployment and Installation Guide](/https://github.com/vistadataproject/TrafficMirrorMonitor#installation) | 01-29-2020 | 01-31-2020 | - | Done |
+|0005AB | [Deployment and Installation Guide](https://github.com/vistadataproject/TrafficMirrorMonitor#installation) | 01-29-2020 | 01-31-2020 | - | Done |
 |0005AC | [User Manual](/Documents/source/CLIN%200005AC%20VAM%20User%20Guide%20v1%201.docx) | 08-02-2019 | 08-02-2109 | - | Done | 
 |0005AC | [User Manual](/Documents/source/CLIN%200005AC%20VAM%20User%20Guide%20v1%201.docx) | 01-31-2020 | 01-31-2020 | - | Pending | 
 |0006AA | [Capacity, Performance, and Scalability Assessment for National Deployment](https://github.com/vistadataproject/TrafficMirrorMonitor/wiki/Capacity,-Performance-and-Scalability-Assessment-for-National-Deployment) | 01-31-2020 | 01-31-2020 | - | Pending |  
