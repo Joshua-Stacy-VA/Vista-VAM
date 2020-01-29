@@ -9,7 +9,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AATO-Scope)  | 29 | 29 | 100% | :white_check_mark: | 
-[IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  4 | 3 | 75% | :white_check_mark: |
+[IOC Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope) |  4 | 4 | 100% | :white_check_mark: |
 [PWS Dashboard](/Documents/IOC/dashboard-IOC-PWS.md)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3APWS-Scope)  | 18| 17 | 90% | :white_check_mark: | 
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 50 | 48 | 96% | :white_check_mark: | 
 
@@ -29,15 +29,14 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 * [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AATO)
 * [ATO Documents](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/ATO)
 
-NL = Nilesh Lal; CO = Cheryl Owsley
 </br> </br>
 
 ## ATO Registration Dashboard (3)
 |SOP (Link)  | Issue (Link)| Document / Task (Link) | Assigned | Completed (Date)|
 |:---:|:----:|:---:|:---|:---:|
-| [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer | NL / CO | 04-09-2019 |
-| [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | System Inventory Checklist (RiskVision) | NL | 04-02-2019 |
-| [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration (VASI) | NL | 02/01/2019 (Inherited) |
+| [3.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| ISO Assign  | Assign Information Security Officer |  PM | 04-09-2019 |
+| [3.2](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#3-authorization-prerequisites)	| RV Entry | System Inventory Checklist (RiskVision) | PM  | 04-02-2019 |
+| [4.1.1](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#411-application-registration) | App Reg	 | Application Registration (VASI) | PM | 02/01/2019 (Inherited) |
 
 </br> </br>
 ## ATO Documentation Dashboard (11)
