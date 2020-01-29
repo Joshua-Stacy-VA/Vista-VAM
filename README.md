@@ -22,7 +22,7 @@ Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :
 
 </br> </br>
 
-# Cloud ATO Dashboard
+# ATO Dashboard
 Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) in the VA Enterprise Cloud (VAEC).
 
 * [VA OIS ATO SOP](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#va-ois-ato-sop---2019): VA Office of Information Security process for ATO - v3.31 (02-04-2019)
