@@ -55,7 +55,12 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0001AB | [Monthly_Progress_Report June 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%203.docx) | 06-03-2019 | 06-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report July 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%204.docx) | 07-03-2019 | 07-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report August 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%205.docx) | 08-03-2019 | 08-05-2019 | - | Done |
-|0001AB | [Monthly_Progress_Report September 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%206.docx) | 09-03-2019 | 08-30-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report September 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%206.docx) | 09-03-2019 | 09-03-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report October 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%206.docx) | 10-03-2019 | 10-03-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report November 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%208.docx) | 11-03-2019 | 11-03-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report December 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%209.docx) | 12-03-2019 | 12-03-2019 | - | Done |
+|0001AB | [Monthly_Progress_Report January 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%2010.docx) | 01-03-2020 | 01-03-2020 | - | Done |
+|0001AB | [Monthly_Progress_Report January 2019 FINAL](Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%2011.docx) | 01-31-2020 | 01-31-2020 | - | Pending |
 |0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
