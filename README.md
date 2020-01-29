@@ -139,8 +139,8 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 | 44 | [VAM2-Week-44](/Documents/weekly_meeting_minutes/VAM2-Week44-12-17-2019.md) | Start IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
 | 45 | [VAM2-Week-45](/Documents/weekly_meeting_minutes/VAM2-Week45-12-24-2019.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
 | 46 | [VAM2-Week-46](/Documents/weekly_meeting_minutes/VAM2-Week46-12-31-2019.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
-| 47 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week47-01-07-2020.md) | Continue IOC Testing | 12-10-2019 | 12-11-2019 | 12-11-2019 | :white_check_mark: |
-| 48 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week48-01-14-2020.md) | Continue IOC Testing | 01-14-2020 | 01-14-2020 | 12-11-2019 | :white_check_mark: |
-| 49 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week49-01-21-2020.md) | Continue IOC Testing | 01-21-2020 | 01-21-2020 | 12-11-2019 | :white_check_mark: |
-| 50 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week50-01-29-2020.md) | Final Weekly Report | 01-29-2020 | 01-29-2020 | 12-11-2019 | :white_check_mark: |
+| 47 | [VAM2-Week-47](/Documents/weekly_meeting_minutes/VAM2-Week47-01-07-2020.md) | Draft Capacity, Performance, and Scalability Assessment for National Deployment | 01-07-2020 | 01-07-2020 | 01-07-2020 | :white_check_mark: |
+| 48 | [VAM2-Week-48](/Documents/weekly_meeting_minutes/VAM2-Week48-01-14-2020.md) | Compilation of information for the Draft Capacity, Performance, and Scalability Assessment for National Deployment | 01-14-2020 | 01-14-2020 | 01-14-2020 | :white_check_mark: |
+| 49 | [VAM2-Week-49](/Documents/weekly_meeting_minutes/VAM2-Week49-01-21-2020.md) | Concluded IOC Production Testing. The VAM solution at VCB was to be left in place | 01-21-2020 | 01-21-2020 | 01-21-2020 | :white_check_mark: |
+| 50 | [VAM2-Week-50](/Documents/weekly_meeting_minutes/VAM2-Week50-01-29-2020.md) | Final Weekly Meeting & Report. Discuss the dashboard and closeout process | 01-29-2020 | 01-29-2020 | 01-29-2020 | :white_check_mark: |
 
