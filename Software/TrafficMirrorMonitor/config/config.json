@@ -1,0 +1,19 @@
+{
+    "capture": {
+        "port": 4789
+    },
+    "store": {
+        "type": "local",
+        "options": {
+            "baseDir": "./"
+        }
+    },
+    "logging": [{
+        "type": "file",
+        "filename": "logs/monitor.log",
+        "level": "debug"
+    }, {
+        "type": "console",
+        "level": "debug"
+    }]
+}
