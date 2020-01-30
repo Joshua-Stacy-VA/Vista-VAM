@@ -59,7 +59,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0001AB | [Monthly_Progress_Report October 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%206.docx) | 10-03-2019 | 10-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report November 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%208.docx) | 11-03-2019 | 11-03-2019 | - | Done |
 |0001AB | [Monthly_Progress_Report December 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%209.docx) | 12-03-2019 | 12-03-2019 | - | Done |
-|0001AB | [Monthly_Progress_Report January 2019](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%2010.docx) | 01-03-2020 | 01-03-2020 | - | Done |
+|0001AB | [Monthly_Progress_Report January 2020](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%2010.docx) | 01-03-2020 | 01-03-2020 | - | Done |
 |0001AB | [Monthly_Progress_Report January 2020 LastReport](/Documents/source/CLIN%200001AB%20VAM%20Monthly%20Progress%20Report%20v1%2011.md) | 01-31-2020 | 01-30-2020 | - | Done |
 |0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
