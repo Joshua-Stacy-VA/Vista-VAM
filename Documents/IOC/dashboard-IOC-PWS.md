@@ -1,7 +1,7 @@
 
 # IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
-* [VA IOC Process](https://github.com/vistadataproject/VAM2ProjectManagement/edit/master/IOC/IOC_Process.md#va-IOC-Process): VA IOC Process
+* [VA IOC Process](https://github.com/vistadataproject/VAM2ProjectManagement/blob/8a05521eaf4f874b2b79cc539dc9fe09e8e1340d/Documents/IOC/IOC_Process.md): VA IOC Process
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
 * [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+milestone%3AIOC-Scope)
 
