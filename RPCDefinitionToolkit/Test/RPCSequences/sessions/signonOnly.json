@@ -1,0 +1,26 @@
+{
+    "description": "Sign On - no login. See what RPCs allowed.",
+
+    "rpcs": [
+
+    {
+        "request": {"name": "TCPConnect", "params": ["192.168.1.152", "0", "192.168.1.152"], "isCommand": true},
+        "response": "accept"
+    },
+
+    {
+        "description": "First sign on lacks arguments",
+        "request": {"name": "XUS SIGNON SETUP"}
+    },
+
+    {
+        "request": {"name": "XUS GET USER INFO"}
+    },
+
+    {
+        "request": {"name": "#BYE#", "isCommand": true},
+        "response": "#BYE#"
+    }
+
+    ]
+}

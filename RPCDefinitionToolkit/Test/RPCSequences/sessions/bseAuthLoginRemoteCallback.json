@@ -1,0 +1,42 @@
+{
+    "description": "Basic Sequence to Login to a VistA, SET VISITOR (or GET TOKEN), logout. Then send special ~BSE~ message to get patient demographics. Note that the VistA acts as the 'Authenticating VistA' (login, set token) and then script runner with ~BSE~ is acting as the 'Remote VistA'",
+
+    "rpcs": [
+
+    {
+        "request": {"name": "TCPConnect", "params": ["192.168.1.152", "0", "192.168.1.152"], "isCommand": true},
+        "response": "accept"
+    },
+
+    {
+        "description": "First sign on lacks arguments",
+        "request": {"name": "XUS SIGNON SETUP"}
+    },
+    
+    {
+        "request": {"name": "XUS AV CODE", "params": [{"type": "REFERENCE", "value": "\"\"_$$ENCRYP^XUSRB1(\"fakedoc1;easyin00!\")"}]}
+    },
+    
+    {
+        "description": "XUS SET VISITOR sets up token - or could use XUS GET TOKEN. Script runner needs to store the token.",
+        "request": {"name": "XUS BSE TOKEN"}
+    }, 
+    
+    {
+        "description": "Using a User Info call - will see same info from 'remote vista ~bse~' call",
+        "request": {"name": "XUS GET USER INFO"}
+    },
+
+    {
+        "request": {"name": "#BYE#", "isCommand": true},
+        "response": "#BYE#"
+    },
+    
+    {
+        "description": "Expect User demographics to match USERINFO information",
+        "request": {"name": "~BSE~{LEN3}{TOKEN}", "isCommand": true}
+    }
+    
+    ]
+    
+}
