@@ -68,7 +68,6 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0002AB | [Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/RPCDefinitionToolkit) | 01-31-2020 | 01-29-2020 | - | Done | 
 |0002AC | [Version Description Document (VDD)](/Documents/source/CLIN%200002AC%20VAM%20Version%20Description%20Document%20v1.3.docx?raw=true) | 01-31-2020 | 01-30-2020 | - | Done | 
 |0002AD | [Automated CloudWatch Configuration](https://raw.githubusercontent.com/vistadataproject/TrafficMirrorMonitor/master/scripts/trafficMirrorMonitor_CFTemplate.json) | 11-15-2019 | 11-15-2019 | - | Done | 
-|0002AE | [Security Vulnerability Report](https://github.com/vistadataproject/RPCDefinitionToolkit/wiki/Security-Vulnerability-Report) | 08-02-2019 | 08-02-2019 | - | Done |  
 |0002AE | [Security Vulnerability Report](https://github.com/vistadataproject/RPCDefinitionToolkit/wiki/Security-Vulnerability-Report) | 01-31-2020 | 01-31-2020 | - | Pending |  
 |0003AA | [Master Test Plan March 2019](/Documents/pws/Master_Test_Plan.md) | 03-04-2019 | 03-04-2019 | - | Done |
 |0003AA | [Master Test_Plan April 2019](/Documents/pws/CLIN0003AA%20Master%20Test%20Plan%2004-03-2019.docx) | 04-03-2019 | 04-03-2019 | - | Done |
