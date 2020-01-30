@@ -79,7 +79,7 @@ The work detailed below was completed during the January 1 through January 31, 2
 | 0001AB | Monthly Progress Report                   |
 | 0003AA | Master Test Plan                          |
 
-- Updated and delivered the following PWS artifacts on January 31, 2020.
+- Updated and delivered the following PWS artifacts on January 30, 2020.
 
 | CLIN   | Artifact                                                                                                                               |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------- |
