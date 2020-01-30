@@ -83,7 +83,6 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0003AA | [Master Test_Plan December 2019](/Documents/source/CLIN%200003AA%20VAM%20Master%20Test%20Plan%20v1%2063.docx) | NA - No Updates | NA | - | NA |
 |0003AA | [Master Test_Plan January 2020](/Documents/source/CLIN%200003AA%20VAM%20Master%20Test%20Plan%20v1%207.docx) | 01-03-2020 | 01-03-2020 | - | Done |
 |0003AB | [RPC Interface Test Suite](https://github.com/vistadataproject/RPCDefinitionToolkit/tree/master/Test) | 08-02-2019 | 08-02-2019 | - | Done |  
-|0005AA | [Production Operations Manual (POM)](/Documents/source/CLIN%200005AA%20Production%20Operations%20Manual%20v1%201.docx) | 08-02-2019 | 08-02-2019 | - | Done | 
 |0005AA | [Production Operations Manual (POM)](/Documents/source/CLIN%200005AA%20Production%20Operations%20Manual%20v1.3.docx?raw=true) | 01-31-2020 | 01-30-2020 | - | Done | 
 |0005AB | [Deployment and Installation Guide](https://github.com/vistadataproject/TrafficMirrorMonitor#installation) | 01-29-2020 | 01-31-2020 | - | Done |
 |0005AC | [User Manual](/Documents/source/CLIN%200005AC%20VAM%20User%20Guide%20v1%201.docx) | 08-02-2019 | 08-02-2109 | - | Done | 
