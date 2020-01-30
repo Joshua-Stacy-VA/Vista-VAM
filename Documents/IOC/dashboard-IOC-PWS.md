@@ -64,7 +64,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0001AC | VA PISA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AD | VA CROB by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
 |0001AE | VA HIPAA by email to COR | 03-13-2019 | 03-13-2019 | - | Done |
-|0001AF | Onboarding Status Report to COR; submitted weekly via emails | 02-06-2019 to 01-31-2020 | 02-06-2019 to 01-31-2020 | - | Pending |
+|0001AF | Onboarding Status Report to COR (Weekly via emails) | 02-06-2019 to 01-31-2020 | 02-06-2019 to 01-31-2020 | - | Pending |
 |0002AA | [Comprehensive RPC Interface Audit Report](https://github.com/vistadataproject/RPCDefinitionToolkit/blob/master/Reports/rpcInterfaceDefinition.md) | 08-02-2019 | 08-02-2019 | - | Done |
 |0002AB | [Massachusetts General Hospital Utility Multi-Programming System (MUMPS) remote procedure call RPC to JSON Model Data Definition](https://github.com/vistadataproject/RPCDefinitionToolkit/blob/master/Definitions/rpcInterfaceDefinition.bjsn) | 08-02-2019 | 08-02-2019 | - | Done | 
 |0002AC | [Version Description Document (VDD)](/Documents/source/CLIN%200002AC%20VAM%20Version%20Description%20Document%20v1%201.docx) | 08-02-2019 | 08-02-2019 | - | Done | 
