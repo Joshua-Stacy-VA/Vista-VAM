@@ -76,9 +76,9 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0003AA | [Master Test_Plan July 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-July_2019.docx?raw=true) | 07-03-2019 | 07-03-2019 | - | Done |
 |0003AA | [Master Test_Plan August 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-August_2019.docx?raw=true) | 08-03-2019 | 08-05-2019 | - | Done |
 |0003AA | [Master Test_Plan September 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-September_2019.docx?raw=true) | 09-03-2019 | 08-30-2019 | - | Done |
-|0003AA | [Master Test_Plan October 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-October_2019.docx?raw=true) | NA - No Updates | NA | - | NA |
-|0003AA | [Master Test_Plan November 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-November_2019.docx?raw=true) | NA - No Updates | NA | - | NA |
-|0003AA | [Master Test_Plan December 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-December_2019.docx?raw=true) | NA - No Updates | NA | - | NA |
+|0003AA | [Master Test_Plan October 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-October_2019.docx?raw=true) | 10-03-2019 | 10-03-2019 | - | Done |
+|0003AA | [Master Test_Plan November 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-November_2019.docx?raw=true) | 11-04-2019 | 11-04-2019 | - | Done |
+|0003AA | [Master Test_Plan December 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-December_2019.docx?raw=true) | 12-03-2019 | 12-03-2019 | - | Done |
 |0003AA | [Master Test_Plan January 2020](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-January_2020.docx?raw=true) | 01-03-2020 | 01-03-2020 | - | Done |
 |0003AB | [RPC Interface Test Suite](https://github.com/vistadataproject/RPCDefinitionToolkit/tree/master/Test) | 08-02-2019 | 08-02-2019 | - | Done |  
 |0005AA | [Production Operations Manual (POM)](/Documents/source/CLIN%200005AA%20Production%20Operations%20Manual%20v1.3.docx?raw=true) | 01-31-2020 | 01-30-2020 | - | Done | 
