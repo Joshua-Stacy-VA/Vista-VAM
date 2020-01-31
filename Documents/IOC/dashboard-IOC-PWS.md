@@ -70,7 +70,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 |0002AD | [Automated CloudWatch Configuration](https://raw.githubusercontent.com/vistadataproject/TrafficMirrorMonitor/master/scripts/trafficMirrorMonitor_CFTemplate.json) | 11-15-2019 | 11-15-2019 | - | Done | 
 |0002AE | [Security Vulnerability Report](https://github.com/vistadataproject/RPCDefinitionToolkit/wiki/Security-Vulnerability-Report) | 01-31-2020 | 01-31-2020 | - | Pending |  
 |0003AA | [Master Test Plan March 2019](/Documents/pws/Master_Test_Plan.md) | 03-04-2019 | 03-04-2019 | - | Done |
-|0003AA | [Master Test_Plan April 2019](/Documents/pws/CLIN0003AA%20Master%20Test%20Plan%2004-03-2019.docx) | 04-03-2019 | 04-03-2019 | - | Done |
+|0003AA | [Master Test_Plan April 2019](/Documents/source/CLIN_0003AA-VAM_Master_Test_Plan-April_2019.docx?raw=true) | 04-03-2019 | 04-03-2019 | - | Done |
 |0003AA | [Master Test_Plan May 2019](/Documents/source/CLIN0003AA%20VAM%20Master%20Test%20Plan%20v1%202.docx) | 05-03-2019 | 05-03-2019 | - | Done |
 |0003AA | [Master Test_Plan June 2019](/Documents/source/CLIN%200003AA%20VAM%20Master%20Test%20Plan%20v1%203.docx) | 06-03-2019 | 06-03-2019 | - | Done |
 |0003AA | [Master Test_Plan July 2019](/Documents/source/CLIN%200003AA%20VAM%20Master%20Test%20Plan%20v1%204.docx) | 07-03-2019 | 07-03-2019 | - | Done |
