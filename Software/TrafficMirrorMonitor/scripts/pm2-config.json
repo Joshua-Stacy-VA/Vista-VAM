@@ -1,9 +1,0 @@
-{
-    "apps": [{
-        "name": "traffic-mirror",
-        "script": "src/index.js",
-        "args": "--config config/config.json",
-        "autorestart": true,
-        "watch": false
-    }]
-}
