@@ -19,12 +19,10 @@ https://github.com/features/project-management
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
-</br> </br>
-
 # Priority Issues
 :red_circle: [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed)
 
-</br> </br>
+</br> </br> </br> </br>
 
 # :bar_chart: ATO Dashboard
 Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) in the VA Enterprise Cloud (VAEC).
@@ -75,6 +73,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 | [4.3.8](https://github.com/vistadataproject/VAM2ProjectManagement/blob/master/ATO/VA_OIS_ATO_SOP-2019.md#438-tt8-enterprise-discovery-scan-eds) | Enterprise Discovery Scan | - | Not Applicable to VAM |
 
 </br> </br>
+
 ## ATO Other Documents and Tasks (8)
 | Document / Task (Link) | Pages | #Queries (blue) |  #Answers (yellow) | #Completed | #Validated  | Signatures | Status |
 |:---|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -87,12 +86,16 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 | PTA - Privacy Threshold Analysis | 6 | 15 | 15 | 04-19-2019 | - | PO </br> SO </br> PM | DONE |
 | BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | DONE |
 
-</br> </br>
+
+</br> </br> </br> </br>
+
 ## Risk Vision to eMASS Migration (1)
 | Task | Description |
 |:---:|:---:|
 |[Migration to eMASS](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/eMASS_Transition) | This is the link to the details of RiskVision to eMASS migration for VAM's ATO submission and approval effort |  
 
+
+</br> </br> </br> </br>
 
 
 # :bar_chart: IOC Dashboard
@@ -121,6 +124,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 | 04.e | Get CD2 approval for National Release | 01-29-2020 | PM |
 
 
+</br> </br> </br> </br>
 
 
 # :bar_chart: PWS Dashboard
