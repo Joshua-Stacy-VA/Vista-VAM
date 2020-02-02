@@ -11,7 +11,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [ATO Dashboard](#bar_chart-ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 29 | 29 | 100% | :white_check_mark: | 
 [IOC Dashboard](#bar_chart-ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones) |  4 | 4 | 100% | :white_check_mark: |
 [PWS Dashboard](#bar_chart-pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 18| 18 | 100% | :white_check_mark: | 
-[Weekly Reports](#weekly-progress-reports)  | NA | NA | 50 | 50 | 100% | :white_check_mark: | 
+[Weekly Reports](#bar_chart-weekly-progress-reports)  | NA | NA | 50 | 50 | 100% | :white_check_mark: | 
 
 Status:   :red_circle: [Priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed) (High Risk) :large_orange_diamond: Medium Risk  :white_check_mark: Completed
 
