@@ -4,7 +4,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
 
-## VAM2 Project Management Dashboard 
+## Project Management Dashboard 
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#bar_chart-ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 29 | 29 | 100% | :white_check_mark: | 
