@@ -6,8 +6,6 @@ For guidance and instructions on use of Github for Project Management please rea
 https://github.com/features/project-management
 
 
-</br> </br> 
-
 # :bar_chart: VAM2 Master Dashboard 
 
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
