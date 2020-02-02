@@ -1,6 +1,8 @@
 # VAM2 Project Management
 
-Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance - Year 2  (VAM2) product work statement (PWS). The primary project management tasks of VAM2 are achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).  For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
+Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance - Year 2  (VAM2) product work statement (PWS). The primary project management tasks of VAM2 are achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).  
+
+For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
 </br>
 
