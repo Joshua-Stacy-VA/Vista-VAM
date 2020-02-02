@@ -13,7 +13,7 @@ https://github.com/features/project-management
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|
 [ATO Dashboard](#ato-dashboard)    | [ATO Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [ATO Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 29 | 29 | 100% | :white_check_mark: | 
-[IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed+label%3AIOC+milestone%3AIOC-Scope) |  4 | 4 | 100% | :white_check_mark: |
+[IOC Dashboard](#ioc-dashboard)    |  [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed)  |  [IOC Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones) |  4 | 4 | 100% | :white_check_mark: |
 [PWS Dashboard](#pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 18| 18 | 100% | :white_check_mark: | 
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 50 | 50 | 100% | :white_check_mark: | 
 
