@@ -12,10 +12,8 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [PWS Dashboard](#bar_chart-pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 18| 18 | 100% | :white_check_mark: | 
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 50 | 50 | 100% | :white_check_mark: | 
 
-Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
+Status:   :red_circle: High Risk;  [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed)  :large_orange_diamond: Medium Risk  :white_check_mark: Completed
 
-## Priority Issues
-:red_circle: [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed)
 
 </br> </br> </br> </br> </br> </br>
 
