@@ -22,7 +22,7 @@ Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :
 </br> </br>
 
 # Priority Issues
-:red_circle: [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APRIORITY)
+:red_circle: [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed)
 
 </br> </br>
 
