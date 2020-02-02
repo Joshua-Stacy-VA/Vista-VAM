@@ -95,8 +95,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 
 
 
-
-# IOC Dashboard
+# :bar_chart:  IOC Dashboard
 Documents, milestones, and deliverables schedule for Initial Operating Capability (IOC)
 * [VA IOC Process](https://github.com/vistadataproject/VAM2ProjectManagement/blob/8a05521eaf4f874b2b79cc539dc9fe09e8e1340d/Documents/IOC/IOC_Process.md): VA IOC Process
 * [IOC Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3AIOC)
@@ -124,7 +123,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 
 
 
-# PWS Dashboard
+# :bar_chart:  PWS Dashboard
 Documents, milestones, and deliverables schedule for Product Work Statement (PWS)
 
 * [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aopen+is%3Aissue+label%3APWS)
@@ -185,7 +184,7 @@ Documents, milestones, and deliverables schedule for Product Work Statement (PWS
 
 
 </br> </br>
-# Weekly Progress Reports
+# # :bar_chart: Weekly Progress Reports
 |Week # | Report (link) | Key Discussion Points| Meeting Date | Notes Completed (Date) | Notes Approved (Date) | Status |
 |:---:|:---:|:---:|:---|:---:|:---:|:---:|
 | 01 | [VAM2-Week-01](/Documents/weekly_meeting_minutes/VAM2-Week01-02-19-2019.md) | Project Kickoff Meeting | 02-19-2019 | 02-20-2019 | 02-20-2019 | :white_check_mark: |
