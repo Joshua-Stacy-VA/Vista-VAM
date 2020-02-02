@@ -2,6 +2,7 @@
 
 Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance - Year 2  (VAM2) product work statement (PWS). The primary project management tasks of VAM2 are achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).  For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
+</br> </br> </br>
 
 # :bar_chart: VAM2 Master Dashboard 
 
@@ -12,10 +13,11 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 [PWS Dashboard](#bar_chart-pws-dashboard)    | [PWS Issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+is%3Aclosed) | [PWS Milestones](https://github.com/vistadataproject/VAM2ProjectManagement/milestones)  | 18| 18 | 100% | :white_check_mark: | 
 [Weekly Reports](#weekly-progress-reports)  | NA | NA | 50 | 50 | 100% | :white_check_mark: | 
 
-Status:   :red_circle: High Risk;  [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed)  :large_orange_diamond: Medium Risk  :white_check_mark: Completed
+Status:   :red_circle: [Priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed) (High Risk) :large_orange_diamond: Medium Risk  :white_check_mark: Completed
 
 
-</br> </br> </br> </br> </br> </br> </br> </br> </br>
+</br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>
+
 
 # :bar_chart: ATO Dashboard
 Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) in the VA Enterprise Cloud (VAEC).
