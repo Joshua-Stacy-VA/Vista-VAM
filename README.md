@@ -1,9 +1,6 @@
 # VAM2 Project Management
 
-Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance - Year 2  (VAM2) product work statement (PWS). The primary project management tasks of VAM2 are achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC). 
-
-For guidance and instructions on use of Github for Project Management please read:  </br>
-https://github.com/features/project-management
+Plans, progress, and deliverables of all Project Management tasks supporting the VistA Adaptive Maintenance - Year 2  (VAM2) product work statement (PWS). The primary project management tasks of VAM2 are achieving Authority to Operate (ATO) and Initial Operating Capability (IOC) of VAM in the VA Enterprise Cloud (VAEC).  For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
 
 # :bar_chart: VAM2 Master Dashboard 
@@ -17,10 +14,10 @@ https://github.com/features/project-management
 
 Risk:   :red_circle: High Risk; Off track  :large_orange_diamond: Medium Risk  :white_check_mark: On track
 
-# Priority Issues
+## Priority Issues
 :red_circle: [priority issues](https://github.com/vistadataproject/VAM2ProjectManagement/issues?q=is%3Aissue+label%3APRIORITY+is%3Aclosed)
 
-</br> </br> </br> </br>
+</br> </br> </br> </br> </br> </br>
 
 # :bar_chart: ATO Dashboard
 Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) in the VA Enterprise Cloud (VAEC).
@@ -85,7 +82,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 | BIA - Business Impact Analysis | 7 | 16 | 16 | 04-05-2019 | 04-08-2019 | PM </br> SO | DONE |
 
 
-</br> </br> </br> </br>
+</br> </br> </br> </br> </br> </br>
 
 ## Risk Vision to eMASS Migration (1)
 | Task | Description |
@@ -93,7 +90,7 @@ Documents, milestones, and deliverables schdeule for Authority to Operate (ATO) 
 |[Migration to eMASS](https://github.com/vistadataproject/VAM2ProjectManagement/tree/master/eMASS_Transition) | This is the link to the details of RiskVision to eMASS migration for VAM's ATO submission and approval effort |  
 
 
-</br> </br> </br> </br>
+</br> </br> </br> </br> </br> </br>
 
 
 # :bar_chart: IOC Dashboard
@@ -122,7 +119,7 @@ Documents, milestones, and deliverables schedule for Initial Operating Capabilit
 | 04.e | Get CD2 approval for National Release | 01-29-2020 | PM |
 
 
-</br> </br> </br> </br>
+</br> </br> </br> </br> </br> </br>
 
 
 # :bar_chart: PWS Dashboard
