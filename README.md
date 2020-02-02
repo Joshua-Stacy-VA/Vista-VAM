@@ -3,7 +3,7 @@ Plans, progress, and deliverables of all Project Management tasks supporting the
 
 For guidance and instructions on use of Github for Project Management please read: https://github.com/features/project-management
 
-</br> </br>
+</br>
 
 # :bar_chart: VAM2 Project Management Dashboard 
 | Dashboard | Issues | Milestones| #Tasks / Docs | #Completed | % | Status |
